@@ -28,6 +28,14 @@
           );
         }
       }(window.location))
+
+      // GitHub Pages subdirectory handling
+      if (window.location.pathname.startsWith('/krisen/')) {
+        var path = window.location.pathname.replace('/krisen', '') || '/';
+        if (path !== window.location.pathname) {
+          window.history.replaceState(null, null, path + window.location.search + window.location.hash);
+        }
+      }
     </script>
     <style>
         :root {
