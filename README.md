@@ -1,6 +1,8 @@
 
-# KRISEN — KANON 
+# KRISEN — KANON
 ### Ein digitales Archiv systemischer Endlichkeit
+
+<!-- Deployment trigger -->
 
 **KRISEN** ist ein transdisziplinäres Forschungsprojekt und digitales Archiv, das die multiplen, sich überschneidenden Krisen des 21. Jahrhunderts dokumentiert. Es dient als "Kanon der Endlichkeit", der ökologische, soziale, politische und technologische Zerfallsprozesse diagnostiziert und visualisiert.
 
