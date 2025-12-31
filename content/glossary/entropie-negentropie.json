@@ -1,0 +1,8 @@
+{
+  "term": "Entropie / Negentropie",
+  "definition_de": "Entropie misst Unordnung, Unsicherheit oder Nicht‑Vorhersagbarkeit in einem System; Negentropie beschreibt Prozesse, durch die Ordnung, Stabilität und Regelmäßigkeit erzeugt oder aufrechterhalten werden. Aus kybernetischer Perspektive existieren beide nicht als starres Gegensatzpaar, sondern als dynamisches Verhältnis: Ordnung entsteht lokal und temporär, meist auf Kosten steigender Entropie an anderer Stelle.",
+  "definition_en": "Entropy measures disorder, uncertainty or unpredictability in a system; negentropy describes processes through which order, stability and regularity are generated or preserved. From a cybernetic perspective the two do not appear as a rigid opposition but as a dynamic relation: order always arises locally and temporarily, usually at the cost of increasing entropy elsewhere.",
+  "notes_de": "Autoritäre, militarisierte oder zentralisierte Systeme maximieren Negentropie im Kern (Kontrolle, Disziplin, Vorhersagbarkeit) und externalisieren gleichzeitig Entropie auf Peripherien, Minderheiten oder externe Räume. Je stärker eine Gesellschaft Entropie unterdrückt, desto höher wird ihr langfristiger Entropieeintrag (Blockade von Lernen, Eskalation, Legitimitätsverlust).",
+  "related_terms": ["Komplexitätsreduktion", "Kontrollgesellschaft"],
+  "short_form": "Ordnung schafft temporär Stabilität – Entropie verschwindet nie und wird verschoben."
+}

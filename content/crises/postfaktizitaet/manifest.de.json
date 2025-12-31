@@ -1,0 +1,157 @@
+{
+  "id": "postfaktizitaet",
+  "slug": "postfaktizitaet",
+  "title": {
+    "de": "Postfaktizität",
+    "en": "Post-facticity"
+  },
+  "summary": {
+    "de": "Fakten verlieren Bindekraft; Narrative, Emotion und Identität dominieren öffentliche Urteile.",
+    "en": "Facts lose binding power; narrative, emotion, and identity dominate public judgement."
+  },
+  "categories": [
+    "Gefühl",
+    "Macht"
+  ],
+  "tags": [
+    "disinfo",
+    "echo-chamber",
+    "framing",
+    "truth-decay",
+    "epistemic-trust"
+  ],
+  "severity": 72,
+  "volatility": 69,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Faktenvertrauen",
+        "en": "Trust in facts"
+      },
+      "value": "↓",
+      "source": "Surveys"
+    },
+    {
+      "label": {
+        "de": "Plattform-Engagement polar",
+        "en": "Polar engagement"
+      },
+      "value": "hoch",
+      "source": "Platform data"
+    },
+    {
+      "label": {
+        "de": "Falschinfo-Reichweite",
+        "en": "Misinformation reach"
+      },
+      "value": "Millionen",
+      "source": "Fact-check reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Postfaktizität ist der Zustand schwindender epistemischer Autorität. Medienökonomien belohnen Aufmerksamkeit statt Korrektur. Filterblasen verstärken Bestätigung. Institutionen verlieren Gatekeeper-Rolle. Emotionale Wahrhaftigkeit ersetzt empirische Evidenz. Politik wird Symbolkampf.",
+    "en": "Post-facticity names eroding epistemic authority. Media economies reward attention over correction. Filter bubbles amplify confirmation. Institutions lose gatekeeping. Emotional truth replaces empirical evidence. Politics turns into symbolic contest."
+  },
+  "mechanisms": {
+    "de": "Algorithmen optimieren auf Engagement. Faktenchecks erreichen späte Phasen. Autorität von Wissenschaft wird politisiert. Bots und koordinierte Kampagnen verzerren Diskurs. Medienfragmentierung reduziert Common Knowledge.",
+    "en": "Algorithms optimise for engagement. Fact-checks arrive late. Scientific authority is politicised. Bots and coordinated campaigns distort discourse. Media fragmentation reduces common knowledge."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Gefühlswahrheit",
+        "en": "Affective Truth"
+      },
+      "description": {
+        "de": "Was sich wahr anfühlt zählt mehr als Evidenz.",
+        "en": "What feels true outweighs evidence."
+      }
+    },
+    {
+      "name": {
+        "de": "Infodemie",
+        "en": "Infodemic"
+      },
+      "description": {
+        "de": "Überfluss an widersprüchlichen Infos erzeugt Resignation.",
+        "en": "Overflow of conflicting info induces resignation."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Framing",
+      "definition": {
+        "de": "Interpretationsrahmen, der Fakten in Deutungen einbettet.",
+        "en": "Interpretive frame embedding facts into meaning."
+      }
+    },
+    {
+      "term": "Epistemisches Vertrauen",
+      "definition": {
+        "de": "Vertrauen in Quellen, Verfahren und Institutionen des Wissens.",
+        "en": "Trust in sources, processes, and institutions of knowledge."
+      }
+    },
+    {
+      "term": "Filterblase",
+      "definition": {
+        "de": "Medienraum mit homogenen Ansichten, der Korrekturfilter ausschließt.",
+        "en": "Media space of homogeneous views excluding correction."
+      }
+    }
+  ],
+  "related": [
+    "propaganda",
+    "entmenschlichung-buerokratie",
+    "ethnonationalismus",
+    "faschisierung",
+    "fragmentierung-der-oeffentlichkeit",
+    "generationenkonflikt"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-postfakt-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Fact-check networks, surveys",
+      "note": "Misinformation reach, trust data"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/postfaktizitaet/crisis-placeholder.jpg",
+      "/media/postfaktizitaet/impact-placeholder.png",
+      "/media/postfaktizitaet/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Network graph: echo chambers; line: trust in facts; shader: glitch noise over headlines."
+  ],
+  "timeline": [
+    {
+      "year": "2016",
+      "location": "Global",
+      "event": "Post-truth",
+      "description": "Begriff prägt Debatten nach polarisierenden Wahlen."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Infodemie",
+      "description": "Pandemie begleitet von massiver Falschinfo."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Generative Desinfo",
+      "description": "KI erleichtert Produktion glaubhafter Fakes."
+    }
+  ]
+}

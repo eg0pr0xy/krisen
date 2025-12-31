@@ -1,0 +1,141 @@
+{
+  "id": "geopolitische-verschiebungen",
+  "slug": "geopolitische-verschiebungen",
+  "title": {
+    "de": "Geopolitische Verschiebungen",
+    "en": "Geopolitical shifts"
+  },
+  "summary": {
+    "de": "Machtzentren ordnen sich neu; Lieferketten, Allianzen und Sicherheitsarchitekturen werden instabil.",
+    "en": "Power centres reorder; supply chains, alliances, and security architectures turn unstable."
+  },
+  "categories": [
+    "Macht",
+    "Materie"
+  ],
+  "tags": [
+    "multipolar",
+    "allianzen",
+    "ressourcen",
+    "handel"
+  ],
+  "severity": 82,
+  "volatility": 59,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Sanktionsnetze",
+        "en": "Sanction networks"
+      },
+      "value": "ausgedehnt",
+      "source": "Handelsdaten"
+    },
+    {
+      "label": {
+        "de": "Neue Blöcke",
+        "en": "New blocs"
+      },
+      "value": "BRICS+ Erweiterungen",
+      "source": "Diplomatische Gipfel"
+    },
+    {
+      "label": {
+        "de": "Rohstoffknoten",
+        "en": "Resource hubs"
+      },
+      "value": "Neu priorisiert",
+      "source": "Investitionsströme"
+    }
+  ],
+  "diagnosis": {
+    "de": "Der Übergang von US-zentrierter Hegemonie zu multiplen Zentren erzeugt Friktionen in Handels- und Sicherheitsregimen. Technologie- und Energieketten werden geopolitisch gefiltert. Regionen bauen Parallelinfrastrukturen (Zahlung, Satellit, Standards) auf, wodurch Interoperabilität sinkt. Lokale Konflikte erhalten Stellvertreterdimensionen.",
+    "en": "The move from US-centred hegemony to multiple poles creates friction in trade and security regimes. Technology and energy chains are geopolitically filtered. Regions build parallel infrastructures (payments, satellites, standards), reducing interoperability. Local conflicts gain proxy dimensions."
+  },
+  "mechanisms": {
+    "de": "Reshoring, Friendshoring und Sanktionen fragmentieren Märkte. Sicherheitspolitik koppelt sich an Lieferketten (Seltene Erden, Halbleiter). Informationsräume driften auseinander, was Lagebilder verzerrt. Militärische Präsenz wird durch Infrastrukturprojekte flankiert. Kleinere Staaten manövrieren zwischen Blöcken und erhöhen Transaktionskosten.",
+    "en": "Reshoring, friendshoring, and sanctions fragment markets. Security policy ties to supply chains (rare earths, semiconductors). Information spheres drift apart, distorting situational awareness. Military presence is paired with infrastructure projects. Smaller states hedge between blocs, raising transaction costs."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Parallelstandard",
+        "en": "Parallel standard"
+      },
+      "description": {
+        "de": "Technische Normen konkurrieren und machen Märkte inkompatibel.",
+        "en": "Competing technical norms render markets incompatible."
+      }
+    },
+    {
+      "name": {
+        "de": "Korridorpolitik",
+        "en": "Corridor politics"
+      },
+      "description": {
+        "de": "Transport- und Datenkorridore werden als Einflussmittel gebaut.",
+        "en": "Transport and data corridors built as instruments of influence."
+      }
+    },
+    {
+      "name": {
+        "de": "Proxy-Knoten",
+        "en": "Proxy node"
+      },
+      "description": {
+        "de": "Regionale Konflikte werden zum Testfeld größerer Rivalitäten.",
+        "en": "Regional conflicts become testing grounds for larger rivalries."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Multipolarität",
+      "definition": {
+        "de": "Ordnung mit mehreren Machtzentren statt dominanter Hegemonie.",
+        "en": "Order with several power centres instead of a single hegemon."
+      }
+    },
+    {
+      "term": "Geoökonomie",
+      "definition": {
+        "de": "Einsatz wirtschaftlicher Instrumente zur Machtsicherung.",
+        "en": "Use of economic instruments to secure power."
+      }
+    },
+    {
+      "term": "Decoupling",
+      "definition": {
+        "de": "Strategische Entkopplung von Lieferketten und Technologiestandards.",
+        "en": "Strategic separation of supply chains and tech standards."
+      }
+    }
+  ],
+  "related": [
+    "lebensmittelknappheit",
+    "automatisierung",
+    "extraktivismus",
+    "finanzialisierung",
+    "gentrifizierung",
+    "rezession"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/geopolitische-verschiebungen/crisis-placeholder.jpg",
+      "/media/geopolitische-verschiebungen/impact-placeholder.png",
+      "/media/geopolitische-verschiebungen/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "geopolitische-verschiebungen",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Geopolitische Verschiebungen mit Parallelstandards und Lieferkettenbruch beschrieben.",
+    "Draft bleibt für weitere Beispiele."
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "rentenkrise",
+  "slug": "rentenkrise",
+  "title": {
+    "de": "Rentenkrise",
+    "en": "Pension crisis"
+  },
+  "summary": {
+    "de": "Alterung, Niedrigzins und fragmentierte Erwerbsbiografien destabilisieren Umlage- und Fondsmodelle; die Abhängigkeitsquote steigt, die Pensionslücke wird sichtbar.",
+    "en": "Ageing, low rates, and fragmented careers destabilise pay-as-you-go and funded schemes; dependency ratios rise and the pension gap surfaces."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "demography",
+    "low-rates",
+    "gig-careers",
+    "pension-gap",
+    "dependency-ratio"
+  ],
+  "severity": 71,
+  "volatility": 47,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "Altersquotient",
+        "en": "Old-age dependency"
+      },
+      "value": "↑ 35-55%",
+      "source": "UN/Destatis"
+    },
+    {
+      "label": {
+        "de": "Median-Renteneintritt",
+        "en": "Median retirement age"
+      },
+      "value": "64–66",
+      "source": "OECD"
+    },
+    {
+      "label": {
+        "de": "Realzins",
+        "en": "Real rate"
+      },
+      "value": "nahe 0",
+      "source": "OECD"
+    },
+    {
+      "label": {
+        "de": "Teilzeit/Gig-Anteil",
+        "en": "Part-time/gig share"
+      },
+      "value": "↑",
+      "source": "Labor force"
+    },
+    {
+      "label": {
+        "de": "Ersatzquote",
+        "en": "Replacement rate"
+      },
+      "value": "sinkend",
+      "source": "Sozialberichte"
+    },
+    {
+      "label": {
+        "de": "Pensionslücke Median",
+        "en": "Median pension gap"
+      },
+      "value": "15–35%",
+      "source": "Household surveys"
+    },
+    {
+      "label": {
+        "de": "Reformproteste",
+        "en": "Reform protests"
+      },
+      "value": "episodisch",
+      "source": "Medien/Polizei"
+    }
+  ],
+  "diagnosis": {
+    "de": "Rentenkrise ist eine Verzögerungskrise: Demografie drückt Beiträge, Kapitalmärkte liefern geringe Renditen, Erwerbsbiografien zerfasern. Umlagesysteme reagieren mit höherem Beitrag oder niedrigerem Leistungsniveau. Fondsmodelle tragen Zins- und Sequenzrisiko. Generationenvertrag wird asymmetrisch, Vertrauen sinkt, private Vorsorge bleibt ungleich verteilt. Die Abhängigkeitsquote wächst, die Pensionslücke wird materiell, Sequenzrisiko bedroht Kapitalstöcke kurz vor Rentenbeginn.",
+    "en": "Pension crisis is a lagged crisis: demography squeezes contributions, capital markets yield little, careers fragment. Pay-as-you-go raises rates or cuts benefits. Funded schemes carry rate and sequence risk. The generational contract becomes asymmetric; trust erodes; private savings stay unequal. Dependency ratios rise, the pension gap materialises, and sequence risk threatens capital right before retirement."
+  },
+  "mechanisms": {
+    "de": "Weniger Einzahler pro Rentner: Beitragssatz steigt. Gig- und Teilzeit senken Beitragsbasis. Niedrige Realzinsen zwingen Fonds in riskantere Assets. Politische Zyklen verdrängen Reformen. Inflation frisst reale Renten, Indexierung hinkt. Pflege- und Gesundheitskosten erhöhen Ausgaben.",
+    "en": "Fewer contributors per retiree lift contribution rates. Gig and part-time work shrink the base. Low real rates push funds into riskier assets. Political cycles delay reform. Inflation erodes real pensions; indexation lags. Care and health costs rise."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Beitragskeil",
+        "en": "Contribution Wedge"
+      },
+      "description": {
+        "de": "Steigende Beitragssätze treffen Jüngere, erhöhen Arbeitskosten.",
+        "en": "Rising contributions hit younger workers and raise labor costs."
+      }
+    },
+    {
+      "name": {
+        "de": "Sequenzrisiko",
+        "en": "Sequence Risk"
+      },
+      "description": {
+        "de": "Crash kurz vor Rentenbeginn zerstört Jahrzehnte Sparen.",
+        "en": "Market crash near retirement wipes decades of saving."
+      }
+    },
+    {
+      "name": {
+        "de": "Generationenknick",
+        "en": "Generational kink"
+      },
+      "description": {
+        "de": "Demografie verschiebt Macht und Wahlgewicht zwischen Kohorten.",
+        "en": "Demography shifts power and electoral weight between cohorts."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Abhängigkeitsquote",
+      "definition": {
+        "de": "Verhältnis Ältere zu Erwerbstätigen.",
+        "en": "Ratio of elderly to working-age population."
+      }
+    },
+    {
+      "term": "Sequenzrisiko",
+      "definition": {
+        "de": "Risiko ungünstiger Renditereihenfolge beim Entsparen.",
+        "en": "Risk of unfavorable return sequence during decumulation."
+      }
+    },
+    {
+      "term": "Pensionslücke",
+      "definition": {
+        "de": "Differenz zwischen erwartetem Einkommen und Bedarf im Alter.",
+        "en": "Gap between expected retirement income and need."
+      }
+    }
+  ],
+  "related": [
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "biodiversitaetsverlust",
+    "care",
+    "demografischer-wandel"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-rentenkrise-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "OECD/UN demography",
+      "note": "Dependency ratios, rate data"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/rentenkrise/cohort-pyramid-placeholder.png",
+      "/media/rentenkrise/pension-protest-placeholder.jpg"
+    ]
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Wer ist exponiert?",
+        "en": "Who is exposed?"
+      },
+      "answer": {
+        "de": "Jüngere Beitragszahler, Niedriglohn- und Gig-Beschäftigte, Frauen mit Teilzeitkarrieren.",
+        "en": "Younger contributors, low-wage and gig workers, women with part-time careers."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Hebel gibt es?",
+        "en": "What levers exist?"
+      },
+      "answer": {
+        "de": "Beitragssatz, Rentenalter, Ersatzquote, Zuwanderung, Produktivitätswachstum, Kapitaldeckung.",
+        "en": "Contribution rate, retirement age, replacement rate, migration, productivity growth, funded pillars."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Daten visualisieren?",
+        "en": "Which data to visualise?"
+      },
+      "answer": {
+        "de": "Cohort-Pyramiden, Abhängigkeitsquote, Ersatzquote im Zeitverlauf, Asset-Allokation und Sequenzrisiko.",
+        "en": "Cohort pyramids, dependency ratio, replacement rate over time, asset allocation and sequence risk."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann kippt das System?",
+        "en": "When does the system tip?"
+      },
+      "answer": {
+        "de": "Wenn Abhängigkeitsquote >55%, Ersatzquote <40%, Realzins dauerhaft negativ und Reformen blockiert bleiben.",
+        "en": "When dependency ratio >55%, replacement rate <40%, real rates stay negative, and reforms stall."
+      }
+    }
+  ],
+  "editNotes": [
+    "Sankey: pay-as-you-go flows; cohort pyramid animation; line: replacement rate vs time.",
+    "D3: waterfall für Reformhebel; Monte-Carlo-Sparkline für Sequenzrisiko; Map layer: regionale Beitragsbasis.",
+    "Platzhalter-Bilder gesetzt; Daten später durch amtliche Serien ersetzen."
+  ],
+  "timeline": [
+    {
+      "year": "2008",
+      "location": "Global North",
+      "event": "Zinsrutsch",
+      "description": "Niedrige Realzinsen drücken Fondsrenditen."
+    },
+    {
+      "year": "2020",
+      "location": "OECD",
+      "event": "Gig-Shift",
+      "description": "Plattformarbeit verbreitet, Beitragsbasis sinkt."
+    },
+    {
+      "year": "2023",
+      "location": "EU",
+      "event": "Reformstau",
+      "description": "Rentenalter-Debatten, politische Blockaden, Finanzierungslücken."
+    },
+    {
+      "year": "2024",
+      "location": "OECD",
+      "event": "Inflationsschock",
+      "description": "Indexierung hinkt, reale Pensionslücke vergrößert sich."
+    }
+  ]
+}

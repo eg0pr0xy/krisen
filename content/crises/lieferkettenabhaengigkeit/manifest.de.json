@@ -1,0 +1,157 @@
+{
+  "id": "lieferkettenabhaengigkeit",
+  "slug": "lieferkettenabhaengigkeit",
+  "title": {
+    "de": "Lieferkettenabhängigkeit",
+    "en": "Supply-chain dependency"
+  },
+  "summary": {
+    "de": "Produktions- und Logistikketten sind lang, fragil und hochkonzentriert; Schocks propagieren global.",
+    "en": "Production and logistics chains are long, fragile, and concentrated; shocks propagate globally."
+  },
+  "categories": [
+    "Materie",
+    "Kontrolle"
+  ],
+  "tags": [
+    "just-in-time",
+    "single-source",
+    "reshoring",
+    "bottleneck",
+    "inventory-risk"
+  ],
+  "severity": 73,
+  "volatility": 64,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Teilesingle-Sourcing",
+        "en": "Single-sourcing parts"
+      },
+      "value": ">40%",
+      "source": "Industry surveys"
+    },
+    {
+      "label": {
+        "de": "Transportkostenindex",
+        "en": "Freight index"
+      },
+      "value": "volatil",
+      "source": "Shipping data"
+    },
+    {
+      "label": {
+        "de": "Lagerreichweite",
+        "en": "Inventory days"
+      },
+      "value": "niedrig",
+      "source": "Procurement reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Lieferkettenabhängigkeit ist Effizienz-gegen-Resilienz-Tausch. Just-in-Time minimiert Lager, erhöht aber Verwundbarkeit. Bottlenecks (Halbleiter, seltene Erden, Häfen) koppeln viele Branchen. Geopolitik, Klimarisiken und Arbeitskämpfe wirken als simultane Schocks. Transparenz ist gering, Subtier-Lieferanten unbekannt.",
+    "en": "Supply-chain dependency trades efficiency for resilience. Just-in-time cuts inventory but raises fragility. Bottlenecks (chips, rare earths, ports) couple many sectors. Geopolitics, climate risks, and labour disputes act as concurrent shocks. Transparency is low; subtier suppliers stay unknown."
+  },
+  "mechanisms": {
+    "de": "Konzentration auf wenige Zulieferer reduziert Kosten, erhöht Klumpenrisiko. Hafen- und Kanalengpässe verzögern global. Qualitätsprobleme propagieren downstream. Reshoring/Friendshoring erhöhen Kosten und schaffen Parallelstrukturen. Daten über Subtier bleiben proprietär.",
+    "en": "Concentrating on few suppliers lowers cost, raises cluster risk. Port and canal chokepoints delay globally. Quality issues propagate downstream. Reshoring/friendshoring lift costs and build parallel stacks. Subtier data remain proprietary."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Single Point of Failure",
+        "en": "Single Point of Failure"
+      },
+      "description": {
+        "de": "Ein Werk/Teil stoppt ganze Industrien.",
+        "en": "One plant/part halts entire industries."
+      }
+    },
+    {
+      "name": {
+        "de": "Just-in-Time-Schock",
+        "en": "Just-in-Time Shock"
+      },
+      "description": {
+        "de": "Minimale Lager erzeugen maximale Verzögerung bei Störung.",
+        "en": "Minimal buffers create maximal delay when disrupted."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Just in Time",
+      "definition": {
+        "de": "Produktionsprinzip mit minimalen Lagerbeständen.",
+        "en": "Production principle with minimal inventory."
+      }
+    },
+    {
+      "term": "Bottleneck",
+      "definition": {
+        "de": "Engpass, der den gesamten Durchsatz limitiert.",
+        "en": "Constraint that limits overall throughput."
+      }
+    },
+    {
+      "term": "Reshoring",
+      "definition": {
+        "de": "Verlagerung von Produktion zurück in Herkunftsregionen.",
+        "en": "Moving production back to home regions."
+      }
+    }
+  ],
+  "related": [
+    "cyberangriffe",
+    "datenfragmentierung",
+    "energieknappheit",
+    "abschiebungsapparat",
+    "kuenstliche-intelligenz",
+    "algorithmische-steuerung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-supply-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Industry/shipping data",
+      "note": "Single-source share, freight volatility"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/lieferkettenabhaengigkeit/crisis-placeholder.jpg",
+      "/media/lieferkettenabhaengigkeit/impact-placeholder.png",
+      "/media/lieferkettenabhaengigkeit/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Chord: supplier-country links; waterfall: lead-time breakdown; map: chokepoints; shader: container noise."
+  ],
+  "timeline": [
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie-Stopps",
+      "description": "Werksschließungen blockieren globale Flüsse."
+    },
+    {
+      "year": "2021",
+      "location": "Suez/Ports",
+      "event": "Chokepoint",
+      "description": "Ein blockierter Kanal zeigt globale Koppelung."
+    },
+    {
+      "year": "2023",
+      "location": "US/EU/Asia",
+      "event": "Chip-Subventionen",
+      "description": "Friendshoring beginnt, Kosten und Doppelstrukturen steigen."
+    }
+  ]
+}

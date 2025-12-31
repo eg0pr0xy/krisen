@@ -1,0 +1,157 @@
+{
+  "id": "datenmissbrauch",
+  "slug": "datenmissbrauch",
+  "title": {
+    "de": "Datenmissbrauch",
+    "en": "Data misuse"
+  },
+  "summary": {
+    "de": "Gesammelte Daten werden zweckentfremdet, geleakt oder verkauft; Betroffene verlieren Kontrolle.",
+    "en": "Collected data are repurposed, leaked, or sold; subjects lose control."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "breach",
+    "dark-patterns",
+    "secondary-use",
+    "surveillance-capitalism",
+    "data-trust"
+  ],
+  "severity": 74,
+  "volatility": 67,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anzahl Breaches",
+        "en": "Breach count"
+      },
+      "value": "↑ jährlich",
+      "source": "DBIR"
+    },
+    {
+      "label": {
+        "de": "Dark-Pattern-Fälle",
+        "en": "Dark pattern cases"
+      },
+      "value": "steigend",
+      "source": "Regulatory reports"
+    },
+    {
+      "label": {
+        "de": "Daten-Broker Umsatz",
+        "en": "Data broker revenue"
+      },
+      "value": "↑",
+      "source": "Market research"
+    }
+  ],
+  "diagnosis": {
+    "de": "Datenmissbrauch ist eine Verschiebung von Zweckbindung zu Extraktion. Einwilligungen sind intransparent, Daten werden in Werbe- und Kredit-Scorings recycelt. Leaks externalisieren Risiko auf Betroffene. Governance bleibt reaktiv; Rechte auf Löschung oder Portabilität sind schwer durchsetzbar. Vertrauen sinkt, Chilling Effects steigen.",
+    "en": "Data misuse marks the drift from purpose limitation to extraction. Consent is opaque; data are recycled into ads and credit scores. Breaches externalise risk to subjects. Governance is reactive; deletion and portability rights are hard to exercise. Trust erodes; chilling effects grow."
+  },
+  "mechanisms": {
+    "de": "Plattformen bündeln Daten, verkaufen Segmente. Datenbroker koppeln Datensätze ohne Wissen der Betroffenen. Sicherheitslücken bleiben lange offen, weil Patch-Anreize fehlen. Behördenzugriffe werden ausgeweitet. Versicherung und Kredit nutzen Schatten-Scores, Betroffene können sie nicht anfechten.",
+    "en": "Platforms pool data and sell segments. Brokers link datasets without subjects’ knowledge. Security gaps persist because patch incentives are weak. State access expands. Insurance and credit use shadow scores that individuals cannot contest."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Shadow Profile",
+        "en": "Shadow Profile"
+      },
+      "description": {
+        "de": "Profil entsteht ohne aktive Teilnahme; Risiko bleibt intransparent.",
+        "en": "Profile built without active participation; risk stays opaque."
+      }
+    },
+    {
+      "name": {
+        "de": "Endlos-Zweck",
+        "en": "Endless Repurpose"
+      },
+      "description": {
+        "de": "Einmal erhobene Daten wandern in neue Kontexte ohne neue Einwilligung.",
+        "en": "Once collected, data travel into new contexts without renewed consent."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Secondary Use",
+      "definition": {
+        "de": "Weiterverwendung von Daten jenseits des ursprünglichen Zwecks.",
+        "en": "Reuse of data beyond the original purpose."
+      }
+    },
+    {
+      "term": "Dark Pattern",
+      "definition": {
+        "de": "UI-Design, das zu unfreiwilliger Einwilligung verleitet.",
+        "en": "UI design that nudges toward involuntary consent."
+      }
+    },
+    {
+      "term": "Datenbroker",
+      "definition": {
+        "de": "Firma, die Daten aggregiert und verkauft, oft ohne direkte Beziehung zu Betroffenen.",
+        "en": "Firm that aggregates and sells data, often without direct relationship to subjects."
+      }
+    }
+  ],
+  "related": [
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus",
+    "corruption",
+    "demokratieabbau"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-datenmissbrauch-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "DBIR, regulator cases",
+      "note": "Breaches, dark patterns"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/datenmissbrauch/crisis-placeholder.jpg",
+      "/media/datenmissbrauch/impact-placeholder.png",
+      "/media/datenmissbrauch/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Force graph: broker linkages; bar: breach counts; shader: obfuscated consent flows."
+  ],
+  "timeline": [
+    {
+      "year": "2013",
+      "location": "Global",
+      "event": "Snowden/Leaks",
+      "description": "Mass-collection sichtbar, Vertrauen sinkt."
+    },
+    {
+      "year": "2018",
+      "location": "EU",
+      "event": "DSGVO",
+      "description": "Rechte gestärkt, Durchsetzung bleibt lückenhaft."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Broker-Exposure",
+      "description": "Daten-Broker-Listen geleakt, politische Debatte über Verbote."
+    }
+  ]
+}

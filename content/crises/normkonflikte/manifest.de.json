@@ -1,0 +1,141 @@
+{
+  "id": "normkonflikte",
+  "slug": "normkonflikte",
+  "title": {
+    "de": "Normkonflikte",
+    "en": "Norm conflicts"
+  },
+  "summary": {
+    "de": "Widersprüchliche Regelwerke kollidieren: Plattformregeln, Staatsrecht, Branchenstandards und Alltagsmoral.",
+    "en": "Conflicting rule sets collide: platform policies, state law, industry standards, and everyday morality."
+  },
+  "categories": [
+    "Kontrolle",
+    "Gefühl"
+  ],
+  "tags": [
+    "plattformregeln",
+    "compliance",
+    "ethik",
+    "jurisdiktion"
+  ],
+  "severity": 64,
+  "volatility": 58,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Gegensätzliche Urteile",
+        "en": "Contradictory rulings"
+      },
+      "value": "zunehmend",
+      "source": "Gerichtsstatistiken"
+    },
+    {
+      "label": {
+        "de": "Policy Updates",
+        "en": "Policy updates"
+      },
+      "value": "+30% p.a.",
+      "source": "Plattform-Transparenzberichte"
+    },
+    {
+      "label": {
+        "de": "Selbstzensur-Umfragen",
+        "en": "Self-censorship surveys"
+      },
+      "value": "hoch",
+      "source": "Medienforschung"
+    }
+  ],
+  "diagnosis": {
+    "de": "Normkonflikte entstehen, wenn mehrere Ordnungsrahmen gleichzeitig greifen. Plattform-Standards stehen gegen nationale Gesetze, Branchen-Codes gegen Aktivismus, kulturelle Rituale gegen Compliance. Die Folge sind Friktionen, in denen Akteure situativ navigieren und Legitimität fragmentiert wird.",
+    "en": "Norm conflicts arise when multiple ordering frames act at once. Platform standards clash with national law, industry codes with activism, cultural rituals with compliance. Actors navigate situationally, fragmenting legitimacy."
+  },
+  "mechanisms": {
+    "de": "Jurisdiktionskonflikte machen Durchsetzung selektiv. Technische Moderationsregeln überformen lokale Ausdrucksformen. Unternehmen setzen interne Codes durch, die rechtliche Grauzonen ausnutzen. Aktivistische Boykotte erzeugen symbolischen Druck, ohne rechtliche Folgen. Die Unsicherheit führt zu Überanpassung (Chilling Effects) oder normativem Rückzug.",
+    "en": "Jurisdictional clashes make enforcement selective. Technical moderation rules overwrite local expression. Firms enforce internal codes exploiting legal grey zones. Activist boycotts create symbolic pressure without legal effect. Uncertainty triggers over-compliance (chilling effects) or normative withdrawal."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Doppeltes Regelbuch",
+        "en": "Dual rulebook"
+      },
+      "description": {
+        "de": "Akteure befolgen je nach Kontext unterschiedliche Normen.",
+        "en": "Actors switch rule sets depending on context."
+      }
+    },
+    {
+      "name": {
+        "de": "Terms-of-Service-Souverän",
+        "en": "Terms-of-service sovereign"
+      },
+      "description": {
+        "de": "Private Plattform setzt faktisch Recht, ohne demokratische Kontrolle.",
+        "en": "Private platform sets de facto law without democratic control."
+      }
+    },
+    {
+      "name": {
+        "de": "Compliance-Theater",
+        "en": "Compliance theatre"
+      },
+      "description": {
+        "de": "Sichtbare Regelbefolgung, um Sanktionen zu vermeiden, ohne Substanzänderung.",
+        "en": "Visible rule-following to avoid sanctions without substantive change."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Chilling Effect",
+      "definition": {
+        "de": "Selbstbeschränkung aus Angst vor Sanktionen oder Unklarheit.",
+        "en": "Self-restraint due to fear of sanction or uncertainty."
+      }
+    },
+    {
+      "term": "Rechtspluralismus",
+      "definition": {
+        "de": "Koexistenz mehrerer Rechts- und Regelordnungen im selben Raum.",
+        "en": "Coexistence of multiple legal and rule orders in the same space."
+      }
+    },
+    {
+      "term": "Platform Governance",
+      "definition": {
+        "de": "Steuerung sozialer Prozesse über privat gesetzte Nutzungsbedingungen.",
+        "en": "Steering social processes via privately set terms of use."
+      }
+    }
+  ],
+  "related": [
+    "sprachregime",
+    "aufmerksamkeitsoekonomie",
+    "biopolitische-zuschreibungen",
+    "drogen",
+    "empoerungsdynamiken",
+    "entmenschlichung-buerokratie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/normkonflikte/crisis-placeholder.jpg",
+      "/media/normkonflikte/impact-placeholder.png",
+      "/media/normkonflikte/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "normkonflikte",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Normkonflikte mit Plattform- und Rechtspluralismus gefüllt.",
+    "Draft bleibt für konkrete Fallbeispiele."
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "terrorismus",
+  "slug": "terrorismus",
+  "title": {
+    "de": "Terrorismus",
+    "en": "Terrorism"
+  },
+  "summary": {
+    "de": "Gewaltkommunikation zielt auf Schock, Delegitimierung und Polarisierung; der Effekt wirkt über Medien und Politik.",
+    "en": "Violence-as-communication aims for shock, delegitimation, and polarisation; effects travel through media and politics."
+  },
+  "categories": [
+    "Kontrolle",
+    "Gefühl",
+    "Macht"
+  ],
+  "tags": [
+    "radicalisation",
+    "asymmetric",
+    "media-logic",
+    "lone-actor",
+    "counterterror"
+  ],
+  "severity": 72,
+  "volatility": 78,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anschläge / Jahr",
+        "en": "Attacks/year"
+      },
+      "value": "volatile",
+      "source": "CT databases"
+    },
+    {
+      "label": {
+        "de": "Lone Actors Anteil",
+        "en": "Lone actors share"
+      },
+      "value": "↑",
+      "source": "Security reports"
+    },
+    {
+      "label": {
+        "de": "Online-Radikalisierung",
+        "en": "Online radicalisation"
+      },
+      "value": "hoch",
+      "source": "Platform takedowns"
+    }
+  ],
+  "diagnosis": {
+    "de": "Terrorismus ist asymmetrische Kommunikation. Kleinste Zellen nutzen symbolische Ziele, um maximale Aufmerksamkeit zu erzeugen. Medienlogiken multiplizieren Wirkung, Politik reagiert mit Ausnahmegesetzen, die wiederum Polarisierung verstärken. Ideologische Motive variieren (religiös, rechtsextrem, separatistisch), doch Mechanismen ähneln sich: Mythos, Opfer-Narrativ, Beschleunigung der Eskalation.",
+    "en": "Terrorism is asymmetric communication. Small cells target symbols to maximize attention. Media logics amplify impact; politics responds with exceptional laws, further polarising. Motives vary (religious, far-right, separatist) but mechanisms align: myth, grievance narrative, acceleration toward escalation."
+  },
+  "mechanisms": {
+    "de": "Radikalisierung online/offline, Echo-Räume verstärken Feindbilder. Niedrige Einstiegskosten bei improvisierten Waffen. Sicherheitsapparate verlagern Überwachung ins Digitale, Risiko von Profiling. Reaktionen (Kontrolle, Krieg gegen Terror) erzeugen Feedback-Schleifen mit neuen Rekrutierungsnarrativen.",
+    "en": "Radicalisation spans online/offline; echo chambers sharpen enemy images. Entry costs are low with improvised weapons. Security shifts to digital monitoring, risking profiling. Responses (control, war on terror) create feedback loops that feed new recruitment narratives."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Lone Actor",
+        "en": "Lone Actor"
+      },
+      "description": {
+        "de": "Einzelner Täter mit digitaler Community, schwer vorhersehbar.",
+        "en": "Single attacker with digital community, hard to pre-empt."
+      }
+    },
+    {
+      "name": {
+        "de": "Spektakel-Anschlag",
+        "en": "Spectacle Attack"
+      },
+      "description": {
+        "de": "Symbolischer Ort, mediale Bühne, maximale Angstreichweite.",
+        "en": "Symbolic venue, media stage, maximum fear reach."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Radikalisierung",
+      "definition": {
+        "de": "Prozess zunehmender ideologischer Verengung und Gewaltbereitschaft.",
+        "en": "Process of deepening ideological fixation and willingness to use violence."
+      }
+    },
+    {
+      "term": "Asymmetrische Gewalt",
+      "definition": {
+        "de": "Angriff schwacher Akteure auf symbolische oder weiche Ziele.",
+        "en": "Attacks by weaker actors on symbolic or soft targets."
+      }
+    },
+    {
+      "term": "Counterterror",
+      "definition": {
+        "de": "Staatliche Maßnahmen zur Verhinderung und Reaktion, oft mit Ausnahmebefugnissen.",
+        "en": "State measures to prevent/respond, often with exceptional powers."
+      }
+    }
+  ],
+  "related": [
+    "entmenschlichung-buerokratie",
+    "koerperpolitik",
+    "transhumanismus",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufmerksamkeitsoekonomie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-terror-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "CT databases",
+      "note": "Attack counts, lone-actor share"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/terrorismus/terrorism-placeholder.jpg",
+      "/media/terrorismus/attack-placeholder.png",
+      "/media/terrorismus/security-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Network map: actor links; bar: attack types over time; shader: signal noise for fear propagation."
+  ],
+  "timeline": [
+    {
+      "year": "2015",
+      "location": "Global",
+      "event": "Multi-site Anschläge",
+      "description": "Koordinierte Angriffe zeigen Reichweite kleiner Zellen."
+    },
+    {
+      "year": "2020",
+      "location": "Online",
+      "event": "Livestream-Terror",
+      "description": "Medienlogik verschiebt sich ins Self-Broadcasting."
+    },
+    {
+      "year": "2023",
+      "location": "OECD",
+      "event": "Rechtsterror-Zunahme",
+      "description": "Lone Actors, Gamification, Plattform-Kopien."
+    }
+  ]
+}

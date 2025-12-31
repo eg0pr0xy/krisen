@@ -1,0 +1,158 @@
+{
+  "id": "ozeanversauerung",
+  "slug": "ozeanversauerung",
+  "title": {
+    "de": "Ozeanversauerung",
+    "en": "Ocean Acidification"
+  },
+  "summary": {
+    "de": "Aufgenommenes CO₂ senkt den pH-Wert, löst Kalkgerüste und verschiebt marine Stoffkreisläufe.",
+    "en": "Absorbed CO₂ lowers pH, dissolves carbonate skeletons, and shifts marine material cycles."
+  },
+  "categories": [
+    "Materie"
+  ],
+  "tags": [
+    "ocean",
+    "chemie",
+    "karbonat",
+    "riff",
+    "fischerei"
+  ],
+  "severity": 74,
+  "volatility": 55,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "pH-Abnahme seit 1850",
+        "en": "pH decline since 1850"
+      },
+      "value": "-0.11",
+      "source": "IPCC AR6"
+    },
+    {
+      "label": {
+        "de": "Aragonit-Sättigung (tropische Riffe)",
+        "en": "Aragonite saturation (tropical reefs)"
+      },
+      "value": "<3.5 Ω",
+      "source": "NOAA"
+    },
+    {
+      "label": {
+        "de": "CO₂-Aufnahme durch Ozeane",
+        "en": "CO₂ uptake by oceans"
+      },
+      "value": "≈25 %",
+      "source": "Global Carbon Project"
+    }
+  ],
+  "diagnosis": {
+    "de": "Versauerung ist ein schleichender Materialumsturz: Das Meer wird zur Deponie atmosphärischer Überschüsse. Systemtheoretisch koppelt der Kohlenstoffkreislauf schwach mit dem politischen System; Entscheidungen folgen Marktpreisen statt pH-Schwellen. Baudrillard: Das Bild des gesunden Riffs wird simuliert, während das reale Kalkgerüst pulverisiert. Koselleck: Zeitschichten – geologische Prozesse werden binnen Jahrzehnten sichtbar.",
+    "en": "Acidification is a slow material upheaval: the sea becomes a sink for atmospheric surplus. In systems terms, the carbon cycle couples weakly to politics; decisions follow market prices rather than pH thresholds. Baudrillard: the image of the vibrant reef is simulated while the carbonate skeleton powders. Koselleck: temporal layers—geological processes surface within decades."
+  },
+  "mechanisms": {
+    "de": "CO₂ löst sich, bildet Kohlensäure, Carbonat-Ionen sinken, Kalkbildung bricht ein. Riffstrukturen verlieren Schutzfunktion; Fischerei weicht aus und übernutzt andere Zonen. Schichtung verstärkt Sauerstoffminimumzonen, trophische Ketten reißen. Versicherungen und Häfen verschieben Risiken auf Küstenbevölkerung.",
+    "en": "CO₂ dissolves, forms carbonic acid, carbonate ions decline, calcification falters. Reef structures lose protection; fisheries shift and overuse other zones. Stratification deepens oxygen-minimum zones, trophic chains tear. Insurance and ports displace risk onto coastal populations."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Entkalktes Riff",
+        "en": "Decalcified Reef"
+      },
+      "description": {
+        "de": "Schützende Architektur zerfällt zu Sand; Lebensräume kollabieren schichtweise.",
+        "en": "Protective architecture turns to sand; habitats collapse layer by layer."
+      }
+    },
+    {
+      "name": {
+        "de": "Stille Zone",
+        "en": "Silent Zone"
+      },
+      "description": {
+        "de": "Chemischer Umbau läuft lautlos; erst später brechen Nahrungsketten hörbar ab.",
+        "en": "Chemical redesign runs quietly; only later do food chains audibly snap."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Aragonit-Sättigung",
+      "definition": {
+        "de": "Grad, zu dem Meerwasser Kalziumkarbonat ausfällen kann; Basis für Riffaufbau.",
+        "en": "Degree to which seawater can precipitate calcium carbonate; basis for reef growth."
+      }
+    },
+    {
+      "term": "Carbonatpuffer",
+      "definition": {
+        "de": "Chemischer Puffer, der CO₂ bindet; bei Übersättigung erschöpft.",
+        "en": "Chemical buffer binding CO₂; depletes under excess uptake."
+      }
+    },
+    {
+      "term": "Trophische Kaskade",
+      "definition": {
+        "de": "Kettenreaktion entlang der Nahrungskette nach Verlust einer Artengruppe.",
+        "en": "Chain reaction along the food web after loss of a functional group."
+      }
+    }
+  ],
+  "related": [
+    "ozeanerwaermung",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "automatisierung",
+    "biodiversitaetsverlust"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "citations": [
+    {
+      "label": "IPCC AR6"
+    },
+    {
+      "label": "NOAA Coral Reef Watch"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/ozeanversauerung/crisis-placeholder.jpg",
+      "/media/ozeanversauerung/impact-placeholder.png",
+      "/media/ozeanversauerung/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-ozeanversauerung",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "D3: pH-Verlauf + Aragonit-Sättigung als Doppelachse; Riffpunktsimulation."
+  ],
+  "timeline": [
+    {
+      "year": "1957",
+      "location": "Mauna Loa / Ozeanproben",
+      "event": "Frühe CO₂-Messungen",
+      "description": "Steigende atmosphärische Werte spiegeln sich in Meerwasser-Pufferung."
+    },
+    {
+      "year": "1998",
+      "location": "Indopazifik",
+      "event": "Massives Korallenbleichen",
+      "description": "Erste globale Sichtbarkeit von Hitze- und pH-Stress im Verbund."
+    },
+    {
+      "year": "2080 (proj.)",
+      "location": "Tropische Riffe",
+      "event": "Unter-Sättigung",
+      "description": "Modelle zeigen weite Zonen ohne stabile Kalkbildung."
+    }
+  ]
+}

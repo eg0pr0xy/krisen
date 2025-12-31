@@ -1,0 +1,156 @@
+{
+  "id": "sprachregime",
+  "slug": "sprachregime",
+  "title": {
+    "de": "Sprachregime",
+    "en": "Language Regimes"
+  },
+  "summary": {
+    "de": "Wer sprechen darf, welche Begriffe legitim sind und welche Pronomen gelten, wird zum Konfliktfeld.",
+    "en": "Who may speak, which terms are legitimate, and which pronouns count becomes a conflict field."
+  },
+  "categories": [
+    "Kontrolle",
+    "Gefühl"
+  ],
+  "tags": [
+    "diskurs",
+    "zensur",
+    "inklusion",
+    "identitaet",
+    "plattformregeln"
+  ],
+  "severity": 64,
+  "volatility": 73,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Plattform-Takedowns wegen Sprache/Jargon",
+        "en": "Platform takedowns for language/jargon"
+      },
+      "value": "+45% YoY",
+      "source": "Transparency reports"
+    },
+    {
+      "label": {
+        "de": "Gesetzliche Eingriffe in Wortwahl (Medien/Gesetze)",
+        "en": "Legal interventions in wording (media/law)"
+      },
+      "value": "steigend",
+      "source": "Policy trackers"
+    },
+    {
+      "label": {
+        "de": "Anteil gendergerechter Sprache in Leitmedien (DE)",
+        "en": "Share of gender-inclusive language in main media (DE)"
+      },
+      "value": "20-60% je Titel",
+      "source": "Content analyses"
+    }
+  ],
+  "diagnosis": {
+    "de": "Sprachregime bündeln Macht über Sichtbarkeit. Adorno: Sprache trägt Ideologie in ihre kleinsten Partikel. Luhmann: Kommunikationsmedien definieren, was sagbar ist; Regeln werden verdoppelt durch Plattformmoderation. Konflikte um Begriffe (z.B. Gendern, koloniale Benennungen) werden Stellvertreter für Anerkennungskämpfe. Sprachpolitik wird zum Schauplatz zwischen Emanzipation und Abwehr.",
+    "en": "Language regimes bundle power over visibility. Adorno: language carries ideology in its smallest particles. Luhmann: communication media define what is sayable; rules are doubled by platform moderation. Disputes over terms (gendering, colonial names) proxy recognition struggles. Language policy becomes a stage between emancipation and backlash."
+  },
+  "mechanisms": {
+    "de": "Style-Guides und Moderationsregeln setzen Defaults. Algorithmische Filter erkennen Kategorien ungleich. Aktivistische Kampagnen setzen neue Bezeichner durch, Gegenkampagnen mobilisieren Verbote. Übersetzungslücken erzeugen Missverständnisse. Arbeitsrechtliche Risiken (Shitstorms, Kündigungen) disziplinieren Sprecher*innen.",
+    "en": "Style guides and moderation rules set defaults. Algorithmic filters detect categories unevenly. Activist campaigns push new labels; counter-campaigns mobilise bans. Translation gaps create misreadings. Employment risks (pile-ons, firings) discipline speakers."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Guideline",
+        "en": "Guideline"
+      },
+      "description": {
+        "de": "Ein Katalog erlaubt/verbietet Wörter; sanktioniert Abweichungen.",
+        "en": "A catalogue permits/forbids words; sanctions deviation."
+      }
+    },
+    {
+      "name": {
+        "de": "Shitstorm",
+        "en": "Shitstorm"
+      },
+      "description": {
+        "de": "Affektive Korrekturwelle erzwingt Sprachwechsel oder Schweigen.",
+        "en": "Affective correction wave enforces language shifts or silence."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Diskurspolitik",
+      "definition": {
+        "de": "Politische Aushandlung dessen, was sagbar/unsagbar ist.",
+        "en": "Political negotiation of what is sayable/unsayable."
+      }
+    },
+    {
+      "term": "Linguistic Turn",
+      "definition": {
+        "de": "Philosophische Wende, die Sprache als zentrales Medium von Weltzugang versteht.",
+        "en": "Philosophical shift treating language as central to world access."
+      }
+    },
+    {
+      "term": "Gatekeeping",
+      "definition": {
+        "de": "Kontrolle von Zugang und Begriffen durch Institutionen oder Plattformen.",
+        "en": "Control of access and terms by institutions or platforms."
+      }
+    }
+  ],
+  "related": [
+    "normkonflikte",
+    "aufmerksamkeitsoekonomie",
+    "biopolitische-zuschreibungen",
+    "drogen",
+    "empoerungsdynamiken",
+    "entmenschlichung-buerokratie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-sprachregime",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Platform transparency reports"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/sprachregime/crisis-placeholder.jpg",
+      "/media/sprachregime/impact-placeholder.png",
+      "/media/sprachregime/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Takedown trend; term adoption curves; co-occurrence network of contested words."
+  ],
+  "timeline": [
+    {
+      "year": "2010s",
+      "location": "Social Platforms",
+      "event": "Community Guidelines",
+      "description": "Plattformregeln standardisieren Sprachfilter."
+    },
+    {
+      "year": "2020-2023",
+      "location": "DE/EU",
+      "event": "Gender-Debatten",
+      "description": "Bezeichner werden politisiert, Leitfäden polarisieren."
+    },
+    {
+      "year": "2024",
+      "location": "Global",
+      "event": "AI-Moderation",
+      "description": "Automatische Filter entscheiden über Sichtbarkeit und Sanktion."
+    }
+  ]
+}

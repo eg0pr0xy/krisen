@@ -1,0 +1,159 @@
+{
+  "id": "artensterben",
+  "slug": "artensterben",
+  "title": {
+    "de": "Artensterben",
+    "en": "Mass Extinction"
+  },
+  "summary": {
+    "de": "Verluste von Arten entziehen Stoff- und Bedeutungsnetze; Landschaften werden Archive von Lücken.",
+    "en": "Species loss erodes material and meaning networks; landscapes turn into archives of absences."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "extinction",
+    "habitat",
+    "fragmentierung",
+    "redundanz",
+    "gedaechtnis"
+  ],
+  "severity": 88,
+  "volatility": 52,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "IUCN Gefährdete Arten",
+        "en": "IUCN threatened species"
+      },
+      "value": ">42k",
+      "source": "IUCN 2024"
+    },
+    {
+      "label": {
+        "de": "Populationsrückgang Wirbeltiere",
+        "en": "Vertebrate decline"
+      },
+      "value": "-69% seit 1970",
+      "source": "WWF LPI"
+    },
+    {
+      "label": {
+        "de": "Insektenbiomasse regional",
+        "en": "Regional insect biomass"
+      },
+      "value": "-75%",
+      "source": "Langzeitstudien"
+    }
+  ],
+  "diagnosis": {
+    "de": "Das sechste Massenaussterben ist eine stille Infrastrukturkrise. Funktionelle Redundanz bricht, und mit ihr die Resilienz, Kipp-Punkt erreichen. Systemtheoretisch kollidiert biologische Zeit (Generation) mit ökonomischer Zeit (Quartal). Baudrillard: Zoo und Bildschirm ersetzen Kontakt; Natur wird Hyperrealität. Postkoloniale Ökologie zeigt, wie Extraktion an Peripherien Arten vernichtet durch Defaunation, damit Zentren weiter konsumieren.",
+    "en": "The sixth mass extinction is a silent infrastructure crisis. Functional redundancy collapses and resilience with it. Systems theory: biological time (generation) collides with economic time (quarter). Baudrillard: zoo and screen replace contact; nature becomes hyperreal. Postcolonial ecology shows extraction in peripheries erasing species so centres can keep consuming."
+  },
+  "mechanisms": {
+    "de": "Habitatzerschneidung fragmentiert Populationen; genetischer Austausch stockt. Agrar-Intensivierung und Pestizide beschleunigen Insektenrückgang, was zu trophischer Simplifizierung führt. Klima-Stress verschiebt Areale schneller als Arten folgen können. Illegale und legale Märkte verwerten Restbestände. Datenlücken verdecken Verluste, weil Monitoring regional ausfällt.",
+    "en": "Habitat fragmentation splits populations; gene flow stalls. Agro-intensification and pesticides accelerate insect decline. Climate stress shifts ranges faster than species can track. Legal and illegal markets monetise remnants. Data gaps hide loss because monitoring collapses in many regions."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Stiller Frühling",
+        "en": "Silent Spring"
+      },
+      "description": {
+        "de": "Akustische Leere zeigt kollabierte Insekten- und Vogelgemeinschaften.",
+        "en": "Acoustic emptiness signals collapsed insect and bird communities."
+      }
+    },
+    {
+      "name": {
+        "de": "Verwaiste Nische",
+        "en": "Orphaned Niche"
+      },
+      "description": {
+        "de": "Funktion bleibt unbesetzt, Prozesse versanden oder kippen.",
+        "en": "Function stays vacant; processes stall or flip."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Kipp-Punkt",
+      "definition": {
+        "de": "Schwelle, ab der Systeme irreversibel in neuen Zustand wechseln.",
+        "en": "Threshold after which systems irreversibly shift state."
+      }
+    },
+    {
+      "term": "Defaunation",
+      "definition": {
+        "de": "Breiter Verlust von Tierarten und -individuen in Ökosystemen.",
+        "en": "Broad loss of animal species and individuals within ecosystems."
+      }
+    },
+    {
+      "term": "Trophische Simplifizierung",
+      "definition": {
+        "de": "Reduktion der Nahrungsketten-Komplexität auf wenige Ebenen.",
+        "en": "Reduction of food-web complexity to a few levels."
+      }
+    }
+  ],
+  "related": [
+    "biodiversitaetsverlust",
+    "alterung",
+    "arbeitslosigkeit",
+    "care",
+    "demografischer-wandel",
+    "infrastrukturverfall"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-artensterben",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "IPBES Global Assessment"
+    },
+    {
+      "label": "WWF Living Planet Index"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/artensterben/extinction-placeholder.jpg",
+      "/media/artensterben/biodiversity-placeholder.png",
+      "/media/artensterben/endangered-species-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Sankey von Funktionsverlusten; akustische Spektrogramme als Soundplots."
+  ],
+  "timeline": [
+    {
+      "year": "1962",
+      "location": "USA",
+      "event": "Silent Spring",
+      "description": "Frühe Popularisierung chemisch getriebenen Artensterbens."
+    },
+    {
+      "year": "2019",
+      "location": "Global",
+      "event": "IPBES Report",
+      "description": "Bestätigt 1 Mio. gefährdete Arten und beschleunigte Raten."
+    },
+    {
+      "year": "2050 (proj.)",
+      "location": "Tropen / Küsten",
+      "event": "Funktionsverlust",
+      "description": "Modelle zeigen Zusammenbruch von Bestäubern und Riff-Fischereien."
+    }
+  ]
+}

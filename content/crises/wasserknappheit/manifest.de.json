@@ -1,0 +1,236 @@
+{
+  "id": "wasserknappheit",
+  "slug": "wasserknappheit",
+  "title": {
+    "de": "Wasserknappheit",
+    "en": "Water Scarcity"
+  },
+  "summary": {
+    "de": "Systemischer Zustand, in dem die Extraktionsrate hydrologischer Ressourcen die regenerative Kapazität der Biosphäre dauerhaft überschreitet. Wasserknappheit ist keine bloße physikalische Anomalie, sondern die direkte Manifestation einer dysfunktionalen Ressourcenallokation innerhalb des spätkapitalistischen Verwertungsregimes, die zu einer Asymmetrie zwischen metabolischem Bedarf und verfügbarem Flüssigkeitskapital führt.",
+    "en": "Systemic state in which the extraction rate of hydrological resources permanently exceeds the regenerative capacity of the biosphere. Water scarcity is not merely a physical anomaly, but the direct manifestation of a dysfunctional resource allocation within the late-capitalist valorization regime, leading to an asymmetry between metabolic demand and available liquid capital."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "aquifer",
+    "drought",
+    "infrastruktur",
+    "versorgung",
+    "konflikt"
+  ],
+  "severity": 85,
+  "volatility": 63,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Menschen ohne sicheres Trinkwasser (Global)",
+        "en": "People without safe drinking water (Global)"
+      },
+      "value": "2,2 Milliarden",
+      "source": "UN World Water Development Report 2024"
+    },
+    {
+      "label": {
+        "de": "Wasserverlust Deutschland (GRACE-Daten)",
+        "en": "Water loss Germany (GRACE data)"
+      },
+      "value": "2,5 km³/Jahr",
+      "source": "GRACE satellite data"
+    },
+    {
+      "label": {
+        "de": "Globaler Wasserbedarf vs. Angebot (2030 Prognose)",
+        "en": "Global water demand vs. supply (2030 forecast)"
+      },
+      "value": "40% Defizit",
+      "source": "UN projections"
+    },
+    {
+      "label": {
+        "de": "Landwirtschaftlicher Wasserverbrauch (Global)",
+        "en": "Agricultural water consumption (Global)"
+      },
+      "value": "70%",
+      "source": "FAO data"
+    }
+  ],
+  "diagnosis": {
+    "de": "Die Genese der Umweltzerstörung ist untrennbar mit dem Aufstieg des industriellen Kapitalismus und der kolonialen Expansion verbunden. Sie markiert den Übergang vom Holozän zum Anthropozän, in dem menschliche Aktivität zur dominierenden geologischen Kraft wurde. Unter der Linse der Nekropolitik fungiert Wasser als ultimatives Biopolitik-Instrument: Die Entscheidung über Wasserzugang ist die Entscheidung darüber, wer leben darf und wer 'sterben gelassen' wird. In der Logik des Kapitalistischen Realismus wird die Erschöpfung des Grundwassers nicht als Systemfehler, sondern als externalisierte Kostenstelle verbucht. Die Kommodifizierung des Wassers transformiert ein ontologisches Grundrecht in ein spekulatives Asset, wobei die Knappheit künstlich verknappt oder durch infrastrukturelle Gewalt auf marginalisierte Populationen umverteilt wird. Wasserknappheit ist somit kein Naturereignis, sondern ein administrativer Akt der 'Slow Violence'. Wasser wird als unendlicher Input behandelt; Governance bleibt lokal, während Nachfrage globalisiert ist. Luhmann: der Wassersektor koppelt sich schwach mit Klima- und Agrarsystemen, wodurch Krisen simultan auftreten. Baudrillard: Wasserknappheit wird medial spektakularisiert, während reale Infrastruktur langsam verfällt. Konflikte entstehen entlang unsichtbarer Schichten – Grundwasser, Flussabwärtsrechte, virtuelle Wasserimporte.",
+    "en": "The genesis of environmental destruction is inextricably linked to the rise of industrial capitalism and colonial expansion. It marks the transition from the Holocene to the Anthropocene, in which human activity became the dominant geological force. Through the lens of necropolitics, water functions as the ultimate biopolitical instrument: the decision about water access is the decision about who may live and who 'must be let die'. In the logic of capitalist realism, groundwater depletion is not booked as a system error, but as an externalized cost center. The commodification of water transforms an ontological basic right into a speculative asset, where scarcity is artificially created or redistributed to marginalized populations through infrastructural violence. Water scarcity is thus not a natural event, but an administrative act of 'slow violence'. Water is treated as infinite input; governance stays local while demand is globalised. Luhmann: the water sector couples weakly with climate and agriculture, so crises co-occur. Baudrillard: scarcity is spectacularised in media while infrastructure quietly decays. Conflicts form along invisible layers—groundwater, downstream rights, virtual water imports."
+  },
+  "mechanisms": {
+    "de": "Was ist es? Ein strukturelles Defizit im hydrologischen Budget der Anthroposphäre, induziert durch hyper-extraktive Wirtschaftsmodelle. Wer ist betroffen? Primär der Globalen Süden (Nekropolitische Peripherie), zunehmend auch semi-aride Zonen des Globalen Nordens. Wo ist das Epizentrum? MENA-Region (Middle East & North Africa), Subsahara-Afrika, und Grundwasserleiter in industriellen Agrarzonen (z.B. Kalifornien, Punjab). Wann wird es kritisch? Jetzt. Der kritische Pfad ist bereits beschritten; 'Day Zero' Szenarien sind keine Zukunftsmusik, sondern operative Realität in diversen Metropolregionen. Warum jetzt? Konvergenz von Klimawandel (Verdunstung/Niederschlagsverschiebung) und exponentiellem Wachstum des industriellen Metabolismus. Wie stabilisieren? Durch radikale Dekommodifizierung von Wasser, Implementierung zirkulärer Abwassersysteme und strikte Extraktionslimits (Cap-and-Trade für Hydrologie). Systemtheoretisch (Luhmann) stellt Wasserknappheit eine Störung der autopoietischen Reproduktion des gesellschaftlichen Systems dar. Hydrologische Kreisläufe fungieren als kritische Umweltvariable; ihre Destabilisierung erhöht die Entropie innerhalb des Systems massiv. Thermodynamisch betrachtet bewegen wir uns auf einen Zustand maximaler Unordnung zu, da die dissipative Struktur 'Zivilisation' mehr Energie (Wasser) verbraucht, als das geschlossene System Erde durch den solaren Input und den Wasserkreislauf regenerieren kann. Die positive Rückkopplungsschleife aus Erwärmung, Verdunstung und Übernutzung führt unausweichlich zu nicht-linearen Kipppunkten. Überpumpen senkt Grundwasserspiegel; Land subsident, Leitungen reißen. Monokulturen verschieben Wasserflüsse aus Regionen mit hoher Verdunstung. Urbanes Wachstum erhöht Spitzenlast, während Leitungsverluste >30 % bleiben. Privatisierte Netze externalisieren Verluste auf Verbraucher. Nach Bateson destabilisieren Notfall-Transfers (Tanklaster) den Anreiz zu struktureller Sanierung.",
+    "en": "What is it? A structural deficit in the hydrological budget of the anthroposphere, induced by hyper-extractive economic models. Who is affected? Primarily the Global South (necropolitical periphery), increasingly also semi-arid zones of the Global North. Where is the epicenter? MENA region (Middle East & North Africa), Sub-Saharan Africa, and aquifers in industrial agricultural zones (e.g., California, Punjab). When does it become critical? Now. The critical path has already been taken; 'Day Zero' scenarios are not future music, but operational reality in various metropolitan regions. Why now? Convergence of climate change (evaporation/precipitation shift) and exponential growth of industrial metabolism. How to stabilize? Through radical decommodification of water, implementation of circular wastewater systems, and strict extraction limits (cap-and-trade for hydrology). From a systems theory perspective (Luhmann), water scarcity represents a disturbance of the autopoietic reproduction of the societal system. Hydrological cycles function as critical environmental variables; their destabilization massively increases entropy within the system. Thermodynamically considered, we are moving toward a state of maximum disorder, since the dissipative structure 'civilization' consumes more energy (water) than the closed system Earth can regenerate through solar input and the water cycle. The positive feedback loop of warming, evaporation, and overuse inevitably leads to non-linear tipping points. Over-pumping lowers tables; land subsides, mains crack. Monocultures shift water flows from high-evaporation regions. Urban growth raises peak loads while leakage >30% persists. Privatized networks externalize losses to consumers. Bateson: emergency trucking undermines incentives for structural repair."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Hydrologische Insolvenz",
+        "en": "Hydrological Insolvency"
+      },
+      "description": {
+        "de": "Systematischer Bankrott der Wassersysteme durch übermäßige Extraktion.",
+        "en": "Systematic bankruptcy of water systems through excessive extraction."
+      }
+    },
+    {
+      "name": {
+        "de": "Boden-Entropie",
+        "en": "Soil Entropy"
+      },
+      "description": {
+        "de": "Verlust der Bodenstruktur durch Entwässerung und Erosion.",
+        "en": "Loss of soil structure through drainage and erosion."
+      }
+    },
+    {
+      "name": {
+        "de": "Sozio-osmotischer Druck",
+        "en": "Socio-osmotic Pressure"
+      },
+      "description": {
+        "de": "Gesellschaftlicher Druck durch Wasserknappheit erzeugt Migrationsströme.",
+        "en": "Societal pressure from water scarcity creates migration flows."
+      }
+    },
+    {
+      "name": {
+        "de": "Trockene Kapillare",
+        "en": "Dry Capillary"
+      },
+      "description": {
+        "de": "Leitung ohne Druck; nur Luft und Sediment bewegen sich, Versorgung bricht kollabierend ein.",
+        "en": "Pipe without pressure; only air and sediment move, supply collapses in place."
+      }
+    },
+    {
+      "name": {
+        "de": "Tankzug-Karawane",
+        "en": "Tanker Caravan"
+      },
+      "description": {
+        "de": "Ad-hoc-Verteilung per Lkw; teuer, ineffizient, anfällig für Korruption.",
+        "en": "Ad-hoc truck distribution; costly, inefficient, corruption-prone."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Slow Violence",
+      "definition": {
+        "de": "Langsame, unspektakuläre Gewalt, die sich der unmittelbaren Wahrnehmung entzieht.",
+        "en": "Slow, unspectacular violence that eludes immediate perception."
+      }
+    },
+    {
+      "term": "Dissipative Struktur",
+      "definition": {
+        "de": "System, das Ordnung durch Energieverlust an die Umwelt aufrechterhält.",
+        "en": "System that maintains order through energy loss to the environment."
+      }
+    },
+    {
+      "term": "Hydro-Hegemonie",
+      "definition": {
+        "de": "Politische Kontrolle über Wasserressourcen als Machtinstrument.",
+        "en": "Political control over water resources as an instrument of power."
+      }
+    },
+    {
+      "term": "Virtuelles Wasser",
+      "definition": {
+        "de": "Wassermenge, die in importierten Gütern steckt (z.B. Baumwolle, Fleisch).",
+        "en": "Water embedded in traded goods (e.g., cotton, meat)."
+      }
+    },
+    {
+      "term": "Non-Revenue Water",
+      "definition": {
+        "de": "Verluste durch Lecks, Diebstahl, Messfehler in Versorgungsnetzen.",
+        "en": "Losses from leaks, theft, metering errors in supply networks."
+      }
+    },
+    {
+      "term": "Aquifer-Mining",
+      "definition": {
+        "de": "Förderung fossilen Grundwassers ohne Regeneration.",
+        "en": "Extraction of fossil groundwater without recharge."
+      }
+    }
+  ],
+  "related": [
+    "alterung",
+    "klimaflucht",
+    "klimawandel",
+    "arbeitslosigkeit",
+    "artensterben",
+    "biodiversitaetsverlust"
+  ],
+  "lastUpdatedISO": "2025-02-02T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-wasser",
+    "generatedAtISO": "2025-02-02T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Signals später mit regionalen Daten schärfen (MENA, Indien, Kalifornien)."
+  ],
+  "citations": [
+    {
+      "label": "UN Water 2024"
+    },
+    {
+      "label": "World Bank NRW dataset"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/wasserknappheit/crisis-placeholder.jpg",
+      "/media/wasserknappheit/impact-placeholder.png",
+      "/media/wasserknappheit/solution-placeholder.jpg"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "1784",
+      "location": "Global / UK",
+      "event": "Patentierung der Dampfmaschine",
+      "description": "Beginn der fossilen Energieära und der exponentiellen Emissionskurve."
+    },
+    {
+      "year": "2000",
+      "location": "Cochabamba, Bolivien",
+      "event": "Wasserkrieg",
+      "description": "Erfolgreicher Volksaufstand gegen die Privatisierung der Wasserversorgung durch Bechtel; Symbol des Widerstands gegen neoliberale Enteignung."
+    },
+    {
+      "year": "2018",
+      "location": "Kapstadt, Südafrika",
+      "event": "Day Zero",
+      "description": "Die erste moderne Metropole steht kurz vor der totalen Abschaltung der kommunalen Wasserversorgung; Einführung drakonischer Rationierung."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Wasser an der Wall Street",
+      "description": "Wasser-Futures werden erstmals an der Börse gehandelt; formale Anerkennung von Wasser als spekulatives Asset."
+    },
+    {
+      "year": "2023",
+      "location": "Deutschland",
+      "event": "GRACE-Daten Veröffentlichung",
+      "description": "Satellitendaten zeigen einen Wasserverlust von 10 Milliarden Tonnen in Deutschland innerhalb weniger Jahre; Mythos des wasserreichen Nordens bröckelt."
+    },
+    {
+      "year": "2024",
+      "location": "UN Headquarters",
+      "event": "World Water Development Report",
+      "description": "Bericht konstatiert, dass 2,2 Milliarden Menschen keinen sicheren Zugang zu Trinkwasser haben; Warnung vor globaler Systemkrise."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "rezession",
+  "slug": "rezession",
+  "title": {
+    "de": "Rezession",
+    "en": "Recession"
+  },
+  "summary": {
+    "de": "Konjunktureinbruch legt Verteilungs- und Klassenfragen offen; Sparpolitik trifft Infrastruktur und Alltag.",
+    "en": "Economic contraction exposes distribution and class tensions; austerity hits infrastructure and daily life."
+  },
+  "categories": [
+    "Materie",
+    "Macht"
+  ],
+  "tags": [
+    "bip",
+    "arbeitslosigkeit",
+    "austerity",
+    "inflation",
+    "schulden"
+  ],
+  "severity": 68,
+  "volatility": 84,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "BIP-Wachstum (letztes Quartal)",
+        "en": "GDP growth (last quarter)"
+      },
+      "value": "<0%",
+      "source": "Nat. Statistik"
+    },
+    {
+      "label": {
+        "de": "Arbeitslosenquote",
+        "en": "Unemployment rate"
+      },
+      "value": "+1.2 pp",
+      "source": "Labor stats"
+    },
+    {
+      "label": {
+        "de": "Austeritätskürzungen",
+        "en": "Austerity cuts"
+      },
+      "value": "mehrere % BIP",
+      "source": "Budget reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Rezession ist nicht nur Zyklus, sondern Klassenpolitik. Horkheimer: Wirtschaftskrise offenbart Macht über Produktion. Adorno: Ideologie des Wachstums kollidiert mit materieller Schranke. Luhmann: Wirtschaftssystem koppelt stärker an Politik, wenn Erwartung enttäuscht; Legitimität erodiert. Austerität externalisiert Kosten auf Pflege, Bildung, Peripherie.",
+    "en": "Recession is not just a cycle but class politics. Horkheimer: crisis exposes power over production. Adorno: growth ideology collides with material limits. Luhmann: the economy couples tighter to politics when expectations fail; legitimacy erodes. Austerity externalises costs onto care, education, peripheries."
+  },
+  "mechanisms": {
+    "de": "Nachfrage bricht ein, Investitionen stoppen. Kreditkosten steigen, Unternehmen entlassen. Staaten reagieren mit Kürzungen statt Investitionen, was Nachfrage weiter senkt. Prekarität steigt, Gewerkschaften verlieren Reichweite. Populismus nutzt ökonomische Angst für kulturelle Konflikte.",
+    "en": "Demand collapses, investment stalls. Credit costs rise, firms lay off. States respond with cuts instead of investment, further dampening demand. Precarity rises; unions lose reach. Populism channels economic fear into cultural conflict."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Kürzungshaushalt",
+        "en": "Austerity Budget"
+      },
+      "description": {
+        "de": "Lineares Streichen sozialer Ausgaben, langfristige Schäden.",
+        "en": "Linear cuts to social spending, long-term damage."
+      }
+    },
+    {
+      "name": {
+        "de": "Entlassungswelle",
+        "en": "Layoff Wave"
+      },
+      "description": {
+        "de": "Kurzfristige Kostensenkung, Verlust von Wissen und Bindung.",
+        "en": "Short-term cost cut, loss of knowledge and loyalty."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Austerität",
+      "definition": {
+        "de": "Politik der Ausgabenkürzung zur Haushaltskonsolidierung.",
+        "en": "Policy of spending cuts for budget consolidation."
+      }
+    },
+    {
+      "term": "Output-Lücke",
+      "definition": {
+        "de": "Abstand zwischen tatsächlicher und potenzieller Produktion.",
+        "en": "Gap between actual and potential output."
+      }
+    },
+    {
+      "term": "Automatische Stabilisatoren",
+      "definition": {
+        "de": "Einnahmen/Ausgaben, die konjunkturell wirken ohne neue Gesetze.",
+        "en": "Revenues/spending that react to cycles without new laws."
+      }
+    }
+  ],
+  "related": [
+    "automatisierung",
+    "extraktivismus",
+    "finanzialisierung",
+    "gentrifizierung",
+    "geopolitische-verschiebungen",
+    "schuldenlast"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-rezession",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "IMF fiscal monitors"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/rezession/crisis-placeholder.jpg",
+      "/media/rezession/impact-placeholder.png",
+      "/media/rezession/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: GDP vs output gap lines; unemployment vs cuts; sector strike map."
+  ],
+  "timeline": [
+    {
+      "year": "2008-2009",
+      "location": "Global",
+      "event": "Finanzkrise",
+      "description": "Schocks lösen Rezession und Austerität aus."
+    },
+    {
+      "year": "2012",
+      "location": "Südeuropa",
+      "event": "Schuldenkrise",
+      "description": "Harte Kürzungen, soziale Bewegungen, Jugendarbeitslosigkeit."
+    },
+    {
+      "year": "2023",
+      "location": "Europa",
+      "event": "Energiepreisschock",
+      "description": "Wachstum bricht, Reallöhne sinken, Sparprogramme kehren zurück."
+    }
+  ]
+}

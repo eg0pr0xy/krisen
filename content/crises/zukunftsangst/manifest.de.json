@@ -1,0 +1,156 @@
+{
+  "id": "zukunftsangst",
+  "slug": "zukunftsangst",
+  "title": {
+    "de": "Zukunftsangst",
+    "en": "Future Anxiety"
+  },
+  "summary": {
+    "de": "Erwartung wird negativ; Zukunft erscheint als Kette von Krisen, nicht als Projekt.",
+    "en": "Expectations turn negative; the future appears as a chain of crises, not a project."
+  },
+  "categories": [
+    "Existenz",
+    "Gefühl"
+  ],
+  "tags": [
+    "angst",
+    "klima",
+    "krieg",
+    "arbeit",
+    "jugend"
+  ],
+  "severity": 86,
+  "volatility": 78,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Anteil Jugend „Zukunft wird schlechter“",
+        "en": "Youth share 'future will be worse'"
+      },
+      "value": ">60%",
+      "source": "Youth barometers"
+    },
+    {
+      "label": {
+        "de": "Klimaangst-Symptomatik",
+        "en": "Climate anxiety symptoms"
+      },
+      "value": "↑",
+      "source": "Lancet youth studies"
+    },
+    {
+      "label": {
+        "de": "Migration/Job-Sicherheitsangst",
+        "en": "Job/security anxiety"
+      },
+      "value": "hoch",
+      "source": "Labor surveys"
+    }
+  ],
+  "diagnosis": {
+    "de": "Zukunftsangst ist die affektive Seite der Polykrise. Bloch sprach von Hoffnung als Überschuss; hier kehrt sie sich um. Adorno: Erwartung wird zur Angstfigur, weil Totalität als Bedrohung erlebt wird. Luhmann: Zukunft ist immer riskant, aber die Beobachtung zweiter Ordnung vermehrt Unsicherheit (permanente Prognosen). Kollektive Horizonte erodieren, es bleibt latente Panik.",
+    "en": "Future anxiety is the affective side of the polycrisis. Bloch’s surplus of hope inverts. Adorno: expectation becomes fear as totality is experienced as threat. Luhmann: future is always risky, but second-order observation multiplies uncertainty via constant forecasts. Collective horizons erode; latent panic remains."
+  },
+  "mechanisms": {
+    "de": "Medien verstärken Negativpfade (Doomscroll). Modelle zeigen Katastrophen, ohne Pfade der Gestaltung. Prekarität und Krieg verschieben Lebensentwürfe. Familienplanung wird verschoben, Qualifikation wirkt obsolet. Politik kommuniziert Targets, bricht sie aber, wodurch Glaubwürdigkeit sinkt.",
+    "en": "Media amplify negative trajectories (doomscroll). Models show catastrophes without agency pathways. Precarity and war delay life plans. Family planning and training are postponed as skills feel perishable. Politics announces targets but misses them, eroding credibility."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Doomscroll",
+        "en": "Doomscroll"
+      },
+      "description": {
+        "de": "Endloses negatives Nachrichtenband erzeugt Ohnmacht.",
+        "en": "Endless negative feed generates helplessness."
+      }
+    },
+    {
+      "name": {
+        "de": "Verschobene Entscheidung",
+        "en": "Deferred Decision"
+      },
+      "description": {
+        "de": "Investitionen in Zukunft werden aus Angst herausgeschoben.",
+        "en": "Future investments are deferred out of fear."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polykrise",
+      "definition": {
+        "de": "Überlagerung mehrerer Krisen, die sich gegenseitig verstärken.",
+        "en": "Overlay of multiple crises that reinforce each other."
+      }
+    },
+    {
+      "term": "Doomscrolling",
+      "definition": {
+        "de": "Zwanghaftes Konsumieren negativer Nachrichten-Feeds.",
+        "en": "Compulsive consumption of negative news feeds."
+      }
+    },
+    {
+      "term": "Hoffnungsdefizit",
+      "definition": {
+        "de": "Mangel an glaubwürdigen Zukunftsentwürfen.",
+        "en": "Lack of credible future scenarios."
+      }
+    }
+  ],
+  "related": [
+    "entfremdung",
+    "sinnverlust",
+    "arbeitslosigkeit",
+    "identitaere-bewegungen",
+    "armut",
+    "automatisierung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-zukunftsangst",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Youth barometers / Lancet climate anxiety"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/zukunftsangst/anxiety-placeholder.jpg",
+      "/media/zukunftsangst/uncertainty-placeholder.png",
+      "/media/zukunftsangst/fear-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Doomscroll time series; hope vs fear index; life-plan deferral chart."
+  ],
+  "timeline": [
+    {
+      "year": "2018",
+      "location": "Global",
+      "event": "IPCC 1.5° Bericht",
+      "description": "Schockiert Jugendliche, Protestwellen entstehen."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie",
+      "description": "Planungsunsicherheit verallgemeinert sich."
+    },
+    {
+      "year": "2022-2024",
+      "location": "Europa",
+      "event": "Krieg/Inflation",
+      "description": "Kosten- und Sicherheitsangst verstärken Zukunftsskepsis."
+    }
+  ]
+}

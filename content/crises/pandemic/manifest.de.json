@@ -1,0 +1,132 @@
+{
+  "id": "pandemic",
+  "slug": "pandemic",
+  "title": {
+    "de": "Pandemie",
+    "en": "Pandemic"
+  },
+  "summary": {
+    "de": "Ein beschleunigter Infektionszyklus überfordert Versorgung, Governance und Vertrauen.",
+    "en": "An accelerated infection cycle overloads supply lines, governance, and trust."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "public-health",
+    "mutation",
+    "supply-chain",
+    "trust",
+    "containment"
+  ],
+  "severity": 82,
+  "volatility": 76,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Exzess-Übersterblichkeit",
+        "en": "Excess mortality"
+      },
+      "value": "+8%",
+      "source": "stat-registry"
+    },
+    {
+      "label": {
+        "de": "Intensivbettenauslastung",
+        "en": "ICU load"
+      },
+      "value": "91%",
+      "source": "hospital-grid"
+    },
+    {
+      "label": {
+        "de": "Vakzin-Lead Time",
+        "en": "Vaccine lead time"
+      },
+      "value": "14 weeks"
+    }
+  ],
+  "diagnosis": {
+    "de": "Ein zoonotischer Impuls trifft auf dichte Mobilitätssysteme. Die Reproduktionsrate bleibt oberhalb der institutionellen Reaktionsgeschwindigkeit. Versorgungspfade fragmentieren, soziale Koordination kollabiert lokal.",
+    "en": "A zoonotic impulse meets dense mobility systems. The reproduction rate stays above institutional reaction speed. Supply pathways fragment and local coordination collapses."
+  },
+  "mechanisms": {
+    "de": "Superspreading in logistischen Knoten. Mutationsdruck durch partielle Eindämmung. Informationsasymmetrien erzeugen Compliance-Erosion. Internationaler Wettbewerb um Grundstoffe verlängert Knappheit.",
+    "en": "Superspreading inside logistical hubs. Mutation pressure driven by partial containment. Information asymmetry erodes compliance. International competition for precursors prolongs scarcity."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Quarantäne-Perimeter",
+        "en": "Quarantine Perimeter"
+      },
+      "description": {
+        "de": "Ein temporärer Ring, der Mobilität einfriert und zugleich Schattenmärkte erzeugt.",
+        "en": "A temporary ring that freezes mobility while generating shadow markets."
+      }
+    },
+    {
+      "name": {
+        "de": "Labor-Fab",
+        "en": "Lab Fab"
+      },
+      "description": {
+        "de": "Beschleunigte Bioproduktion unter Qualitätsdruck; sterile Insel in chaotischer Versorgung.",
+        "en": "Accelerated bioproduction under quality pressure; sterile island inside chaotic supply."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "R0",
+      "definition": {
+        "de": "Basisreproduktionszahl eines Erregers im unbeeinflussten Zustand.",
+        "en": "Baseline reproduction number of a pathogen in an unmitigated population."
+      }
+    },
+    {
+      "term": "Nicht-Pharmazeutische Intervention",
+      "definition": {
+        "de": "Maßnahmen wie Distanzierung, Masken, Lüftung ohne pharmazeutische Produkte.",
+        "en": "Measures such as distancing, masking, and ventilation without pharmaceutical products."
+      }
+    },
+    {
+      "term": "Spillover",
+      "definition": {
+        "de": "Übergang eines Erregers von Tier zu Mensch durch ökologische Grenzverschiebung.",
+        "en": "Transition of a pathogen from animal to human through ecological boundary shifts."
+      }
+    }
+  ],
+  "related": [
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "biodiversitaetsverlust",
+    "care",
+    "demografischer-wandel"
+  ],
+  "lastUpdatedISO": "2025-01-15T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "citations": [
+    {
+      "label": "WHO Situation Reports",
+      "url": "https://www.who.int"
+    },
+    {
+      "label": "ICU network dashboards"
+    }
+  ],
+  "media": {
+    "images": [
+      "media/pandemic-grid.png"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "pandemie",
+  "slug": "pandemie",
+  "title": {
+    "de": "Pandemie",
+    "en": "Pandemic"
+  },
+  "summary": {
+    "de": "Globale Infektionswellen überlasten Gesundheit, Lieferketten und Governance; soziale Spaltung vertieft sich.",
+    "en": "Global infection waves overload health, supply chains, and governance; social divides deepen."
+  },
+  "categories": [
+    "Existenz",
+    "Kontrolle"
+  ],
+  "tags": [
+    "r0",
+    "spillover",
+    "non-pharmaceutical",
+    "vaccine-equity",
+    "infodemic"
+  ],
+  "severity": 88,
+  "volatility": 76,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "R0/RT",
+        "en": "R0/RT"
+      },
+      "value": ">1",
+      "source": "Epidemiology"
+    },
+    {
+      "label": {
+        "de": "Intensivbettenbelegung",
+        "en": "ICU occupancy"
+      },
+      "value": "hoch",
+      "source": "Health data"
+    },
+    {
+      "label": {
+        "de": "Impfquote global",
+        "en": "Global vaccination"
+      },
+      "value": "ungleicher Zugang",
+      "source": "WHO"
+    }
+  ],
+  "diagnosis": {
+    "de": "Pandemien offenbaren Verwundbarkeit vernetzter Systeme. Spillover trifft auf hohe Mobilität, exponentielles Wachstum erzeugt Governance-Stress. Nicht-pharmazeutische Maßnahmen kollidieren mit Ökonomie und Politik. Ungleiche Impfverteilung verlängert Wellen. Infodemien verzerren Risiko- und Solidaritätswahrnehmung.",
+    "en": "Pandemics expose vulnerabilities of networked systems. Spillover meets high mobility; exponential growth stresses governance. Non-pharmaceutical measures collide with economies and politics. Unequal vaccine access prolongs waves. Infodemics distort risk perception and solidarity."
+  },
+  "mechanisms": {
+    "de": "Respiratorische Übertragung skaliert mit Mobilität. Prävention braucht frühe Tests/Tracing, wird aber oft politisiert. Versorgungsketten (PPE, Medikamente) sind konzentriert. Vorsorge wird vernachlässigt in Nicht-Krisenzeiten, Kapazitäten fehlen. Long Covid senkt Arbeitsfähigkeit.",
+    "en": "Respiratory spread scales with mobility. Early testing/tracing needed but politicised. Supply chains for PPE and drugs are concentrated. Preparedness is underfunded between crises; surge capacity lacks. Long Covid reduces labour capacity."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Wellenkaskade",
+        "en": "Wave Cascade"
+      },
+      "description": {
+        "de": "Lockerungen zu früh; neue Wellen treffen erschöpfte Systeme.",
+        "en": "Relaxations too early; new waves hit exhausted systems."
+      }
+    },
+    {
+      "name": {
+        "de": "Impfkluft",
+        "en": "Vaccine Gap"
+      },
+      "description": {
+        "de": "Hoher Schutz in reichen Ländern, niedriger in armen; Variantenrisiko.",
+        "en": "High coverage in rich countries, low elsewhere; variant risk."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "R0",
+      "definition": {
+        "de": "Basisreproduktionszahl, Ansteckungen pro Fall.",
+        "en": "Baseline reproductive number, infections per case."
+      }
+    },
+    {
+      "term": "Nicht-pharmazeutische Intervention",
+      "definition": {
+        "de": "Maßnahmen wie Masken, Abstand, Isolation.",
+        "en": "Measures like masks, distancing, isolation."
+      }
+    },
+    {
+      "term": "Spillover",
+      "definition": {
+        "de": "Übersprung eines Erregers von Tier auf Mensch.",
+        "en": "Pathogen jump from animals to humans."
+      }
+    }
+  ],
+  "related": [
+    "asylpolitik",
+    "blackout",
+    "drogen",
+    "illegale-arbeit",
+    "lagerlogik",
+    "rechtlosigkeit"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-pandemie-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "WHO, ECDC",
+      "note": "Rt, ICU, vaccination"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/pandemie/crisis-placeholder.jpg",
+      "/media/pandemie/impact-placeholder.png",
+      "/media/pandemie/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Epi curves; globe arcs for vaccine flow; shader: grain over mask silhouettes."
+  ],
+  "timeline": [
+    {
+      "year": "2003",
+      "location": "Global",
+      "event": "SARS",
+      "description": "Frühwarnung für Coronaviren."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "COVID-19",
+      "description": "Mehrere Wellen, NPIs, Impfstoffrennen."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Endemie-Phase",
+      "description": "Varianten, Booster, ungleiche Immunität."
+    }
+  ]
+}

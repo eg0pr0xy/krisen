@@ -1,0 +1,229 @@
+{
+  "id": "populismus",
+  "slug": "populismus",
+  "title": {
+    "de": "Populismus",
+    "en": "Populism"
+  },
+  "summary": {
+    "de": "Politische Mobilisierung über dichotome Freund-Feind-Bilder, Plebiszitäre Gesten und den Anspruch exklusiver Volkssouveränität.",
+    "en": "Political mobilisation through binary friend–enemy frames, plebiscitary gestures, and claims of exclusive popular sovereignty."
+  },
+  "categories": [
+    "Macht",
+    "Gefühl"
+  ],
+  "timeline": [
+    {
+      "year": "2010s",
+      "location": "CEE/LatAm",
+      "event": "Referenden-Welle",
+      "description": "Plebiszitäre Geste etabliert sich als Regierungsstil."
+    },
+    {
+      "year": "2016",
+      "location": "Global North",
+      "event": "Populistische Wahlsiege",
+      "description": "Freund-Feind-Matrix dominiert Wahlkämpfe."
+    },
+    {
+      "year": "2022-2024",
+      "location": "EU",
+      "event": "Justiz- und Mediencapture",
+      "description": "Gesetzespakete zur Kontrolle von Gerichten und öffentlich-rechtlichen Medien."
+    }
+  ],
+  "tags": [
+    "anti-eliten",
+    "polarisation",
+    "affekt",
+    "kampagne",
+    "plebiszit"
+  ],
+  "severity": 71,
+  "volatility": 69,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anti-Establishment-Anteil",
+        "en": "Anti-establishment vote share"
+      },
+      "value": "steigend",
+      "source": "Wahldaten"
+    },
+    {
+      "label": {
+        "de": "Referendum-Intensität",
+        "en": "Referendum intensity"
+      },
+      "value": "häufig",
+      "source": "Parlamentskalender"
+    },
+    {
+      "label": {
+        "de": "Social-Media-Engagement",
+        "en": "Social media engagement"
+      },
+      "value": "3–8x opposition",
+      "source": "Platform APIs"
+    },
+    {
+      "label": {
+        "de": "Mediale Resonanz",
+        "en": "Media resonance"
+      },
+      "value": "hoch",
+      "source": "Sendezeiten"
+    },
+    {
+      "label": {
+        "de": "Institutionelle Eingriffe",
+        "en": "Institutional interventions"
+      },
+      "value": "Justiz/Medien unter Druck",
+      "source": "Gesetzespakete"
+    },
+    {
+      "label": {
+        "de": "Vertrauen in Parlamente",
+        "en": "Trust in parliaments"
+      },
+      "value": "↓ 5–15pp",
+      "source": "WVS/Eurobarometer"
+    }
+  ],
+  "diagnosis": {
+    "de": "Populismus konstruiert ein homogenes Volk gegen korrupte Eliten und externe Bedrohungen. Er nutzt affektive Vereinfachung, plebiszitäre Gesten und Populistische Performanz, um repräsentative Vermittlung zu unterlaufen. Institutionen reagieren mit Übernahme von Forderungen oder Ausschluss, beides stärkt das Narrativ der Ausnahme und drängt Richtung Illiberale Demokratie.",
+    "en": "Populism constructs a homogeneous people against corrupt elites and external threats. It uses affective simplification, plebiscitary gestures, and populist performance to bypass representative mediation. Institutions respond by co-opting or excluding, both reinforcing the exception narrative and drifting toward illiberal democracy."
+  },
+  "mechanisms": {
+    "de": "Charismatische Figuren bündeln heterogene Unzufriedenheiten. Medienlogik belohnt Polarisierung und Personalisierung. Verfassungsänderungen zielen auf Exekutivmacht und Kontrolle der Justiz. Öffentliche Verwaltung wird durch Loyalitätskriterien besetzt. Politische Gegner werden delegitimiert, wodurch Gewaltfantasien normalisiert werden.",
+    "en": "Charismatic figures bundle heterogeneous grievances. Media logic rewards polarisation and personalisation. Constitutional changes target executive power and control of judiciary. Public administration is staffed by loyalty. Political opponents are delegitimised, normalising fantasies of violence."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Volksführer",
+        "en": "People's leader"
+      },
+      "description": {
+        "de": "Personifiziert das Kollektiv, beansprucht unmittelbare Stimme.",
+        "en": "Personifies the collective, claims direct voice."
+      }
+    },
+    {
+      "name": {
+        "de": "Dauerwahlkampf",
+        "en": "Perpetual campaign"
+      },
+      "description": {
+        "de": "Regieren als ständige Mobilisierung gegen Feindbilder.",
+        "en": "Governing as permanent mobilisation against foes."
+      }
+    },
+    {
+      "name": {
+        "de": "Freund-Feind-Matrix",
+        "en": "Friend–enemy matrix"
+      },
+      "description": {
+        "de": "Komplexe Themen werden auf Loyalitätstest reduziert.",
+        "en": "Complex issues reduced to loyalty tests."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Plebiszitäre Geste",
+      "definition": {
+        "de": "Symbolische Anrufung des Volkes ohne deliberative Tiefe.",
+        "en": "Symbolic invocation of the people without deliberative depth."
+      }
+    },
+    {
+      "term": "Illiberale Demokratie",
+      "definition": {
+        "de": "Wahlen bleiben, Checks and Balances werden abgebaut.",
+        "en": "Elections remain while checks and balances erode."
+      }
+    },
+    {
+      "term": "Populistische Performanz",
+      "definition": {
+        "de": "Inszenierung von Authentizität gegen institutionelle Vermittlung.",
+        "en": "Performance of authenticity against institutional mediation."
+      }
+    }
+  ],
+  "related": [
+    "polarisierung",
+    "empoerungsdynamiken",
+    "entmenschlichung-buerokratie",
+    "ethnonationalismus",
+    "faschisierung",
+    "fragmentierung-der-oeffentlichkeit"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/populismus/rally-placeholder.jpg",
+      "/media/populismus/poster-wall-placeholder.jpg",
+      "/media/populismus/tv-studio-placeholder.png"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "populismus",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Wer wird adressiert?",
+        "en": "Who is addressed?"
+      },
+      "answer": {
+        "de": "Ein homogenisiertes Volk, das gegen Eliten und Minderheiten formiert wird.",
+        "en": "A homogenised people framed against elites and minorities."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Daten helfen?",
+        "en": "Which data help?"
+      },
+      "answer": {
+        "de": "Wahlkreiskarten, Medienzeitanteile, Social-Media-Reichweiten, Verfassungsänderungen nach Ressort.",
+        "en": "District maps, media airtime, social reach metrics, constitutional changes by portfolio."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie sieht Intervention aus?",
+        "en": "What does intervention look like?"
+      },
+      "answer": {
+        "de": "Stärkung unabhängiger Institutionen, Transparenzpflichten für Kampagnen, Medienpluralität.",
+        "en": "Strengthening independent institutions, transparency duties for campaigns, media plurality."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann kippt es in Illiberale Demokratie?",
+        "en": "When does it tip into illiberal democracy?"
+      },
+      "answer": {
+        "de": "Wenn Gewaltenteilung eingeschränkt, Justiz personell erobert, Plebiszitäre Geste institutionelle Kontrolle ersetzt.",
+        "en": "When separation of powers is curtailed, judiciary staffed by loyalists, and plebiscitary gesture replaces institutional control."
+      }
+    }
+  ],
+  "editNotes": [
+    "Populismus mit Freund-Feind-Logik beschrieben.",
+    "D3: Sankey für Stimmenflüsse zwischen Lagern; Zeitleiste Verfassungsänderungen; Ridgeline für Empörungsspitzen.",
+    "Platzhalter-Bilder gesetzt; später Rally-Footage/Poster-Scans."
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "finanzialisierung",
+  "slug": "finanzialisierung",
+  "title": {
+    "de": "Finanzialisierung",
+    "en": "Financialization"
+  },
+  "summary": {
+    "de": "Finanzlogik dominiert Unternehmen, Haushalte und Staaten; Rendite verdrängt soziale Ziele.",
+    "en": "Finance logic dominates firms, households, and states; returns displace social aims."
+  },
+  "categories": [
+    "Macht",
+    "Materie"
+  ],
+  "tags": [
+    "assetization",
+    "leverage",
+    "short-termism",
+    "private-equity",
+    "derivatives"
+  ],
+  "severity": 74,
+  "volatility": 61,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Finanzsektor-BIP",
+        "en": "Finance share GDP"
+      },
+      "value": "↑",
+      "source": "Nat. accounts"
+    },
+    {
+      "label": {
+        "de": "Private-Equity-Deals",
+        "en": "Private equity deals"
+      },
+      "value": "hoch",
+      "source": "Pitchbook"
+    },
+    {
+      "label": {
+        "de": "Aktienrückkäufe",
+        "en": "Buybacks"
+      },
+      "value": "rekord",
+      "source": "Market data"
+    }
+  ],
+  "diagnosis": {
+    "de": "Finanzialisierung bedeutet Verschiebung von Produktion zu Portfolio. Unternehmen optimieren Shareholder Value statt Löhne und Innovation. Haushalte werden zu Investoren, Schulden werden Struktur. Staaten finanzieren sich über Märkte, Haushaltsdisziplin folgt Ratings. Soziale Infrastruktur wird zu Asset-Klassen (Wohnung, Pflege). Ergebnis: Volatilität, Ungleichheit, Kurzfristigkeit.",
+    "en": "Financialization shifts from production to portfolio. Firms optimise shareholder value over wages and innovation. Households become investors; debt turns structural. States rely on markets; fiscal discipline follows ratings. Social infrastructure becomes asset class (housing, care). Result: volatility, inequality, short-termism."
+  },
+  "mechanisms": {
+    "de": "Deregulierung und niedrige Zinsen erhöhen Leverage. Bonus- und KPI-Systeme belohnen kurzfristige Gewinne. Finanzprodukte entkoppeln Risiko von Herkunft. Private Equity strippt Kosten, verkauft weiter. Staaten externalisieren Risiko auf Haushalte (Rente, Gesundheit) durch Kapitalmarktlogik.",
+    "en": "Deregulation and low rates raise leverage. Bonus/KPI systems reward short-term gains. Financial products decouple risk from origin. Private equity strips costs and exits. States offload risk to households (pensions, health) via capital markets."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Assetisierung",
+        "en": "Assetization"
+      },
+      "description": {
+        "de": "Alles wird handelbares Asset: Wohnungen, Daten, Wasser.",
+        "en": "Everything becomes a tradable asset: housing, data, water."
+      }
+    },
+    {
+      "name": {
+        "de": "Buyback-Schleife",
+        "en": "Buyback Loop"
+      },
+      "description": {
+        "de": "Gewinne fließen in Rückkäufe statt in Löhne/Innovation.",
+        "en": "Profits flow to buybacks, not wages/innovation."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Leverage",
+      "definition": {
+        "de": "Einsatz von Fremdkapital zur Renditesteigerung.",
+        "en": "Using debt to amplify returns."
+      }
+    },
+    {
+      "term": "Asset-Klasse",
+      "definition": {
+        "de": "Kategorie handelbarer Vermögenswerte.",
+        "en": "Category of tradable assets."
+      }
+    },
+    {
+      "term": "Short-Termism",
+      "definition": {
+        "de": "Fokus auf kurzfristige Gewinne statt langfristiger Stabilität.",
+        "en": "Focus on short-term gain over long-term stability."
+      }
+    }
+  ],
+  "related": [
+    "automatisierung",
+    "extraktivismus",
+    "gentrifizierung",
+    "geopolitische-verschiebungen",
+    "rezession",
+    "schuldenlast"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-finanz-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "National accounts, market data",
+      "note": "Finance share, buybacks"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/finanzialisierung/crisis-placeholder.jpg",
+      "/media/finanzialisierung/impact-placeholder.png",
+      "/media/finanzialisierung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Chord: sector flows; treemap: assetized categories; line: buybacks vs wages."
+  ],
+  "timeline": [
+    {
+      "year": "2008",
+      "location": "Global",
+      "event": "Krisenrally",
+      "description": "Zinsen fallen, Assetpreise steigen."
+    },
+    {
+      "year": "2015",
+      "location": "US/EU",
+      "event": "Buyback-Boom",
+      "description": "Rückkäufe schlagen Investitionen."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "PE in Infrastruktur",
+      "description": "Privates Kapital kauft Versorgungsgüter."
+    }
+  ]
+}

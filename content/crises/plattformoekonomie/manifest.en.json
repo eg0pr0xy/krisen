@@ -1,0 +1,156 @@
+{
+  "id": "plattformoekonomie",
+  "slug": "plattformoekonomie",
+  "title": {
+    "de": "Plattformoekonomie",
+    "en": "Platform Economy"
+  },
+  "summary": {
+    "de": "Digitale Plattformen orchestrieren Märkte, setzen Regeln und internalisieren Datenvorteile.",
+    "en": "Digital platforms orchestrate markets, set rules, and internalise data advantages."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "take-rate",
+    "api",
+    "zweiseitig",
+    "netzwerk",
+    "lock-in"
+  ],
+  "severity": 78,
+  "volatility": 61,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Top-5 Plattformen Marktkap. Anteil S&P500",
+        "en": "Top-5 platforms share of S&P500 mcap"
+      },
+      "value": "~25%",
+      "source": "Bloomberg 2024"
+    },
+    {
+      "label": {
+        "de": "Durchschnittliche Take-Rate (Marktplätze)",
+        "en": "Average take rate (marketplaces)"
+      },
+      "value": "15-30%",
+      "source": "Branch research"
+    },
+    {
+      "label": {
+        "de": "API-Restriktionen / Jahr",
+        "en": "API restrictions per year"
+      },
+      "value": "+70% seit 2019",
+      "source": "Devrel Reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Plattformen schaffen infrastrukturelle Macht, indem sie Zugänge bündeln. Luhmann: Sie setzen Entscheidungsprämissen für Märkte, Recht folgt nach. Baudrillard: Die Plattform inszeniert Neutralität, während sie den Code der Sichtbarkeit besitzt. Datenakkumulation erlaubt Preis- und Arbeitsregie, ohne Eigentum an Ware. Historisch verschiebt sich die Rolle des Staates: Regulierung jagt Gatekeeper-APIs und Selbstbevorzugung.",
+    "en": "Platforms build infrastructural power by bundling access. Luhmann: they set decision premises for markets; law reacts later. Baudrillard: the platform stages neutrality while holding the code of visibility. Data accumulation enables price and labour command without owning the goods. Historically the state's role shifts: regulators chase gatekeeper APIs and self-preferencing."
+  },
+  "mechanisms": {
+    "de": "Netzwerkeffekte erzeugen winner-take-most. Take-Rates steigen, wenn Abhängigkeiten gesetzt sind. API-Politik wird als Disziplinierung genutzt: Zugänge werden gegen Revenue-Sharing und Datenabgabe getauscht. Selbstbevorzugung verschiebt Ranking und Sichtbarkeit. Arbeitskräfte werden in Gig-Modelle externalisiert; Risiken tragen Fahrer und Kuriere.",
+    "en": "Network effects create winner-take-most. Take rates rise once dependency is locked in. API policy acts as discipline: access traded for revenue-share and data surrender. Self-preferencing shifts ranking and discoverability. Labour is externalised into gig models; drivers and couriers bear the risk."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Zweiseitiger Markt",
+        "en": "Two-Sided Market"
+      },
+      "description": {
+        "de": "Plattform vermittelt, kassiert Miete, bleibt formal neutral.",
+        "en": "Platform intermediates, charges rent, claims neutrality."
+      }
+    },
+    {
+      "name": {
+        "de": "Gatekeeper-API",
+        "en": "Gatekeeper API"
+      },
+      "description": {
+        "de": "Technische Schnittstelle als politisches Werkzeug: Zugang gegen Daten.",
+        "en": "Technical interface as political tool: access traded for data."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Take Rate",
+      "definition": {
+        "de": "Anteil, den die Plattform pro Transaktion einbehält.",
+        "en": "Share the platform retains per transaction."
+      }
+    },
+    {
+      "term": "Selbstbevorzugung",
+      "definition": {
+        "de": "Eigene Produkte werden im Ranking vorangestellt.",
+        "en": "Platform ranks its own products above others."
+      }
+    },
+    {
+      "term": "Lock-In",
+      "definition": {
+        "de": "Gebundenheit durch Netzwerkeffekte, Daten und Gewohnheiten.",
+        "en": "Stickiness through network effects, data, and habit."
+      }
+    }
+  ],
+  "related": [
+    "digitalisierung",
+    "datenfragmentierung",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-plattform",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Bloomberg 2024 Big Tech Weight"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/plattformoekonomie/crisis-placeholder.jpg",
+      "/media/plattformoekonomie/impact-placeholder.png",
+      "/media/plattformoekonomie/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Take-rate step chart; API change timeline; network-effect curve."
+  ],
+  "timeline": [
+    {
+      "year": "2007",
+      "location": "Global",
+      "event": "App-Ökosystem",
+      "description": "Store-Modelle setzen 30%-Standard für digitale Mieten."
+    },
+    {
+      "year": "2019",
+      "location": "EU",
+      "event": "API-Shutdown-Welle",
+      "description": "Privacy/Policy-Änderungen beschneiden Drittzugriff."
+    },
+    {
+      "year": "2024",
+      "location": "USA/EU",
+      "event": "Gatekeeper-Regulierung",
+      "description": "DMA/Antitrust zwingen zu Interoperabilität und geringeren Take-Rates."
+    }
+  ]
+}

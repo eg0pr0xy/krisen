@@ -1,0 +1,156 @@
+{
+  "id": "pflegenotstand",
+  "slug": "pflegenotstand",
+  "title": {
+    "de": "Pflegenotstand",
+    "en": "Care Shortage"
+  },
+  "summary": {
+    "de": "Zu wenig Personal für alternde Bevölkerungen; Versorgungslücken werden sichtbar, Belastung explodiert.",
+    "en": "Too little staff for ageing societies; care gaps surface, burden explodes."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "pflege",
+    "personal",
+    "alterung",
+    "lohn",
+    "migration"
+  ],
+  "severity": 78,
+  "volatility": 64,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Offene Pflegestellen",
+        "en": "Open care positions"
+      },
+      "value": ">10% unbesetzt",
+      "source": "Health ministries"
+    },
+    {
+      "label": {
+        "de": "Pflegeschlüssel",
+        "en": "Staff-to-patient ratio"
+      },
+      "value": "sinkend",
+      "source": "Hospitals"
+    },
+    {
+      "label": {
+        "de": "Ausfalltage/Burnout",
+        "en": "Sick days/burnout"
+      },
+      "value": "hoch",
+      "source": "Insurers"
+    }
+  ],
+  "diagnosis": {
+    "de": "Pflegenotstand ist demografisch und ökonomisch. Alterung erhöht Bedarf, Löhne und Bedingungen bleiben schlecht. Migration schließt Lücken, schafft aber Abhängigkeiten. Care-Arbeit wird feminisiert und unterbewertet. Folge: Wartelisten, Qualitätsverlust, moralischer Stress für Personal und Angehörige.",
+    "en": "Care shortage is demographic and economic. Ageing lifts demand; pay and conditions lag. Migration plugs gaps but builds dependencies. Care work is feminised and undervalued. Result: waiting lists, quality drop, moral stress for staff and families."
+  },
+  "mechanisms": {
+    "de": "Niedrige Löhne und hohe Belastung treiben Fachkräfte hinaus. Ausbildungskapazitäten reichen nicht. Agenturen importieren Personal kurzfristig. Finanzierung über Fallpauschalen spart Personal. Familien kompensieren unbezahlte Stunden; Schwarzmarkt wächst.",
+    "en": "Low pay and high strain push staff out. Training capacity lags. Agencies import staff short-term. DRG-style financing cuts staffing. Families backfill with unpaid hours; grey markets grow."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Leerer Dienstplan",
+        "en": "Empty Rota"
+      },
+      "description": {
+        "de": "Schichten bleiben unbesetzt, Qualität sinkt.",
+        "en": "Shifts go unfilled, quality drops."
+      }
+    },
+    {
+      "name": {
+        "de": "Pflegekarussell",
+        "en": "Care Carousel"
+      },
+      "description": {
+        "de": "Personal rotiert zwischen Ländern, Patient*innen verlieren Kontinuität.",
+        "en": "Staff rotate across borders, patients lose continuity."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Care Gap",
+      "definition": {
+        "de": "Differenz zwischen Bedarf und verfügbarer Pflege.",
+        "en": "Gap between care need and available supply."
+      }
+    },
+    {
+      "term": "DRG",
+      "definition": {
+        "de": "Fallpauschale; ökonomischer Druck auf Pflegezeit.",
+        "en": "Diagnosis-related group; economic pressure on care time."
+      }
+    },
+    {
+      "term": "Moral Distress",
+      "definition": {
+        "de": "Belastung, wenn notwendige Pflege nicht geleistet werden kann.",
+        "en": "Stress when needed care cannot be delivered."
+      }
+    }
+  ],
+  "related": [
+    "demografischer-wandel",
+    "alterung",
+    "klimaflucht",
+    "prekarisierung",
+    "arbeitslosigkeit",
+    "artensterben"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-pflege",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "WHO / national health stats"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/pflegenotstand/crisis-placeholder.jpg",
+      "/media/pflegenotstand/impact-placeholder.png",
+      "/media/pflegenotstand/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Staff-to-patient ratios; open positions map; burnout/time series."
+  ],
+  "timeline": [
+    {
+      "year": "2010s",
+      "location": "OECD",
+      "event": "Alterung + Kostendruck",
+      "description": "Bedarf steigt, Stellen bleiben leer."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie",
+      "description": "Belastung bricht Systeme an, Abgänge steigen."
+    },
+    {
+      "year": "2023-2024",
+      "location": "Europa",
+      "event": "Rekrutierungsoffensiven",
+      "description": "Kurzfristige Programme, strukturelle Probleme bleiben."
+    }
+  ]
+}

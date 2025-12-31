@@ -1,0 +1,141 @@
+{
+  "id": "zensur",
+  "slug": "zensur",
+  "title": {
+    "de": "Zensur",
+    "en": "Censorship"
+  },
+  "summary": {
+    "de": "Informationszugang wird durch Staat, Plattformen oder Märkte selektiv blockiert, verzögert oder umgedeutet.",
+    "en": "Access to information is selectively blocked, delayed, or reframed by states, platforms, or markets."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "medien",
+    "plattform",
+    "recht",
+    "filter"
+  ],
+  "severity": 73,
+  "volatility": 61,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Takedown-Rate",
+        "en": "Takedown rate"
+      },
+      "value": "steigend",
+      "source": "Plattformberichte"
+    },
+    {
+      "label": {
+        "de": "Gesetzliche Sperren",
+        "en": "Legal blocks"
+      },
+      "value": "neue Listen",
+      "source": "Behördenmitteilungen"
+    },
+    {
+      "label": {
+        "de": "Marktzugang",
+        "en": "Market access"
+      },
+      "value": "an Lizenz gebunden",
+      "source": "Regulierungsregister"
+    }
+  ],
+  "diagnosis": {
+    "de": "Zensur verschiebt sich von offener Kontrolle zu fragmentierter Governance: Uploadfilter, Geo-Blocking, Lizenzauflagen und finanzielle Entmonetarisierung. Private Akteure exekutieren staatliche Vorgaben, ergänzen eigene Brand-Safety-Logiken und verschleiern Verantwortung. Öffentlichkeit wird zur summierten Restmenge erlaubter Inhalte.",
+    "en": "Censorship shifts from overt control to fragmented governance: upload filters, geo-blocking, licensing, and demonetisation. Private actors execute state mandates, add brand-safety logics, and obfuscate responsibility. The public sphere becomes the residual sum of allowed content."
+  },
+  "mechanisms": {
+    "de": "Proaktive Filter automatisieren Vorsicht. Notice-and-takedown verschiebt Beweislast auf Betroffene. Zahlungsdienstleister und App-Stores setzen inoffizielle Inhaltsgrenzen. Staaten nutzen Infrastrukturkontrolle (DNS, App-Stores) als Druckmittel. Selbstzensur breitet sich aus, weil Regeln und Sanktionen intransparent sind.",
+    "en": "Proactive filters automate caution. Notice-and-takedown shifts burden of proof to users. Payment processors and app stores impose unofficial content limits. States leverage infrastructure control (DNS, app stores) as leverage. Self-censorship spreads because rules and penalties are opaque."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Uploadfilter",
+        "en": "Upload filter"
+      },
+      "description": {
+        "de": "Automatisierte Vorzensur ohne Kontextsensitivität.",
+        "en": "Automated pre-censorship without contextual sensitivity."
+      }
+    },
+    {
+      "name": {
+        "de": "Geoblock",
+        "en": "Geoblock"
+      },
+      "description": {
+        "de": "Regionale Ausschnitte einer globalen Öffentlichkeit.",
+        "en": "Regional slices of a global public sphere."
+      }
+    },
+    {
+      "name": {
+        "de": "Brand Safety",
+        "en": "Brand safety"
+      },
+      "description": {
+        "de": "Werbekontrolle als faktische Inhaltssteuerung.",
+        "en": "Advertising control as de facto content governance."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Notice-and-Takedown",
+      "definition": {
+        "de": "Verfahren, bei dem Inhalte nach Meldung entfernt werden müssen.",
+        "en": "Procedure requiring content removal after notification."
+      }
+    },
+    {
+      "term": "Shadowban",
+      "definition": {
+        "de": "Unsichtbare Reichweitenbegrenzung ohne explizite Sperre.",
+        "en": "Invisible reach limitation without explicit ban."
+      }
+    },
+    {
+      "term": "Infrastrukturzensur",
+      "definition": {
+        "de": "Blockade auf DNS-, Payment- oder App-Store-Ebene.",
+        "en": "Blocking at DNS, payment, or app-store layer."
+      }
+    }
+  ],
+  "related": [
+    "fragmentierung-der-oeffentlichkeit",
+    "medienerosion",
+    "polarisierung",
+    "symbolische-uebercodierung",
+    "abschiebungsapparat",
+    "algorithmische-steuerung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/zensur/crisis-placeholder.jpg",
+      "/media/zensur/impact-placeholder.png",
+      "/media/zensur/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "zensur",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Zensur mit infrastruktureller und ökonomischer Dimension ausgearbeitet.",
+    "Draft für weitere Ländervergleiche."
+  ]
+}

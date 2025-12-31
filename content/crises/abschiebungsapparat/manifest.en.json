@@ -1,0 +1,149 @@
+{
+  "id": "abschiebungsapparat",
+  "slug": "abschiebungsapparat",
+  "title": {
+    "de": "Abschiebungsapparat",
+    "en": "Deportation apparatus"
+  },
+  "summary": {
+    "de": "Der Abschiebungsapparat bezeichnet ein hochkomplexes, mehrstufiges Vollstreckungs- und Steuerungsregime, das Migration nicht als soziales oder humanitäres Phänomen behandelt, sondern als verwaltungsrechtlich zu sanktionierende Abweichung. Er transformiert Mobilität in ein Netzwerk aus Kontrolle, Klassifikation, Zwang und Externalisierung.",
+    "en": "The deportation apparatus describes a highly complex, multi-layered enforcement and governance regime that treats migration not as a social or humanitarian phenomenon but as an administratively sanctionable deviation. It transforms mobility into a network of control, classification, coercion and externalisation."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "abschiebung",
+    "migrationspolitik",
+    "exekutive",
+    "haft"
+  ],
+  "severity": 78,
+  "volatility": 62,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Rückführungsquoten",
+        "en": "Return quotas"
+      },
+      "value": "steigend",
+      "source": "Innenministerien, Frontex"
+    },
+    {
+      "label": {
+        "de": "Haftkapazitäten",
+        "en": "Detention capacity"
+      },
+      "value": "Ausbau +15%",
+      "source": "Landesbauprogramme"
+    },
+    {
+      "label": {
+        "de": "Gerichtslast",
+        "en": "Court load"
+      },
+      "value": "anhaltend hoch",
+      "source": "Verwaltungsgerichte"
+    }
+  ],
+  "diagnosis": {
+    "de": "Der Abschiebungsapparat ist ein struktureller Knotenpunkt der Polykrise mit ökonomischer Ungleichheit, geopolitischer Gewalt, ökologischer Destabilisierung, Demokratieabbau und algorithmischer Steuerung. Er behandelt Migration als verwaltungsrechtlich sanktionierbare Abweichung, verteilt Verantwortung entlang administrativer Ketten, externalisiert Gewalt und stabilisiert staatliche Ordnung durch selektiven Ausschluss. Abschiebung ist kein Ausnahmeakt, sondern die Normalform staatlicher Ordnungspolitik – Menschen werden auf ihren Status reduziert, Biografien verlieren Relevanz, Gewalt erscheint als rein administrativer Ablauf.",
+    "en": "The deportation apparatus is a structural polycrisis node where economic inequality, geopolitical violence, ecological destabilisation, democratic erosion and algorithmic governance converge. It treats migration as an administratively sanctionable deviation, fragments responsibility along administrative chains, externalises violence and stabilises state order through selective exclusion. Deportation is not an exception but the normal mode of state order politics—people are reduced to status, biographies lose relevance, and violence appears as a purely administrative process."
+  },
+  "mechanisms": {
+    "de": "[Administrative Gewalt] Akten, Fristen, Zuständigkeiten und Statuswechsel erzeugen Zwang. [Externalisierung] Kosten, Risiken und moralische Konflikte werden an Transit- und Herkunftsstaaten ausgelagert (Rücknahmeabkommen, Lager, „sichere Drittstaaten“). [Differenzielle Inklusion] Arbeitskraft wird temporär integriert, Rechte bleiben suspendiert. [Zeitliche Zermürbung] Langwierige Verfahren, Kettenduldungen, permanente Widerrufbarkeit erzeugen chronische Unsicherheit. [Privatisierte Vollstreckung] Sicherheitsfirmen, Charterunternehmen und Logistikdienstleister übernehmen Teile der Abschiebung. [Sicherheitsnarrativ] Migration wird mit Kriminalität, Krankheit oder Terror verknüpft, Abschiebung erscheint als präventive Maßnahme. ICE-Agenten in den USA, Frontex-Charterflüge, biometrische Grenzsysteme und private Sicherheitsdienstleister sind reguläre Ausführungsorgane dieses Regimes.",
+    "en": "[Administrative violence] Files, deadlines, competences and status changes produce coercion. [Externalisation] Costs, risks and moral conflict are outsourced to transit and origin states (readmission deals, camps, “safe third countries”). [Differential inclusion] Labour is temporarily integrated while rights remain suspended. [Temporal attrition] Lengthy procedures, chain tolerations and permanent revocability generate chronic uncertainty. [Privatised enforcement] Security firms, charter companies and logistics providers carry out parts of deportation. [Security narrative] Migration is linked to crime, disease or terror so deportation appears preventive. ICE agents in the USA, Frontex charter flights, biometric border systems and private contractors are regular execution organs of this regime."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Kettenflughafen",
+        "en": "Chain airport"
+      },
+      "description": {
+        "de": "Verdichtung von Transitpunkten zu einem Maschinenraum, der Menschenströme unsichtbar verschiebt.",
+        "en": "Transit nodes condensed into an engine room that invisibly reroutes people."
+      }
+    },
+    {
+      "name": {
+        "de": "Legaltechniker",
+        "en": "Legal technician"
+      },
+      "description": {
+        "de": "Spezialist:innen, die Paragraphen als Fließband konfigurieren und Verantwortung minimieren.",
+        "en": "Specialists configuring statutes as conveyor belts while minimising responsibility."
+      }
+    },
+    {
+      "name": {
+        "de": "Nicht-Ort",
+        "en": "Non-place"
+      },
+      "description": {
+        "de": "Transit- und Wartestrukturen, in denen Zeit zum Steuerungsinstrument wird.",
+        "en": "Transit and waiting structures where time is used as a control device."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Rückführungskette",
+      "definition": {
+        "de": "Abfolge aus Haft, Transport, Übergabe, die als logistischer Prozess geplant wird.",
+        "en": "Sequence of detention, transport, handover planned as a logistical process."
+      }
+    },
+    {
+      "term": "Aufenthaltsentzug",
+      "definition": {
+        "de": "Entscheidung, einen bisherigen Schutzstatus administrativ zu entkoppeln.",
+        "en": "Administrative decision to decouple an existing protection status."
+      }
+    },
+    {
+      "term": "Outsourcing",
+      "definition": {
+        "de": "Verlagerung staatlicher Zwangsausübung an private oder externe Akteure.",
+        "en": "Shift of state coercion to private or external actors."
+      }
+    }
+  ],
+  "related": [
+    "flucht",
+    "biopolitische-zuschreibungen",
+    "algorithmische-steuerung",
+    "autoritarismus",
+    "faschisierung",
+    "kuenstliche-intelligenz",
+    "entmenschlichung-buerokratie",
+    "abschiebungsapparat",
+    "prekarisierung",
+    "aufmerksamkeitsoekonomie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/abschiebungsapparat/crisis-placeholder.jpg",
+      "/media/abschiebungsapparat/impact-placeholder.png",
+      "/media/abschiebungsapparat/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "abschiebungsapparat",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Platzhalter ersetzt, Fokus auf Apparate-Logik und Kettenstrukturen.",
+    "Status bleibt Draft für weitere Quellenprüfung."
+  ],
+  "analysis": {
+    "de": "The deportation apparatus is not an isolated migration policy tool but a structural polycrisis node where economic inequality, geopolitical violence, ecological destabilisation, democratic erosion and algorithmic governance converge. Instead of addressing causes like war, climate shocks, trade asymmetries or state failure, it translates these fractures into individual legal cases, depoliticising and criminalising mobility as a condition. Movement becomes guilt, presence deviation, existence an administrative problem. Responsibility fragments along institutional chains so violence appears as administrative necessity, allowing democratic orders to normalise exclusion without explicit authoritarian declaration. Simultaneously it functions as entropy management: channeling mobility while outsourcing instability to margins, peripheries and third countries. It links democratic backsliding, authoritarianism, biopolitics, algorithmic governance and militarization, keeping systems functional by subtracting people from the political collective.",
+    "en": "The deportation apparatus is a structural polycrisis node where economic inequality, geopolitical violence, ecological destabilisation, democratic erosion and algorithmic governance converge. Rather than addressing causes such as war, climate disasters, trade asymmetries or state failure, it translates these fractures into individual legal cases, depoliticising and criminalising mobility as a condition. Movement becomes guilt, presence deviation, existence an administrative problem. Responsibility fragments along institutional chains so violence looks like administrative necessity, allowing democratic orders to normalise exclusion without explicit authoritarian declaration. Simultaneously it functions as entropy management by channeling mobility while outsourcing instability to margins, peripheries and third countries. It links democratic backsliding, authoritarianism, biopolitics, algorithmic governance and militarization and keeps systems functional by subtracting people from the political collective."
+  }
+}

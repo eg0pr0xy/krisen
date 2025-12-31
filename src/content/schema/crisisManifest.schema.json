@@ -1,0 +1,284 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CrisisManifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "slug",
+    "title",
+    "summary",
+    "categories",
+    "tags",
+    "severity",
+    "volatility",
+    "timeHorizon",
+    "signals",
+    "diagnosis",
+    "mechanisms",
+    "archetypes",
+    "glossary",
+    "related",
+    "lastUpdatedISO",
+    "version",
+    "status",
+    "generatedBy"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "slug": { "type": "string" },
+    "title": {
+      "type": "object",
+      "required": ["de", "en"],
+      "additionalProperties": false,
+      "properties": {
+        "de": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "timeline": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["year", "event"],
+        "additionalProperties": false,
+        "properties": {
+          "year": { "type": "string" },
+          "location": { "type": "string" },
+          "event": { "type": "string" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "summary": {
+      "type": "object",
+      "required": ["de", "en"],
+      "additionalProperties": false,
+      "properties": {
+        "de": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "categories": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "systemicLoad": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "criticalThreshold": { "type": "string", "format": "date-time" },
+    "triggers": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "keywords": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "qa": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["question", "answer"],
+        "additionalProperties": false,
+        "properties": {
+          "question": {
+            "type": "object",
+            "required": ["de", "en"],
+            "additionalProperties": false,
+            "properties": {
+              "de": { "type": "string" },
+              "en": { "type": "string" }
+            }
+          },
+          "answer": {
+            "type": "object",
+            "required": ["de", "en"],
+            "additionalProperties": false,
+            "properties": {
+              "de": { "type": "string" },
+              "en": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "severity": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "volatility": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "timeHorizon": {
+      "type": "string",
+      "enum": ["immediate", "mid", "long"]
+    },
+    "analysis": {
+      "type": "object",
+      "required": ["de", "en"],
+      "additionalProperties": false,
+      "properties": {
+        "de": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "signals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label", "value"],
+        "additionalProperties": false,
+        "properties": {
+          "label": {
+            "type": "object",
+            "required": ["de", "en"],
+            "additionalProperties": false,
+            "properties": {
+              "de": { "type": "string" },
+              "en": { "type": "string" }
+            }
+          },
+          "value": { "type": "string" },
+          "source": { "type": "string" }
+          ,
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "diagnosis": {
+      "type": "object",
+      "required": ["de", "en"],
+      "additionalProperties": false,
+      "properties": {
+        "de": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "mechanisms": {
+      "type": "object",
+      "required": ["de", "en"],
+      "additionalProperties": false,
+      "properties": {
+        "de": { "type": "string" },
+        "en": { "type": "string" }
+      }
+    },
+    "archetypes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "description"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "object",
+            "required": ["de", "en"],
+            "additionalProperties": false,
+            "properties": {
+              "de": { "type": "string" },
+              "en": { "type": "string" }
+            }
+          },
+          "description": {
+            "type": "object",
+            "required": ["de", "en"],
+            "additionalProperties": false,
+            "properties": {
+              "de": { "type": "string" },
+              "en": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "glossary": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["term", "definition"],
+        "additionalProperties": false,
+        "properties": {
+          "term": { "type": "string" },
+          "definition": {
+            "type": "object",
+            "required": ["de", "en"],
+            "additionalProperties": false,
+            "properties": {
+              "de": { "type": "string" },
+              "en": { "type": "string" }
+            }
+          },
+          "archetypeLink": { "type": "string" }
+        }
+      }
+    },
+    "related": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "lastUpdatedISO": { "type": "string", "format": "date-time" },
+    "version": { "type": "string" },
+    "status": {
+      "type": "string",
+      "enum": ["missing", "draft", "locked"]
+    },
+    "generatedBy": {
+      "type": "object",
+      "required": ["provider"],
+      "additionalProperties": false,
+      "properties": {
+        "provider": { "type": "string", "enum": ["none", "gemini", "manual"] },
+        "model": { "type": "string" },
+        "seed": { "type": "string" },
+        "generatedAtISO": { "type": "string", "format": "date-time" }
+      }
+    },
+    "editNotes": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "lockReason": { "type": "string" },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label"],
+        "additionalProperties": false,
+        "properties": {
+          "label": { "type": "string" },
+          "url": { "type": "string" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "media": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "images": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "audio": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "video": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  }
+}

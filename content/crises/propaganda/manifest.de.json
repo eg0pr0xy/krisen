@@ -1,0 +1,157 @@
+{
+  "id": "propaganda",
+  "slug": "propaganda",
+  "title": {
+    "de": "Propaganda",
+    "en": "Propaganda"
+  },
+  "summary": {
+    "de": "Gezielte Kommunikationskampagnen formen Wahrnehmung und Handeln; Wahrheit wird Instrument.",
+    "en": "Targeted communication campaigns shape perception and action; truth becomes an instrument."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "framing",
+    "narrative",
+    "psyops",
+    "memes",
+    "state-media"
+  ],
+  "severity": 73,
+  "volatility": 67,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Staatsmedienanteil",
+        "en": "State media share"
+      },
+      "value": "hoch",
+      "source": "Media ownership"
+    },
+    {
+      "label": {
+        "de": "Koordinierte Kampagnen",
+        "en": "Coordinated campaigns"
+      },
+      "value": "↑",
+      "source": "Platform takedowns"
+    },
+    {
+      "label": {
+        "de": "Memetic Reichweite",
+        "en": "Meme reach"
+      },
+      "value": "millionen",
+      "source": "Platform analytics"
+    }
+  ],
+  "diagnosis": {
+    "de": "Propaganda nutzt Emotion, Wiederholung und Autorität, um Narrative zu verankern. State Media, Trolle und Bots verstärken Deutungen. Bildästhetiken, Musik und Memes transportieren Affekte schneller als Argumente. Ziel: Zustimmung, Ablenkung, Feindbildpflege. Wahrheit wird taktisch, nicht dialogisch.",
+    "en": "Propaganda leverages emotion, repetition, and authority to anchor narratives. State media, trolls, and bots amplify frames. Visuals, music, and memes move affect faster than argument. Aim: consent, distraction, enemy maintenance. Truth is tactical, not dialogical."
+  },
+  "mechanisms": {
+    "de": "Agenda-Setting durch kontrollierte Medien. Astroturfing simuliert Zustimmung. Framing koppelt Kritik an Verrat. Überflutung mit widersprüchlichen Botschaften erzeugt Müdigkeit. Kunst/Design werden instrumentalisiert für Heroisierung oder Angstbilder.",
+    "en": "Agenda-setting via controlled outlets. Astroturfing simulates consent. Framing ties dissent to betrayal. Flooding contradictory messages induces fatigue. Art/design are instrumentalised for heroisation or fear."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Große Erzählung",
+        "en": "Grand Narrative"
+      },
+      "description": {
+        "de": "Simple Story, die komplexe Realitäten ersetzt.",
+        "en": "Simple story replacing complex realities."
+      }
+    },
+    {
+      "name": {
+        "de": "Memetic Push",
+        "en": "Memetic Push"
+      },
+      "description": {
+        "de": "Bilder/Clips verbreiten Affekt und Deutung in Sekunden.",
+        "en": "Images/clips spread affect and frame within seconds."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Astroturfing",
+      "definition": {
+        "de": "Künstlich inszenierte Graswurzel-Unterstützung.",
+        "en": "Artificially staged grassroots support."
+      }
+    },
+    {
+      "term": "Framing",
+      "definition": {
+        "de": "Deutungsrahmen, der Wahrnehmung lenkt.",
+        "en": "Interpretive frame steering perception."
+      }
+    },
+    {
+      "term": "PsyOps",
+      "definition": {
+        "de": "Psychologische Operationen zur Beeinflussung von Verhalten.",
+        "en": "Psychological operations to influence behaviour."
+      }
+    }
+  ],
+  "related": [
+    "politische-gewaltfantasien",
+    "postfaktizitaet",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-propaganda-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Platform takedowns, media ownership",
+      "note": "Coordinated campaigns, state share"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/propaganda/crisis-placeholder.jpg",
+      "/media/propaganda/impact-placeholder.png",
+      "/media/propaganda/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Collage: slogans + grain; chord: source→target flows; timeline with glitch transitions."
+  ],
+  "timeline": [
+    {
+      "year": "2014",
+      "location": "Global",
+      "event": "Info-Operations",
+      "description": "Staatliche Trollfabriken werden sichtbar."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie-Frames",
+      "description": "Narrative über Schuld und Kontrolle konkurrieren."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Memetic Warfare",
+      "description": "Kurzform-Video/Meme als primäre Propagandavektoren."
+    }
+  ]
+}

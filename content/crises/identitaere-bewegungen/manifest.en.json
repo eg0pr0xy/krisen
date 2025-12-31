@@ -1,0 +1,141 @@
+{
+  "id": "identitaere-bewegungen",
+  "slug": "identitaere-bewegungen",
+  "title": {
+    "de": "Identitäre Bewegungen",
+    "en": "Identitarian movements"
+  },
+  "summary": {
+    "de": "Politische Mobilisierung über kulturelle Homogenität; Differenz wird als Bedrohung codiert.",
+    "en": "Political mobilisation around cultural homogeneity; difference coded as threat."
+  },
+  "categories": [
+    "Gefühl",
+    "Macht"
+  ],
+  "tags": [
+    "nativismus",
+    "kulturkampf",
+    "online-radikalisierung",
+    "jugend"
+  ],
+  "severity": 70,
+  "volatility": 66,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Memetische Kampagnen",
+        "en": "Memetic campaigns"
+      },
+      "value": "regelmäßig",
+      "source": "Plattformtracking"
+    },
+    {
+      "label": {
+        "de": "Straßenaufmärsche",
+        "en": "Street marches"
+      },
+      "value": "episodisch",
+      "source": "Polizeiberichte"
+    },
+    {
+      "label": {
+        "de": "Transnationalität",
+        "en": "Transnational links"
+      },
+      "value": "vernetzt",
+      "source": "Recherchenetzwerke"
+    }
+  ],
+  "diagnosis": {
+    "de": "Identitäre Bewegungen nutzen digitale Ästhetik und Aktionsformen, um ethnische und kulturelle Homogenität als politische Notwendigkeit zu inszenieren. Sie verknüpfen Gefahrennarrative (Bevölkerungsaustausch, Genderideologie) mit Männlichkeitsperformances und Low-Level-Provokationen. Die Strategie ist anschlussfähig an konservative Milieus und verschiebt Diskursgrenzen.",
+    "en": "Identitarian movements use digital aesthetics and action forms to stage ethnic and cultural homogeneity as political necessity. They combine danger narratives (replacement, gender ideology) with masculinity performances and low-level provocations. The strategy connects to conservative milieus and shifts discourse boundaries."
+  },
+  "mechanisms": {
+    "de": "Content-Farmen produzieren Bildsprache und Slogans, die algorithmisch verbreitet werden. Kleine Gruppen setzen spektakuläre Aktionen für mediale Resonanz. Intellektuelle Vordenker liefern pseudotheoretische Rahmung, die radikale Forderungen als Kulturverteidigung tarnt. Finanzströme laufen über Vereine und Crowdfunding, wodurch Transparenz fehlt.",
+    "en": "Content farms craft imagery and slogans that algorithms spread. Small groups stage spectacular actions for media resonance. Ideological framers provide pseudo-theory that masks radical aims as cultural defence. Funding flows through associations and crowdfunding, limiting transparency."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Hausbesetzung light",
+        "en": "Light occupation"
+      },
+      "description": {
+        "de": "Kurze Symbolaktionen an Grenzpunkten oder Gebäuden.",
+        "en": "Short symbolic actions at borders or buildings."
+      }
+    },
+    {
+      "name": {
+        "de": "Memewar",
+        "en": "Meme war"
+      },
+      "description": {
+        "de": "Koordinierte Bild- und Sprachspiele zur Diskursverschiebung.",
+        "en": "Coordinated imagery and wordplay to shift discourse."
+      }
+    },
+    {
+      "name": {
+        "de": "Metapolitik",
+        "en": "Metapolitics"
+      },
+      "description": {
+        "de": "Langsame kulturelle Unterwanderung statt offener Parteipolitik.",
+        "en": "Slow cultural infiltration instead of overt party politics."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ethnopluralismus",
+      "definition": {
+        "de": "Idee getrennter, vermeintlich gleichwertiger Kulturräume.",
+        "en": "Idea of separate, supposedly equal cultural spheres."
+      }
+    },
+    {
+      "term": "Remigration",
+      "definition": {
+        "de": "Euphemismus für Zwangsrückführung und Ausschluss.",
+        "en": "Euphemism for forced return and exclusion."
+      }
+    },
+    {
+      "term": "Metapolitik",
+      "definition": {
+        "de": "Strategie, Diskurse zu verschieben, bevor Macht übernommen wird.",
+        "en": "Strategy to shift discourse before seizing power."
+      }
+    }
+  ],
+  "related": [
+    "ethnonationalismus",
+    "zukunftsangst",
+    "entmenschlichung-buerokratie",
+    "faschisierung",
+    "fragmentierung-der-oeffentlichkeit",
+    "generationenkonflikt"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/identitaere-bewegungen/crisis-placeholder.jpg",
+      "/media/identitaere-bewegungen/impact-placeholder.png",
+      "/media/identitaere-bewegungen/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "identitaere-bewegungen",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Identitäre Bewegungen mit digitaler Taktik ausgearbeitet.",
+    "Draft belassen für Quellenhinterlegung."
+  ]
+}

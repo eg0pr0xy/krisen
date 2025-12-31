@@ -1,0 +1,11 @@
+[
+  { "source": "autokratie", "target": "demokratieabbau", "type": "polycrisis" },
+  { "source": "autokratie", "target": "autoritarismus", "type": "polycrisis" },
+  { "source": "autokratie", "target": "algorithmische-steuerung", "type": "polycrisis" },
+  { "source": "autokratie", "target": "aufwertung", "type": "polycrisis" },
+  { "source": "autokratie", "target": "aufmerksamkeitsoekonomie", "type": "polycrisis" },
+  { "source": "autokratie", "target": "biopolitische-zuschreibungen", "type": "polycrisis" },
+  { "source": "autokratie", "target": "prekarisierung", "type": "polycrisis" },
+  { "source": "autokratie", "target": "flucht", "type": "polycrisis" },
+  { "source": "autokratie", "target": "abschiebungsapparat", "type": "polycrisis" }
+]

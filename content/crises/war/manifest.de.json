@@ -1,0 +1,225 @@
+{
+  "id": "war",
+  "slug": "war",
+  "title": {
+    "de": "Krieg",
+    "en": "War"
+  },
+  "summary": {
+    "de": "Krieg ist kein bloßes Ereignis, sondern eine radikale Phasenverschiebung im soziopolitischen Aggregatzustand. Er definiert sich als die systemische Suspension der symbolischen Ordnung (Recht, Diskurs) zugunsten einer nekropolitischen Souveränität, die sich ausschließlich durch die Vernichtungskapazität physischer Körper und infrastruktureller Netzwerke legitimiert.",
+    "en": "War is not merely an event, but a radical phase shift in the sociopolitical aggregate state. It defines itself as the systemic suspension of symbolic order (law, discourse) in favor of necropolitical sovereignty, which legitimizes itself exclusively through the destructive capacity of physical bodies and infrastructural networks."
+  },
+  "categories": [
+    "Macht"
+  ],
+  "tags": [
+    "territorium",
+    "deterrenz",
+    "eskalation",
+    "logistik",
+    "propaganda"
+  ],
+  "severity": 88,
+  "volatility": 84,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Tote durch Konflikte (2024 proj.)",
+        "en": "Deaths from conflicts (2024 proj.)"
+      },
+      "value": "> 230.000",
+      "source": "Conflict monitoring"
+    },
+    {
+      "label": {
+        "de": "Aktive staatliche Konflikte (2024)",
+        "en": "Active state conflicts (2024)"
+      },
+      "value": "61",
+      "source": "International crisis data"
+    },
+    {
+      "label": {
+        "de": "Global gewaltsam Vertriebene (2024)",
+        "en": "Globally violently displaced (2024)"
+      },
+      "value": "123,2 Mio",
+      "source": "UNHCR/Displacement tracking"
+    },
+    {
+      "label": {
+        "de": "Ökonomische Kosten der Gewalt (2023/24)",
+        "en": "Economic costs of violence (2023/24)"
+      },
+      "value": "19,1 Bio USD",
+      "source": "World Bank estimates"
+    }
+  ],
+  "diagnosis": {
+    "de": "Vom symmetrischen Staatenkrieg (Westfälisches System, Clausewitz) hin zu asymmetrischen, hybriden Konflikten (Guerilla, Cyberwar, Terrorismus). Die Grenze zwischen Kombattant und Zivilist löst sich im 21. Jahrhundert zunehmend auf. Im Brennglas der Kritischen Theorie (Adorno) offenbart sich Krieg als die absolute 'Unwahrheit des Ganzen', der Rückfall in die Barbarei, die der Zivilisation inhärent ist. Foucaults Biopolitik mutiert hier zur Thanatopolitik: Die Verwaltung des Lebens weicht der Verwaltung des Todes. Nach Achille Mbembe ist Krieg der ultimative Ausdruck der 'Nekropolitik', in der Souveränität nicht mehr über Grenzen, sondern über die Macht zu töten definiert wird ('making die and letting live'). Mark Fisher würde im Kontext des 'Capitalist Realism' argumentieren, dass moderne Kriege oft als systemstabilisierende 'Hauntologien' fungieren – Gespenster vergangener Konflikte, die reanimiert werden, um Ressourcenakkumulation in einer stagnierenden Zukunft zu rechtfertigen. Baudrillard schließlich verschiebt die Szene noch einmal: Die Störung ist nicht nur Ausdruck eines Mangels an Sinn, sondern wird zum Effekt einer Welt, in der Simulation, Modelle und Codes an die Stelle der Realität treten. Strategische Fehlabschreckung kippt in Dauergefechte. Eskalationsleiter werden übersprungen, frozen conflicts destabilisieren Regionen. Infrastruktur ist Ziel und Lebensader zugleich, wodurch jedes Reparieren sofort zum Angriffspunkt wird.",
+    "en": "From symmetric interstate war (Westphalian system, Clausewitz) to asymmetric, hybrid conflicts (guerrilla, cyberwar, terrorism). The boundary between combatant and civilian increasingly dissolves in the 21st century. Through the lens of Critical Theory (Adorno), war reveals itself as the absolute 'untruth of the whole', the relapse into barbarism inherent to civilization. Foucault's biopolitics mutates here into thanatopolitics: the administration of life gives way to the administration of death. According to Achille Mbembe, war is the ultimate expression of 'necropolitics', in which sovereignty is defined not by borders, but by the power to kill ('making die and letting live'). Mark Fisher would argue in the context of 'Capitalist Realism' that modern wars often function as system-stabilizing 'hauntologies' - ghosts of past conflicts that are reanimated to justify resource accumulation in a stagnating future. Baudrillard finally shifts the scene once more: the disturbance is not merely an expression of a lack of meaning, but becomes the effect of a world where simulation, models, and codes take the place of reality. Strategic mis-deterrence slides into sustained engagements. Escalation ladders are jumped, frozen conflicts destabilise regions. Infrastructure is both target and lifeline, making every repair an immediate point of attack."
+  },
+  "mechanisms": {
+    "de": "Was ist es exakt? Eine organisierte, kollektive Gewaltanwendung, die darauf abzielt, den politischen Willen des Gegners durch physische und psychische Zerstörung zu brechen. Wer ist betroffen/verantwortlich? Betroffen: Zivilbevölkerung (Leidtragende), Biosphäre. Verantwortlich: Staatliche Exekutiven, militärisch-industrielle Komplexe, paramilitärische Akteure. Wo ist das Epizentrum? Polyzentrisch. Aktuell verschieben sich die Bruchlinien vom Globalen Süden (Sudan, Sahel) hin zu geopolitischen Nahtstellen in Eurasien (Ukraine) und der Levante (Gaza). Wann wird es kritisch? Wenn diplomatische Feedbackschleifen abreißen und Eskalationsdominanz zur einzigen verbliebenen Kommunikationsstrategie wird (Point of no Return). Warum passiert es jetzt? Hegemonialer Zerfall der unipolaren Weltordnung, Ressourcenknappheit (Klima), ideologische Verhärtung und ökonomische Stagnation erzeugen systemischen Druck. Wie kann das System stabilisiert werden? Durch Rekodierung der Kommunikation: Rückkehr von binärer Gewaltlogik zu komplexer Diplomatie, ökonomische Interdependenz und strikte Sanktionierung von Aggressoren. Aus der Perspektive der Systemtheorie (Luhmann) ist Krieg der Kollaps autopoietischer Kommunikation. Die differenzierten Codes der Subsysteme (Wahr/Unwahr in der Wissenschaft, Recht/Unrecht in der Justiz) werden durch den binären Meta-Code 'Sieg/Niederlage' überschrieben, was zu einer massiven Reduktion von Systemkomplexität führt. Physikalisch betrachtet gleicht Krieg einem offenen thermodynamischen System mit maximaler Entropieproduktion. Rüstungszyklen erzeugen Pfadabhängigkeit; Beschaffungsgeld verfestigt Konfliktökonomien. A2/AD-Zonen verhindern Interventionen und verlängern Konflikte.",
+    "en": "What is it exactly? An organized, collective application of violence aimed at breaking the political will of the opponent through physical and psychological destruction. Who is affected/responsible? Affected: civilian population (victims), biosphere. Responsible: state executives, military-industrial complexes, paramilitary actors. Where is the epicenter? Polycentric. Currently, the fault lines are shifting from the Global South (Sudan, Sahel) to geopolitical seams in Eurasia (Ukraine) and the Levant (Gaza). When does it become critical? When diplomatic feedback loops break down and escalation dominance becomes the only remaining communication strategy (Point of no Return). Why is it happening now? Hegemonic decay of the unipolar world order, resource scarcity (climate), ideological hardening and economic stagnation generate systemic pressure. How can the system be stabilized? Through recoding of communication: return from binary violence logic to complex diplomacy, economic interdependence, and strict sanctioning of aggressors. From the perspective of systems theory (Luhmann), war is the collapse of autopoietic communication. The differentiated codes of subsystems (true/false in science, right/wrong in justice) are overwritten by the binary meta-code 'victory/defeat', leading to a massive reduction in system complexity. Physically considered, war resembles an open thermodynamic system with maximum entropy production. Armament cycles create path dependency; procurement capital solidifies conflict economies. A2/AD zones prevent interventions and prolong conflicts."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Infrastrukturelle Nekrose",
+        "en": "Infrastructure Necrosis"
+      },
+      "description": {
+        "de": "Zerstörung lebenswichtiger Infrastruktur führt zu systemischem Kollaps.",
+        "en": "Destruction of vital infrastructure leads to systemic collapse."
+      }
+    },
+    {
+      "name": {
+        "de": "Diskursive Dissonanz",
+        "en": "Discursive Dissonance"
+      },
+      "description": {
+        "de": "Propaganda und Gegenpropaganda erzeugen kommunikative Fragmentierung.",
+        "en": "Propaganda and counter-propaganda create communicative fragmentation."
+      }
+    },
+    {
+      "name": {
+        "de": "Humanitäre Hysterese",
+        "en": "Humanitarian Hysteresis"
+      },
+      "description": {
+        "de": "Langfristige Traumata übersteigen kurzfristige humanitäre Interventionen.",
+        "en": "Long-term trauma exceeds short-term humanitarian interventions."
+      }
+    },
+    {
+      "name": {
+        "de": "Schützengraben",
+        "en": "Trench"
+      },
+      "description": {
+        "de": "Lineare Erdwerke als mobile Grenze; Symbol für statische Zermürbung.",
+        "en": "Linear earthworks as mobile border; symbol of static attrition."
+      }
+    },
+    {
+      "name": {
+        "de": "Versorgungskorridor",
+        "en": "Supply Corridor"
+      },
+      "description": {
+        "de": "Schmale logistische Ader, permanent bedroht, permanent repariert.",
+        "en": "Narrow logistic artery, always threatened, always repaired."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Nekropolitik",
+      "definition": {
+        "de": "Macht über den Tod und die Entscheidung, wer sterben darf.",
+        "en": "Power over death and the decision of who may die."
+      }
+    },
+    {
+      "term": "Thanatopolitik",
+      "definition": {
+        "de": "Politik der Verwaltung des Todes statt des Lebens.",
+        "en": "Politics of administering death instead of life."
+      }
+    },
+    {
+      "term": "Entropie",
+      "definition": {
+        "de": "Maß für Unordnung und Energieverlust in einem System.",
+        "en": "Measure of disorder and energy loss in a system."
+      }
+    },
+    {
+      "term": "Dissipation",
+      "definition": {
+        "de": "Umwandlung von Energie in weniger nutzbare Formen.",
+        "en": "Conversion of energy into less usable forms."
+      }
+    },
+    {
+      "term": "Eskalationsleiter",
+      "definition": {
+        "de": "Abstufungen militärischer Gewalt mit Kipppunkten und Sprungstellen.",
+        "en": "Graduated military force with tipping points and jumps."
+      }
+    },
+    {
+      "term": "A2/AD",
+      "definition": {
+        "de": "Anti-Access/Area Denial: Zonen, die Gegnern das Eindringen verwehren.",
+        "en": "Anti-Access/Area Denial: zones designed to keep adversaries out."
+      }
+    },
+    {
+      "term": "Frozen Conflict",
+      "definition": {
+        "de": "Eingefrorener Frontstatus ohne politischen Abschluss.",
+        "en": "Stalled front status without political closure."
+      }
+    }
+  ],
+  "related": [
+    "desinformation",
+    "faschisierung",
+    "krieg",
+    "just-in-time-fragilitaet",
+    "abschiebungsapparat",
+    "algorithmische-steuerung"
+  ],
+  "lastUpdatedISO": "2025-02-01T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-war",
+    "generatedAtISO": "2025-02-01T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Medienidee: zerstörter Korridor, fragmentierte Daten-Map; D3: Eskalationsleiter + Supply-Jitter.",
+    "Zahlen verfeinern (OSINT/ACLED) wenn final."
+  ],
+  "citations": [
+    {
+      "label": "OSINT logistics trackers"
+    },
+    {
+      "label": "Arms trade registers"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/war/crisis-placeholder.jpg",
+      "/media/war/impact-placeholder.png",
+      "/media/war/solution-placeholder.jpg"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "2022",
+      "location": "Ukraine/Osteuropa",
+      "event": "Invasion & Systembruch",
+      "description": "Rückkehr des konventionellen Abnutzungskrieges auf europäischen Boden. Ende der post-kalten-Kriegs-Ordnung."
+    },
+    {
+      "year": "2023",
+      "location": "Gaza/Levante",
+      "event": "Asymmetrische Eskalation",
+      "description": "Massive urbane Kriegsführung und humanitäre Katastrophe. Re-Politisierung des Nahostkonflikts."
+    },
+    {
+      "year": "2024",
+      "location": "Global/Sudan",
+      "event": "Rekord an Konflikten",
+      "description": "61 aktive staatliche Konflikte weltweit (Höchststand seit 1946). Sudan als 'vergessene' Megakrise."
+    }
+  ]
+}

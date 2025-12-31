@@ -1,0 +1,156 @@
+{
+  "id": "entfremdung",
+  "slug": "entfremdung",
+  "title": {
+    "de": "Entfremdung",
+    "en": "Alienation"
+  },
+  "summary": {
+    "de": "Subjekt, Arbeit und Welt fallen auseinander; Beziehungen werden funktional, Körper werden Werkzeuge.",
+    "en": "Subject, work, and world fall apart; relations turn functional, bodies become tools."
+  },
+  "categories": [
+    "Gefühl",
+    "Existenz"
+  ],
+  "tags": [
+    "arbeit",
+    "automation",
+    "selbst",
+    "körper",
+    "beziehung"
+  ],
+  "severity": 89,
+  "volatility": 57,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anteil, der Arbeit als \"nur Job\" sieht",
+        "en": "Share seeing work as 'just a job'"
+      },
+      "value": "~50%",
+      "source": "Gallup"
+    },
+    {
+      "label": {
+        "de": "Remote + Gig-Anteil",
+        "en": "Remote + gig share"
+      },
+      "value": ">30%",
+      "source": "Labor stats"
+    },
+    {
+      "label": {
+        "de": "Therapie/Selbsthilfe-Nutzung",
+        "en": "Therapy/self-help usage"
+      },
+      "value": "steigend",
+      "source": "Health surveys"
+    }
+  ],
+  "diagnosis": {
+    "de": "Entfremdung folgt aus der Abtrennung von Subjekt und Praxis. Marx sah die Ware als Spiegel; Adorno: Subjekt wird Sache. Lacan: Begehren verschiebt sich, Objekt a bleibt unerreichbar, deshalb Leere. Nietzsche: Verlust des Telos produziert Ressentiment. Digitale Vermittlung ersetzt unmittelbare Erfahrung; Beziehungen werden zu Accounts.",
+    "en": "Alienation stems from splitting subject and practice. Marx: the commodity mirrors us; Adorno: subject becomes thing. Lacan: desire slides, objet a stays absent, leaving emptiness. Nietzsche: loss of telos breeds ressentiment. Digital mediation replaces immediacy; relations become accounts."
+  },
+  "mechanisms": {
+    "de": "Arbeitsprozesse werden von Werkzeugen zu Plattformen verschoben; Feedback kommt als KPI. Körperliche Ko-Präsenz schrumpft, Affekte laufen über Interfaces. Eigentum an Ergebnis fehlt, Autonomie sinkt. Konsum ersetzt Zugehörigkeit. Das Ich kuratiert sich als Profil und erlebt sich zugleich als austauschbar.",
+    "en": "Work shifts from tools to platforms; feedback returns as KPIs. Physical co-presence shrinks, affects flow through interfaces. Ownership of outcome is absent, autonomy drops. Consumption substitutes belonging. The self curates as profile while feeling interchangeable."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Profil-Schatten",
+        "en": "Profile Shadow"
+      },
+      "description": {
+        "de": "Das digitale Ich agiert unabhängig, das Subjekt läuft hinterher.",
+        "en": "The digital self acts on its own; the subject trails behind."
+      }
+    },
+    {
+      "name": {
+        "de": "Werkbank ohne Ende",
+        "en": "Endless Workbench"
+      },
+      "description": {
+        "de": "Aufgaben reißen nicht ab, Sinnkette bleibt verborgen.",
+        "en": "Tasks never end; the chain of meaning stays hidden."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Objet a",
+      "definition": {
+        "de": "Lacans Objekt des Begehrens, immer verschoben.",
+        "en": "Lacan's object-cause of desire, always displaced."
+      }
+    },
+    {
+      "term": "Ressentiment",
+      "definition": {
+        "de": "Nietzsche: umgekehrte Ohnmacht, die Moral produziert.",
+        "en": "Nietzsche: inverted powerlessness that produces morality."
+      }
+    },
+    {
+      "term": "Verdinglichung",
+      "definition": {
+        "de": "Subjekte/Beziehungen werden zu Dingen.",
+        "en": "Subjects/relations become things."
+      }
+    }
+  ],
+  "related": [
+    "sinnverlust",
+    "zukunftsangst",
+    "arbeitslosigkeit",
+    "entmenschlichung-buerokratie",
+    "kuenstliche-intelligenz",
+    "algorithmische-steuerung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-entfremdung",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Marx / Adorno / Lacan"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/entfremdung/crisis-placeholder.jpg",
+      "/media/entfremdung/impact-placeholder.png",
+      "/media/entfremdung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Task-chains vs ownership; co-presence vs remote heatmap; profile/identity overlap diagram."
+  ],
+  "timeline": [
+    {
+      "year": "1844",
+      "location": "Industrie",
+      "event": "Ökonomisch-philosophische Manuskripte",
+      "description": "Frühe Theorie der Entfremdung von Arbeit und Produkt."
+    },
+    {
+      "year": "1960er",
+      "location": "Kritische Theorie",
+      "event": "Verdinglichung",
+      "description": "Subjekt wird vom eigenen Bild überholt."
+    },
+    {
+      "year": "2020-2024",
+      "location": "Global",
+      "event": "Plattformarbeit",
+      "description": "Schnittstellen regeln Arbeit, Zugehörigkeit sinkt."
+    }
+  ]
+}

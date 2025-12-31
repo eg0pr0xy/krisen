@@ -1,0 +1,158 @@
+{
+  "id": "koerperpolitik",
+  "slug": "koerperpolitik",
+  "title": {
+    "de": "Körperpolitik",
+    "en": "Body politics"
+  },
+  "summary": {
+    "de": "Reproduktion, Gender und Körpergrenzen werden reguliert, vermessen und ökonomisiert.",
+    "en": "Reproduction, gender, and bodily boundaries are regulated, measured, and economised."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht",
+    "Gefühl"
+  ],
+  "tags": [
+    "reproductive-rights",
+    "surveillance",
+    "bio-politics",
+    "gender",
+    "datafication"
+  ],
+  "severity": 69,
+  "volatility": 63,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Einschränkung reproduktiver Rechte",
+        "en": "Restriction of reproductive rights"
+      },
+      "value": "Zunahme",
+      "source": "Legal trackers"
+    },
+    {
+      "label": {
+        "de": "Wearable-Dichte",
+        "en": "Wearable density"
+      },
+      "value": "↑",
+      "source": "Market data"
+    },
+    {
+      "label": {
+        "de": "Trans-/queer Gewalt",
+        "en": "Violence vs trans/queer"
+      },
+      "value": "↑ gemeldet",
+      "source": "NGO reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Körperpolitik ist die Verwaltung des Körpers als Datensatz und Territorium. Biopolitik (Foucault) verknüpft Gesundheit, Reproduktion und Staatlichkeit. Plattformen extrahieren Biomarker für Versicherungen und Werbung. Gesetzliche Rollbacks regulieren Schwangerschaft und Geschlecht. Kontrolle verschiebt sich in Apps und Sensoren, während Rechte regressiv verhandelt werden.",
+    "en": "Body politics administers the body as dataset and territory. Biopolitics links health, reproduction, and state power. Platforms extract biomarkers for insurance and ads. Legislative rollbacks regulate pregnancy and gender. Control moves into apps and sensors while rights are bargained backwards."
+  },
+  "mechanisms": {
+    "de": "Datifizierung macht intime Zustände handelbar. Versicherer preisen Risiko granular ein. Staaten nutzen Migrations- und Geschlechterpolitik für Zugehörigkeitssignale. Plattformen monetarisieren Zyklus- und Bewegungsdaten. Diskurse über Sicherheit legitimieren Eingriffe in Körperautonomie.",
+    "en": "Datafication makes intimate states tradable. Insurers price risk granularly. States use migration and gender policy as membership signalling. Platforms monetise cycle and motion data. Security narratives legitimise intrusions into bodily autonomy."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Zyklus-Ökonomie",
+        "en": "Cycle Economy"
+      },
+      "description": {
+        "de": "Apps sammeln Reproduktionsdaten und koppeln sie an Werbung und Versicherung.",
+        "en": "Apps collect reproductive data and tie it to ads and insurance."
+      }
+    },
+    {
+      "name": {
+        "de": "Grenzkörper",
+        "en": "Bordered Body"
+      },
+      "description": {
+        "de": "Körper werden an Grenzen kontrolliert, vermessen, in Kategorien gezwungen.",
+        "en": "Bodies are controlled, measured, and forced into categories at borders."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Biopolitik",
+      "definition": {
+        "de": "Macht, die über das Leben und den Körper organisiert wird.",
+        "en": "Power organised over life and the body."
+      }
+    },
+    {
+      "term": "Datafizierung",
+      "definition": {
+        "de": "Übersetzung körperlicher Zustände in handelbare Daten.",
+        "en": "Translation of bodily states into tradable data."
+      }
+    },
+    {
+      "term": "Reproduktive Rechte",
+      "definition": {
+        "de": "Rechte auf körperliche Selbstbestimmung über Fortpflanzung.",
+        "en": "Rights to bodily self-determination over reproduction."
+      }
+    }
+  ],
+  "related": [
+    "digitalisierung",
+    "entmenschlichung-buerokratie",
+    "terrorismus",
+    "transhumanismus",
+    "abschiebungsapparat",
+    "algorithmische-steuerung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-koerperpolitik-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "UN/OHCHR, market data",
+      "note": "Rights rollbacks, wearable penetration"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/koerperpolitik/crisis-placeholder.jpg",
+      "/media/koerperpolitik/impact-placeholder.png",
+      "/media/koerperpolitik/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Voronoi map: legal regimes by region; line: wearable adoption; shader: biometric data flow."
+  ],
+  "timeline": [
+    {
+      "year": "2010er",
+      "location": "Global",
+      "event": "App-Intimisierung",
+      "description": "Zyklus- und Fitnessapps schaffen Datenbasis."
+    },
+    {
+      "year": "2022",
+      "location": "USA",
+      "event": "Reproduktive Rollbacks",
+      "description": "Gerichtsurteile schränken Zugang zu reproduktiver Gesundheit."
+    },
+    {
+      "year": "2023",
+      "location": "EU/Global",
+      "event": "Grenzdaten",
+      "description": "Biometrische Datenerfassung wird Standard an Grenzen."
+    }
+  ]
+}

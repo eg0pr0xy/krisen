@@ -1,0 +1,272 @@
+{
+  "id": "finanzblasen",
+  "slug": "finanzblasen",
+  "title": {
+    "de": "Finanzblasen",
+    "en": "Financial Bubbles"
+  },
+  "summary": {
+    "de": "Vermögenspreise entkoppeln sich dauerhaft von realwirtschaftlicher Wertschöpfung und werden durch spekulative Erwartungen stabilisiert.",
+    "en": "Asset prices permanently decouple from real economic value creation and are stabilized by speculative expectations."
+  },
+  "categories": [
+    "Materie",
+    "Macht"
+  ],
+  "tags": [
+    "finanzen",
+    "blasen",
+    "spekulation",
+    "liquidität",
+    "zentralbanken"
+  ],
+  "severity": 85,
+  "volatility": 80,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Asset-Inflation bei Konsumstagnation",
+        "en": "Asset Inflation with Consumption Stagnation"
+      },
+      "value": "stark steigend",
+      "source": "Wirtschaftsdaten"
+    },
+    {
+      "label": {
+        "de": "Langfristig niedrige Zinsen",
+        "en": "Persistently Low Interest Rates"
+      },
+      "value": "<1% über 10+ Jahre",
+      "source": "Zentralbanken"
+    },
+    {
+      "label": {
+        "de": "Zentralbankinterventionen",
+        "en": "Central Bank Interventions"
+      },
+      "value": "Dauerzustand",
+      "source": "Marktdaten"
+    },
+    {
+      "label": {
+        "de": "Derivate-Explosion",
+        "en": "Derivatives Explosion"
+      },
+      "value": ">1.000 Bio. USD",
+      "source": "BIS"
+    },
+    {
+      "label": {
+        "de": "Schattenfinanzierung",
+        "en": "Shadow Financing"
+      },
+      "value": "50% des Finanzsystems",
+      "source": "FSB"
+    },
+    {
+      "label": {
+        "de": "Too-Big-to-Fail-Institutionen",
+        "en": "Too-Big-to-Fail Institutions"
+      },
+      "value": "wachsend",
+      "source": "Regulierungsberichte"
+    },
+    {
+      "label": {
+        "de": "Politische Marktabhängigkeit",
+        "en": "Political Market Dependence"
+      },
+      "value": "hoch",
+      "source": "Policy-Analysen"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Sind Finanzblasen Ausdruck eines ökonomischen Systems ohne Zukunftsbezug?",
+        "en": "Are financial bubbles an expression of an economic system without future reference?"
+      },
+      "answer": {
+        "de": "Ja, Blasen markieren die Verschiebung von industriellem Kapitalismus zu Finanzialisierung, wo Kapital Rendite folgt statt Wertschöpfung.",
+        "en": "Yes, bubbles mark the shift from industrial capitalism to financialization, where capital follows returns rather than value creation."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer trägt Risiko: Investor*innen, Staaten oder zukünftige Generationen?",
+        "en": "Who bears the risk: investors, states, or future generations?"
+      },
+      "answer": {
+        "de": "Entkopplung von Risiko und Verantwortung: Profite privatisiert, Verluste kollektiviert (Bailouts, Inflation, Austerität).",
+        "en": "Decoupling of risk and responsibility: profits privatized, losses collectivized (bailouts, inflation, austerity)."
+      }
+    },
+    {
+      "question": {
+        "de": "Entstehen Blasen in Märkten – oder in geldpolitischen Entscheidungsstrukturen?",
+        "en": "Do bubbles arise in markets – or in monetary policy decision structures?"
+      },
+      "answer": {
+        "de": "Epizentrum liegt in geldpolitischen Strukturen: Liquidität ersetzt Wachstum, Zentralbank-Kapitalismus stabilisiert Überbewertungen.",
+        "en": "Epicenter lies in monetary policy structures: liquidity replaces growth, central bank capitalism stabilizes overvaluations."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann kippt Stabilisierung durch Blasen in systemische Fragilität?",
+        "en": "When does stabilization through bubbles tip into systemic fragility?"
+      },
+      "answer": {
+        "de": "Wenn Blasen nicht mehr wachsen können ohne zu platzen, und Alternativen (Produktivität, Löhne) ausgeblieben sind.",
+        "en": "When bubbles can no longer grow without bursting, and alternatives (productivity, wages) have failed."
+      }
+    },
+    {
+      "question": {
+        "de": "Verstärken sich Immobilien-, Aktien-, Krypto- und Schuldenblasen gegenseitig?",
+        "en": "Do real estate, stock, crypto, and debt bubbles reinforce each other?"
+      },
+      "answer": {
+        "de": "Ja, Blasenkonvergenz: Niedrige Zinsen fließen zwischen Assetklassen, erzeugen systemische Interdependenz und Dominoeffekte.",
+        "en": "Yes, bubble convergence: low interest rates flow between asset classes, creating systemic interdependence and domino effects."
+      }
+    },
+    {
+      "question": {
+        "de": "Kann ein System ohne Blasen überhaupt noch wachsen – oder kollabiert es dann sofort?",
+        "en": "Can a system without bubbles still grow at all – or does it collapse immediately?"
+      },
+      "answer": {
+        "de": "Blasen sind notwendig für Stabilität alternder kapitalistischer Systeme, aber führen zu immer höherer Fragilität – kein Wachstum ohne Blasen, aber Blasen ohne Ende.",
+        "en": "Bubbles are necessary for stability of aging capitalist systems, but lead to ever higher fragility – no growth without bubbles, but bubbles without end."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Finanzblasen bezeichnen einen systemischen Zustand moderner Finanz- und Wirtschaftssysteme, in dem sich Vermögenspreise dauerhaft von realwirtschaftlichen Wertschöpfungsprozessen entkoppeln und stattdessen durch Erwartungsdynamiken, Liquiditätsüberschüsse, spekulative Narrative und institutionell begünstigte Risikoverlagerung stabilisiert werden. Im Unterschied zu klassischen Konjunkturübertreibungen sind Finanzblasen keine temporären Fehlbewertungen, sondern strukturierte Erwartungsregime. Sie beruhen nicht auf Unwissen, sondern auf kollektiv geteilter Einsicht, dass Preise irrational sind – und dennoch weiter steigen müssen. Blasen sind damit reflexive Phänomene: Marktteilnehmer handeln nicht aufgrund von Fundamentaldaten, sondern aufgrund der antizipierten Erwartungen anderer Marktteilnehmer. Finanzblasen fungieren in spätmodernen Ökonomien als Ersatzwachstum. Wo Produktivitätsgewinne stagnieren, Reallöhne unter Druck stehen und politische Steuerung blockiert ist, erzeugen Blasen die Illusion von Wohlstand, Stabilität und Zukunftsfähigkeit – auf Kosten zukünftiger Systemstabilität.",
+    "en": "Financial bubbles denote a systemic state of modern financial and economic systems where asset prices permanently decouple from real economic value creation processes and are instead stabilized by expectation dynamics, liquidity surpluses, speculative narratives, and institutionally favored risk shifting."
+  },
+  "mechanisms": {
+    "de": "Zeitliche Entkopplung: Gewinne sofort realisiert, Verluste verschoben. Soziale Entkopplung: Profite privatisiert, Verluste kollektiviert. Kognitive Entkopplung: Märkte wissen um Blasen, handeln rational innerhalb der Blasenlogik. Politische Entkopplung: Staaten sichern Märkte, ohne sie kontrollieren zu können. Finanzblasen sind kein Marktversagen, sondern Stabilisierungsmechanismus für alternde kapitalistische Systeme.",
+    "en": "Temporal decoupling: profits realized immediately, losses deferred. Social decoupling: profits privatized, losses collectivized. Cognitive decoupling: markets know about bubbles, act rationally within bubble logic. Political decoupling: states secure markets without being able to control them."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Reflexive Spekulation",
+        "en": "Reflexive Speculation"
+      },
+      "description": {
+        "de": "Preise steigen, weil alle erwarten, dass sie steigen – nicht wegen Fundamentaldaten.",
+        "en": "Prices rise because everyone expects them to rise – not because of fundamental data."
+      }
+    },
+    {
+      "name": {
+        "de": "Ersatzwachstum",
+        "en": "Substitute Growth"
+      },
+      "description": {
+        "de": "Blasen kompensieren stagnierende Produktivität und erzeugen Wohlstandsillusion.",
+        "en": "Bubbles compensate for stagnant productivity and create prosperity illusion."
+      }
+    },
+    {
+      "name": {
+        "de": "Blasenrationalität",
+        "en": "Bubble Rationality"
+      },
+      "description": {
+        "de": "Innerhalb der Blase rational zu handeln, auch wenn das Gesamtsystem irrational ist.",
+        "en": "Acting rationally within the bubble, even if the overall system is irrational."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Asset-Inflation",
+      "definition": {
+        "de": "Preissteigerung von Vermögenswerten ohne reale Wertbasis.",
+        "en": "Price increase of assets without real value basis."
+      }
+    },
+    {
+      "term": "Finanzialisierung",
+      "definition": {
+        "de": "Dominanz finanzieller Logiken über reale Produktion.",
+        "en": "Dominance of financial logics over real production."
+      }
+    },
+    {
+      "term": "Blasenrationalität",
+      "definition": {
+        "de": "Rationales Handeln innerhalb eines kollektiv irrationalen Systems.",
+        "en": "Rational action within a collectively irrational system."
+      }
+    },
+    {
+      "term": "Moral Hazard",
+      "definition": {
+        "de": "Risikobereitschaft durch Erwartung öffentlicher Rettung.",
+        "en": "Risk willingness due to expectation of public rescue."
+      }
+    },
+    {
+      "term": "Schattenfinanzierung",
+      "definition": {
+        "de": "Finanzaktivitäten außerhalb regulierter Banken.",
+        "en": "Financial activities outside regulated banks."
+      }
+    }
+  ],
+  "related": [
+    "finanzialisierung",
+    "rezession",
+    "schuldenlast",
+    "inflation",
+    "vertrauensverlust"
+  ],
+  "citations": [
+    {
+      "label": "John Maynard Keynes - The General Theory",
+      "note": "Speculation vs. enterprise"
+    },
+    {
+      "label": "Hyman Minsky - Stabilizing an Unstable Economy",
+      "note": "Instability as normal state"
+    },
+    {
+      "label": "Joseph Schumpeter - Capitalism, Socialism and Democracy",
+      "note": "Credit, crisis, creative destruction"
+    },
+    {
+      "label": "Karl Polanyi - The Great Transformation",
+      "note": "Disembedding of markets"
+    },
+    {
+      "label": "Wolfgang Streeck - Buying Time",
+      "note": "Purchased time in late capitalism"
+    },
+    {
+      "label": "Niklas Luhmann - Social Systems",
+      "note": "Self-referential systems"
+    }
+  ],
+  "lastUpdatedISO": "2025-12-23T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "editNotes": [
+    "Neue Krise: Umfassende Analyse von Finanzblasen als systemisches Erwartungsregime und Stabilisierungsmechanismus moderner Ökonomien."
+  ],
+  "media": {
+    "images": [
+      "/media/finanzblasen/crisis-placeholder.jpg",
+      "/media/finanzblasen/impact-placeholder.png",
+      "/media/finanzblasen/solution-placeholder.jpg"
+    ]
+  }
+}

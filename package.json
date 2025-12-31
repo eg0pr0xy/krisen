@@ -1,0 +1,42 @@
+{
+  "name": "krisen-—-kanon",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate:content": "tsx scripts/validate-content.ts",
+    "content:validate": "node scripts/content-validate.cjs",
+    "content:index": "node scripts/content-index.cjs",
+    "glossary:sync": "node scripts/audit-glossary.cjs",
+    "crisis:new": "node scripts/crisis-new.cjs --",
+    "generate:crisis": "tsx scripts/generate-crisis.ts",
+    "extend:related": "tsx scripts/extend-related.ts",
+    "seed:canon": "tsx scripts/seed-canon.ts",
+    "data:oecd": "node scripts/import-oecd.cjs",
+    "data:map": "node scripts/map-oecd.cjs",
+    "data:update": "npm run data:oecd && npm run data:map",
+    "build:index": "npm run extend:related && npm run validate:content"
+  },
+  "dependencies": {
+    "@google/genai": "^1.34.0",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "d3": "^7.9.0",
+    "d3-chord": "^3.0.1",
+    "d3-sankey": "^0.12.3",
+    "framer-motion": "^12.23.26",
+    "gsap": "^3.12.5",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

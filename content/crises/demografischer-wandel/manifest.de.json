@@ -1,0 +1,141 @@
+{
+  "id": "demografischer-wandel",
+  "slug": "demografischer-wandel",
+  "title": {
+    "de": "Demografischer Wandel",
+    "en": "Demographic shift"
+  },
+  "summary": {
+    "de": "Bevölkerungsstrukturen verschieben sich räumlich und altersbezogen schneller als Institutionen reagieren.",
+    "en": "Population structures shift across regions and age faster than institutions adapt."
+  },
+  "categories": [
+    "Existenz",
+    "Materie"
+  ],
+  "tags": [
+    "migration",
+    "alterung",
+    "fertilitaet",
+    "region"
+  ],
+  "severity": 68,
+  "volatility": 46,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "Geburtenrate",
+        "en": "Fertility rate"
+      },
+      "value": "< Ersatzniveau",
+      "source": "Statistische Ämter"
+    },
+    {
+      "label": {
+        "de": "Binnenwanderung",
+        "en": "Internal migration"
+      },
+      "value": "Metropolen gewinnen",
+      "source": "Kommunale Register"
+    },
+    {
+      "label": {
+        "de": "Altersstruktur",
+        "en": "Age structure"
+      },
+      "value": "Überalterte Peripherie",
+      "source": "Regionalprofile"
+    }
+  ],
+  "diagnosis": {
+    "de": "Der demografische Wandel ist kein linearer Trend, sondern eine gekoppelte Dynamik aus Alterung, Schrumpfung und Zuwanderung. Sozialstaaten geraten zwischen steigenden Transferlasten und sinkenden Beiträgen. Räume entleeren sich, während Zentren verdichten. Politische Repräsentation verschiebt sich, weil Wahlkreise altern und abwandern.",
+    "en": "Demographic change is a coupled dynamic of ageing, shrinkage, and immigration. Welfare systems face rising transfer burdens and shrinking contributions. Regions empty out while cores densify. Political representation shifts as districts age and depopulate."
+  },
+  "mechanisms": {
+    "de": "Langfristige Geburtenrückgänge wirken zeitverzögert auf Arbeitsmärkte und Pflege. Migration gleicht Lücken punktuell aus, erzeugt aber Integrationsdruck. Kommunale Infrastruktur wird zu groß oder zu klein, je nach Wanderung. Kapitalströme folgen wachsenden Regionen und verstärken Ungleichheit. Narrative von Bedrohung oder Erneuerung prägen Wahlverhalten.",
+    "en": "Long-term fertility decline affects labour and care with delay. Migration fills gaps locally but creates integration pressure. Municipal infrastructure becomes oversized or undersized depending on migration flows. Capital follows growing regions and amplifies inequality. Narratives of threat or renewal shape voting behaviour."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Schrumpfende Stadt",
+        "en": "Shrinking city"
+      },
+      "description": {
+        "de": "Leerstand, Rückbau, selektive Investitionen in Inseln.",
+        "en": "Vacancy, dismantling, selective investment in islands."
+      }
+    },
+    {
+      "name": {
+        "de": "Alternde Peripherie",
+        "en": "Ageing periphery"
+      },
+      "description": {
+        "de": "Pflegebedarf steigt, Nahversorgung bricht weg.",
+        "en": "Care demand rises, local supply collapses."
+      }
+    },
+    {
+      "name": {
+        "de": "Verdichtetes Zentrum",
+        "en": "Dense core"
+      },
+      "description": {
+        "de": "Jung, teuer, produktiv – aber politisch überrepräsentiert.",
+        "en": "Young, expensive, productive – politically overrepresented."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Bevölkerungspyramide",
+      "definition": {
+        "de": "Graphische Darstellung der Altersstruktur; kippt zur Urne.",
+        "en": "Graph of age structure; tilting toward a vase."
+      }
+    },
+    {
+      "term": "Landflucht",
+      "definition": {
+        "de": "Abwanderung aus ländlichen Räumen in Zentren.",
+        "en": "Outmigration from rural areas to cores."
+      }
+    },
+    {
+      "term": "Remigration",
+      "definition": {
+        "de": "Rückkehrbewegungen, die Leerstellen schließen können.",
+        "en": "Return movements that can close gaps."
+      }
+    }
+  ],
+  "related": [
+    "pflegenotstand",
+    "klimaflucht",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "biodiversitaetsverlust"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/demografischer-wandel/crisis-placeholder.jpg",
+      "/media/demografischer-wandel/impact-placeholder.png",
+      "/media/demografischer-wandel/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "demografischer-wandel",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Demografie-Placeholder ersetzt.",
+    "Draft für spätere statistische Referenzen."
+  ]
+}

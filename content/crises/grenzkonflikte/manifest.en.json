@@ -1,0 +1,157 @@
+{
+  "id": "grenzkonflikte",
+  "slug": "grenzkonflikte",
+  "title": {
+    "de": "Grenzkonflikte",
+    "en": "Border conflicts"
+  },
+  "summary": {
+    "de": "Umstrittene Linien, Rohstoffe und Identitäten führen zu Spannungen und Gewalt an physischen und symbolischen Grenzen.",
+    "en": "Contested lines, resources, and identities drive tension and violence at physical and symbolic borders."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "demarcation",
+    "resources",
+    "minorities",
+    "hybrid",
+    "a2ad"
+  ],
+  "severity": 78,
+  "volatility": 70,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Militärische Zwischenfälle",
+        "en": "Military incidents"
+      },
+      "value": "↑",
+      "source": "OSINT"
+    },
+    {
+      "label": {
+        "de": "Grenzschließungen",
+        "en": "Border closures"
+      },
+      "value": "häufig",
+      "source": "Gov notices"
+    },
+    {
+      "label": {
+        "de": "A2/AD-Ausbau",
+        "en": "A2/AD build-up"
+      },
+      "value": "wachsend",
+      "source": "Defense reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Grenzkonflikte verbinden Territorium, Ressource und Identität. Alte koloniale Linien kollidieren mit ethnischen Räumen. Ressourcen (Wasser, Gas, Transit) werden militarisiert. Hybride Taktiken verschieben Konflikte unterhalb der Kriegsschwelle: Drohnen, Cyber, Desinfo. Grenzen werden zum Theater symbolischer Politik und realer Gewalt.",
+    "en": "Border conflicts tie territory, resource, and identity. Colonial lines clash with ethnic spaces. Resources (water, gas, transit) are militarised. Hybrid tactics push conflict below open war: drones, cyber, disinfo. Borders become stages for symbolic politics and real violence."
+  },
+  "mechanisms": {
+    "de": "Demarkationsstreitigkeiten blockieren Infrastruktur. Minderheiten werden instrumentalisisiert. Sperrzonen und A2/AD-Systeme senken Transparenz und erhöhen Eskalationsrisiko. Internationale Foren sind langsam, bilaterale Fakten werden geschaffen. Schmuggel und Migration werden sicherheitspolitisch gerahmt.",
+    "en": "Demarcation disputes block infrastructure. Minorities are instrumentalised. Buffer zones and A2/AD lower transparency and raise escalation risk. International fora are slow; facts are created on the ground. Smuggling and migration are securitised."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Einfrieren und Auftauen",
+        "en": "Freeze and Thaw"
+      },
+      "description": {
+        "de": "Konflikt bleibt eingefroren, flammt bei Gelegenheit auf.",
+        "en": "Conflict stays frozen, flares opportunistically."
+      }
+    },
+    {
+      "name": {
+        "de": "Ressourcen-Korridor",
+        "en": "Resource Corridor"
+      },
+      "description": {
+        "de": "Energie- oder Wasserweg wird zur Drucklinie, Pipelines als Geisel.",
+        "en": "Energy or water route becomes leverage; pipelines as hostages."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Demarkation",
+      "definition": {
+        "de": "Festlegung und Markierung einer Grenze.",
+        "en": "Definition and marking of a boundary."
+      }
+    },
+    {
+      "term": "A2/AD",
+      "definition": {
+        "de": "Anti-Access/Area Denial zur Verhinderung gegnerischer Bewegungen.",
+        "en": "Anti-Access/Area Denial to block adversary movement."
+      }
+    },
+    {
+      "term": "Frozen Conflict",
+      "definition": {
+        "de": "Unentschiedener Konflikt ohne formalen Frieden, jederzeit reaktivierbar.",
+        "en": "Unresolved conflict without formal peace, reactivatable anytime."
+      }
+    }
+  ],
+  "related": [
+    "krieg",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus",
+    "corruption"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-borderconflict-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "OSINT/ICRC",
+      "note": "Incidents, humanitarian impact"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/grenzkonflikte/crisis-placeholder.jpg",
+      "/media/grenzkonflikte/impact-placeholder.png",
+      "/media/grenzkonflikte/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Map: contested lines; ribbon: escalation ladder; shader: static over buffer zones."
+  ],
+  "timeline": [
+    {
+      "year": "2014",
+      "location": "EEU",
+      "event": "Grenzverschiebung",
+      "description": "Annexion/Sezession erzeugen neue Linien."
+    },
+    {
+      "year": "2020",
+      "location": "Kaukasus",
+      "event": "Drohneneinsatz",
+      "description": "Hybride Kriegführung senkt Eskalationsschwelle."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "A2/AD-Zonen",
+      "description": "Anti-Access-Korridore verengen Bewegungsfreiheit."
+    }
+  ]
+}

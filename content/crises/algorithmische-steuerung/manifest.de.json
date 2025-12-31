@@ -1,0 +1,288 @@
+{
+  "id": "algorithmische-steuerung",
+  "slug": "algorithmische-steuerung",
+  "title": {
+    "de": "Algorithmische Steuerung",
+    "en": "Algorithmic governance"
+  },
+  "summary": {
+    "de": "Entscheidungen wandern in Modelle und Scores; Intransparenz und Bias formen Zugang, Risiko und Rechte.",
+    "en": "Decisions migrate into models and scores; opacity and bias shape access, risk, and rights."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "scoring",
+    "automation",
+    "bias",
+    "audit",
+    "proxy-data"
+  ],
+  "severity": 71,
+  "volatility": 62,
+  "timeHorizon": "mid",
+  "qa": [
+    {
+      "question": {
+        "de": "Ontologische Ebene: Wird Gesellschaft als gestaltbarer Raum verstanden – oder als zu optimierendes Datenset?",
+        "en": "Ontological level: Is society understood as a malleable space – or as a dataset to be optimized?"
+      },
+      "answer": {
+        "de": "Im algorithmischen Regime verschiebt sich die Ontologie fundamental: Gesellschaft wird nicht mehr als gestaltbarer Raum politischer Aushandlung gesehen, sondern als zu optimierendes Datenset. Algorithmen operieren präemptiv – sie antizipieren und formen Verhalten, bevor es zur Entscheidung wird. Die Frage nach dem 'guten Leben' wird zur Frage nach der optimalen Funktion.",
+        "en": "In the algorithmic regime, ontology shifts fundamentally: society is no longer seen as a malleable space of political negotiation, but as a dataset to be optimized. Algorithms operate preemptively – they anticipate and shape behavior before it becomes a decision. The question of the 'good life' becomes the question of optimal function."
+      }
+    },
+    {
+      "question": {
+        "de": "Subjekte: Wer steuert: Entwickler, Unternehmen, Staaten – oder Modelle ohne Verantwortliche?",
+        "en": "Subjects: Who governs: developers, companies, states – or models without responsible parties?"
+      },
+      "answer": {
+        "de": "Formell steuern Entwickler, Unternehmen und Staaten. Faktisch jedoch delegieren sie an Modelle ohne Verantwortliche. Die Blackbox-Herrschaft entzieht sich der Zurechnung: Entscheidungen fallen in probabilistischen Räumen, die weder intentione noch zurechenbar sind. Verantwortung diffundiert in statistische Korrelationen.",
+        "en": "Formally, developers, companies, and states govern. Factually, however, they delegate to models without responsible parties. Blackbox rule escapes attribution: decisions fall in probabilistic spaces that are neither intentional nor attributable. Responsibility diffuses into statistical correlations."
+      }
+    },
+    {
+      "question": {
+        "de": "Epizentrum: Liegt Macht im Code, in den Daten oder in den Zielen, die definiert werden?",
+        "en": "Epicenter: Does power lie in the code, in the data, or in the goals that are defined?"
+      },
+      "answer": {
+        "de": "Macht liegt primär in den Zielen, die definiert werden – und in den Daten, die diese Ziele operationalisieren. Code ist nur das Medium. Die eigentliche Herrschaft entsteht in der Definition dessen, was 'optimierbar' ist. Daten sind die Materialisierung sozialer Kategorien; Ziele die Normierung gesellschaftlicher Wünsche.",
+        "en": "Power lies primarily in the goals that are defined – and in the data that operationalize these goals. Code is only the medium. The actual rule emerges in the definition of what is 'optimizable'. Data are the materialization of social categories; goals are the normalization of societal desires."
+      }
+    },
+    {
+      "question": {
+        "de": "Schwellenwert: Ab wann ersetzt algorithmische Vorhersage politische Entscheidung?",
+        "en": "Threshold: When does algorithmic prediction replace political decision?"
+      },
+      "answer": {
+        "de": "Der Schwellenwert ist erreicht, wenn Entscheidungen nicht mehr begründet, sondern referenziert werden ('der Algorithmus sagt...'). Wenn Risiken präventiv behandelt werden, bevor sie zu politischen Fragen werden. Wenn Feedback Loops die Realität nach den Modellen formen, statt Modelle an der Realität zu validieren.",
+        "en": "The threshold is reached when decisions are no longer justified, but referenced ('the algorithm says...'). When risks are treated preemptively before they become political questions. When feedback loops shape reality according to the models, rather than validating models against reality."
+      }
+    },
+    {
+      "question": {
+        "de": "Konvergenz: Verstärken sich Sicherheits-, Markt- und Verwaltungsalgorithmen gegenseitig?",
+        "en": "Convergence: Do security, market, and administrative algorithms mutually reinforce each other?"
+      },
+      "answer": {
+        "de": "Ja, sie bilden ein selbstverstärkendes Ökosystem. Sicherheitsalgorithmen produzieren Risikoprofile, die Marktalgorithmen in Preise übersetzen; Verwaltungsalgorithmen automatisieren die Umsetzung. Diese Konvergenz erzeugt eine totale kybernetische Umwelt, in der menschliche Autonomie zur Residualgröße wird.",
+        "en": "Yes, they form a self-reinforcing ecosystem. Security algorithms produce risk profiles that market algorithms translate into prices; administrative algorithms automate implementation. This convergence creates a total cybernetic environment in which human autonomy becomes a residual variable."
+      }
+    },
+    {
+      "question": {
+        "de": "Stabilisierung: Ist algorithmische Steuerung kontrollierbar – oder strukturell selbstlegitimierend?",
+        "en": "Stabilization: Is algorithmic governance controllable – or structurally self-legitimizing?"
+      },
+      "answer": {
+        "de": "Strukturell selbstlegitimierend. Algorithmen generieren ihre eigene Evidenz durch Feedback Loops. Erfolg misst sich an der Optimierung der definierten Ziele, nicht an menschlichen Bedürfnissen. Kontrolle würde eine Meta-Ebene erfordern, die selbst algorithmisch operiert – ein infinit regress.",
+        "en": "Structurally self-legitimizing. Algorithms generate their own evidence through feedback loops. Success is measured by optimization of defined goals, not human needs. Control would require a meta-level that itself operates algorithmically – an infinite regress."
+      }
+    }
+  ],
+  "signals": [
+    {
+      "label": {
+        "de": "Scoring-Systeme (Kredit, Versicherung, Migration, Polizei)",
+        "en": "Scoring systems (credit, insurance, migration, police)"
+      },
+      "value": " ubiquitäre Anwendung",
+      "source": "Enhanced Indicators"
+    },
+    {
+      "label": {
+        "de": "Predictive Governance (predictive policing, risk assessment)",
+        "en": "Predictive governance (predictive policing, risk assessment)"
+      },
+      "value": "systematisch implementiert",
+      "source": "Enhanced Indicators"
+    },
+    {
+      "label": {
+        "de": "Plattformabhängigkeit politischer Öffentlichkeit",
+        "en": "Platform dependency of political public sphere"
+      },
+      "value": "dominierend",
+      "source": "Enhanced Indicators"
+    },
+    {
+      "label": {
+        "de": "Automatisierte Verwaltung ohne individuelle Ermessensspielräume",
+        "en": "Automated administration without individual discretion"
+      },
+      "value": "zunehmend",
+      "source": "Enhanced Indicators"
+    },
+    {
+      "label": {
+        "de": "Verlagerung von Verantwortung auf technische Systeme",
+        "en": "Shift of responsibility to technical systems"
+      },
+      "value": "strukturell",
+      "source": "Enhanced Indicators"
+    },
+    {
+      "label": {
+        "de": "Entscheidungen werden referenziert statt begründet",
+        "en": "Decisions referenced rather than justified"
+      },
+      "value": "Kippunkt erreicht",
+      "source": "Enhanced Indicators"
+    }
+  ],
+  "diagnosis": {
+    "de": "Algorithmische Steuerung bezeichnet den strukturellen Prozess, in dem gesellschaftliche, ökonomische und politische Entscheidungs- und Koordinationsfunktionen zunehmend an datengetriebene, automatisierte und statistisch operierende Systeme delegiert werden, deren Logik sich der demokratischen, rechtlichen und diskursiven Kontrolle nur begrenzt entzieht – oder ihr vollständig vorausläuft. Im Zentrum algorithmischer Steuerung steht nicht die Automatisierung einzelner Entscheidungen, sondern die Verschiebung von Macht in die Vorstrukturierung von Möglichkeiten. Algorithmen entscheiden nicht primär was geschieht, sondern was wahrscheinlich, sichtbar, relevant oder zulässig wird. Steuerung erfolgt damit nicht mehr über Normen, Gesetze oder Befehle, sondern über Scores, Rankings, Wahrscheinlichkeiten und Risikoprofile. Algorithmische Steuerung ist kein neutraler Effizienzgewinn, sondern eine Transformation von Herrschaft: von expliziter Entscheidung zu impliziter Vorentscheidung, von Verantwortung zu Statistik, von politischer Aushandlung zu technischer Optimierung.",
+    "en": "Algorithmic governance denotes the structural process in which societal, economic, and political decision-making and coordination functions are increasingly delegated to data-driven, automated, and statistically operating systems whose logic largely escapes democratic, legal, and discursive control – or completely precedes it. At the center of algorithmic governance stands not the automation of individual decisions, but the shift of power into the pre-structuring of possibilities. Algorithms do not primarily decide what happens, but what becomes probable, visible, relevant, or permissible. Governance thus no longer occurs through norms, laws, or commands, but through scores, rankings, probabilities, and risk profiles. Algorithmic governance is not a neutral efficiency gain, but a transformation of rule: from explicit decision to implicit pre-decision, from responsibility to statistics, from political negotiation to technical optimization."
+  },
+  "mechanisms": {
+    "de": "Systemtheoretisch lässt sich algorithmische Steuerung als Entkopplung von Entscheidung, Verantwortung und Legitimation beschreiben. Zentrale Dynamiken sind: Vorverlagerung von Macht – Entscheidungen werden im Design von Modellen, Datensätzen und Parametern getroffen – nicht im Einzelfall; Blackbox-Effekt – Steuerung bleibt wirksam, ohne nachvollziehbar oder begründbar zu sein; Probabilistische Rationalität – Individuen werden nicht als Subjekte, sondern als statistische Cluster behandelt; Skalierung ohne Diskurs – Einmal implementierte Logiken wirken millionenfach ohne erneute Legitimation; Selbstverstärkung – Algorithmen stabilisieren die Muster, die sie messen (Feedback Loops). Algorithmische Steuerung ist damit ein kybernetisches Regime zweiter Ordnung: Systeme steuern Systeme – ohne menschliche Rückkopplung auf gleicher Ebene. Beispielhaft zeigt sich dies in der Aussage 'We kill people based on metadata' - General Hayden (2014) – die perfekte Illustration probabilistischer Rationalität und Blackbox-Herrschaft.",
+    "en": "System-theoretically, algorithmic governance can be described as a decoupling of decision, responsibility, and legitimacy. Central dynamics are: Forward displacement of power – decisions are made in the design of models, datasets, and parameters – not in individual cases; Blackbox effect – governance remains effective without being traceable or justifiable; Probabilistic rationality – individuals are not treated as subjects, but as statistical clusters; Scaling without discourse – once implemented logics work millions of times without renewed legitimation; Self-reinforcement – algorithms stabilize the patterns they measure (feedback loops). Algorithmic governance is thus a cybernetic regime of second order: systems control systems – without human feedback at the same level. This is exemplified by the statement 'we kill people based on metadata' – the perfect illustration of probabilistic rationality and blackbox rule."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Score-Gate",
+        "en": "Score Gate"
+      },
+      "description": {
+        "de": "Eine Zahl entscheidet über Kredit, Job, Wohnung.",
+        "en": "A single number decides credit, job, housing."
+      }
+    },
+    {
+      "name": {
+        "de": "Black-Box-Bescheid",
+        "en": "Black-Box Notice"
+      },
+      "description": {
+        "de": "Automatisierte Ablehnung ohne Begründung oder Einsicht.",
+        "en": "Automated denial without rationale or insight."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Algorithmische Gouvernementalität",
+      "definition": {
+        "de": "Steuerung von Populationen über Daten, Prognosen und Wahrscheinlichkeiten.",
+        "en": "Governance of populations through data, predictions, and probabilities."
+      }
+    },
+    {
+      "term": "Blackbox-Herrschaft",
+      "definition": {
+        "de": "Macht ohne Transparenz oder Rechenschaft.",
+        "en": "Power without transparency or accountability."
+      }
+    },
+    {
+      "term": "Präemptive Rationalität",
+      "definition": {
+        "de": "Handeln auf Basis möglicher zukünftiger Risiken.",
+        "en": "Action based on possible future risks."
+      }
+    },
+    {
+      "term": "Feedback-Loop",
+      "definition": {
+        "de": "Selbstverstärkende Rückkopplung zwischen Messung und Realität.",
+        "en": "Self-reinforcing feedback between measurement and reality."
+      }
+    },
+    {
+      "term": "Proxy Variable",
+      "definition": {
+        "de": "Stellvertretermerkmal, das verbotene Merkmale indirekt codiert.",
+        "en": "Stand-in feature that indirectly codes protected traits."
+      }
+    },
+    {
+      "term": "Disparate Impact",
+      "definition": {
+        "de": "Ungleiche Wirkung auf Gruppen trotz formaler Neutralität.",
+        "en": "Unequal group impact despite formal neutrality."
+      }
+    },
+    {
+      "term": "Model Card",
+      "definition": {
+        "de": "Dokumentation von Zweck, Daten, Limits eines Modells.",
+        "en": "Documentation of purpose, data, and limits of a model."
+      }
+    }
+  ],
+  "related": [
+    "demokratieabbau",
+    "faschisierung",
+    "abschiebungsapparat",
+    "finanzblasen",
+    "entmenschlichung-buerokratie",
+    "kuenstliche-intelligenz",
+    "aufruestung",
+    "autoritarismus",
+    "corruption"
+  ],
+  "lastUpdatedISO": "2025-12-23T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "citations": [
+    {
+      "label": "Court/audit reports",
+      "note": "Disparate impact, automation levels"
+    },
+    {
+      "label": "Bruno Latour - Aramis",
+      "note": "Technische Systeme und gesellschaftliche Einbettung"
+    },
+    {
+      "label": "Donna Haraway - Cyborg Manifesto",
+      "note": "Kybernetische Organismen und Kontrollgesellschaften"
+    },
+    {
+      "label": "Norbert Wiener - Cybernetics",
+      "note": "Grundlagen der Kybernetik und Regelkreise"
+    },
+    {
+      "label": "James Bridle - New Dark Age",
+      "note": "Algorithmen und Undurchsichtigkeit"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/algorithmische-steuerung/crisis-placeholder.jpg",
+      "/media/algorithmische-steuerung/impact-placeholder.png",
+      "/media/algorithmische-steuerung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Chord: features → outcomes; Sankey: appeal paths; shader: glitch over score distributions."
+  ],
+  "timeline": [
+    {
+      "year": "2016",
+      "location": "US/EU",
+      "event": "Risk-Scoring Debatten",
+      "description": "Gerichte prüfen COMPAS/Sozialmodelle."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie-Automation",
+      "description": "Kontakt- und Hilfsbescheide werden automatisiert."
+    },
+    {
+      "year": "2023",
+      "location": "EU",
+      "event": "AI-Regulierung",
+      "description": "Hohe Risikoklassen definieren Audit-Pflichten; Praxis offen."
+    }
+  ]
+}

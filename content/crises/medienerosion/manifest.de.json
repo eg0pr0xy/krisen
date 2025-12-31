@@ -1,0 +1,210 @@
+{
+  "id": "medienerosion",
+  "slug": "medienerosion",
+  "title": {
+    "de": "Medienerosion",
+    "en": "Media Erosion"
+  },
+  "summary": {
+    "de": "Finanzierung, Aufmerksamkeit und Arbeitsbedingungen zerfallen; journalistische Infrastruktur wird ausgehöhlt.",
+    "en": "Financing, attention, and labour conditions erode; journalistic infrastructure is hollowed out."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "lokal",
+    "ads",
+    "paywall",
+    "arbeitskampf",
+    "plattform"
+  ],
+  "severity": 66,
+  "volatility": 62,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Rückgang lokaler Titel (EU/US seit 2000)",
+        "en": "Loss of local titles (EU/US since 2000)"
+      },
+      "value": "-30%",
+      "source": "Media ownership studies"
+    },
+    {
+      "label": {
+        "de": "News Deserts Bevölkerung",
+        "en": "Population in news deserts"
+      },
+      "value": "10–20%",
+      "source": "PEN/UNC studies"
+    },
+    {
+      "label": {
+        "de": "Anteil Werbeerlöse Plattform vs. Publisher",
+        "en": "Ad revenue share platforms vs publishers"
+      },
+      "value": "~70/30",
+      "source": "Ad market 2024"
+    },
+    {
+      "label": {
+        "de": "Median-Lohn Redaktionen (real)",
+        "en": "Median newsroom pay (real)"
+      },
+      "value": "↓ seit 2010",
+      "source": "Union reports"
+    },
+    {
+      "label": {
+        "de": "Abo-Friction (Churn/Monat)",
+        "en": "Subscription churn / month"
+      },
+      "value": "4–12%",
+      "source": "Publisher dashboards"
+    }
+  ],
+  "diagnosis": {
+    "de": "Medienerosion ist die materialistische Unterseite der Öffentlichkeit. Bei Horkheimer/Adorno: Kulturindustrie substituiert Aufklärung durch Ware; heute ersetzt Plattformlogik Werbemärkte. Luhmann: Kommunikation verliert institutionelle Träger, Vertrauen sinkt. Kritische Theorie: Eigentumskonzentration und Renditedruck standardisieren Inhalte, während Lokalität stirbt. Ergebnis: weniger Recherche, mehr Replikation.",
+    "en": "Media erosion is the material underside of the public sphere. Horkheimer/Adorno: culture industry swaps enlightenment for commodity; now platform logic captures ad markets. Luhmann: communication loses institutional carriers, trust drops. Critical theory: ownership concentration and return pressure standardise content while locality dies. Outcome: less investigation, more replication."
+  },
+  "mechanisms": {
+    "de": "Programmatic Advertising zieht Budgets zu Plattformen. Paywalls fragmentieren Öffentlichkeit. VC-getriebene Skalierungslogik ersetzt Chronistenpflicht durch Wachstumszwang. Redaktionen schrumpfen, Automatisierung (A/B-Headlines, Rewrite-Bots) senkt Qualität. Arbeitskampf und Prekarität führen zu Abwanderung, Wissen geht verloren. News Deserts verringern Systemvertrauen und erhöhen Desinformationsempfänglichkeit.",
+    "en": "Programmatic advertising pulls budgets to platforms. Paywalls fragment the public. VC scaling logic replaces chronicler duty with growth targets. Newsrooms shrink; automation (A/B headlines, rewrite bots) lowers quality. Labour disputes and precarity drive exits; tacit knowledge vanishes. News deserts erode system trust and raise disinformation susceptibility."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Geisterredaktion",
+        "en": "Ghost Newsroom"
+      },
+      "description": {
+        "de": "Titel existiert, Personal ist minimal; Agenturmaterial dominiert.",
+        "en": "Title exists, staff is minimal; wire copy dominates."
+      }
+    },
+    {
+      "name": {
+        "de": "Paywall-Insel",
+        "en": "Paywall Isle"
+      },
+      "description": {
+        "de": "Recherche versteckt sich hinter Schranken; Debatte zerfasert.",
+        "en": "Reporting hides behind gates; debate frays."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Programmatic Advertising",
+      "definition": {
+        "de": "Automatisierter Anzeigenhandel über Plattformen.",
+        "en": "Automated ad trading via platforms."
+      }
+    },
+    {
+      "term": "News Desert",
+      "definition": {
+        "de": "Region ohne lokaljournalistische Grundversorgung.",
+        "en": "Region lacking basic local journalism."
+      }
+    },
+    {
+      "term": "Culture Industry",
+      "definition": {
+        "de": "Frankfurter-Schule-Begriff für industrialisierte Kulturproduktion.",
+        "en": "Frankfurt School term for industrialised culture production."
+      }
+    },
+    {
+      "term": "Media Capture",
+      "definition": {
+        "de": "Übernahme von Medienhäusern zur Steuerung von Berichterstattung.",
+        "en": "Acquisition of media houses to steer coverage."
+      }
+    }
+  ],
+  "related": [
+    "zensur",
+    "aufmerksamkeitsoekonomie",
+    "fragmentierung-der-oeffentlichkeit",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-medienerosion",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Media ownership & revenue studies"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/medienerosion/newsroom-placeholder.jpg",
+      "/media/medienerosion/desert-map-placeholder.png"
+    ]
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Wer ist am stärksten betroffen?",
+        "en": "Who is most affected?"
+      },
+      "answer": {
+        "de": "Ländliche Regionen (News Deserts), prekäre Communities, lokale Demokratie ohne Berichterstattung.",
+        "en": "Rural regions (news deserts), precarious communities, local democracy without coverage."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Kennzahlen überwachen?",
+        "en": "Which metrics to monitor?"
+      },
+      "answer": {
+        "de": "Titel-Schließungen, News-Desert-Bevölkerung, Ad-Split Plattform/Publisher, Churn, Investigativ-Anteile.",
+        "en": "Title closures, news-desert population, platform/publisher ad split, churn, investigative share."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Interventionen wirken?",
+        "en": "Which interventions work?"
+      },
+      "answer": {
+        "de": "Stiftungsmodelle, Gemeinnützigkeit, Gemeinwohlfonds, Plattformabgaben, Tarifbindung, offene Daten für Lokalrecherche.",
+        "en": "Foundation models, nonprofit status, public-interest funds, platform levies, collective bargaining, open data for local reporting."
+      }
+    }
+  ],
+  "editNotes": [
+    "D3: Ad revenue split stacked area; newsroom headcount slope; map of news deserts."
+  ],
+  "timeline": [
+    {
+      "year": "2000-2010",
+      "location": "Global North",
+      "event": "Print-Ads Collapse",
+      "description": "Migration von Anzeigenerlösen ins Netz."
+    },
+    {
+      "year": "2016",
+      "location": "Global",
+      "event": "Platform Capture",
+      "description": "Social und Search dominieren Werbemarkt."
+    },
+    {
+      "year": "2023-2024",
+      "location": "US/EU",
+      "event": "Streiks & Kürzungen",
+      "description": "Massenentlassungen, Arbeitskämpfe, Paywall-Wellen."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": "weltraumschrott",
+  "slug": "weltraumschrott",
+  "title": {
+    "de": "Weltraumschrott",
+    "en": "Space Debris"
+  },
+  "summary": {
+    "de": "Orbitale Trümmer als hyperkinetische Bedrohung; Kessler-Syndrom bedingt exponentielle Eskalation.",
+    "en": "Orbital debris as hyperkinetic threat; Kessler syndrome causes exponential escalation."
+  },
+  "categories": [
+    "Materie",
+    "Kontrolle"
+  ],
+  "tags": [
+    "orbit",
+    "raumfahrt",
+    "trümmer",
+    "kollision",
+    "satelliten"
+  ],
+  "severity": 75,
+  "volatility": 60,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Objekte > 10 cm (verfolgbar)",
+        "en": "Objects > 10 cm (trackable)"
+      },
+      "value": "> 40.500",
+      "source": "NORAD/ESA"
+    },
+    {
+      "label": {
+        "de": "Objekte 1 cm - 10 cm (geschätzt)",
+        "en": "Objects 1 cm - 10 cm (estimated)"
+      },
+      "value": "~ 1.100.000",
+      "source": "ESA Models"
+    },
+    {
+      "label": {
+        "de": "Gesamtmasse im Orbit",
+        "en": "Total mass in orbit"
+      },
+      "value": "> 13.000 Tonnen",
+      "source": "ESA"
+    },
+    {
+      "label": {
+        "de": "Aktive Satelliten",
+        "en": "Active satellites"
+      },
+      "value": "~ 10.000",
+      "source": "UCS Satellite Database"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist das Substrat?",
+        "en": "What is the substrate?"
+      },
+      "answer": {
+        "de": "Über 13.000 Tonnen künstliches Material: inaktive Nutzlasten, Raketenoberstufen, Missionsrückstände (Lens Covers) und Fragmentierungsschrott.",
+        "en": "Over 13,000 tonnes of artificial material: inactive payloads, rocket upper stages, mission residues (lens covers), and fragmentation debris."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer sind die Akteure?",
+        "en": "Who are the actors?"
+      },
+      "answer": {
+        "de": "Historisch staatliche Agenturen (NASA, Roskosmos), aktuell dominieren kommerzielle Megakonstellationen (SpaceX, OneWeb) und staatliche Anti-Satelliten-Tests (ASAT).",
+        "en": "Historically state agencies (NASA, Roskosmos), currently dominated by commercial megaconstellations (SpaceX, OneWeb) and state anti-satellite tests (ASAT)."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "Kritische Konzentration im Low Earth Orbit (LEO, 800-1000 km) und im geostationären Orbit (GEO). Besonders polare Inklinationen sind saturiert.",
+        "en": "Critical concentration in Low Earth Orbit (LEO, 800-1000 km) and geostationary orbit (GEO). Polar inclinations are particularly saturated."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann kippt das System?",
+        "en": "When does the system tip?"
+      },
+      "answer": {
+        "de": "Das System ist bereits metastabil. ESA-Modelle zeigen, dass selbst bei sofortigem Startstopp die Trümmerzahl durch Kollisionen steigen wird (Kessler-Limit überschritten).",
+        "en": "The system is already metastable. ESA models show that even with immediate launch stop, debris numbers will increase through collisions (Kessler limit exceeded)."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum jetzt?",
+        "en": "Why now?"
+      },
+      "answer": {
+        "de": "Kombination aus 'NewSpace'-Kommerzialisierung (CubeSats, Starlink) und der historischen Altlast aus 60 Jahren unregulierter 'Wegwerf-Raumfahrt'.",
+        "en": "Combination of 'NewSpace' commercialization (CubeSats, Starlink) and historical legacy from 60 years of unregulated 'throwaway spaceflight'."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie ist Stabilisierung möglich?",
+        "en": "How is stabilization possible?"
+      },
+      "answer": {
+        "de": "Nur durch radikale Mitigation: 'Design for Demise', verbindliches De-Orbiting (<5 Jahre) und technologisch komplexes Active Debris Removal (ADR).",
+        "en": "Only through radical mitigation: 'Design for Demise', mandatory de-orbiting (<5 years), and technologically complex Active Debris Removal (ADR)."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Weltraumschrott bezeichnet die Gesamtheit aller menschengemachten, funktionslosen Artefakte im Orbit (ausgediente Satelliten, Raketenstufen, Fragmentierungstrümmer), die als hyperkinetische Projektile die orbitale Infrastruktur bedrohen. Es ist die materielle Manifestation technologischer Obsoleszenz im erdnahen Raum. Die Genese des Problems liegt im Kalten Krieg und dem 'Space Race', wo Geschwindigkeit vor Nachhaltigkeit ging. Seit dem Start von Sputnik 1 (1957) wurde der Orbit als unendliche Senke betrachtet. Signifikante 'Super-Spreader'-Events wie der chinesische ASAT-Test 2007 oder die Iridium-Kosmos-Kollision 2009 haben die Population sprunghaft erhöht. Im Sinne von Paul Virilio impliziert die Erfindung der Raumfahrt unvermeidlich den orbitalen Schiffbruch. Weltraumschrott ist nicht bloß Abfall, sondern ein 'Hyperobjekt' (Timothy Morton), das sich der unmittelbaren menschlichen Wahrnehmung entzieht, aber systembestimmend wirkt. Nach Mark Fisher markiert diese Akkumulation den 'Slow Cancellation of the Future': Der Fortschrittsglaube der Moderne (Aufbruch zu den Sternen) wird durch seine eigenen materiellen Rückstände blockiert. Achille Mbembes Nekropolitik wandelt sich zur orbitalen Nekropolitik, in der der 'tote' Raum den 'lebendigen' technologischen Raum kolonisiert und erdrosselt. Das All ist keine Leere mehr, sondern ein Friedhof der technokratischen Expansion. Systemtheoretisch betrachtet unterliegt das Phänomen den Gesetzen der nicht-linearen Dynamik und der orbitalen Mechanik. Die kritische Dichte wird durch das Kessler-Syndrom beschrieben: Ein selbsterhaltender Kaskadeneffekt, bei dem Kollisionen (E_k = 0.5mv²) weitere Trümmer erzeugen, was zu exponentiellem Wachstum der Population führt. Bei Relativgeschwindigkeiten von bis zu 56.000 km/h besitzen selbst Partikel im Millimeterbereich letale kinetische Energie.",
+    "en": "Space debris denotes the totality of all man-made, non-functional artifacts in orbit (defunct satellites, rocket stages, fragmentation debris) that threaten orbital infrastructure as hyperkinetic projectiles. It is the material manifestation of technological obsolescence in near-Earth space."
+  },
+  "mechanisms": {
+    "de": "Unregulierte 'Wegwerf-Raumfahrt' erzeugt kontinuierliche Trümmerproduktion. Kollisionskaskaden verstärken sich selbst. Neue Konstellationen (Starlink) erhöhen Kollisionsrisiko. ASAT-Tests produzieren Tausende Fragmente. Atmosphärisches Re-Entry ist unzuverlässig und verschmutzend.",
+    "en": "Unregulated 'throwaway spaceflight' creates continuous debris production. Collision cascades reinforce themselves. New constellations (Starlink) increase collision risk. ASAT tests produce thousands of fragments. Atmospheric re-entry is unreliable and polluting."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Kollisionsdomino",
+        "en": "Collision Domino"
+      },
+      "description": {
+        "de": "Eine Kollision erzeugt Dutzende neue Trümmer, die wiederum kollidieren.",
+        "en": "One collision creates dozens of new debris, which collide again."
+      }
+    },
+    {
+      "name": {
+        "de": "Orbitaler Friedhof",
+        "en": "Orbital Cemetery"
+      },
+      "description": {
+        "de": "Ganze Orbitalzonen werden unbenutzbar durch hohe Trümmerdichte.",
+        "en": "Entire orbital zones become unusable due to high debris density."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Kessler-Syndrom",
+      "definition": {
+        "de": "Selbsterhaltender Kaskadeneffekt orbitaler Kollisionen, der exponentielles Trümmerwachstum erzeugt.",
+        "en": "Self-sustaining cascade effect of orbital collisions, creating exponential debris growth."
+      }
+    },
+    {
+      "term": "Hyperkinetische Projektile",
+      "definition": {
+        "de": "Bei hohen Geschwindigkeiten (>10 km/s) selbst kleine Objekte werden zu zerstörerischen Geschossen.",
+        "en": "At high speeds (>10 km/s), even small objects become destructive projectiles."
+      }
+    },
+    {
+      "term": "Active Debris Removal (ADR)",
+      "definition": {
+        "de": "Technologien zum gezielten Entfernen großer Trümmer aus dem Orbit (z.B. Harpunen, Netze).",
+        "en": "Technologies for targeted removal of large debris from orbit (e.g., harpoons, nets)."
+      }
+    },
+    {
+      "term": "Design for Demise",
+      "definition": {
+        "de": "Konstruktion von Satelliten, die vollständig in der Atmosphäre verglühen.",
+        "en": "Design of satellites that completely burn up in the atmosphere."
+      }
+    },
+    {
+      "term": "Super-Spreader-Events",
+      "definition": {
+        "de": "Katastrophale Kollisionen, die Tausende neuer Trümmerfragmente erzeugen.",
+        "en": "Catastrophic collisions that create thousands of new debris fragments."
+      }
+    }
+  ],
+  "related": [
+    "just-in-time-fragilitaet",
+    "antibiotika-resistenzen",
+    "staatszerfall"
+  ],
+  "citations": [
+    {
+      "label": "Paul Virilio - Speed and Politics",
+      "note": "Inevitability of orbital shipwreck with spaceflight invention"
+    },
+    {
+      "label": "Timothy Morton - Hyperobjects",
+      "note": "Space debris as hyperobject evading direct human perception"
+    },
+    {
+      "label": "Mark Fisher - Capitalist Realism",
+      "note": "Slow cancellation of future blocked by material residues"
+    },
+    {
+      "label": "Achille Mbembe - Necropolitics",
+      "note": "Dead space colonizing and strangling living technological space"
+    },
+    {
+      "label": "Donald Kessler - Kessler Syndrome",
+      "note": "Self-sustaining cascade effect of orbital collisions"
+    }
+  ],
+  "lastUpdatedISO": "2025-12-23T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "editNotes": [
+    "Neue Krise: Umfassende Analyse des Weltraumschrotts als hyperkinetische Bedrohung mit Kessler-Syndrom."
+  ],
+  "media": {
+    "images": [
+      "/media/weltraumschrott/crisis-placeholder.jpg",
+      "/media/weltraumschrott/impact-placeholder.png",
+      "/media/weltraumschrott/solution-placeholder.jpg"
+    ]
+  }
+}

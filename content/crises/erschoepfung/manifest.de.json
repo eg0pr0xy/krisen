@@ -1,0 +1,157 @@
+{
+  "id": "erschoepfung",
+  "slug": "erschoepfung",
+  "title": {
+    "de": "Erschöpfung",
+    "en": "Exhaustion"
+  },
+  "summary": {
+    "de": "Chronische Überlastung durch Arbeit, Care, Informationsrauschen und Unsicherheit erschöpft Körper und Institutionen.",
+    "en": "Chronic overload from work, care, info-noise, and insecurity exhausts bodies and institutions."
+  },
+  "categories": [
+    "Gefühl",
+    "Existenz"
+  ],
+  "tags": [
+    "burnout",
+    "overwork",
+    "always-on",
+    "care-gap",
+    "sleep-debt"
+  ],
+  "severity": 74,
+  "volatility": 63,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Krankschreibungen psychisch",
+        "en": "Mental sick leave"
+      },
+      "value": "↑ zweistellig",
+      "source": "Insurance"
+    },
+    {
+      "label": {
+        "de": "Schlafdauer",
+        "en": "Sleep duration"
+      },
+      "value": "↓ <7h",
+      "source": "Surveys"
+    },
+    {
+      "label": {
+        "de": "Benachrichtigungen/Tag",
+        "en": "Notifications/day"
+      },
+      "value": "dreistellig",
+      "source": "Platform data"
+    }
+  ],
+  "diagnosis": {
+    "de": "Erschöpfung ist kumulativ: Erwerbsverdichtung, Care-Lücken und digitale Dauererreichbarkeit senken Regeneration. Kultur der Selbstoptimierung verschiebt Grenzen. Institutionen spiegeln das Muster: Notstände verlängern Ausnahmezustände, Teams arbeiten auf Kante, Wissensverlust durch Fluktuation. Erschöpfung wird politisch, wenn Systeme Leistungsfähigkeit verlieren.",
+    "en": "Exhaustion is cumulative: intensified work, care gaps, and always-on digitality erode recovery. Self-optimisation culture pushes limits. Institutions mirror this: emergencies extend, teams run at edge, churn erodes tacit knowledge. Exhaustion becomes political when systems lose performance."
+  },
+  "mechanisms": {
+    "de": "Zeit wird fragmentiert; Multitasking senkt Tiefe. Schlafdefizit schwächt Immunsystem und Urteil. Care-Arbeit bleibt unbezahlt, fällt oft auf Frauen. Algorithmen optimieren Aufmerksamkeit, nicht Erholung. Budgetkürzungen in Gesundheit und Bildung erhöhen Belastung.",
+    "en": "Time fragments; multitasking reduces depth. Sleep debt weakens immunity and judgement. Care work stays unpaid, often on women. Algorithms optimise attention, not rest. Budget cuts in health and education amplify load."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Always-On",
+        "en": "Always-On"
+      },
+      "description": {
+        "de": "Keine Off-Time, ständige Benachrichtigungen, Schlaf bricht weg.",
+        "en": "No off-time, constant pings, sleep collapses."
+      }
+    },
+    {
+      "name": {
+        "de": "Care-Schere",
+        "en": "Care Gap"
+      },
+      "description": {
+        "de": "Mehr Pflegebedarf, weniger Kapazität; private Erschöpfung steigt.",
+        "en": "Rising care needs, shrinking capacity; private exhaustion mounts."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Allostatische Last",
+      "definition": {
+        "de": "Kumulative physiologische Belastung durch dauernden Stress.",
+        "en": "Cumulative physiological burden from chronic stress."
+      }
+    },
+    {
+      "term": "Präsentismus",
+      "definition": {
+        "de": "Arbeiten trotz Krankheit, Leistung sinkt.",
+        "en": "Working while ill, lowering performance."
+      }
+    },
+    {
+      "term": "Erholungsdefizit",
+      "definition": {
+        "de": "Regeneration bleibt hinter Belastung zurück.",
+        "en": "Recovery lags behind load."
+      }
+    }
+  ],
+  "related": [
+    "exhaustion",
+    "psychische-belastung",
+    "care",
+    "armut",
+    "drogen",
+    "entfremdung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-erschoepfung-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Health insurers, time-use",
+      "note": "Sick leave, sleep, notifications"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/erschoepfung/crisis-placeholder.jpg",
+      "/media/erschoepfung/impact-placeholder.png",
+      "/media/erschoepfung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Line: sick-leave days; scatter: sleep vs notifications; shader: grainy fade on silhouettes."
+  ],
+  "timeline": [
+    {
+      "year": "2010er",
+      "location": "Global North",
+      "event": "Smartphone-Always-On",
+      "description": "Benachrichtigungen werden Dauerzustand."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie-Overload",
+      "description": "Care- und Arbeitslast explodiert, Erholung bricht weg."
+    },
+    {
+      "year": "2023",
+      "location": "OECD",
+      "event": "Quiet quitting",
+      "description": "Subtile Arbeitsverweigerung als Selbstschutz."
+    }
+  ]
+}

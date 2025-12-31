@@ -1,0 +1,169 @@
+{
+  "id": "empoerungsdynamiken",
+  "slug": "empoerungsdynamiken",
+  "title": {
+    "de": "Empörungsdynamiken",
+    "en": "Outrage dynamics"
+  },
+  "summary": {
+    "de": "Ein autopoietisches, selbstreferenzielles Kommunikationssystem, das durch affektive Rückkopplungsschleifen in digitalen Netzwerken charakterisiert ist. Empörungsdynamiken fungieren als Währung im Aufmerksamkeitskapitalismus, wobei moralische Entrüstung nicht der Problemlösung dient, sondern der Generierung von sozialem Kapital und algorithmischer Resonanz.",
+    "en": "An autopoietic, self-referential communication system characterized by affective feedback loops in digital networks. Outrage dynamics function as currency in attention capitalism, where moral indignation does not serve problem-solving but the generation of social capital and algorithmic resonance."
+  },
+  "categories": [
+    "Gefühl",
+    "Kontrolle"
+  ],
+  "tags": [
+    "soziale-medien",
+    "skandal",
+    "polarisation",
+    "aufmerksamkeit"
+  ],
+  "severity": 63,
+  "volatility": 83,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Trending-Zyklen",
+        "en": "Trending cycles"
+      },
+      "value": "<24h",
+      "source": "Plattformdaten"
+    },
+    {
+      "label": {
+        "de": "Content-Takedowns",
+        "en": "Content takedowns"
+      },
+      "value": "volatile",
+      "source": "Trust & Safety Reports"
+    },
+    {
+      "label": {
+        "de": "Protestspitzen",
+        "en": "Protest peaks"
+      },
+      "value": "episodisch",
+      "source": "Event-Datenbanken"
+    }
+  ],
+  "diagnosis": {
+    "de": "Die Genese der digitalen Empörungskultur ist untrennbar mit dem Aufstieg des Web 2.0 (ab ca. 2004) und der Smartphone-Verbreitung (ab 2007) verbunden. Sie markiert den Übergang von der 'Gutenberg-Galaxis' (linear, textbasiert, verlangsamt) zur 'Turing-Galaxis' (vernetzt, algorithmisch, echtzeitbasiert). Historisch vergleichbar mit den religiösen Erweckungsbewegungen, jedoch ohne transzendenten Überbau, rein immanent und nihilistisch. Die Phänomenologie der Empörung lässt sich als Manifestation der 'Affektökonomie' deuten. Im Sinne von Mark Fisher ('Exiting the Vampire Castle') operiert die Empörung als Mechanismus der moralischen Essentialisierung, der Klassenbewusstsein durch identitäre Performanz ersetzt. Michel Foucaults Panoptismus transformiert sich hier in ein 'Synopticon': Die Vielen überwachen die Wenigen (und sich gegenseitig) in einem permanenten Tribunal der Moralität. Adornos Kulturindustrie findet ihre Fortsetzung in der algorithmischen Standardisierung des Affekts – Empörung wird zur Ware, die Rebellion simuliert, während sie die bestehenden Plattform-Machtstrukturen zementiert. Es ist der Triumph der 'Psychopolitik' (Byung-Chul Han), bei der das System nicht mehr durch Zwang, sondern durch die Ausbeutung der inneren Regungen (Emotionen) stabilisiert wird. Empörungsdynamiken koppeln affektive Mobilisierung mit Plattformökonomien. Kurze Wellen erzeugen symbolischen Druck, verdrängen aber langes Argumentieren. Institutionen reagieren taktisch mit Statements, Rücktritten oder Schnellgesetzen, wodurch Politik zyklisch wird. Der Diskurs verengt sich auf moralische Binaritäten und produziert Müdigkeit.",
+    "en": "The genesis of digital outrage culture is inextricably linked with the rise of Web 2.0 (from ca. 2004) and smartphone proliferation (from 2007). It marks the transition from the 'Gutenberg galaxy' (linear, text-based, decelerated) to the 'Turing galaxy' (networked, algorithmic, real-time). Historically comparable to religious revival movements, but without transcendent superstructure, purely immanent and nihilistic. The phenomenology of outrage can be interpreted as a manifestation of the 'affect economy'. In the sense of Mark Fisher ('Exiting the Vampire Castle'), outrage operates as a mechanism of moral essentialization that replaces class consciousness with identitary performance. Michel Foucault's panopticism transforms here into a 'synopticon': The many monitor the few (and each other) in a permanent tribunal of morality. Adorno's culture industry finds its continuation in the algorithmic standardization of affect – outrage becomes a commodity that simulates rebellion while cementing existing platform power structures. It is the triumph of 'psychopolitics' (Byung-Chul Han), in which the system is stabilized not by coercion, but by the exploitation of inner impulses (emotions). Outrage dynamics link affective mobilisation with platform economies. Short waves create symbolic pressure but displace sustained argument. Institutions respond tactically with statements, resignations, or fast laws, turning politics cyclical. Discourse narrows into moral binaries and produces fatigue."
+  },
+  "mechanisms": {
+    "de": "Was ist das ontologische Substrat? Eine rekursive Schleife aus affektiver Energie und algorithmischer Verstärkung, entkoppelt von faktischer Realität. Wer sind die Akteure? Symbiose aus Plattform-Algorithmen (Struktur) und affektgesteuerten Prosumern (Agenten), oft katalysiert durch 'Moral Entrepreneurs'. Wo liegt das Epizentrum? In den echokammer-artigen Strukturen sozialer Netzwerke (X, TikTok), wo Latenzzeiten der Kommunikation gegen Null tendieren. Wann wird das System kritisch? Sobald die affektive Ansteckungsrate die kognitive Verarbeitungsgeschwindigkeit der partizipierenden Knotenpunkte übersteigt. Warum passiert es jetzt? Konvergenz von Polykrisen (gesellschaftliche Unsicherheit) und Aufmerksamkeitsökonomie (Monetarisierung negativer Emotionen). Wie ist Stabilisierung möglich? Einführung systemischer Friktion (Verzögerung), Reduktion algorithmischer Amplifikation und De-Eskalation der binären Moralcodierung. Systemtheoretisch (nach Niklas Luhmann) sind Empörungsdynamiken hochfrequente Anschlussoperationen, die die Komplexität sozialer Interaktion drastisch reduzieren, indem sie Kommunikation auf den binären Code Moral/Unmoral verengen. Physikalisch lässt sich das Phänomen als nicht-lineares dynamisches System beschreiben, das zu 'Resonanzkatastrophe'n neigt. Die Dämpfung im System (kritisches Nachdenken, zeitliche Verzögerung) wird durch Algorithmen eliminiert, was zu positiven Rückkopplungsschleifen (positive feedback loops) führt. Die Entropie des gesellschaftlichen Informationssystems steigt, da das Signal-Rausch-Verhältnis zugunsten affektiven Rauschens kippt. Der Phasenübergang von Diskurs zu Empörung erfolgt an kritischen Kipppunkten (Tipping Points), bestimmt durch die Vernetzungsdichte und Erregbarkeitsschwelle der Agenten. Algorithmische Verstärkung bevorzugt emotionale, konfliktive Inhalte. Medien übernehmen Plattformframes, um Reichweite zu halten. Parteien instrumentalisieren Empörung als Agenda-Setter, verlieren aber langfristige Strategien. Gegenreaktionen führen zu Gegenboykotten und Feedbackschleifen. Aufmerksamkeitsökonomie verdrängt komplexe Themen zugunsten taktischer Skandalisierung.",
+    "en": "What is the ontological substrate? A recursive loop of affective energy and algorithmic amplification, decoupled from factual reality. Who are the actors? Symbiosis of platform algorithms (structure) and affect-driven prosumers (agents), often catalyzed by 'moral entrepreneurs'. Where is the epicenter? In the echo chamber-like structures of social networks (X, TikTok), where communication latency tends toward zero. When does the system become critical? As soon as the affective infection rate exceeds the cognitive processing speed of the participating nodes. Why is it happening now? Convergence of polycrises (societal uncertainty) and attention economy (monetization of negative emotions). How is stabilization possible? Introduction of systemic friction (delay), reduction of algorithmic amplification, and de-escalation of binary moral coding. From a systems theory perspective (Niklas Luhmann), outrage dynamics are high-frequency connection operations that drastically reduce the complexity of social interaction by narrowing communication to the binary code moral/immoral. Physically, the phenomenon can be described as a non-linear dynamic system that tends toward 'resonance catastrophes'. The damping in the system (critical thinking, temporal delay) is eliminated by algorithms, leading to positive feedback loops. The entropy of the societal information system increases, as the signal-noise ratio tips in favor of affective noise. The phase transition from discourse to outrage occurs at critical tipping points, determined by network density and excitability threshold of the agents. Algorithmic amplification favours emotional, conflictual content. Media copy platform frames to maintain reach. Parties instrumentalise outrage as agenda setter but lose long-term strategy. Backlash triggers counter boycotts and feedback loops. Attention economy crowds out complexity in favour of tactical scandalisation."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "24h-Shitstorm",
+        "en": "24h storm"
+      },
+      "description": {
+        "de": "Kurzzeitige Affektwolke mit realen Reputations- und Absatzfolgen.",
+        "en": "Short affect cloud with real reputational and sales effects."
+      }
+    },
+    {
+      "name": {
+        "de": "Virtue Signaling",
+        "en": "Virtue signaling"
+      },
+      "description": {
+        "de": "Symbolische Selbstmarkierung zur Zugehörigkeitssicherung.",
+        "en": "Symbolic self-branding to secure belonging."
+      }
+    },
+    {
+      "name": {
+        "de": "Cancel-Gegen-Cancel",
+        "en": "Cancel vs. counter-cancel"
+      },
+      "description": {
+        "de": "Wechselseitige Boykotte, die Themen blockieren statt klären.",
+        "en": "Mutual boycotts blocking issues instead of clarifying them."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Affektökonomie",
+      "definition": {
+        "de": "Wirtschaft der Emotionen im digitalen Kapitalismus.",
+        "en": "Economy of emotions in digital capitalism."
+      }
+    },
+    {
+      "term": "Synopticon",
+      "definition": {
+        "de": "Umkehrung des Panoptikums: Viele überwachen Wenige.",
+        "en": "Reversal of the panopticon: Many monitor the few."
+      }
+    },
+    {
+      "term": "Psychopolitik",
+      "definition": {
+        "de": "Macht durch psychologische Manipulation statt Zwang.",
+        "en": "Power through psychological manipulation instead of coercion."
+      }
+    },
+    {
+      "term": "Resonanzkatastrophe",
+      "definition": {
+        "de": "Systemkollaps durch übermäßige Verstärkung von Schwingungen.",
+        "en": "System collapse through excessive amplification of oscillations."
+      }
+    },
+    {
+      "term": "Affect Spread",
+      "definition": {
+        "de": "Geschwindigkeit, mit der Emotionen über Netzwerke diffundieren.",
+        "en": "Speed at which emotions diffuse across networks."
+      }
+    },
+    {
+      "term": "Context Collapse",
+      "definition": {
+        "de": "Zusammenfall unterschiedlicher Öffentlichkeiten in einem Feed.",
+        "en": "Collapse of distinct audiences into one feed."
+      }
+    },
+    {
+      "term": "Moral Panic",
+      "definition": {
+        "de": "Übersteigerte kollektive Angstreaktion auf symbolische Bedrohungen.",
+        "en": "Heightened collective fear response to symbolic threats."
+      }
+    }
+  ],
+  "related": [
+    "populismus",
+    "vertrauensverlust",
+    "aufmerksamkeitsoekonomie",
+    "biopolitische-zuschreibungen",
+    "drogen",
+    "entmenschlichung-buerokratie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/empoerungsdynamiken/crisis-placeholder.jpg",
+      "/media/empoerungsdynamiken/impact-placeholder.png",
+      "/media/empoerungsdynamiken/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "empoerungsdynamiken",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Empörung als Steuerungsmodus beschrieben.",
+    "Draft für spätere Daten zu Laufzeiten."
+  ]
+}

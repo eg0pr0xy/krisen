@@ -1,0 +1,302 @@
+{
+  "id": "radikalisierung",
+  "slug": "radikalisierung",
+  "title": {
+    "de": "Radikalisierung",
+    "en": "Radicalisation"
+  },
+  "summary": {
+    "de": "Personen und Gruppen verlassen moderate Diskurse, greifen zu extremen Deutungen und Praktiken.",
+    "en": "Individuals and groups exit moderate discourse, adopting extreme interpretations and practices."
+  },
+  "categories": [
+    "Macht",
+    "Gefühl"
+  ],
+  "tags": [
+    "extremismus",
+    "identität",
+    "online",
+    "gewalt",
+    "milieu"
+  ],
+  "severity": 76,
+  "volatility": 65,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anstieg extremistischer Delikte",
+        "en": "Rise in extremist offenses"
+      },
+      "value": "+15% YoY",
+      "source": "Innenministerien"
+    },
+    {
+      "label": {
+        "de": "Anteil Radikalisierung online",
+        "en": "Share radicalised primarily online"
+      },
+      "value": ">50%",
+      "source": "Derad programmes"
+    },
+    {
+      "label": {
+        "de": "Dwell-Time in extremen Räumen",
+        "en": "Dwell time in extreme spaces"
+      },
+      "value": "hoch",
+      "source": "Platform research"
+    },
+    {
+      "label": {
+        "de": "Politisch motivierte Kriminalität (Gesamt)",
+        "en": "Politically motivated crime (Total)"
+      },
+      "value": "84.172 Fälle (2024)",
+      "source": "Bundeskriminalamt"
+    },
+    {
+      "label": {
+        "de": "PMK - Rechts",
+        "en": "PMK - Right-wing"
+      },
+      "value": "42.788 Fälle (2024)",
+      "source": "Bundeskriminalamt"
+    },
+    {
+      "label": {
+        "de": "Antisemitische Straftaten",
+        "en": "Antisemitic crimes"
+      },
+      "value": "6.236 Fälle (2024)",
+      "source": "Bundeskriminalamt"
+    },
+    {
+      "label": {
+        "de": "Zufriedenheit mit Demokratie (Ost)",
+        "en": "Satisfaction with democracy (East)"
+      },
+      "value": "Tiefststand seit 2006",
+      "source": "Umfragen"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist es ontologisch?",
+        "en": "What is it ontologically?"
+      },
+      "answer": {
+        "de": "Ein Phasenübergang von kommunikativer Offenheit zu ideologischer Geschlossenheit.",
+        "en": "A phase transition from communicative openness to ideological closure."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer ist betroffen?",
+        "en": "Who is affected?"
+      },
+      "answer": {
+        "de": "Atomisierte Subjekte mit Prekaritätserfahrung sowie die 'angstbesetzte Mitte' (Statuspanik).",
+        "en": "Atomized subjects with precarity experience as well as the 'anxious middle' (status panic)."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "In algorithmisch verstärkten digitalen Echokammern und strukturschwachen, ruralen Räumen.",
+        "en": "In algorithmically reinforced digital echo chambers and structurally weak, rural areas."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann wird es kritisch?",
+        "en": "When does it become critical?"
+      },
+      "answer": {
+        "de": "Wenn Sprache ihre Symbolfunktion verliert und zur reinen Vorbereitung der Tat (Praxis) wird.",
+        "en": "When language loses its symbolic function and becomes pure preparation for action (praxis)."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum passiert es jetzt?",
+        "en": "Why is it happening now?"
+      },
+      "answer": {
+        "de": "Polykrisen-Konvergenz (Klima, Migration, Ökonomie) trifft auf digitale Desinformationsarchitekturen.",
+        "en": "Polycrisis convergence (climate, migration, economy) meets digital disinformation architectures."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie stabilisieren?",
+        "en": "How to stabilize?"
+      },
+      "answer": {
+        "de": "Wiederherstellung systemischer Resonanzfähigkeit, Reduktion sozioökonomischer Ungleichheit, algorithmische Regulierung.",
+        "en": "Restoration of systemic resonance capacity, reduction of socio-economic inequality, algorithmic regulation."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Radikalisierung bezeichnet den rekursiven Prozess der ideologischen Entkopplung eines Subsystems vom gesellschaftlichen Kommunikationskontinuum. Es handelt sich um eine pathologische Reduktion von Komplexität, bei der ambige Realitäten durch binäre Freund-Feind-Schemata ersetzt werden, was final zur Legitimierung physischer Gewalt als vermeintlich notwendiges kommunikatives Mittel führt. Die aktuelle Welle der Radikalisierung steht in einer Linie mit den anti-modernen Reflexen der Weimarer Republik, unterscheidet sich jedoch durch die 'Gamification' des Terrors und die globale Vernetzung durch das Internet. Es ist keine Wiederholung, sondern eine Remix-Kultur des Hasses, die Elemente von 1933, 1968 (RAF) und dem religiösen Fundamentalismus hybridisiert. Im Prisma der Kritischen Theorie (Adorno) offenbart sich Radikalisierung als Regression auf den 'autoritären Charakter', eine narzisstische Abwehrreaktion gegen die Überforderung durch die Moderne. Foucaultsche Analysen würden dies als 'Gegendiskurs' deuten, der jedoch nicht emanzipatorisch wirkt, sondern neue, rigidere Disziplinarmächte (die Gruppe, die Ideologie) installiert. Nach Mark Fisher ('Capitalist Realism') ist dies die 'Heimsuchung' (Hauntology) einer verlorenen Zukunft: Da keine positive Utopie mehr formulierbar scheint, flieht das Subjekt in mythische Vergangenheiten oder apokalyptische Reinigungswahnvorstellungen. Das Subjekt wird zum Träger einer 'Nekropolitik' (Mbembe), die das Recht über Leben und Tod beansprucht, um die eigene fragile Identität zu stabilisieren. Systemtheoretisch (Luhmann) lässt sich Radikalisierung als 'Resonanzkatastrophe' beschreiben. Ein soziales Teilsystem schließt sich operativ (Autopoiesis) und ersetzt den gesamtgesellschaftlichen Code (Recht/Unrecht) durch einen selbstreferenziellen Code (Wahrheit/Lüge bzw. Wir/Die). Durch positive Rückkopplungsschleifen (Algorithmen, Echokammern) wird jede interne Abweichung eliminiert (Entropie-Reduktion im Binnenraum), was zwangsläufig zu einem massiven Entropie-Export in die Umwelt führt – physikalisch manifestiert als Destruktion und Terror. Das System verliert die Fähigkeit zur Irritationsverarbeitung und kollabiert in den Zustand totaler Rigidität. Radikalisierung speist sich aus Entfremdung und Sinnverlust. Adorno: autoritärer Charakter sucht klare Ordnung und Sündenbock. Horkheimer: Wer vom Kapitalismus nicht reden will, soll von Radikalisierung schweigen – ökonomische Ohnmacht übersetzt sich in Gewaltfantasie. Luhmann: geschlossene Kommunikationskreise verstärken Selbstreferenz, Gegenargumente dringen nicht ein.",
+    "en": "Radicalisation draws from alienation and loss of meaning. Adorno: the authoritarian character longs for clear order and scapegoats. Horkheimer: refusal to discuss capitalism obscures how economic powerlessness turns into violent fantasy. Luhmann: closed communication circuits reinforce self-reference; counter-arguments do not enter."
+  },
+  "mechanisms": {
+    "de": "Online-Milieus bieten Zugehörigkeit und einfache Erzählungen. Algorithmen empfehlen radikalere Inhalte. Offlineschocks (Jobverlust, Demütigung) öffnen Suchfenster. Echo-Gruppen normalisieren Gewaltfantasien. Sicherheitsapparate reagieren repressiv, was Märtyrer-Narrative verstärkt.",
+    "en": "Online milieus provide belonging and simple narratives. Algorithms recommend more radical content. Offline shocks (job loss, humiliation) open search windows. Echo groups normalise violent fantasies. Security responses are repressive, reinforcing martyr narratives."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Echo-Kader",
+        "en": "Echo Cadre"
+      },
+      "description": {
+        "de": "Kleines Kernteam, das Memes, Feindbilder und Aktionspläne setzt.",
+        "en": "Small core setting memes, enemies, and action cues."
+      }
+    },
+    {
+      "name": {
+        "de": "Beschleuniger",
+        "en": "Accelerator"
+      },
+      "description": {
+        "de": "Narrativ, das Zusammenbruch herbeiwünscht, um Neuordnung zu erzwingen.",
+        "en": "Narrative wishing for collapse to force reordering."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Autoritärer Charakter",
+      "definition": {
+        "de": "Persönlichkeitsmuster, das Unterordnung und Aggression verbindet.",
+        "en": "Personality pattern combining submission and aggression."
+      }
+    },
+    {
+      "term": "Deradikalisierung",
+      "definition": {
+        "de": "Intervention, die Ausstieg und Neuorientierung ermöglicht.",
+        "en": "Intervention enabling exit and reorientation."
+      }
+    },
+    {
+      "term": "Beschleunigungismus",
+      "definition": {
+        "de": "Idee, Krisen zu forcieren, um Systemsturz zu beschleunigen.",
+        "en": "Idea of accelerating crises to hasten systemic collapse."
+      }
+    },
+    {
+      "term": "Resonanzkatastrophe",
+      "definition": {
+        "de": "Systematischer Zusammenbruch der kommunikativen Resonanzfähigkeit eines Subsystems.",
+        "en": "Systematic collapse of the communicative resonance capacity of a subsystem."
+      }
+    },
+    {
+      "term": "Gamification des Terrors",
+      "definition": {
+        "de": "Spielifizierung terroristischer Akte durch digitale Medien und Algorithmen.",
+        "en": "Gamification of terrorist acts through digital media and algorithms."
+      }
+    },
+    {
+      "term": "Hauntologie",
+      "definition": {
+        "de": "Geisterhafte Präsenz vergangener Ereignisse in der Gegenwart (Fisher).",
+        "en": "Ghostly presence of past events in the present (Fisher)."
+      }
+    },
+    {
+      "term": "Nekropolitik",
+      "definition": {
+        "de": "Politik, die über Leben und Tod entscheidet (Mbembe).",
+        "en": "Politics that decides over life and death (Mbembe)."
+      }
+    }
+  ],
+  "related": [
+    "ethnonationalismus",
+    "staatszerfall",
+    "entmenschlichung-buerokratie",
+    "faschisierung",
+    "fragmentierung-der-oeffentlichkeit",
+    "generationenkonflikt"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-radikalisierung",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Radicalisation research / platform studies"
+    },
+    {
+      "label": "Theodor W. Adorno - The Authoritarian Personality",
+      "note": "Kritische Theorie des autoritären Charakters und Regression"
+    },
+    {
+      "label": "Michel Foucault - Discipline and Punish",
+      "note": "Gegendiskurs und Disziplinarmächte"
+    },
+    {
+      "label": "Mark Fisher - Capitalist Realism",
+      "note": "Hauntologie und verlorene Zukunft"
+    },
+    {
+      "label": "Achille Mbembe - Necropolitics",
+      "note": "Nekropolitik und Entscheidung über Leben und Tod"
+    },
+    {
+      "label": "Niklas Luhmann - Soziale Systeme",
+      "note": "Autopoiesis, Resonanzkatastrophe und Entropie-Export"
+    },
+    {
+      "label": "Max Horkheimer - Eclipse of Reason",
+      "note": "Instrumentelle Vernunft und ökonomische Ohnmacht"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/radikalisierung/radicalization-placeholder.jpg",
+      "/media/radicalization/extremism-placeholder.png",
+      "/media/radicalization/ideology-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Funnel from grievances to action; recommendation drift; network of echo cadres."
+  ],
+  "timeline": [
+    {
+      "year": "2014",
+      "location": "Online",
+      "event": "Memetic Mobilisierung",
+      "description": "Foren werden Rekrutierungsfelder."
+    },
+    {
+      "year": "2019",
+      "location": "Global",
+      "event": "Livestream-Gewalt",
+      "description": "Taten werden medial verstärkt, Nachahmung steigt."
+    },
+    {
+      "year": "2022-2024",
+      "location": "Europa/US",
+      "event": "Accelerationist Cells",
+      "description": "Kleine Gruppen propagieren Kollapsnarrative."
+    }
+  ]
+}

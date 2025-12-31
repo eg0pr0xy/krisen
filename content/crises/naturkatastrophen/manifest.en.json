@@ -1,0 +1,238 @@
+{
+  "id": "naturkatastrophen",
+  "slug": "naturkatastrophen",
+  "title": {
+    "de": "Naturkatastrophen",
+    "en": "Natural Disasters"
+  },
+  "summary": {
+    "de": "Naturkatastrophen sind keine externen Anomalien, sondern immanente Systemrupturen, bei denen die physische Realität (Umwelt) die symbolische Ordnung (Gesellschaft) durchbricht. Sie markieren den Kollaps infrastruktureller und narrativer Sicherheitsversprechen, wenn die energetische Entladung der Biosphäre die Absorptionsfähigkeit technokratischer Stabilisierungsmechanismen übersteigt.",
+    "en": "Natural disasters are not external anomalies but immanent system ruptures where physical reality (environment) breaks through symbolic order (society). They mark the collapse of infrastructural and narrative security promises when the biosphere's energy discharge exceeds the absorption capacity of technocratic stabilization mechanisms."
+  },
+  "categories": [
+    "Materie"
+  ],
+  "tags": [
+    "beben",
+    "sturm",
+    "flut",
+    "risiko",
+    "verwundbarkeit"
+  ],
+  "severity": 82,
+  "volatility": 78,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Globale Schäden 2024",
+        "en": "Global damages 2024"
+      },
+      "value": "320 Mrd USD",
+      "source": "UNDRR/Swiss Re"
+    },
+    {
+      "label": {
+        "de": "Versicherte Schäden 2024",
+        "en": "Insured damages 2024"
+      },
+      "value": "140 Mrd USD",
+      "source": "Swiss Re"
+    },
+    {
+      "label": {
+        "de": "Todesopfer 2023 (Türkei/Syrien)",
+        "en": "Deaths 2023 (Turkey/Syria)"
+      },
+      "value": ">58.000",
+      "source": "Official reports"
+    },
+    {
+      "label": {
+        "de": "Jährliche Katastrophenschäden",
+        "en": "Annual disaster losses"
+      },
+      "value": "250 Mrd USD",
+      "source": "UNDRR"
+    },
+    {
+      "label": {
+        "de": "Versicherte Quote",
+        "en": "Insured share"
+      },
+      "value": "40 %",
+      "source": "Swiss Re"
+    },
+    {
+      "label": {
+        "de": "Exponierte Bevölkerung",
+        "en": "Population exposed"
+      },
+      "value": "3.4 Mrd",
+      "source": "UNDRR 2024"
+    }
+  ],
+  "diagnosis": {
+    "de": "Naturkatastrophen sind keine externen Anomalien, sondern immanente Systemrupturen, bei denen die physische Realität (Umwelt) die symbolische Ordnung (Gesellschaft) durchbricht. Historisch wurde die Naturkatastrophe als göttlicher Zorn (Theodizee) gedeutet, später als technisches Problem (Moderne). Heute, im Spätkapitalismus, ist sie ein Hybrid aus geologischem Ereignis und menschengemachtem Risiko. Die Trennung von 'Natur' und 'Kultur' ist obsolet geworden; wir leben in der Ära der 'Naturkultur' (Haraway), wo jeder Sturm eine politische Signatur trägt. Katastrophen sind keine „Natur“phänomene, sondern Schnittstellen zwischen Erdprozessen und sozialen Anordnungen. Luhmann: Risiko wird erst durch Beobachter erzeugt. Baudrillard: Katastrophe wird medial zur Endlosschleife, während ihr Material (Trümmer, Leiber) unsichtbar wird. Kulturgeschichtlich erzählt man Erdbeben als Strafe oder Zufall; systemisch sind sie Offenbarung schlecht gekoppelter Infrastrukturen. Im Sinne des Anthropozäns (Crutzen) und der Hyperobjekte (Timothy Morton) verliert die Natur ihre Funktion als passiver Hintergrund. Die Katastrophe ist nicht mehr 'Schicksal', sondern 'Bumerang-Effekt' (Ulrich Beck): Die instrumentelle Vernunft (Adorno/Horkheimer), die die Natur unterwarf, erzeugt nun unkontrollierbare Rückkopplungsschleifen. Nach Achille Mbembe offenbart sich hier eine Nekropolitik des Klimas, in der Vulnerabilität ungleich verteilt ist und der Tod zur statistischen Variable des globalen Kapitalismus wird.",
+    "en": "Natural disasters are not external anomalies but immanent system ruptures where physical reality (environment) breaks through symbolic order (society). Historically, natural disasters were interpreted as divine wrath (theodicy), later as technical problems (modernity). Today, in late capitalism, they are hybrids of geological events and man-made risks. The separation of 'nature' and 'culture' has become obsolete; we live in the era of 'natureculture' (Haraway), where every storm carries a political signature. Disasters are not 'natural' but interfaces between earth processes and social arrangements. Luhmann: risk exists only through observers. Baudrillard: catastrophe loops in media while rubble and bodies recede. Culturally, earthquakes were framed as punishment or chance; systemically they reveal weakly coupled infrastructures. In the sense of the Anthropocene (Crutzen) and hyperobjects (Timothy Morton), nature loses its function as a passive background. The catastrophe is no longer 'fate', but 'boomerang effect' (Ulrich Beck): Instrumental reason (Adorno/Horkheimer), which subjugated nature, now generates uncontrollable feedback loops. According to Achille Mbembe, this reveals a necropolitics of climate, in which vulnerability is unequally distributed and death becomes a statistical variable of global capitalism."
+  },
+  "mechanisms": {
+    "de": "Was ist es? Eine radikale Dekompensation soziotechnischer Systeme durch extreme geophysikalische Energiefreisetzung. Wer ist betroffen? Globales Prekariat überproportional; jedoch zunehmend auch versicherte Vermögenswerte im Globalen Norden. Wo ist das Epizentrum? Überall dort, wo Urbanisierung auf klimavulnerable Zonen trifft (Küsten, Flussdeltas, Verwerfungslinien). Wann wird es kritisch? Wenn die Wiederherstellungskosten die ökonomische Wertschöpfungskapazität dauerhaft übersteigen (Kipppunkt). Warum jetzt? Akkumulation atmosphärischer Energie durch anthropogene Erwärmung führt zu höherer Frequenz und Intensität (Nichtlinearität). Wie stabilisieren? Durch radikale Resilienz, Redundanz in kritischer Infrastruktur und Abkehr von Effizienzmaximierung zugunsten von Robustheit. Systemtheoretisch (Luhmann) betrachtet, ist eine Naturkatastrophe ein massiver Umwelt-Schock, den das soziale System nicht mehr durch interne Komplexitätsreduktion verarbeiten kann. Thermodynamisch handelt es sich um eine abrupte Entropie-Steigerung innerhalb ordnungsbasierter Strukturen. Die dissipative Energie (Sturm, Flut, Beben) überwindet die strukturelle Integrität der gebauten Umwelt (Infrastruktur), was zu einer Kaskade von Systemausfällen (Strom, Logistik, Governance) führt. Das System gerät in einen Zustand der Desynchronisation. Urbanisierung in Flussbetten und Küsten multipliziert Exposition. Infrastrukturketten (Strom-Wasser-Kommunikation) kollabieren kaskadenartig. Frühwarnungen werden unterfinanziert oder ignoriert. Versicherungs- und Rückversicherungsmodelle preisen Risiko nachträglich ein; arme Regionen bleiben nackt. Kulturelle Erinnerung verblasst und wiederholt Fehler.",
+    "en": "What is it? A radical decompensation of sociotechnical systems through extreme geophysical energy release. Who is affected? Global precariat disproportionately; however, increasingly also insured assets in the Global North. Where is the epicenter? Everywhere where urbanization meets climate-vulnerable zones (coasts, river deltas, fault lines). When does it become critical? When restoration costs permanently exceed economic value creation capacity (tipping point). Why now? Accumulation of atmospheric energy through anthropogenic warming leads to higher frequency and intensity (nonlinearity). How to stabilize? Through radical resilience, redundancy in critical infrastructure, and shift from efficiency maximization to robustness. From a systems theory perspective (Luhmann), a natural disaster is a massive environmental shock that the social system can no longer process through internal complexity reduction. Thermodynamically, it is an abrupt increase in entropy within order-based structures. The dissipative energy (storm, flood, earthquake) overcomes the structural integrity of the built environment (infrastructure), leading to a cascade of system failures (power, logistics, governance). The system enters a state of desynchronization. Urbanisation in riverbeds and coasts multiplies exposure. Infrastructure chains (power-water-communications) collapse in cascades. Early warning is underfunded or ignored. Insurance/reinsurance price risk after the fact; poorer regions remain bare. Cultural memory fades and repeats mistakes."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Bruchlinie",
+        "en": "Fault Line"
+      },
+      "description": {
+        "de": "Unsichtbare Grenze im Untergrund, die erst im Ereignis sichtbar wird und Ordnung sprengt.",
+        "en": "Invisible boundary underground that appears only in the event, shattering order."
+      }
+    },
+    {
+      "name": {
+        "de": "Nachbebenfeld",
+        "en": "Aftershock Field"
+      },
+      "description": {
+        "de": "Gestreckte Serie kleiner Ereignisse, die Erholung verhindert und Angst verlängert.",
+        "en": "Stretched series of minor events that block recovery and prolong fear."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Anthropozän",
+      "definition": {
+        "de": "Geologische Epoche, in der menschliche Aktivitäten die Erde maßgeblich prägen.",
+        "en": "Geological epoch where human activities significantly shape the Earth."
+      }
+    },
+    {
+      "term": "Hyperobjekte",
+      "definition": {
+        "de": "Phänomene wie der Klimawandel, die zu groß und komplex sind, um direkt erfahrbar zu sein.",
+        "en": "Phenomena like climate change that are too large and complex to be directly experienced."
+      }
+    },
+    {
+      "term": "Nekropolitik",
+      "definition": {
+        "de": "Politik des Todes, in der Leben und Tod ungleich verteilt reguliert werden.",
+        "en": "Politics of death, where life and death are regulated unequally."
+      }
+    },
+    {
+      "term": "Entropie",
+      "definition": {
+        "de": "Maß für Unordnung in einem System; Katastrophen erhöhen die Entropie.",
+        "en": "Measure of disorder in a system; disasters increase entropy."
+      }
+    },
+    {
+      "term": "Solastalgie",
+      "definition": {
+        "de": "Schmerz über den Verlust der gewohnten Umgebung durch Umweltveränderungen.",
+        "en": "Pain over the loss of familiar environment due to environmental changes."
+      }
+    },
+    {
+      "term": "Vulnerabilität",
+      "definition": {
+        "de": "Verletzlichkeit von Menschen und Infrastruktur gegenüber Gefahrenprozessen.",
+        "en": "Susceptibility of people and infrastructure to hazard processes."
+      }
+    },
+    {
+      "term": "Exposition",
+      "definition": {
+        "de": "Ausmaß, in dem Werte räumlich/zeitlich im Hazard-Footprint liegen.",
+        "en": "Extent to which assets lie in the spatial/temporal hazard footprint."
+      }
+    },
+    {
+      "term": "Kaskadenrisiko",
+      "definition": {
+        "de": "Risiko, das sich durch Verkettung von Systemausfällen verstärkt.",
+        "en": "Risk amplified by chaining system failures."
+      }
+    }
+  ],
+  "related": [
+    "kontrollverlust",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "automatisierung",
+    "biodiversitaetsverlust"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "citations": [
+    {
+      "label": "UNDRR Risk Report"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/naturkatastrophen/crisis-placeholder.jpg",
+      "/media/naturkatastrophen/impact-placeholder.png",
+      "/media/naturkatastrophen/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-natur",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "D3: Kaskadengraph (Power→Wasser→Kommunikation) + Schadenszeitreihe."
+  ],
+  "timeline": [
+    {
+      "year": "1755",
+      "location": "Lissabon",
+      "event": "Beben + Tsunami",
+      "description": "Geburtsmoment moderner Katastrophendeutung (Aufklärung vs. Theodizee)."
+    },
+    {
+      "year": "2011",
+      "location": "Tohoku",
+      "event": "Beben + Tsunami + Kernschmelze",
+      "description": "Kaskade über Sektoren; globale Lieferketten gestört."
+    },
+    {
+      "year": "2021",
+      "location": "Deutschland (Ahrtal)",
+      "event": "Hochwasser",
+      "description": "Sturzflut 'Bernd' offenbart fatale Lücken im Katastrophenschutz; 180 Tote, 30 Mrd Euro Schäden."
+    },
+    {
+      "year": "2023",
+      "location": "Türkei/Syrien",
+      "event": "Erdbeben",
+      "description": "Seismische Zerstörung; >50.000 Tote, korrupte Baupraktiken und geopolitische Instabilität."
+    },
+    {
+      "year": "2023",
+      "location": "Mittelmeer",
+      "event": "Unwetter + Urbanisierung",
+      "description": "Versiegelte Städte, unterdimensionierte Abflüsse, soziale Verwundbarkeit."
+    },
+    {
+      "year": "2024",
+      "location": "Spanien (Valencia)",
+      "event": "DANA-Phänomen",
+      "description": "Hydrologischer Schock; tödlichste Flut seit Jahrzehnten, Kritik an Warnsystemen."
+    },
+    {
+      "year": "2024",
+      "location": "Global",
+      "event": "Thermischer Rekord",
+      "description": "Wahrscheinlich heißestes Jahr seit Aufzeichnungsbeginn; Akkumulation von Hitzewellen und Waldbränden."
+    }
+  ]
+}

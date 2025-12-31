@@ -1,0 +1,178 @@
+{
+  "id": "grenzregime",
+  "slug": "grenzregime",
+  "title": {
+    "de": "Grenzregime",
+    "en": "Border regime"
+  },
+  "summary": {
+    "de": "Das Grenzregime ist kein statischer geographischer Locus, sondern ein dynamisches, transnationales Dispositiv der biopolitischen Selektion. Es fungiert als semipermeable Membran, die nicht primär Territorien trennt, sondern Leben in verwertbare 'Bio-Masse' (Arbeitskraft) und 'Necro-Masse' (Überflüssige) sortiert.",
+    "en": "The border regime is not a static geographical locus, but a dynamic, transnational dispositif of biopolitical selection. It functions as a semipermeable membrane that does not primarily separate territories, but sorts life into exploitable 'bio-mass' (labor power) and 'necro-mass' (superfluous)."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "biometrics",
+    "smart-border",
+    "deterrence",
+    "visa",
+    "detention"
+  ],
+  "severity": 73,
+  "volatility": 60,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Biometrie-Einsatz",
+        "en": "Biometric use"
+      },
+      "value": "↑",
+      "source": "Border tech"
+    },
+    {
+      "label": {
+        "de": "Pushbacks gemeldet",
+        "en": "Reported pushbacks"
+      },
+      "value": "steigend",
+      "source": "NGO reports"
+    },
+    {
+      "label": {
+        "de": "Visa-Restriktionen",
+        "en": "Visa restrictions"
+      },
+      "value": "hoch",
+      "source": "Henley index"
+    }
+  ],
+  "diagnosis": {
+    "de": "Das Grenzregime ist kein statischer geographischer Locus, sondern ein dynamisches, transnationales Dispositiv der biopolitischen Selektion. Als kybernetisches Kontrollsystem operiert es durch Externalisierung, Digitalisierung (Smart Borders) und Militarisierung, um den globalen Norden als immunologische Kapsel gegen die Entropie des globalen Südens abzuschotten. Historisch markiert das moderne Grenzregime den Übergang von der territorialen Souveränität des Westfälischen Friedens zur post-nationalen Sicherheitsarchitektur. War die Grenze früher eine Linie auf der Karte, ist sie heute ein ubiquitäres Netzwerk. Im Sinne von Michel Foucaults Biopolitik und Achille Mbembes Necropolitik offenbart das Grenzregime die dunkle Seite der Souveränität: das Recht zu entscheiden, wer leben darf und wer sterben muss (make live and let die). Die Grenze diffundiert vom Rand ins Zentrum; sie wird ubiquitär. Giorgio Agamben würde hier den Ausnahmezustand verorten, der zur Regel geworden ist – Lager (Moria, Lampedusa) sind Zonen der 'nackten Lebens', in denen das Recht suspendiert ist. Adornos Verdinglichung findet hier ihren absoluten Ausdruck: Das Subjekt wird zum Datenpunkt, zum Sicherheitsrisiko, zum logistischen Problem, das 'gemanagt' oder 'entsorgt' werden muss. Grenzregime verschieben sich von Linien zu Zonen und Datenbanken. Vorverlagerte Kontrollen, Carrier-Sanktionen und biometrische Systeme filtern Menschen, oft ohne Rechtsmittel. Pushbacks unterlaufen Asylrecht. Humanitäre Zonen und Lager entpolitisieren die Gewalt des Ausschlusses. Infrastruktur (Zäune, Drohnen, Sensoren) wird zum permanenten Ausnahmezustand.",
+    "en": "The border regime is not a static geographical locus, but a dynamic, transnational dispositif of biopolitical selection. As a cybernetic control system, it operates through externalization, digitalization (smart borders), and militarization to shield the global north as an immunological capsule against the entropy of the global south. Historically, the modern border regime marks the transition from the territorial sovereignty of the Westphalian peace to post-national security architecture. While the border used to be a line on the map, today it is a ubiquitous network. In the sense of Michel Foucault's biopolitics and Achille Mbembe's necropolitics, the border regime reveals the dark side of sovereignty: the right to decide who may live and who must die (make live and let die). The border diffuses from the edge to the center; it becomes ubiquitous. Giorgio Agamben would locate the state of exception here, which has become the rule – camps (Moria, Lampedusa) are zones of 'bare life', in which law is suspended. Adorno's reification finds its absolute expression here: The subject becomes a data point, a security risk, a logistical problem that must be 'managed' or 'disposed of'. Border regimes move from lines to zones and databases. Offshored checks, carrier sanctions, and biometrics filter people with little recourse. Pushbacks erode asylum law. Humanitarian zones and camps depoliticise exclusion. Infrastructure (fences, drones, sensors) normalises a permanent exception."
+  },
+  "mechanisms": {
+    "de": "WAS ist das ontologische Wesen des Grenzregimes? Ein komplexes soziotechnisches Aggregat aus rechtlichen Normen, physischen Barrieren, digitalen Überwachungsarchitekturen und administrativen Praktiken zur Steuerung von Mobilität. WER sind die Akteure im Feld? Supra-staatliche Agenturen (Frontex), nationale Grenzschutzeinheiten, private Sicherheitsfirmen (Militaire-Industriel-Komplex) vs. das mobile Prekariat des globalen Südens. WO manifestiert sich die Epizentren? Nicht nur an der geographischen Linie (Evros, Mittelmeer), sondern in 'Hotspots', Transitzonen, Botschaften (Visa-Regime) und in den Datenbanken (EURODAC, SIS II). WANN tritt der kritische Phasenübergang ein? Der Zustand ist permanent kritisch (Dauerkrise), eskaliert jedoch bei geopolitischen Schocks (Kriege, Klimakollaps), die den Migrationsdruck über die Kapazität der Abwehrmechanismen erhöhen. WARUM geschieht dies jetzt in dieser Intensität? Folge der neoliberalen Globalisierung, die Kapitalflüsse entgrenzt, aber Menschenströme begrenzt, gekoppelt mit dem Zerfall postkolonialer Staaten und der Klimakatastrophe. WIE lässt sich das System stabilisieren? Im aktuellen Paradigma nur durch Hypertrophie der Abwehr (Festung Europa). Eine echte Stabilisierung erfordert jedoch eine radikale Änderung der globalen Verteilungslogik (Entropie-Ausgleich). Aus systemtheoretischer Perspektive (Luhmann) agiert das Grenzregime als das 'Immunsystem' des gesellschaftlichen Systems 'Europa'. Es dient der Reduktion von Umweltkomplexität durch die binäre Codierung Inklusion/Exklusion. Physikalisch betrachtet handelt es sich um einen 'Maxwellschen Dämon' an der Systemgrenze, der versucht, die interne Entropie (Unordnung) niedrig zu halten, indem er hochenergetische Partikel (gewünschte Fachkräfte) passieren lässt und niederenergetische Partikel (Schutzsuchende) abweist. Dieser Prozess erfordert massiven energetischen Aufwand (Dissipation) in Form von Überwachungstechnologie und physischer Gewalt, um das thermodynamische Ungleichgewicht aufrechtzuerhalten. Digitale Vorabkontrollen durch API/PNR-Daten. Grenzschutz wird militarisiert und privatisiert. Rechtswege sind langsam, während Abschiebungen schnell sind. Drittstaaten erhalten Mittel für Externalisierung. Bewegungsfreiheit wird nach Pass, Vermögen und Profil gewichtet.",
+    "en": "WHAT is the ontological essence of the border regime? A complex sociotechnical aggregate of legal norms, physical barriers, digital surveillance architectures, and administrative practices for controlling mobility. WHO are the actors in the field? Supra-state agencies (Frontex), national border units, private security companies (military-industrial complex) vs. the mobile precariat of the global south. WHERE do the epicenters manifest? Not only at the geographical line (Evros, Mediterranean), but in 'hotspots', transit zones, embassies (visa regime) and in the databases (EURODAC, SIS II). WHEN does the critical phase transition occur? The condition is permanently critical (permanent crisis), but escalates with geopolitical shocks (wars, climate collapse) that increase migration pressure beyond the capacity of defense mechanisms. WHY is this happening now with this intensity? Consequence of neoliberal globalization, which de-borders capital flows, but borders human flows, coupled with the collapse of postcolonial states and the climate catastrophe. HOW can the system be stabilized? In the current paradigm only through hypertrophy of defense (Fortress Europe). Real stabilization, however, requires a radical change in the global distribution logic (entropy equalization). From a systems theory perspective (Luhmann), the border regime acts as the 'immune system' of the societal system 'Europe'. It serves to reduce environmental complexity through the binary coding inclusion/exclusion. Physically considered, it is a 'Maxwell's demon' at the system boundary, trying to keep internal entropy (disorder) low by letting high-energy particles (desired skilled workers) pass and blocking low-energy particles (asylum seekers). This process requires massive energetic effort (dissipation) in the form of surveillance technology and physical violence to maintain the thermodynamic imbalance. Digital pre-checks via API/PNR data. Border control militarises and privatizes. Legal redress is slow while removals are fast. Third states are paid to externalise control. Mobility is weighted by passport, capital, and profile."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Smart Fence",
+        "en": "Smart Fence"
+      },
+      "description": {
+        "de": "Sensorik, Drohnen, Kameras ersetzen offene Übergänge.",
+        "en": "Sensors, drones, cameras replace open crossings."
+      }
+    },
+    {
+      "name": {
+        "de": "Pre-Boarding Filter",
+        "en": "Pre-Boarding Filter"
+      },
+      "description": {
+        "de": "Checks ins Ausland verlagert, Airlines werden zu Grenzbeamten.",
+        "en": "Checks moved abroad; airlines act as border agents."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Biopolitik",
+      "definition": {
+        "de": "Foucaults Konzept der Macht über das Leben.",
+        "en": "Foucault's concept of power over life."
+      }
+    },
+    {
+      "term": "Necropolitik",
+      "definition": {
+        "de": "Mbembes Konzept der Macht über den Tod.",
+        "en": "Mbembe's concept of power over death."
+      }
+    },
+    {
+      "term": "Ausnahmezustand",
+      "definition": {
+        "de": "Agambens Begriff für den permanenten Notstand.",
+        "en": "Agamben's term for the permanent state of emergency."
+      }
+    },
+    {
+      "term": "Externalisierung",
+      "definition": {
+        "de": "Auslagerung von Kontrolle an Drittstaaten/Unternehmen.",
+        "en": "Outsourcing control to third states/companies."
+      }
+    },
+    {
+      "term": "Pushback",
+      "definition": {
+        "de": "Zurückdrängen ohne individuelles Verfahren.",
+        "en": "Forcing return without individual procedure."
+      }
+    },
+    {
+      "term": "PNR/API",
+      "definition": {
+        "de": "Passagier- und Advanced Passenger-Daten für Vorabkontrolle.",
+        "en": "Passenger Name Record and Advance Passenger data for pre-screening."
+      }
+    }
+  ],
+  "related": [
+    "aufruestung",
+    "rechtlosigkeit",
+    "surveillance",
+    "asylpolitik",
+    "abschiebungsapparat",
+    "algorithmische-steuerung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-grenzregime-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Frontex/NGO",
+      "note": "Pushbacks, biometrics deployment"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/grenzregime/crisis-placeholder.jpg",
+      "/media/grenzregime/impact-placeholder.png",
+      "/media/grenzregime/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Map: smart fences and zones; flow: pre-boarding filters; shader: scanline over border imagery."
+  ],
+  "timeline": [
+    {
+      "year": "2015",
+      "location": "EU",
+      "event": "Hotspot/Smart Border",
+      "description": "Digitale Registrierung und Screening."
+    },
+    {
+      "year": "2021",
+      "location": "Global",
+      "event": "Biometrie-Rollout",
+      "description": "Finger/Face-IDs als Standard bei Grenzübertritt."
+    },
+    {
+      "year": "2023",
+      "location": "EU",
+      "event": "ETIAS/VIS",
+      "description": "Vorabgenehmigungen und Datenbanken werden Pflicht."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "identitaetspolitik",
+  "slug": "identitaetspolitik",
+  "title": {
+    "de": "Identitätspolitik",
+    "en": "Identity Politics"
+  },
+  "summary": {
+    "de": "Politische Kämpfe werden um Zugehörigkeit und Anerkennung geführt; materielle Fragen treten zurück oder werden codiert.",
+    "en": "Political struggles center on belonging and recognition; material questions recede or get recoded."
+  },
+  "categories": [
+    "Macht",
+    "Gefühl"
+  ],
+  "tags": [
+    "anerkennung",
+    "differenz",
+    "lacan",
+    "zeichen",
+    "kampf"
+  ],
+  "severity": 68,
+  "volatility": 67,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anteil Debatten über Identität (Parlaments-/Medienanalyse)",
+        "en": "Share of debates on identity (parliament/media)"
+      },
+      "value": "steigend",
+      "source": "Content analysis"
+    },
+    {
+      "label": {
+        "de": "Polarisierung nach Gruppenaffekt",
+        "en": "Polarisation by group affect"
+      },
+      "value": "+",
+      "source": "Affect studies"
+    },
+    {
+      "label": {
+        "de": "Materielle Forderungen codiert als Symbolfragen",
+        "en": "Material demands coded as symbolic"
+      },
+      "value": "häufig",
+      "source": "Movement research"
+    }
+  ],
+  "diagnosis": {
+    "de": "Lacan: Subjekt entsteht im Spiegel des Anderen; Anerkennung wird politisch. Fraser vs. Honneth: Umverteilung vs Anerkennung – Identitätspolitik riskiert Entkopplung vom Materiellen. Nietzsche: Kampf um Rang wird auf Zeichenebene verlagert. Folgen: Konkurrenz der Verletzlichkeiten, symbolische Siege statt struktureller Veränderung.",
+    "en": "Lacan: the subject forms in the mirror of the Other; recognition becomes political. Fraser vs Honneth: redistribution vs recognition—identity politics risks detaching from material stakes. Nietzsche: struggle for rank shifts to the level of signs. Outcome: competition of vulnerabilities, symbolic wins instead of structural change."
+  },
+  "mechanisms": {
+    "de": "Gruppen markieren Differenz über Sprache, Kleidung, Codes. Plattformen belohnen klare Marker. Konflikte eskalieren, wenn Symbole verboten/vereinnahmt werden. Materielle Ungleichheit wird in Repräsentationsfragen übersetzt; Koalitionen brechen entlang Zeichen, nicht Klassen. Medien fokussieren Affekt statt Policy.",
+    "en": "Groups signal difference via language, dress, codes. Platforms reward clear markers. Conflicts escalate when symbols are banned or co-opted. Material inequality is translated into representation disputes; coalitions fracture along signs, not class. Media focus on affect over policy."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Symbolschlacht",
+        "en": "Symbol Skirmish"
+      },
+      "description": {
+        "de": "Debatte um Fahnen, Pronomen, Statuen ersetzt Verteilungsfrage.",
+        "en": "Debate over flags, pronouns, statues replaces distribution."
+      }
+    },
+    {
+      "name": {
+        "de": "Koalitionsbruch",
+        "en": "Coalition Fracture"
+      },
+      "description": {
+        "de": "Gemeinsame materielle Ziele scheitern an identitären Linien.",
+        "en": "Shared material goals fail along identity lines."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Anerkennung",
+      "definition": {
+        "de": "Soziale Bestätigung der Identität durch Andere.",
+        "en": "Social confirmation of identity by others."
+      }
+    },
+    {
+      "term": "Symbolische Ordnung",
+      "definition": {
+        "de": "Lacans Ordnung von Sprache/Zeichen, die Subjekt konstituiert.",
+        "en": "Lacan’s order of language/signs constituting the subject."
+      }
+    },
+    {
+      "term": "Umverteilung vs Anerkennung",
+      "definition": {
+        "de": "Spannung zwischen materieller Gleichheit und kultureller Sichtbarkeit.",
+        "en": "Tension between material equality and cultural visibility."
+      }
+    }
+  ],
+  "related": [
+    "symbolische-uebercodierung",
+    "entmenschlichung-buerokratie",
+    "ethnonationalismus",
+    "faschisierung",
+    "fragmentierung-der-oeffentlichkeit",
+    "generationenkonflikt"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-identitaet",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Fraser vs Honneth / Lacan"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/identitaetspolitik/crisis-placeholder.jpg",
+      "/media/identitaetspolitik/impact-placeholder.png",
+      "/media/identitaetspolitik/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Redistribution vs recognition matrix; symbol conflict timeline; coalition network."
+  ],
+  "timeline": [
+    {
+      "year": "1990er",
+      "location": "Akademie",
+      "event": "Anerkennungstheorie",
+      "description": "Fraser/Honneth Debatten setzen Rahmen."
+    },
+    {
+      "year": "2010s",
+      "location": "Social Media",
+      "event": "Hashtag-Kämpfe",
+      "description": "Identitäre Marker werden viral."
+    },
+    {
+      "year": "2020-2024",
+      "location": "Global",
+      "event": "Statue/Flagge/Pronomen",
+      "description": "Symbolkonflikte dominieren Nachrichtenzyklen."
+    }
+  ]
+}

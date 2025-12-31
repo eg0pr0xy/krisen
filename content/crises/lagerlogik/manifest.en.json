@@ -1,0 +1,141 @@
+{
+  "id": "lagerlogik",
+  "slug": "lagerlogik",
+  "title": {
+    "de": "Lagerlogik",
+    "en": "Camp logic"
+  },
+  "summary": {
+    "de": "Menschen werden in temporäre, kontrollierte Zonen verlagert, die zu dauerhaften Ausnahmeorten werden.",
+    "en": "People are moved into temporary controlled zones that become permanent states of exception."
+  },
+  "categories": [
+    "Kontrolle",
+    "Existenz"
+  ],
+  "tags": [
+    "lager",
+    "ausnahmezustand",
+    "verwaltung",
+    "grenze"
+  ],
+  "severity": 72,
+  "volatility": 54,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Verweildauer",
+        "en": "Length of stay"
+      },
+      "value": ">12 Monate",
+      "source": "Lagerstatistiken"
+    },
+    {
+      "label": {
+        "de": "Überbelegung",
+        "en": "Overcrowding"
+      },
+      "value": "+35%",
+      "source": "NGO-Reports"
+    },
+    {
+      "label": {
+        "de": "Privatisierungsgrad",
+        "en": "Privatisation level"
+      },
+      "value": "hoch",
+      "source": "Betreiberverträge"
+    }
+  ],
+  "diagnosis": {
+    "de": "Lagerlogik verwandelt Notunterkünfte in dauerhafte Verwaltungsräume. Sie produziert eine räumliche und rechtliche Ausnahme, in der Rechte suspendiert und Zeit gestreckt wird. Bewohner:innen werden zu Verwaltungsfällen, deren Mobilität, Arbeit und Kommunikation kontrolliert sind. Die Logik erzeugt Passivität, Konflikt und Unsichtbarkeit.",
+    "en": "Camp logic turns temporary shelters into lasting administrative spaces. It produces a spatial and legal exception where rights are suspended and time is stretched. Residents become administrative cases; mobility, work, and communication are controlled. The logic generates passivity, conflict, and invisibility."
+  },
+  "mechanisms": {
+    "de": "Zonierung trennt Lager von Stadt und Arbeit. Sicherheits- und Dienstleistungsverträge schaffen gewinnorientierte Verwahrung. Dokumentationspflichten fixieren Identitäten und verhindern Integration. Medienzugang wird kanalisiert, wodurch Erzählungen über Lager von außen definiert werden. Lager reproduzieren sich, weil sie als Managementinstrument politisch bequem sind.",
+    "en": "Zoning separates camps from city and labour. Security and service contracts create profit-driven custody. Documentation duties fix identities and block integration. Media access is channelled, letting outsiders define the narrative. Camps reproduce because they are politically convenient management tools."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Transit ohne Ausgang",
+        "en": "Transit without exit"
+      },
+      "description": {
+        "de": "Ort, der provisorisch heißt, aber dauerhaft bleibt.",
+        "en": "A site called provisional that persists."
+      }
+    },
+    {
+      "name": {
+        "de": "Verwaltungszone",
+        "en": "Administrative zone"
+      },
+      "description": {
+        "de": "Jeder Schritt ist Formular, jede Abweichung sanktioniert.",
+        "en": "Every step is a form; any deviation is sanctioned."
+      }
+    },
+    {
+      "name": {
+        "de": "Beobachtungsraum",
+        "en": "Observation room"
+      },
+      "description": {
+        "de": "Bewohner:innen werden als Risiko- oder Kostenfaktor beobachtet.",
+        "en": "Residents are monitored as risk or cost factors."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ausnahmezustand",
+      "definition": {
+        "de": "Rechtliche Suspension normaler Garantien in einem begrenzten Raum.",
+        "en": "Legal suspension of normal guarantees in a bounded space."
+      }
+    },
+    {
+      "term": "Encampment",
+      "definition": {
+        "de": "Politik der Lagerung von Menschen als Verwaltungstechnik.",
+        "en": "Policy of placing people in camps as an administrative technique."
+      }
+    },
+    {
+      "term": "Temporal Stretch",
+      "definition": {
+        "de": "Ausdehnung von Provisorien in unbestimmte Dauer.",
+        "en": "Extension of provisional status into indefinite duration."
+      }
+    }
+  ],
+  "related": [
+    "klimaflucht",
+    "asylpolitik",
+    "blackout",
+    "drogen",
+    "illegale-arbeit",
+    "pandemie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/lagerlogik/crisis-placeholder.jpg",
+      "/media/lagerlogik/impact-placeholder.png",
+      "/media/lagerlogik/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "lagerlogik",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Lagerlogik aus Ausnahme- und Verwaltungsblick beschrieben.",
+    "Draft für weitere Beispiele aus EU-Außengrenzen."
+  ]
+}

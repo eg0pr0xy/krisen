@@ -1,0 +1,4067 @@
+{
+  "generatedAt": "2025-12-25T23:12:17.717Z",
+  "count": 399,
+  "terms": [
+    {
+      "term": "A/B-Test",
+      "definition": {
+        "de": "Simultanes Testen von Varianten, um Engagement zu maximieren.",
+        "en": "Parallel testing of variants to maximise engagement."
+      },
+      "references": [
+        "aufmerksamkeitsoekonomie"
+      ]
+    },
+    {
+      "term": "A2/AD",
+      "definition": {
+        "de": "Anti-Access/Area-Denial: Systeme, die Zugang und Bewegungsfreiheit verwehren.",
+        "en": "Anti-Access/Area Denial: zones designed to keep adversaries out."
+      },
+      "references": [
+        "grenzkonflikte",
+        "krieg",
+        "war"
+      ]
+    },
+    {
+      "term": "Aberkennung",
+      "definition": {
+        "de": "Entzug der Staatsbürgerschaft durch staatlichen Akt.",
+        "en": "Revocation of citizenship by state act."
+      },
+      "references": [
+        "staatsbuergerschaft"
+      ]
+    },
+    {
+      "term": "Abhängigkeitsquote",
+      "definition": {
+        "de": "Verhältnis Ältere zu Erwerbstätigen.",
+        "en": "Ratio of elderly to working-age population."
+      },
+      "references": [
+        "rentenkrise"
+      ]
+    },
+    {
+      "term": "Abschreckung",
+      "definition": {
+        "de": "Strategie, potenzielle Aggressoren durch geschätzte Kosten fernzuhalten.",
+        "en": "Strategy to keep potential aggressors away by estimating costs."
+      },
+      "references": [
+        "aufruestung",
+        "militarisierung"
+      ]
+    },
+    {
+      "term": "Accountability",
+      "definition": {
+        "de": "Rechenschaft und Folgen bei Fehlverhalten.",
+        "en": "Answerability and consequences for misconduct."
+      },
+      "references": [
+        "legitimationsverlust"
+      ]
+    },
+    {
+      "term": "Active Debris Removal (ADR)",
+      "definition": {
+        "de": "Technologien zum gezielten Entfernen großer Trümmer aus dem Orbit (z.B. Harpunen, Netze).",
+        "en": "Technologies for targeted removal of large debris from orbit (e.g., harpoons, nets)."
+      },
+      "references": [
+        "weltraumschrott"
+      ]
+    },
+    {
+      "term": "Adaptationslücke",
+      "definition": {
+        "de": "Differenz zwischen erwarteten Schäden und Schutzkapazität.",
+        "en": "Gap between expected damage and protective capacity."
+      },
+      "references": [
+        "climate-change"
+      ]
+    },
+    {
+      "term": "Administrative Gewalt",
+      "definition": {
+        "de": "Zwang, der über Verfahren statt über offene Repression wirkt.",
+        "en": "Coercion that works through procedures rather than open repression."
+      },
+      "references": [
+        "abschiebungsapparat"
+      ]
+    },
+    {
+      "term": "Administrative Violence",
+      "definition": {
+        "de": "Schaden, der durch Formalismen und Verzögerung entsteht.",
+        "en": "Harm produced by formalism and delay."
+      },
+      "references": [
+        "entmenschlichung-buerokratie"
+      ]
+    },
+    {
+      "term": "Affect Spread",
+      "definition": {
+        "de": "Geschwindigkeit, mit der Emotionen über Netzwerke diffundieren.",
+        "en": "Speed at which emotions diffuse across networks."
+      },
+      "references": [
+        "empoerungsdynamiken"
+      ]
+    },
+    {
+      "term": "Affektive Polarisierung",
+      "definition": {
+        "de": "Gegenseitige Abneigung zwischen politischen Lagern jenseits von Sachfragen.",
+        "en": "Mutual dislike between political camps beyond issue disagreement."
+      },
+      "references": [
+        "polarisierung"
+      ]
+    },
+    {
+      "term": "Affektmobilisierung",
+      "definition": {
+        "de": "Steuerung politischer Prozesse über Emotion statt Argument.",
+        "en": "Control of political processes through emotion rather than argument."
+      },
+      "references": [
+        "faschisierung"
+      ]
+    },
+    {
+      "term": "Affektökonomie",
+      "definition": {
+        "de": "Wirtschaft der Emotionen im digitalen Kapitalismus.",
+        "en": "Economy of emotions in digital capitalism."
+      },
+      "references": [
+        "empoerungsdynamiken"
+      ]
+    },
+    {
+      "term": "Agro-Frontier",
+      "definition": {
+        "de": "Zone, in der industrielle Landwirtschaft in Primärökosysteme eindringt.",
+        "en": "Zone where industrial agriculture encroaches on primary ecosystems."
+      },
+      "references": [
+        "extraktivismus"
+      ]
+    },
+    {
+      "term": "Air Gap",
+      "definition": {
+        "de": "Physische Trennung sensibler Systeme zur Risikoreduktion.",
+        "en": "Physical separation of sensitive systems to reduce risk."
+      },
+      "references": [
+        "cyberangriffe"
+      ]
+    },
+    {
+      "term": "Albedo-Rückkopplung",
+      "definition": {
+        "de": "Schnee und Eis reflektieren Strahlung; ihr Verlust beschleunigt Erwärmung.",
+        "en": "Snow and ice reflect radiation; their loss accelerates warming."
+      },
+      "references": [
+        "klimawandel"
+      ]
+    },
+    {
+      "term": "Algorithmische Autopoiesis",
+      "definition": {
+        "de": "Selbstorganisation von Algorithmen ohne menschliche Intervention.",
+        "en": "Self-organization of algorithms without human intervention."
+      },
+      "references": [
+        "kontrollverlust"
+      ]
+    },
+    {
+      "term": "Algorithmische Diskriminierung",
+      "definition": {
+        "de": "Systematische Benachteiligung durch automatisierte Klassifikation.",
+        "en": "Systematic disadvantage created by automated classification."
+      },
+      "references": [
+        "surveillance"
+      ]
+    },
+    {
+      "term": "Algorithmische Gouvernementalität",
+      "definition": {
+        "de": "Steuerung von Populationen über Daten, Prognosen und Wahrscheinlichkeiten.",
+        "en": "Governance of populations through data, predictions, and probabilities."
+      },
+      "references": [
+        "algorithmische-steuerung"
+      ]
+    },
+    {
+      "term": "Algorithmische Governance",
+      "definition": {
+        "de": "Steuerung gesellschaftlicher Prozesse durch Algorithmen und Datenprofile.",
+        "en": "Governance of societal processes through algorithms and data profiles."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Alignment",
+      "definition": {
+        "de": "Abgleich von Modellverhalten mit menschlichen Werten; bleibt vage.",
+        "en": "Aligning model behaviour with human values; remains vague."
+      },
+      "references": [
+        "kuenstliche-intelligenz",
+        "kuenstliche-intelligenz"
+      ]
+    },
+    {
+      "term": "Allostatic Load",
+      "definition": {
+        "de": "Kumulative physiologische Belastung durch dauernden Stress.",
+        "en": "Cumulative physiological burden from chronic stress."
+      },
+      "references": [
+        "psychische-belastung"
+      ]
+    },
+    {
+      "term": "Allostatische Last",
+      "definition": {
+        "de": "Kumulative physiologische Belastung durch dauernden Stress.",
+        "en": "Cumulative physiological burden from chronic stress."
+      },
+      "references": [
+        "erschoepfung"
+      ]
+    },
+    {
+      "term": "Ambient Anxiety",
+      "definition": {
+        "de": "Hintergrundangst durch permanente Informationsflüsse.",
+        "en": "Background anxiety generated by continuous information streams."
+      },
+      "references": [
+        "psychische-belastung"
+      ]
+    },
+    {
+      "term": "Anerkennung",
+      "definition": {
+        "de": "Soziale Bestätigung der Identität durch Andere.",
+        "en": "Social confirmation of identity by others."
+      },
+      "references": [
+        "identitaetspolitik"
+      ]
+    },
+    {
+      "term": "Anthropozän",
+      "definition": {
+        "de": "Geologische Epoche, in der menschliche Aktivitäten die Erde maßgeblich prägen.",
+        "en": "Geological epoch where human activities significantly shape the Earth."
+      },
+      "references": [
+        "climate-change",
+        "naturkatastrophen"
+      ]
+    },
+    {
+      "term": "Antibiotic Stewardship",
+      "definition": {
+        "de": "Systematische Programme zur rationalen Antibiotika-Verwendung und Resistenzprävention.",
+        "en": "Systematic programs for rational antibiotic use and resistance prevention."
+      },
+      "references": [
+        "antibiotika-resistenzen"
+      ]
+    },
+    {
+      "term": "Aquifer-Mining",
+      "definition": {
+        "de": "Förderung fossilen Grundwassers ohne Regeneration.",
+        "en": "Extraction of fossil groundwater without recharge."
+      },
+      "references": [
+        "wasserknappheit"
+      ]
+    },
+    {
+      "term": "Aragonit-Sättigung",
+      "definition": {
+        "de": "Grad, zu dem Meerwasser Kalziumkarbonat ausfällen kann; Basis für Riffaufbau.",
+        "en": "Degree to which seawater can precipitate calcium carbonate; basis for reef growth."
+      },
+      "references": [
+        "ozeanversauerung"
+      ]
+    },
+    {
+      "term": "Asset Inflation",
+      "definition": {
+        "de": "Preissteigerung von Vermögenswerten ohne reale Wertbasis.",
+        "en": "Price increase of assets without real value basis."
+      },
+      "references": [
+        "finanzblasen"
+      ]
+    },
+    {
+      "term": "Asset Management",
+      "definition": {
+        "de": "Systematische Erfassung und Steuerung von Anlagen über Lebenszyklen.",
+        "en": "Systematic tracking and steering of assets over lifecycles."
+      },
+      "references": [
+        "infrastrukturverfall"
+      ]
+    },
+    {
+      "term": "Asset-Inflation",
+      "definition": {
+        "de": "Preissteigerung von Vermögenswerten ohne reale Wertbasis.",
+        "en": "Price increase of assets without real value basis."
+      },
+      "references": [
+        "finanzblasen"
+      ]
+    },
+    {
+      "term": "Asset-Klasse",
+      "definition": {
+        "de": "Kategorie handelbarer Vermögenswerte.",
+        "en": "Category of tradable assets."
+      },
+      "references": [
+        "finanzialisierung"
+      ]
+    },
+    {
+      "term": "Astroturfing",
+      "definition": {
+        "de": "Künstlich inszenierte Graswurzel-Unterstützung.",
+        "en": "Artificially staged grassroots support."
+      },
+      "references": [
+        "propaganda"
+      ]
+    },
+    {
+      "term": "Asylpolitik",
+      "definition": {
+        "de": "Politische Regeln, die Zugang, Schutz und Integration regulieren.",
+        "en": "Policies regulating access, protection, and integration."
+      },
+      "references": [
+        "flucht"
+      ]
+    },
+    {
+      "term": "Asymmetrische Gewalt",
+      "definition": {
+        "de": "Angriff schwacher Akteure auf symbolische oder weiche Ziele.",
+        "en": "Attacks by weaker actors on symbolic or soft targets."
+      },
+      "references": [
+        "terrorismus"
+      ]
+    },
+    {
+      "term": "Attribution",
+      "definition": {
+        "de": "Zuordnung eines Angriffs zu einem Akteur; bleibt oft unsicher.",
+        "en": "Assigning an attack to an actor; often uncertain."
+      },
+      "references": [
+        "cyberangriffe"
+      ]
+    },
+    {
+      "term": "Aufenthaltsentzug",
+      "definition": {
+        "de": "Entscheidung, einen bisherigen Schutzstatus administrativ zu entkoppeln.",
+        "en": "Administrative decision to decouple an existing protection status."
+      },
+      "references": [
+        "abschiebungsapparat"
+      ]
+    },
+    {
+      "term": "Aufmerksamkeitsökonomie",
+      "definition": {
+        "de": "Märkte, die menschliche Aufmerksamkeit als knappe Ressource handeln.",
+        "en": "Markets trading human attention as scarce resource."
+      },
+      "references": [
+        "exhaustion"
+      ]
+    },
+    {
+      "term": "Aufwertung",
+      "definition": {
+        "de": "Staatliche/private Investitionen erhöhen Standortwert.",
+        "en": "State/private investment lifts location value."
+      },
+      "references": [
+        "gentrifizierung"
+      ]
+    },
+    {
+      "term": "Ausnahmezustand",
+      "definition": {
+        "de": "Situation, in der Normen suspendiert und durch Dekret ersetzt werden.",
+        "en": "Situation where norms are suspended and replaced by decree."
+      },
+      "references": [
+        "grenzregime",
+        "lagerlogik",
+        "rechtlosigkeit"
+      ]
+    },
+    {
+      "term": "Austerität",
+      "definition": {
+        "de": "Politik der Ausgabenkürzung zur Haushaltskonsolidierung.",
+        "en": "Policy of spending cuts for budget consolidation."
+      },
+      "references": [
+        "rezession"
+      ]
+    },
+    {
+      "term": "Automatische Stabilisatoren",
+      "definition": {
+        "de": "Einnahmen/Ausgaben, die konjunkturell wirken ohne neue Gesetze.",
+        "en": "Revenues/spending that react to cycles without new laws."
+      },
+      "references": [
+        "rezession"
+      ]
+    },
+    {
+      "term": "Autopoiesis der Pathogene",
+      "definition": {
+        "de": "Selbstorganisation von Mikroorganismen durch evolutionäre Anpassung an antimikrobielle Agentien.",
+        "en": "Self-organization of microorganisms through evolutionary adaptation to antimicrobial agents."
+      },
+      "references": [
+        "antibiotika-resistenzen"
+      ]
+    },
+    {
+      "term": "Autoritäre Regression",
+      "definition": {
+        "de": "Rückfall in vereinfachte Macht- und Ordnungsmodelle unter Krisendruck.",
+        "en": "Regression into simplified models of power and order under crisis pressure."
+      },
+      "references": [
+        "faschisierung"
+      ]
+    },
+    {
+      "term": "Autoritärer Charakter",
+      "definition": {
+        "de": "Persönlichkeitsmuster, das Unterordnung und Aggression verbindet.",
+        "en": "Personality pattern combining submission and aggression."
+      },
+      "references": [
+        "autoritarismus",
+        "radikalisierung"
+      ]
+    },
+    {
+      "term": "Autoritarer Reflex",
+      "definition": {
+        "de": "Instinktive Zustimmung zu Ordnung statt Deliberation.",
+        "en": "Instinctive consent to order instead of deliberation."
+      },
+      "references": [
+        "faschisierung"
+      ]
+    },
+    {
+      "term": "Beschleunigungismus",
+      "definition": {
+        "de": "Idee, Krisen zu forcieren, um Systemsturz zu beschleunigen.",
+        "en": "Idea of accelerating crises to hasten systemic collapse."
+      },
+      "references": [
+        "radikalisierung"
+      ]
+    },
+    {
+      "term": "Bevölkerungspyramide",
+      "definition": {
+        "de": "Graphische Darstellung der Altersstruktur; kippt zur Urne.",
+        "en": "Graph of age structure; tilting toward a vase."
+      },
+      "references": [
+        "demografischer-wandel"
+      ]
+    },
+    {
+      "term": "Binnenvertreibung",
+      "definition": {
+        "de": "Vertreibung innerhalb nationaler Grenzen ohne vollen Flüchtlingsschutz.",
+        "en": "Displacement within national borders without full refugee protection."
+      },
+      "references": [
+        "klimaflucht"
+      ]
+    },
+    {
+      "term": "Biometrische Regierung",
+      "definition": {
+        "de": "Steuerung von Bevölkerung über messbare Körpermerkmale.",
+        "en": "Governing populations via measurable bodily traits."
+      },
+      "references": [
+        "biopolitische-zuschreibungen"
+      ]
+    },
+    {
+      "term": "Biopolitik",
+      "definition": {
+        "de": "Macht, die über das Leben und den Körper organisiert wird.",
+        "en": "Power organised over life and the body."
+      },
+      "references": [
+        "grenzregime",
+        "koerperpolitik"
+      ]
+    },
+    {
+      "term": "Black Box",
+      "definition": {
+        "de": "System, dessen innere Funktionsweise nicht einsehbar ist.",
+        "en": "System whose internal workings are not observable."
+      },
+      "references": [
+        "technologische-intransparenz"
+      ]
+    },
+    {
+      "term": "Black-Swan-Events",
+      "definition": {
+        "de": "Unvorhersehbare, hoch wirkungsvolle Ereignisse, die Systeme ohne Redundanz zerstören.",
+        "en": "Unpredictable, highly impactful events that destroy systems without redundancy."
+      },
+      "references": [
+        "just-in-time-fragilitaet"
+      ]
+    },
+    {
+      "term": "Blackbox-Herrschaft",
+      "definition": {
+        "de": "Macht ohne Transparenz oder Rechenschaft.",
+        "en": "Power without transparency or accountability."
+      },
+      "references": [
+        "algorithmische-steuerung"
+      ]
+    },
+    {
+      "term": "Blasenrationalität",
+      "definition": {
+        "de": "Rationales Handeln innerhalb eines kollektiv irrationalen Systems.",
+        "en": "Rational action within a collectively irrational system."
+      },
+      "references": [
+        "finanzblasen"
+      ]
+    },
+    {
+      "term": "Bodenerosion",
+      "definition": {
+        "de": "Abtrag fruchtbarer Schicht durch Wasser/Wind; reduziert Resilienz ganzer Ökosysteme.",
+        "en": "Removal of fertile layer by water/wind; reduces resilience of entire ecosystems."
+      },
+      "references": [
+        "umweltzerstoerung"
+      ]
+    },
+    {
+      "term": "Bodenwertsteuer",
+      "definition": {
+        "de": "Steuer auf Grundwert zur Dämpfung von Spekulation.",
+        "en": "Land value tax to damp speculation."
+      },
+      "references": [
+        "wohnraummangel"
+      ]
+    },
+    {
+      "term": "Bottleneck",
+      "definition": {
+        "de": "Engpass, der den gesamten Durchsatz limitiert.",
+        "en": "Constraint that limits overall throughput."
+      },
+      "references": [
+        "lieferkettenabhaengigkeit"
+      ]
+    },
+    {
+      "term": "Bubble Rationality",
+      "definition": {
+        "de": "Rationales Handeln innerhalb eines kollektiv irrationalen Systems.",
+        "en": "Rational action within a collectively irrational system."
+      },
+      "references": [
+        "finanzblasen"
+      ]
+    },
+    {
+      "term": "Capitalist Realism",
+      "definition": {
+        "de": "Mark Fishers Begriff für die Vorstellung, dass es keine Alternative zum Kapitalismus gibt.",
+        "en": "Mark Fisher's term for the notion that there is no alternative to capitalism."
+      },
+      "references": [
+        "drogen"
+      ]
+    },
+    {
+      "term": "Capture",
+      "definition": {
+        "de": "Übernahme von Regulierung durch regulierte Akteure.",
+        "en": "Regulation co-opted by those regulated."
+      },
+      "references": [
+        "machtmissbrauch"
+      ]
+    },
+    {
+      "term": "Carbon Budget",
+      "definition": {
+        "de": "Restmenge an CO₂-Emissionen, bevor ein Temperaturziel überschritten wird.",
+        "en": "Remaining CO₂ emissions before a temperature target is overshot."
+      },
+      "references": [
+        "klimawandel"
+      ]
+    },
+    {
+      "term": "Carbon Lock-in",
+      "definition": {
+        "de": "Infrastruktur, die Emissionen strukturell verankert.",
+        "en": "Infrastructure that structurally anchors emissions."
+      },
+      "references": [
+        "climate-change"
+      ]
+    },
+    {
+      "term": "Carbonatpuffer",
+      "definition": {
+        "de": "Chemischer Puffer, der CO₂ bindet; bei Übersättigung erschöpft.",
+        "en": "Chemical buffer binding CO₂; depletes under excess uptake."
+      },
+      "references": [
+        "ozeanversauerung"
+      ]
+    },
+    {
+      "term": "Care Gap",
+      "definition": {
+        "de": "Lücke zwischen Pflegebedarf und verfügbarer Kapazität.",
+        "en": "Gap between care need and available capacity."
+      },
+      "references": [
+        "care",
+        "pflegenotstand"
+      ]
+    },
+    {
+      "term": "Chilling Effect",
+      "definition": {
+        "de": "Selbstbeschränkung aus Angst vor Sanktionen oder Unklarheit.",
+        "en": "Self-restraint due to fear of sanction or uncertainty."
+      },
+      "references": [
+        "normkonflikte",
+        "surveillance",
+        "ueberwachung"
+      ]
+    },
+    {
+      "term": "Chokepoints",
+      "definition": {
+        "de": "Engpässe in globalen Transportwegen, die bei Blockaden ganze Lieferketten stoppen.",
+        "en": "Bottlenecks in global transport routes that stop entire supply chains when blocked."
+      },
+      "references": [
+        "just-in-time-fragilitaet"
+      ]
+    },
+    {
+      "term": "Citizenship by Investment",
+      "definition": {
+        "de": "Erwerb von Staatsbürgerschaft durch Kapitalanlagen.",
+        "en": "Acquisition of citizenship via capital investment."
+      },
+      "references": [
+        "staatsbuergerschaft"
+      ]
+    },
+    {
+      "term": "Civic Space",
+      "definition": {
+        "de": "Freiheitsraum für Organisation, Protest und Ausdruck.",
+        "en": "Freedom space for organisation, protest, and expression."
+      },
+      "references": [
+        "demokratieabbau"
+      ]
+    },
+    {
+      "term": "Common Knowledge",
+      "definition": {
+        "de": "Wissen darum, dass andere dieselben Informationen haben und dies auch wissen.",
+        "en": "Knowledge that others have the same information and know that one knows it."
+      },
+      "references": [
+        "fragmentierung-der-oeffentlichkeit",
+        "legitimationsverlust",
+        "polarisierung"
+      ]
+    },
+    {
+      "term": "Context Collapse",
+      "definition": {
+        "de": "Zusammenbruch unterschiedlicher Publika in einem Feed ohne Nuance.",
+        "en": "Collapse of distinct audiences into one feed without nuance."
+      },
+      "references": [
+        "empoerungsdynamiken",
+        "fragmentierung-der-oeffentlichkeit"
+      ]
+    },
+    {
+      "term": "Coordinated Inauthentic Behavior",
+      "definition": {
+        "de": "Abgestimmte falsche Identitäten zur Verstärkung von Botschaften.",
+        "en": "Aligned fake identities to amplify messages."
+      },
+      "references": [
+        "desinformation"
+      ]
+    },
+    {
+      "term": "Counterterror",
+      "definition": {
+        "de": "Staatliche Maßnahmen zur Verhinderung und Reaktion, oft mit Ausnahmebefugnissen.",
+        "en": "State measures to prevent/respond, often with exceptional powers."
+      },
+      "references": [
+        "terrorismus"
+      ]
+    },
+    {
+      "term": "Culture Industry",
+      "definition": {
+        "de": "Frankfurter-Schule-Begriff für industrialisierte Kulturproduktion.",
+        "en": "Frankfurt School term for industrialised culture production."
+      },
+      "references": [
+        "medienerosion"
+      ]
+    },
+    {
+      "term": "Dark Pattern",
+      "definition": {
+        "de": "UI-Design, das zu unfreiwilliger Einwilligung verleitet.",
+        "en": "UI design that nudges toward involuntary consent."
+      },
+      "references": [
+        "datenmissbrauch"
+      ]
+    },
+    {
+      "term": "Data Exhaust",
+      "definition": {
+        "de": "Nebenprodukt menschlicher Interaktionen, das als Trainingsmaterial genutzt wird.",
+        "en": "By-product of human interaction reused as training material."
+      },
+      "references": [
+        "kuenstliche-intelligenz",
+        "kuenstliche-intelligenz"
+      ]
+    },
+    {
+      "term": "Data Retention",
+      "definition": {
+        "de": "Pflicht, Kommunikations- und Bewegungsdaten vorzuhalten.",
+        "en": "Mandated storage of communication and movement data."
+      },
+      "references": [
+        "ueberwachung"
+      ]
+    },
+    {
+      "term": "Datafizierung",
+      "definition": {
+        "de": "Übersetzung körperlicher Zustände in handelbare Daten.",
+        "en": "Translation of bodily states into tradable data."
+      },
+      "references": [
+        "koerperpolitik"
+      ]
+    },
+    {
+      "term": "Datenabfluss",
+      "definition": {
+        "de": "Unkontrollierter Transfer sensibler Informationen aus einem System.",
+        "en": "Uncontrolled transfer of sensitive information out of a system."
+      },
+      "references": [
+        "surveillance"
+      ]
+    },
+    {
+      "term": "Datenbroker",
+      "definition": {
+        "de": "Firma, die Daten aggregiert und verkauft, oft ohne direkte Beziehung zu Betroffenen.",
+        "en": "Firm that aggregates and sells data, often without direct relationship to subjects."
+      },
+      "references": [
+        "datenmissbrauch"
+      ]
+    },
+    {
+      "term": "Datenfizierung",
+      "definition": {
+        "de": "Übersetzung von Aktivitäten in Datenpunkte.",
+        "en": "Translation of activities into data points."
+      },
+      "references": [
+        "digitalisierung"
+      ]
+    },
+    {
+      "term": "Datenresidenz",
+      "definition": {
+        "de": "Ort, an dem Daten rechtlich gespeichert werden müssen.",
+        "en": "Jurisdiction where data must legally reside."
+      },
+      "references": [
+        "datenfragmentierung"
+      ]
+    },
+    {
+      "term": "Decoupling",
+      "definition": {
+        "de": "Strategische Entkopplung von Lieferketten und Technologiestandards.",
+        "en": "Strategic separation of supply chains and tech standards."
+      },
+      "references": [
+        "geopolitische-verschiebungen"
+      ]
+    },
+    {
+      "term": "Deepfake",
+      "definition": {
+        "de": "Synthetische Medien, die echte Personen imitieren.",
+        "en": "Synthetic media imitating real persons."
+      },
+      "references": [
+        "desinformation"
+      ]
+    },
+    {
+      "term": "Defaunation",
+      "definition": {
+        "de": "Breiter Verlust von Tierarten und -individuen in Ökosystemen.",
+        "en": "Broad loss of animal species and individuals within ecosystems."
+      },
+      "references": [
+        "artensterben"
+      ]
+    },
+    {
+      "term": "Demarkation",
+      "definition": {
+        "de": "Festlegung und Markierung einer Grenze.",
+        "en": "Definition and marking of a boundary."
+      },
+      "references": [
+        "grenzkonflikte"
+      ]
+    },
+    {
+      "term": "Demographische Angst",
+      "definition": {
+        "de": "Furcht vor numerischer Verschiebung als politisches Mobilisierungsmittel.",
+        "en": "Fear of numerical shift used for political mobilisation."
+      },
+      "references": [
+        "ethnonationalismus"
+      ]
+    },
+    {
+      "term": "Demokratie-Erosion",
+      "definition": {
+        "de": "Schrittweiser Abbau pluraler Kontrollen ohne offenen Putsch.",
+        "en": "Gradual dismantling of plural checks without an open coup."
+      },
+      "references": [
+        "faschisierung"
+      ]
+    },
+    {
+      "term": "Demokratische Simulation",
+      "definition": {
+        "de": "Aufrechterhaltung demokratischer Rituale ohne substanzielle Entscheidungsfreiheit.",
+        "en": "Maintenance of democratic rituals without substantial decision-making freedom."
+      },
+      "references": [
+        "demokratieabbau"
+      ]
+    },
+    {
+      "term": "Dependency Ratio",
+      "definition": {
+        "de": "Verhältnis von Nichterwerbstätigen zu Erwerbstätigen als Belastungsindikator.",
+        "en": "Ratio of non-working to working population as load indicator."
+      },
+      "references": [
+        "alterung"
+      ]
+    },
+    {
+      "term": "Depolitisierung",
+      "definition": {
+        "de": "Verschiebung politischer Fragen in technokratische Verfahren.",
+        "en": "Shift of political questions into technocratic procedures."
+      },
+      "references": [
+        "post-demokratie"
+      ]
+    },
+    {
+      "term": "Depressive Hedonia",
+      "definition": {
+        "de": "Glück durch Depression; unfähig zur Solidarität in der Konkurrenzgesellschaft.",
+        "en": "Happiness through depression; incapable of solidarity in competitive society."
+      },
+      "references": [
+        "prekarisierung"
+      ]
+    },
+    {
+      "term": "Depressiver Hedonismus",
+      "definition": {
+        "de": "Fisher: Bewusstes Verfolgen von Genuss bei gleichzeitiger Erkenntnis seiner Hohlheit.",
+        "en": "Fisher: consciously pursuing enjoyment while recognizing its emptiness."
+      },
+      "references": [
+        "nihilismus"
+      ]
+    },
+    {
+      "term": "Deradikalisierung",
+      "definition": {
+        "de": "Intervention, die Ausstieg und Neuorientierung ermöglicht.",
+        "en": "Intervention enabling exit and reorientation."
+      },
+      "references": [
+        "radikalisierung"
+      ]
+    },
+    {
+      "term": "Design for Demise",
+      "definition": {
+        "de": "Konstruktion von Satelliten, die vollständig in der Atmosphäre verglühen.",
+        "en": "Design of satellites that completely burn up in the atmosphere."
+      },
+      "references": [
+        "weltraumschrott"
+      ]
+    },
+    {
+      "term": "Deskilling",
+      "definition": {
+        "de": "Verlust professioneller Urteilskraft durch starre Prozesse.",
+        "en": "Loss of professional judgment due to rigid processes."
+      },
+      "references": [
+        "entmenschlichung-buerokratie"
+      ]
+    },
+    {
+      "term": "Differenzielle Staatsbürgerschaft",
+      "definition": {
+        "de": "Ungleiche Rechte je nach Aufenthaltsstatus.",
+        "en": "Unequal rights depending on residency status."
+      },
+      "references": [
+        "abschiebungsapparat"
+      ]
+    },
+    {
+      "term": "Digital Divide",
+      "definition": {
+        "de": "Ungleicher Zugang zu Geräten, Netz und Kompetenzen.",
+        "en": "Unequal access to devices, connectivity, and skills."
+      },
+      "references": [
+        "bildungsungleichheit"
+      ]
+    },
+    {
+      "term": "Digitale Kluft",
+      "definition": {
+        "de": "Ungleicher Zugang zu Geräten, Netzen und Kompetenzen.",
+        "en": "Unequal access to devices, networks, and skills."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Diskurspolitik",
+      "definition": {
+        "de": "Politische Aushandlung dessen, was sagbar/unsagbar ist.",
+        "en": "Political negotiation of what is sayable/unsayable."
+      },
+      "references": [
+        "sprachregime"
+      ]
+    },
+    {
+      "term": "Diskursverschiebung",
+      "definition": {
+        "de": "Verschiebung dessen, was als sagbar gilt, in Richtung autoritärer Positionen.",
+        "en": "Shifting what is considered sayable towards authoritarian positions."
+      },
+      "references": [
+        "faschisierung"
+      ]
+    },
+    {
+      "term": "Disparate Impact",
+      "definition": {
+        "de": "Ungleiche Wirkung auf Gruppen trotz formaler Neutralität.",
+        "en": "Unequal group impact despite formal neutrality."
+      },
+      "references": [
+        "algorithmische-steuerung"
+      ]
+    },
+    {
+      "term": "Dissipation",
+      "definition": {
+        "de": "Umwandlung von Energie in weniger nutzbare Formen.",
+        "en": "Conversion of energy into less usable forms."
+      },
+      "references": [
+        "war"
+      ]
+    },
+    {
+      "term": "Dissipative Struktur",
+      "definition": {
+        "de": "System fern vom Gleichgewicht, das Energie dissipiert und Feindbilder braucht.",
+        "en": "System far from equilibrium that dissipates energy and needs enemy images."
+      },
+      "references": [
+        "faschisierung",
+        "umweltzerstoerung",
+        "wasserknappheit"
+      ]
+    },
+    {
+      "term": "Dissipatives System",
+      "definition": {
+        "de": "System fern vom Gleichgewicht, das Energie dissipiert.",
+        "en": "System far from equilibrium that dissipates energy."
+      },
+      "references": [
+        "prekarisierung"
+      ]
+    },
+    {
+      "term": "Dividuierung",
+      "definition": {
+        "de": "Deleuze: Fragmentierung des Subjekts in algorithmische Datenpunkte.",
+        "en": "Deleuze: fragmentation of the subject into algorithmic data points."
+      },
+      "references": [
+        "nihilismus"
+      ]
+    },
+    {
+      "term": "Doomscrolling",
+      "definition": {
+        "de": "Zwanghaftes Konsumieren negativer Nachrichten-Feeds.",
+        "en": "Compulsive consumption of negative news feeds."
+      },
+      "references": [
+        "zukunftsangst"
+      ]
+    },
+    {
+      "term": "DRG",
+      "definition": {
+        "de": "Fallpauschale; ökonomischer Druck auf Pflegezeit.",
+        "en": "Diagnosis-related group; economic pressure on care time."
+      },
+      "references": [
+        "pflegenotstand"
+      ]
+    },
+    {
+      "term": "Dual Use",
+      "definition": {
+        "de": "Technologie mit ziviler und militärischer Nutzung.",
+        "en": "Technology with civilian and military application."
+      },
+      "references": [
+        "aufrüstung",
+        "militarisierung"
+      ]
+    },
+    {
+      "term": "Dual-Use",
+      "definition": {
+        "de": "Technologien mit zivilem und militärischem Einsatzpotenzial.",
+        "en": "Technologies with civilian and military use potential."
+      },
+      "references": [
+        "stellvertreterkriege"
+      ]
+    },
+    {
+      "term": "Dublin-System",
+      "definition": {
+        "de": "Regel, die Zuständigkeit auf Erstankunftsland legt.",
+        "en": "Rule assigning responsibility to first-entry country."
+      },
+      "references": [
+        "asylpolitik"
+      ]
+    },
+    {
+      "term": "Duldung",
+      "definition": {
+        "de": "Vorläufiger Status ohne Perspektive, jederzeit widerrufbar.",
+        "en": "Provisional status without perspective, revocable at any time."
+      },
+      "references": [
+        "rechtlosigkeit"
+      ]
+    },
+    {
+      "term": "Dwell Time",
+      "definition": {
+        "de": "Verweildauer als Leitmetrik für Relevanz und Werbewert.",
+        "en": "Time on content as key metric for relevance and ad value."
+      },
+      "references": [
+        "aufmerksamkeitsoekonomie"
+      ]
+    },
+    {
+      "term": "Echo Chamber",
+      "definition": {
+        "de": "Umgebung, in der Meinungen verstärkt werden, ohne externe Kritik.",
+        "en": "Environment where opinions are amplified without external critique."
+      },
+      "references": [
+        "desinformation",
+        "politische-gewaltfantasien"
+      ]
+    },
+    {
+      "term": "Echo-Kammer",
+      "definition": {
+        "de": "Kommunikationsraum ohne abweichende Sichtweisen.",
+        "en": "Communication space devoid of dissenting views."
+      },
+      "references": [
+        "vereinsamung"
+      ]
+    },
+    {
+      "term": "Einsamkeit",
+      "definition": {
+        "de": "Subjektives Empfinden fehlender bedeutsamer Beziehungen.",
+        "en": "Subjective feeling of lacking meaningful relationships."
+      },
+      "references": [
+        "vereinsamung"
+      ]
+    },
+    {
+      "term": "Emotionsarbeit",
+      "definition": {
+        "de": "Regulation von Gefühlen als Arbeitsleistung.",
+        "en": "Regulation of emotions as a form of labor."
+      },
+      "references": [
+        "psychische-belastung"
+      ]
+    },
+    {
+      "term": "Encampment",
+      "definition": {
+        "de": "Politik der Lagerung von Menschen als Verwaltungstechnik.",
+        "en": "Policy of placing people in camps as an administrative technique."
+      },
+      "references": [
+        "lagerlogik"
+      ]
+    },
+    {
+      "term": "Engagement Farm",
+      "definition": {
+        "de": "Content-Produktion, die ausschließlich Kennzahlen bedient.",
+        "en": "Content production optimised solely for metrics."
+      },
+      "references": [
+        "aufmerksamkeitsoekonomie"
+      ]
+    },
+    {
+      "term": "Enhancement",
+      "definition": {
+        "de": "Verbesserung jenseits medizinischer Notwendigkeit.",
+        "en": "Improvement beyond medical necessity."
+      },
+      "references": [
+        "transhumanismus"
+      ]
+    },
+    {
+      "term": "Entdifferenzierung",
+      "definition": {
+        "de": "Zusammenbruch funktionaler Differenzierung der Gesellschaft (Luhmann).",
+        "en": "Collapse of functional differentiation between system areas."
+      },
+      "references": [
+        "korruption",
+        "staatszerfall"
+      ]
+    },
+    {
+      "term": "Entgrenzte Sicherheit",
+      "definition": {
+        "de": "Ausweitung des Sicherheitsbegriffs auf nahezu alle Lebensbereiche.",
+        "en": "Expansion of the security concept to almost all areas of life."
+      },
+      "references": [
+        "aufrüstung"
+      ]
+    },
+    {
+      "term": "Entropie",
+      "definition": {
+        "de": "Maß für Unordnung in einem System; Katastrophen erhöhen die Entropie.",
+        "en": "Measure of disorder in a system; disasters increase entropy."
+      },
+      "references": [
+        "naturkatastrophen",
+        "war"
+      ]
+    },
+    {
+      "term": "Entropie / Negentropie",
+      "definition": {
+        "de": "Entropie misst Unordnung, Unsicherheit oder Nicht‑Vorhersagbarkeit in einem System; Negentropie beschreibt Prozesse, durch die Ordnung, Stabilität und Regelmäßigkeit erzeugt oder aufrechterhalten werden. Aus kybernetischer Perspektive existieren beide nicht als starres Gegensatzpaar, sondern als dynamisches Verhältnis: Ordnung entsteht lokal und temporär, meist auf Kosten steigender Entropie an anderer Stelle.",
+        "en": "Entropy measures disorder, uncertainty or unpredictability in a system; negentropy describes processes through which order, stability and regularity are generated or preserved. From a cybernetic perspective the two do not appear as a rigid opposition but as a dynamic relation: order always arises locally and temporarily, usually at the cost of increasing entropy elsewhere."
+      },
+      "references": [
+        "entropie-negentropie"
+      ]
+    },
+    {
+      "term": "Entropie-Export",
+      "definition": {
+        "de": "Auslagerung von Chaos, Gewalt und Ausschluss an die Peripherie.",
+        "en": "Externalization of chaos, violence, and exclusion to the periphery."
+      },
+      "references": [
+        "autoritarismus"
+      ]
+    },
+    {
+      "term": "Epistemisches Vertrauen",
+      "definition": {
+        "de": "Vertrauen in Quellen, Verfahren und Institutionen des Wissens.",
+        "en": "Trust in sources, processes, and institutions of knowledge."
+      },
+      "references": [
+        "postfaktizitaet"
+      ]
+    },
+    {
+      "term": "Erholungsdefizit",
+      "definition": {
+        "de": "Regeneration bleibt hinter Belastung zurück.",
+        "en": "Accumulated lack of restorative phases."
+      },
+      "references": [
+        "erschoepfung",
+        "exhaustion"
+      ]
+    },
+    {
+      "term": "Ernährungssouveränität",
+      "definition": {
+        "de": "Politisches Recht, Ernährungssysteme lokal zu bestimmen.",
+        "en": "Political right to shape food systems locally."
+      },
+      "references": [
+        "lebensmittelknappheit"
+      ]
+    },
+    {
+      "term": "EROI",
+      "definition": {
+        "de": "Energy Return on Investment: Energieertrag im Verhältnis zum Einsatz.",
+        "en": "Energy return on energy invested."
+      },
+      "references": [
+        "ressourcenerschoepfung"
+      ]
+    },
+    {
+      "term": "Eskalationsleiter",
+      "definition": {
+        "de": "Abstufungen militärischer Gewalt mit Kipppunkten und Sprungstellen.",
+        "en": "Steps of increasing force with thresholds to mass destruction."
+      },
+      "references": [
+        "krieg",
+        "war"
+      ]
+    },
+    {
+      "term": "Ethnopluralismus",
+      "definition": {
+        "de": "Idee getrennt homogener Kulturräume als Rechtfertigung für Ausschluss.",
+        "en": "Idea of separate homogeneous cultural spaces as exclusion rationale."
+      },
+      "references": [
+        "ethnonationalismus",
+        "identitaere-bewegungen"
+      ]
+    },
+    {
+      "term": "Exekutivdominanz",
+      "definition": {
+        "de": "Übergewicht der Regierung gegenüber Parlament und Judikative.",
+        "en": "Predominance of government over parliament and judiciary."
+      },
+      "references": [
+        "demokratieabbau"
+      ]
+    },
+    {
+      "term": "Exergieverlust",
+      "definition": {
+        "de": "Verlust an nutzbarer Energie in thermodynamischen Prozessen.",
+        "en": "Loss of usable energy in thermodynamic processes."
+      },
+      "references": [
+        "umweltzerstoerung"
+      ]
+    },
+    {
+      "term": "Exklusionsdrift",
+      "definition": {
+        "de": "Kaskadenartige Ausbreitung der Exklusion von einem Funktionssystem auf andere.",
+        "en": "Cascading spread of exclusion from one functional system to others."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Explainability",
+      "definition": {
+        "de": "Nachvollziehbarkeit von Modellentscheidungen.",
+        "en": "Traceability of model decisions."
+      },
+      "references": [
+        "technologische-intransparenz"
+      ]
+    },
+    {
+      "term": "Exposition",
+      "definition": {
+        "de": "Ausmaß, in dem Werte räumlich/zeitlich im Hazard-Footprint liegen.",
+        "en": "Extent to which assets lie in the spatial/temporal hazard footprint."
+      },
+      "references": [
+        "naturkatastrophen"
+      ]
+    },
+    {
+      "term": "Externalisierung",
+      "definition": {
+        "de": "Verlagerung von Kosten, Verantwortung oder Risiken auf andere Akteure oder Räume, oft ohne Rückkopplung.",
+        "en": "Externalization is the shifting of costs, responsibilities or risks onto other actors or spaces, often without feedback."
+      },
+      "references": [
+        "abschiebungsapparat",
+        "extraktivismus",
+        "grenzregime",
+        "externalisierung"
+      ]
+    },
+    {
+      "term": "Externalität",
+      "definition": {
+        "de": "Kosten, die nicht in der Preisbildung auftauchen und auf Umwelt/Gesellschaft abgewälzt werden.",
+        "en": "Costs omitted from pricing and shifted onto environment/society."
+      },
+      "references": [
+        "umweltzerstoerung"
+      ]
+    },
+    {
+      "term": "Exterritorialisierung",
+      "definition": {
+        "de": "Verlagerung von Verfahren und Kontrolle außerhalb des Staatsgebiets.",
+        "en": "Moving procedures and control outside national territory."
+      },
+      "references": [
+        "asylpolitik"
+      ]
+    },
+    {
+      "term": "Extinction Debt",
+      "definition": {
+        "de": "Zeitverzögerte Aussterbewelle, die nach Habitatverlust unausweichlich wird.",
+        "en": "Time-lagged extinction wave that becomes inevitable after habitat loss."
+      },
+      "references": [
+        "biodiversitaetsverlust"
+      ]
+    },
+    {
+      "term": "Feedback-Loop",
+      "definition": {
+        "de": "Selbstverstärkende Rückkopplung zwischen Messung und Realität.",
+        "en": "Self-reinforcing feedback between measurement and reality."
+      },
+      "references": [
+        "algorithmische-steuerung"
+      ]
+    },
+    {
+      "term": "Filterblase",
+      "definition": {
+        "de": "Medienraum mit homogenen Ansichten, der Korrekturfilter ausschließt.",
+        "en": "Algorithmically reinforced homogeneity of information environment."
+      },
+      "references": [
+        "fragmentierung-der-oeffentlichkeit",
+        "postfaktizitaet"
+      ]
+    },
+    {
+      "term": "Financialization",
+      "definition": {
+        "de": "Dominanz finanzieller Logiken über reale Produktion.",
+        "en": "Dominance of financial logics over real production."
+      },
+      "references": [
+        "finanzblasen"
+      ]
+    },
+    {
+      "term": "Finanzialisierung",
+      "definition": {
+        "de": "Dominanz finanzieller Logiken über reale Produktion.",
+        "en": "Dominance of financial logics over real production."
+      },
+      "references": [
+        "finanzblasen"
+      ]
+    },
+    {
+      "term": "Flexibilisierung",
+      "definition": {
+        "de": "Abbau fester Standards zugunsten variabler Verträge.",
+        "en": "Dismantling fixed standards for variable contracts."
+      },
+      "references": [
+        "prekarisierung"
+      ]
+    },
+    {
+      "term": "Framing",
+      "definition": {
+        "de": "Interpretationsrahmen, der Fakten in Deutungen einbettet.",
+        "en": "Selection and weighting of aspects to produce meaning."
+      },
+      "references": [
+        "desinformation",
+        "postfaktizitaet",
+        "propaganda"
+      ]
+    },
+    {
+      "term": "Freund-Feind-Logik",
+      "definition": {
+        "de": "Politische Reduktion auf binäre Loyalitätsfragen.",
+        "en": "Political reduction to binary questions of loyalty."
+      },
+      "references": [
+        "faschisierung"
+      ]
+    },
+    {
+      "term": "Frozen Conflict",
+      "definition": {
+        "de": "Unentschiedener Konflikt ohne formalen Frieden, jederzeit reaktivierbar.",
+        "en": "Unresolved conflict without formal peace, reactivatable anytime."
+      },
+      "references": [
+        "grenzkonflikte",
+        "war"
+      ]
+    },
+    {
+      "term": "Funktionale Vereinfachung",
+      "definition": {
+        "de": "Beschleunigung von Entscheidungen durch Eliminierung von Alternativen.",
+        "en": "Acceleration of decisions through elimination of alternatives."
+      },
+      "references": [
+        "autoritarismus"
+      ]
+    },
+    {
+      "term": "Gamification",
+      "definition": {
+        "de": "Übertragung von Spielmechaniken auf politisierte Gewaltphantasien.",
+        "en": "Applying game mechanics to politicised violence fantasies."
+      },
+      "references": [
+        "politische-gewaltfantasien"
+      ]
+    },
+    {
+      "term": "Gamification des Terrors",
+      "definition": {
+        "de": "Spielifizierung terroristischer Akte durch digitale Medien und Algorithmen.",
+        "en": "Gamification of terrorist acts through digital media and algorithms."
+      },
+      "references": [
+        "radikalisierung"
+      ]
+    },
+    {
+      "term": "Gatekeeping",
+      "definition": {
+        "de": "Kontrolle von Zugang und Begriffen durch Institutionen oder Plattformen.",
+        "en": "Control of access and terms by institutions or platforms."
+      },
+      "references": [
+        "sprachregime"
+      ]
+    },
+    {
+      "term": "Genetische Erosion",
+      "definition": {
+        "de": "Verlust genetischer Vielfalt innerhalb einer Art durch Isolation oder Selektion.",
+        "en": "Loss of genetic diversity within a species via isolation or selection."
+      },
+      "references": [
+        "biodiversitaetsverlust"
+      ]
+    },
+    {
+      "term": "Gentrifizierung",
+      "definition": {
+        "de": "Aufwertung von Quartieren mit Verdrängung bestehender Bewohner:innen.",
+        "en": "Upgrading neighbourhoods that displace existing residents."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Geoökonomie",
+      "definition": {
+        "de": "Einsatz wirtschaftlicher Instrumente zur Machtsicherung.",
+        "en": "Use of economic instruments to secure power."
+      },
+      "references": [
+        "geopolitische-verschiebungen"
+      ]
+    },
+    {
+      "term": "Gewaltmonopol",
+      "definition": {
+        "de": "Webersche Definition legitimer physischer Gewalt (Max Weber).",
+        "en": "Weber's definition of legitimate physical violence (Max Weber)."
+      },
+      "references": [
+        "staatszerfall"
+      ]
+    },
+    {
+      "term": "Gleichschaltung",
+      "definition": {
+        "de": "Anpassung von Institutionen/Medien an zentrale Linie.",
+        "en": "Alignment of institutions/media to a central line."
+      },
+      "references": [
+        "autoritarismus"
+      ]
+    },
+    {
+      "term": "Globale Care-Kette",
+      "definition": {
+        "de": "Transnationale Kette von Sorgearbeit, die regionale Vakuums erzeugt.",
+        "en": "Transnational chain of care labor that produces regional voids."
+      },
+      "references": [
+        "care"
+      ]
+    },
+    {
+      "term": "Gouvernementalität",
+      "definition": {
+        "de": "Kunst der Regierung von Menschen und Dingen (Foucault).",
+        "en": "Art of governing oneself and others (Foucault)."
+      },
+      "references": [
+        "korruption",
+        "prekarisierung"
+      ]
+    },
+    {
+      "term": "Grand Narratives",
+      "definition": {
+        "de": "Große Erzählungen der Moderne über Fortschritt und Ordnung (Lyotard).",
+        "en": "Grand narratives of modernity about progress and order (Lyotard)."
+      },
+      "references": [
+        "kontrollverlust"
+      ]
+    },
+    {
+      "term": "Ground Truth",
+      "definition": {
+        "de": "Verifizierte, korrekte Referenzdaten zur Modellvalidierung.",
+        "en": "Verified, correct reference data for model validation."
+      },
+      "references": [
+        "kuenstliche-intelligenz"
+      ]
+    },
+    {
+      "term": "Haircut",
+      "definition": {
+        "de": "Schuldenschnitt; Gläubiger verzichten teilweise.",
+        "en": "Debt write-down; creditors take a cut."
+      },
+      "references": [
+        "schuldenlast"
+      ]
+    },
+    {
+      "term": "Hard Reset",
+      "definition": {
+        "de": "Radikaler Neustart eines Systems durch fundamentale Umstrukturierung.",
+        "en": "Radical restart of a system through fundamental restructuring."
+      },
+      "references": [
+        "kontrollverlust"
+      ]
+    },
+    {
+      "term": "Harm Reduction",
+      "definition": {
+        "de": "Strategien zur Risikominimierung statt Totalverbot.",
+        "en": "Strategies to minimise risk rather than enforce total prohibition."
+      },
+      "references": [
+        "drogen"
+      ]
+    },
+    {
+      "term": "Hauntologie",
+      "definition": {
+        "de": "Geisterhafte Präsenz vergangener Ereignisse in der Gegenwart (Fisher).",
+        "en": "Ghostly presence of past events in the present (Fisher)."
+      },
+      "references": [
+        "radikalisierung",
+        "staatszerfall"
+      ]
+    },
+    {
+      "term": "Hoffnungsdefizit",
+      "definition": {
+        "de": "Mangel an glaubwürdigen Zukunftsentwürfen.",
+        "en": "Lack of credible future scenarios."
+      },
+      "references": [
+        "zukunftsangst"
+      ]
+    },
+    {
+      "term": "Hollowed-Out-Struktur",
+      "definition": {
+        "de": "Staatliche Institutionen ohne substanzielle Macht; nur Fassade.",
+        "en": "State institutions without substantial power; just facade."
+      },
+      "references": [
+        "staatszerfall"
+      ]
+    },
+    {
+      "term": "Homo Sacer",
+      "definition": {
+        "de": "Das nackte Leben, das getötet, aber nicht geopfert werden kann (Agamben).",
+        "en": "The bare life that can be killed but not sacrificed (Agamben)."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Horizontale Resistenzgene-Übertragung",
+      "definition": {
+        "de": "Austausch von Resistenzgenen zwischen verschiedenen Bakterienstämmen ohne vertikale Vererbung.",
+        "en": "Exchange of resistance genes between different bacterial strains without vertical inheritance."
+      },
+      "references": [
+        "antibiotika-resistenzen"
+      ]
+    },
+    {
+      "term": "Hybridkrieg",
+      "definition": {
+        "de": "Kombination konventioneller, irregulärer und digitaler Mittel.",
+        "en": "Combination of conventional, irregular, and digital means."
+      },
+      "references": [
+        "krieg"
+      ]
+    },
+    {
+      "term": "Hydro-Hegemonie",
+      "definition": {
+        "de": "Politische Kontrolle über Wasserressourcen als Machtinstrument.",
+        "en": "Political control over water resources as an instrument of power."
+      },
+      "references": [
+        "wasserknappheit"
+      ]
+    },
+    {
+      "term": "Hyperkinetische Projektile",
+      "definition": {
+        "de": "Bei hohen Geschwindigkeiten (>10 km/s) selbst kleine Objekte werden zu zerstörerischen Geschossen.",
+        "en": "At high speeds (>10 km/s), even small objects become destructive projectiles."
+      },
+      "references": [
+        "weltraumschrott"
+      ]
+    },
+    {
+      "term": "Hyperobjekt",
+      "definition": {
+        "de": "Objekt, das zu groß ist, um direkt wahrgenommen zu werden.",
+        "en": "Object too large to be directly perceived."
+      },
+      "references": [
+        "climate-change"
+      ]
+    },
+    {
+      "term": "Hyperobjekte",
+      "definition": {
+        "de": "Phänomene wie der Klimawandel, die zu groß und komplex sind, um direkt erfahrbar zu sein.",
+        "en": "Phenomena like climate change that are too large and complex to be directly experienced."
+      },
+      "references": [
+        "naturkatastrophen"
+      ]
+    },
+    {
+      "term": "Hysterese",
+      "definition": {
+        "de": "Persistenz der Arbeitslosigkeit nach einem Schock.",
+        "en": "Persistence of unemployment after a shock."
+      },
+      "references": [
+        "arbeitslosigkeit"
+      ]
+    },
+    {
+      "term": "Hysterese-Effekt",
+      "definition": {
+        "de": "Negative Rückkopplungsschleife, die aus eigener Kraft nicht mehr durchbrochen werden kann.",
+        "en": "Negative feedback loop that can no longer be broken by its own power."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Illiberale Demokratie",
+      "definition": {
+        "de": "Wahlen ohne funktionsfähige Gewaltenteilung und Minderheitenschutz.",
+        "en": "Elections without functioning separation of powers and minority protection."
+      },
+      "references": [
+        "demokratieabbau",
+        "populismus"
+      ]
+    },
+    {
+      "term": "Immunität",
+      "definition": {
+        "de": "Schutz vor Strafverfolgung, der Missbrauch erleichtern kann.",
+        "en": "Protection from prosecution that can enable abuse."
+      },
+      "references": [
+        "machtmissbrauch"
+      ]
+    },
+    {
+      "term": "Inference",
+      "definition": {
+        "de": "Ausführung eines trainierten Modells zur Generierung von Output.",
+        "en": "Running a trained model to generate output."
+      },
+      "references": [
+        "kuenstliche-intelligenz",
+        "kuenstliche-intelligenz"
+      ]
+    },
+    {
+      "term": "Informalität",
+      "definition": {
+        "de": "Arbeit ohne Registrierung, Sozialbeiträge oder Vertrag.",
+        "en": "Work without registration, social contributions, or contract."
+      },
+      "references": [
+        "illegale-arbeit"
+      ]
+    },
+    {
+      "term": "Infrastrukturzensur",
+      "definition": {
+        "de": "Blockade auf DNS-, Payment- oder App-Store-Ebene.",
+        "en": "Blocking at DNS, payment, or app-store layer."
+      },
+      "references": [
+        "zensur"
+      ]
+    },
+    {
+      "term": "Institutionelle Ermüdung",
+      "definition": {
+        "de": "Zustand reduzierter Reformfähigkeit trotz steigender Belastung.",
+        "en": "State of reduced reform capacity despite increasing burdens."
+      },
+      "references": [
+        "alterung"
+      ]
+    },
+    {
+      "term": "Instrumentelle Vernunft",
+      "definition": {
+        "de": "Vernunft reduziert auf Mittelwahl, Zwecke bleiben leer.",
+        "en": "Reason reduced to choosing means; ends remain empty."
+      },
+      "references": [
+        "sinnverlust"
+      ]
+    },
+    {
+      "term": "Interessenkonflikt",
+      "definition": {
+        "de": "Überlagerung privater Vorteile und öffentlicher Rolle.",
+        "en": "Overlap of private gain and public role."
+      },
+      "references": [
+        "korruption"
+      ]
+    },
+    {
+      "term": "Intergenerationale Mobilität",
+      "definition": {
+        "de": "Chancen, die soziale Position der Eltern zu übertreffen.",
+        "en": "Chances to exceed the social position of one’s parents."
+      },
+      "references": [
+        "soziale-ungleichheit"
+      ]
+    },
+    {
+      "term": "Intergenerationelle Gerechtigkeit",
+      "definition": {
+        "de": "Ausgewogene Verteilung von Lasten und Chancen über Kohorten.",
+        "en": "Balanced distribution of burdens and opportunities across cohorts."
+      },
+      "references": [
+        "generationenkonflikt"
+      ]
+    },
+    {
+      "term": "Interoperabilität",
+      "definition": {
+        "de": "Fähigkeit verschiedener Systeme, Daten sinnvoll auszutauschen.",
+        "en": "Ability of systems to exchange and use data meaningfully."
+      },
+      "references": [
+        "datenfragmentierung"
+      ]
+    },
+    {
+      "term": "Jus Sanguinis",
+      "definition": {
+        "de": "Staatsangehörigkeit nach Abstammung, nicht Geburt im Territorium.",
+        "en": "Citizenship by bloodline rather than birth on territory."
+      },
+      "references": [
+        "ethnonationalismus"
+      ]
+    },
+    {
+      "term": "Jus Soli / Jus Sanguinis",
+      "definition": {
+        "de": "Geburts- vs Abstammungsrecht in der Staatsbürgerschaft.",
+        "en": "Birthright vs descent principles in citizenship."
+      },
+      "references": [
+        "staatsbuergerschaft"
+      ]
+    },
+    {
+      "term": "Just in Time",
+      "definition": {
+        "de": "Produktionsprinzip mit minimalen Lagerbeständen.",
+        "en": "Production principle with minimal inventory."
+      },
+      "references": [
+        "lieferkettenabhaengigkeit"
+      ]
+    },
+    {
+      "term": "Just-in-Case",
+      "definition": {
+        "de": "Gegensatz zu JIT: Strategie mit bewussten Puffern und Alternativen.",
+        "en": "Opposite of JIT: strategy with conscious buffers and alternatives."
+      },
+      "references": [
+        "just-in-time-fragilitaet"
+      ]
+    },
+    {
+      "term": "Kapazitätsreserve",
+      "definition": {
+        "de": "Puffer zwischen erwarteter Last und verfügbarer Leistung.",
+        "en": "Buffer between expected load and available capacity."
+      },
+      "references": [
+        "energieknappheit"
+      ]
+    },
+    {
+      "term": "Kapitalistische Realismus",
+      "definition": {
+        "de": "Die Naturalisierung der Exklusion als alternativloser Kollateralschaden des Systems (Fisher).",
+        "en": "The naturalization of exclusion as an unavoidable collateral damage of the system (Fisher)."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Kaskadenrisiko",
+      "definition": {
+        "de": "Risiko, das sich durch Verkettung von Systemausfällen verstärkt.",
+        "en": "Risk amplified by chaining system failures."
+      },
+      "references": [
+        "naturkatastrophen"
+      ]
+    },
+    {
+      "term": "Kerninflation",
+      "definition": {
+        "de": "Preisdynamik ohne Energie und Lebensmittel.",
+        "en": "Price dynamics excluding energy and food."
+      },
+      "references": [
+        "inflation"
+      ]
+    },
+    {
+      "term": "Kessler-Syndrom",
+      "definition": {
+        "de": "Selbsterhaltender Kaskadeneffekt orbitaler Kollisionen, der exponentielles Trümmerwachstum erzeugt.",
+        "en": "Self-sustaining cascade effect of orbital collisions, creating exponential debris growth."
+      },
+      "references": [
+        "weltraumschrott"
+      ]
+    },
+    {
+      "term": "Kipp-Punkt",
+      "definition": {
+        "de": "Schwelle, ab der Systeme irreversibel in neuen Zustand wechseln.",
+        "en": "Threshold after which systems irreversibly shift state."
+      },
+      "references": [
+        "artensterben"
+      ]
+    },
+    {
+      "term": "Kippelement",
+      "definition": {
+        "de": "Kippelemente sind erdsystemische Schwellen, hinter denen sich die Dynamik eines Subsystems plötzlich und irreversibel in einen neuen Zustand verschiebt. Das Potsdam-Institut beschreibt sie als nicht-lineare Rückkopplungen, bei denen kleine weitere Veränderungen einen vollständigen Systemumbau auslösen (Beispiele: Abschmelzen der Grönländischen Eisschicht, Absterben des Amazonas oder Destabilisierung des Westlichen Antarktischen Eisschilds). Sobald die Schwelle überschritten ist, stabilisiert sich der neue Zustand aus eigener Kraft; Rückkehr zum alten Zustand ist nur über lange, energetisch unrealistische Pfade möglich.",
+        "en": "Tipping elements are Earth-system thresholds where the dynamics of a subsystem abruptly switch into a new regime. According to the Potsdam Institute, they are non-linear feedbacks whose small subsequent perturbations trigger a cascade that restructures the entire subsystem (e.g., Greenland ice melt, Amazon dieback, West Antarctic ice sheet destabilization). Once crossed, the new state reinforces itself; returning to the prior mode would require extreme, practically unattainable interventions."
+      },
+      "references": [
+        "climate-change",
+        "klimawandel",
+        "https://www.pik-potsdam.de/de/produkte/infothek/kippelemente",
+        "kippelement"
+      ]
+    },
+    {
+      "term": "Kognitariat",
+      "definition": {
+        "de": "Akademische Mittelschicht unter prekären Bedingungen.",
+        "en": "Academic middle class under precarious conditions."
+      },
+      "references": [
+        "prekarisierung"
+      ]
+    },
+    {
+      "term": "Kohortenvertrag",
+      "definition": {
+        "de": "Ungeschriebene Erwartung wechselseitiger Unterstützung zwischen Generationen.",
+        "en": "Implicit expectation of mutual support between generations."
+      },
+      "references": [
+        "generationenkonflikt"
+      ]
+    },
+    {
+      "term": "Komplexitätsreduktion",
+      "definition": {
+        "de": "Komplexitätsreduktion bezeichnet den unvermeidlichen Prozess, durch den soziale, politische und technische Systeme die Überfülle möglicher Zustände, Handlungen und Bedeutungen so begrenzen, dass Entscheidungen, Koordination und Stabilität überhaupt möglich werden. Reale Komplexität ist prinzipiell unendlich, daher operieren Systeme stets selektiv: Sie schließen Möglichkeiten aus, um handlungsfähig zu bleiben. In funktionierenden Systemen erfolgt diese Reduktion adaptiv und reversibel durch Verfahren, Regeln, Institutionen oder Kommunikation; sie schafft temporäre Ordnung ohne Vielfalt grundsätzlich zu negieren.",
+        "en": "Complexity reduction is the unavoidable process through which social, political and technical systems limit the surplus of possible states, actions and meanings so that decisions, coordination and stability become possible. Since real complexity is effectively infinite, systems always operate selectively: they exclude possibilities to remain operable. In functioning systems this reduction happens adaptively and reversibly through procedures, rules, institutions or communication, creating temporary order without negating diversity in principle."
+      },
+      "references": [
+        "komplexitaetsreduktion"
+      ]
+    },
+    {
+      "term": "Kontingenz",
+      "definition": {
+        "de": "Erfahrung des Nicht-Notwendigen; Dinge könnten auch anders sein.",
+        "en": "Experience of non-necessity; things could be otherwise."
+      },
+      "references": [
+        "kontrollverlust"
+      ]
+    },
+    {
+      "term": "Kontrollgesellschaft",
+      "definition": {
+        "de": "Gesellschaftsform, die nicht mehr diszipliniert, sondern kontrolliert (Deleuze).",
+        "en": "Form of society that no longer disciplines but controls (Deleuze)."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Kulturelle Indifferenz",
+      "definition": {
+        "de": "Gefühl, dass Unterschiede keine Bedeutung mehr tragen.",
+        "en": "Sense that differences carry no meaning."
+      },
+      "references": [
+        "nihilismus"
+      ]
+    },
+    {
+      "term": "Kumulative Unsicherheit",
+      "definition": {
+        "de": "Überlagerte Risiken aus Arbeit, Wohnen, Gesundheit.",
+        "en": "Layered risks across work, housing, health."
+      },
+      "references": [
+        "prekarisierung"
+      ]
+    },
+    {
+      "term": "Kybernetik",
+      "definition": {
+        "de": "Lehre der Steuerung und Regelung komplexer Systeme.",
+        "en": "Study of control and regulation of complex systems."
+      },
+      "references": [
+        "kontrollverlust"
+      ]
+    },
+    {
+      "term": "Kybernetik zweiter Ordnung",
+      "definition": {
+        "de": "Beobachtung von Systemen, die ihre eigene Steuerungslogik nicht mehr vollständig erfassen.",
+        "en": "Observation of systems that can no longer fully grasp their own control logic."
+      },
+      "references": [
+        "alterung",
+        "kontrollverlust"
+      ]
+    },
+    {
+      "term": "Landflucht",
+      "definition": {
+        "de": "Abwanderung aus ländlichen Räumen in Zentren.",
+        "en": "Outmigration from rural areas to cores."
+      },
+      "references": [
+        "demografischer-wandel"
+      ]
+    },
+    {
+      "term": "Lastabwurf",
+      "definition": {
+        "de": "Gezieltes Abschalten von Verbrauchern, um Frequenz zu stabilisieren.",
+        "en": "Controlled shedding of load to stabilise the grid."
+      },
+      "references": [
+        "blackout",
+        "energieknappheit"
+      ]
+    },
+    {
+      "term": "Lawfare",
+      "definition": {
+        "de": "Einsatz rechtlicher Mittel als Waffe zur Einschränkung oder Legitimation.",
+        "en": "Use of legal tools as weapons to constrain or legitimise."
+      },
+      "references": [
+        "krieg"
+      ]
+    },
+    {
+      "term": "Legitimität",
+      "definition": {
+        "de": "Anerkennung von Herrschaft/Entscheidung als gerechtfertigt.",
+        "en": "Recognition of authority/decision as justified."
+      },
+      "references": [
+        "legitimationsverlust",
+        "vertrauensverlust"
+      ]
+    },
+    {
+      "term": "Legitimitätslücke",
+      "definition": {
+        "de": "Spannung zwischen formaler Zustimmung und fehlender Beteiligung.",
+        "en": "Gap between formal consent and absent participation."
+      },
+      "references": [
+        "post-demokratie"
+      ]
+    },
+    {
+      "term": "Leverage",
+      "definition": {
+        "de": "Einsatz von Fremdkapital zur Renditesteigerung.",
+        "en": "Using debt to amplify returns."
+      },
+      "references": [
+        "finanzialisierung"
+      ]
+    },
+    {
+      "term": "Linguistic Turn",
+      "definition": {
+        "de": "Philosophische Wende, die Sprache als zentrales Medium von Weltzugang versteht.",
+        "en": "Philosophical shift treating language as central to world access."
+      },
+      "references": [
+        "sprachregime"
+      ]
+    },
+    {
+      "term": "Lock-in",
+      "definition": {
+        "de": "Wechselkosten machen Anbieterbindung rational, aber riskant.",
+        "en": "Switching costs make vendor lock rational yet risky."
+      },
+      "references": [
+        "automatisierung",
+        "plattformoekonomie"
+      ]
+    },
+    {
+      "term": "Lohn-Preis-Spirale",
+      "definition": {
+        "de": "Rückkopplung aus steigenden Löhnen und Preisen.",
+        "en": "Feedback loop of rising wages and prices."
+      },
+      "references": [
+        "inflation"
+      ]
+    },
+    {
+      "term": "Loss & Damage",
+      "definition": {
+        "de": "Rahmen für irreparable Klimaschäden und Kompensation.",
+        "en": "Framework for irreparable climate harms and compensation."
+      },
+      "references": [
+        "klimaflucht"
+      ]
+    },
+    {
+      "term": "Marine Hitzewelle",
+      "definition": {
+        "de": "Mehrere Tage bis Monate mit außergewöhnlich hohen Meerestemperaturen.",
+        "en": "Multi-day to multi-month anomalies of extreme sea temperature."
+      },
+      "references": [
+        "ozeanerwaermung"
+      ]
+    },
+    {
+      "term": "Martyrdom",
+      "definition": {
+        "de": "Selbstopferung als identitätsstiftendes Narrativ.",
+        "en": "Self-sacrifice as identity narrative."
+      },
+      "references": [
+        "politische-gewaltfantasien"
+      ]
+    },
+    {
+      "term": "Matching",
+      "definition": {
+        "de": "Passung von Fähigkeiten und offenen Stellen.",
+        "en": "Fit between skills and vacancies."
+      },
+      "references": [
+        "arbeitslosigkeit"
+      ]
+    },
+    {
+      "term": "Media Capture",
+      "definition": {
+        "de": "Übernahme von Medienhäusern zur Steuerung von Berichterstattung.",
+        "en": "Takeover of media by political-economic interests."
+      },
+      "references": [
+        "demokratieabbau",
+        "medienerosion"
+      ]
+    },
+    {
+      "term": "Merit-Order",
+      "definition": {
+        "de": "Reihenfolge, in der Kraftwerke nach Grenzkosten eingesetzt werden.",
+        "en": "Order in which plants dispatch by marginal cost."
+      },
+      "references": [
+        "energieknappheit"
+      ]
+    },
+    {
+      "term": "Metabolic Rift",
+      "definition": {
+        "de": "Bruch im Stoffwechsel zwischen Gesellschaft und Natur.",
+        "en": "Rupture in the metabolism between society and nature."
+      },
+      "references": [
+        "climate-change"
+      ]
+    },
+    {
+      "term": "Metapolitik",
+      "definition": {
+        "de": "Strategie, Diskurse zu verschieben, bevor Macht übernommen wird.",
+        "en": "Strategy to shift discourse before seizing power."
+      },
+      "references": [
+        "identitaere-bewegungen"
+      ]
+    },
+    {
+      "term": "Mietbelastung",
+      "definition": {
+        "de": "Anteil des Einkommens für Miete.",
+        "en": "Share of income spent on rent."
+      },
+      "references": [
+        "wohnraummangel"
+      ]
+    },
+    {
+      "term": "Migrationssanktion",
+      "definition": {
+        "de": "Bestrafung von Mobilität durch Ausschluss statt Inhaftierung.",
+        "en": "Punishment of mobility through exclusion rather than incarceration."
+      },
+      "references": [
+        "abschiebungsapparat"
+      ]
+    },
+    {
+      "term": "Militärisch-industrieller Komplex",
+      "definition": {
+        "de": "Netzwerk aus Staat, Industrie und Politik mit Eigeninteresse an Aufrüstung.",
+        "en": "Network of state, industry, and politics with self-interest in armament."
+      },
+      "references": [
+        "aufrüstung"
+      ]
+    },
+    {
+      "term": "Minsky-Moment",
+      "definition": {
+        "de": "Plötzlicher Umschwung von Stabilität zu Panik.",
+        "en": "Sudden turn from stability to panic."
+      },
+      "references": [
+        "schuldenlast"
+      ]
+    },
+    {
+      "term": "Model Card",
+      "definition": {
+        "de": "Dokumentation von Zweck, Daten, Limits eines Modells.",
+        "en": "Documentation of purpose, data, and limits of a model."
+      },
+      "references": [
+        "algorithmische-steuerung"
+      ]
+    },
+    {
+      "term": "Model Collapse",
+      "definition": {
+        "de": "Degenerative Entropie-Spirale durch Selbst-Referenzialität ohne externe Korrektur.",
+        "en": "Degenerative entropy spiral through self-referentiality without external correction."
+      },
+      "references": [
+        "kuenstliche-intelligenz"
+      ]
+    },
+    {
+      "term": "Moral Distress",
+      "definition": {
+        "de": "Belastung, wenn notwendige Pflege nicht geleistet werden kann.",
+        "en": "Stress when needed care cannot be delivered."
+      },
+      "references": [
+        "pflegenotstand"
+      ]
+    },
+    {
+      "term": "Moral Hazard",
+      "definition": {
+        "de": "Risikobereitschaft durch Erwartung öffentlicher Rettung.",
+        "en": "Risk willingness due to expectation of public rescue."
+      },
+      "references": [
+        "finanzblasen"
+      ]
+    },
+    {
+      "term": "Moral Panic",
+      "definition": {
+        "de": "Übersteigerte kollektive Angstreaktion auf symbolische Bedrohungen.",
+        "en": "Heightened collective fear response to symbolic threats."
+      },
+      "references": [
+        "empoerungsdynamiken"
+      ]
+    },
+    {
+      "term": "Multipolarität",
+      "definition": {
+        "de": "Ordnung mit mehreren Machtzentren statt dominanter Hegemonie.",
+        "en": "Order with several power centres instead of a single hegemon."
+      },
+      "references": [
+        "geopolitische-verschiebungen"
+      ]
+    },
+    {
+      "term": "Mutually Assured Destruction",
+      "definition": {
+        "de": "Konzept, dass beiderseitige Vernichtung einen Erstschlag irrational macht.",
+        "en": "Concept that mutual destruction renders a first strike irrational."
+      },
+      "references": [
+        "atomare-abschreckung"
+      ]
+    },
+    {
+      "term": "N-1-Kriterium",
+      "definition": {
+        "de": "Netz bleibt stabil, wenn ein Element ausfällt; wird oft verletzt.",
+        "en": "Grid remains stable if one element fails; often violated."
+      },
+      "references": [
+        "blackout"
+      ]
+    },
+    {
+      "term": "Necropolitik",
+      "definition": {
+        "de": "Mbembes Konzept der Macht über den Tod.",
+        "en": "Mbembe's concept of power over death."
+      },
+      "references": [
+        "grenzregime"
+      ]
+    },
+    {
+      "term": "Negative Partisanschaft",
+      "definition": {
+        "de": "Bindung entsteht über Ablehnung des Gegners statt Zustimmung zum Eigenen.",
+        "en": "Attachment driven by rejecting opponents rather than endorsing one’s side."
+      },
+      "references": [
+        "polarisierung"
+      ]
+    },
+    {
+      "term": "Negativer Nekropolitik",
+      "definition": {
+        "de": "Tod durch Versagen technischer Schutzsysteme, nicht durch souveräne Entscheidung (Mbembe).",
+        "en": "Death through failure of technical protection systems, not through sovereign decision (Mbembe)."
+      },
+      "references": [
+        "antibiotika-resistenzen"
+      ]
+    },
+    {
+      "term": "Negentropie",
+      "definition": {
+        "de": "Maß für Ordnung und Energie in einem System; Drogen injizieren künstliche Negentropie.",
+        "en": "Measure of order and energy in a system; drugs inject artificial negentropy."
+      },
+      "references": [
+        "autoritarismus",
+        "drogen"
+      ]
+    },
+    {
+      "term": "Nekropolitik",
+      "definition": {
+        "de": "Politik des Todes, in der Leben und Tod ungleich verteilt reguliert werden.",
+        "en": "Politics of 'letting die' in zones of indistinguishability (Mbembe)."
+      },
+      "references": [
+        "exklusion",
+        "korruption",
+        "naturkatastrophen",
+        "radikalisierung",
+        "staatszerfall",
+        "war"
+      ]
+    },
+    {
+      "term": "Netzwerkeffekt",
+      "definition": {
+        "de": "Wert steigt mit Nutzerzahl, erzeugt Konzentration.",
+        "en": "Value rises with users, creating concentration."
+      },
+      "references": [
+        "digitalisierung"
+      ]
+    },
+    {
+      "term": "Neuroethik",
+      "definition": {
+        "de": "Ethik der Eingriffe in Gehirn und Kognition.",
+        "en": "Ethics of interventions in brain and cognition."
+      },
+      "references": [
+        "transhumanismus"
+      ]
+    },
+    {
+      "term": "News Desert",
+      "definition": {
+        "de": "Region ohne lokaljournalistische Grundversorgung.",
+        "en": "Region lacking basic local journalism."
+      },
+      "references": [
+        "medienerosion"
+      ]
+    },
+    {
+      "term": "Nicht-Pharmazeutische Intervention",
+      "definition": {
+        "de": "Maßnahmen wie Distanzierung, Masken, Lüftung ohne pharmazeutische Produkte.",
+        "en": "Measures such as distancing, masking, and ventilation without pharmaceutical products."
+      },
+      "references": [
+        "pandemic",
+        "pandemie"
+      ]
+    },
+    {
+      "term": "No-First-Use",
+      "definition": {
+        "de": "Politische Zusage, nicht zuerst nuklear einzusetzen; selten verbindlich.",
+        "en": "Policy pledge not to use nuclear weapons first; rarely binding."
+      },
+      "references": [
+        "atomare-abschreckung"
+      ]
+    },
+    {
+      "term": "Non-Refoulement",
+      "definition": {
+        "de": "Verbot, Menschen in Verfolgung oder Gefahr zurückzuschicken.",
+        "en": "Ban on returning people to persecution or danger."
+      },
+      "references": [
+        "asylpolitik"
+      ]
+    },
+    {
+      "term": "Non-Revenue Water",
+      "definition": {
+        "de": "Verluste durch Lecks, Diebstahl, Messfehler in Versorgungsnetzen.",
+        "en": "Losses from leaks, theft, metering errors in supply networks."
+      },
+      "references": [
+        "wasserknappheit"
+      ]
+    },
+    {
+      "term": "Notice-and-Takedown",
+      "definition": {
+        "de": "Verfahren, bei dem Inhalte nach Meldung entfernt werden müssen.",
+        "en": "Procedure requiring content removal after notification."
+      },
+      "references": [
+        "zensur"
+      ]
+    },
+    {
+      "term": "Objet a",
+      "definition": {
+        "de": "Lacans Objekt des Begehrens, immer verschoben.",
+        "en": "Lacan's object-cause of desire, always displaced."
+      },
+      "references": [
+        "entfremdung"
+      ]
+    },
+    {
+      "term": "Offset",
+      "definition": {
+        "de": "Industriekompensation in Exportverträgen.",
+        "en": "Industrial compensation tied to export deals."
+      },
+      "references": [
+        "aufrüstung"
+      ]
+    },
+    {
+      "term": "One-Health-Ansatz",
+      "definition": {
+        "de": "Integrierte Betrachtung von Human-, Veterinär- und Umweltgesundheit zur AMR-Bekämpfung.",
+        "en": "Integrated consideration of human, veterinary, and environmental health for AMR control."
+      },
+      "references": [
+        "antibiotika-resistenzen"
+      ]
+    },
+    {
+      "term": "Output-Lücke",
+      "definition": {
+        "de": "Abstand zwischen tatsächlicher und potenzieller Produktion.",
+        "en": "Gap between actual and potential output."
+      },
+      "references": [
+        "rezession"
+      ]
+    },
+    {
+      "term": "Outsourcing",
+      "definition": {
+        "de": "Verlagerung staatlicher Zwangsausübung an private oder externe Akteure.",
+        "en": "Shift of state coercion to private or external actors."
+      },
+      "references": [
+        "abschiebungsapparat"
+      ]
+    },
+    {
+      "term": "Parasitäre Tauschlogiken",
+      "definition": {
+        "de": "Informelle Austauschbeziehungen, die legale Codes unterlaufen.",
+        "en": "Informal exchange relationships that circumvent legal codes."
+      },
+      "references": [
+        "korruption"
+      ]
+    },
+    {
+      "term": "Patronage",
+      "definition": {
+        "de": "Verteilung von Ämtern/Geldern nach Loyalität statt Leistung.",
+        "en": "Allocation of offices/funds by loyalty instead of merit."
+      },
+      "references": [
+        "machtmissbrauch"
+      ]
+    },
+    {
+      "term": "Peak Oil/Metals",
+      "definition": {
+        "de": "Produktionsmaximum, nach dem Fördermengen sinken.",
+        "en": "Production maximum after which output declines."
+      },
+      "references": [
+        "ressourcenerschoepfung"
+      ]
+    },
+    {
+      "term": "Pensionslücke",
+      "definition": {
+        "de": "Differenz zwischen erwartetem Einkommen und Bedarf im Alter.",
+        "en": "Gap between expected retirement income and need."
+      },
+      "references": [
+        "rentenkrise"
+      ]
+    },
+    {
+      "term": "Perturbation",
+      "definition": {
+        "de": "Kleine externe Störung, die in fragilen Systemen katastrophale Effekte auslöst.",
+        "en": "Small external disturbance that triggers catastrophic effects in fragile systems."
+      },
+      "references": [
+        "just-in-time-fragilitaet"
+      ]
+    },
+    {
+      "term": "PFAS",
+      "definition": {
+        "de": "Persistente per- und polyfluorierte Chemikalien mit extrem langer Halbwertszeit.",
+        "en": "Persistent per- and polyfluorinated chemicals with extremely long half-lives."
+      },
+      "references": [
+        "umweltzerstoerung"
+      ]
+    },
+    {
+      "term": "Pflegelücke",
+      "definition": {
+        "de": "Differenz zwischen benötigten und verfügbaren Pflegekapazitäten.",
+        "en": "Gap between required and available care capacity."
+      },
+      "references": [
+        "alterung"
+      ]
+    },
+    {
+      "term": "Platform Governance",
+      "definition": {
+        "de": "Steuerung sozialer Prozesse über privat gesetzte Nutzungsbedingungen.",
+        "en": "Steering social processes via privately set terms of use."
+      },
+      "references": [
+        "normkonflikte"
+      ]
+    },
+    {
+      "term": "Plattformisierung",
+      "definition": {
+        "de": "Verlagerung von Interaktionen auf proprietäre Plattformen.",
+        "en": "Shift of interactions onto proprietary platforms."
+      },
+      "references": [
+        "digitalisierung"
+      ]
+    },
+    {
+      "term": "Plebiszitäre Geste",
+      "definition": {
+        "de": "Symbolische Anrufung des Volkes ohne deliberative Tiefe.",
+        "en": "Symbolic invocation of the people without deliberative depth."
+      },
+      "references": [
+        "populismus"
+      ]
+    },
+    {
+      "term": "PNR/API",
+      "definition": {
+        "de": "Passagier- und Advanced Passenger-Daten für Vorabkontrolle.",
+        "en": "Passenger Name Record and Advance Passenger data for pre-screening."
+      },
+      "references": [
+        "grenzregime"
+      ]
+    },
+    {
+      "term": "Polykonsum",
+      "definition": {
+        "de": "Gleichzeitiger Konsum mehrerer Substanzen mit schwer kalkulierbaren Wechselwirkungen.",
+        "en": "Concurrent use of multiple substances with hard-to-estimate interactions."
+      },
+      "references": [
+        "drogen"
+      ]
+    },
+    {
+      "term": "Polykrise",
+      "definition": {
+        "de": "Eine simultane Verflechtung multipler Krisen, bei der Risikofelder nicht nebeneinander bestehen, sondern sich wechselseitig bestärken und Kaskaden erzeugen. Polykrisen nivellieren das klassische Verständnis einer einzelnen Ursache und schaffen einen Zustand, in dem Lösungsvorschläge gegeneinander in Resonanz geraten.",
+        "en": "Simultaneous entanglement of multiple crises whose risk fields do not merely coexist but reinforce one another, triggering cascading effects. Polycrises dissolve the classical understanding of a singular cause and produce conditions where proposed solutions resonate against one another."
+      },
+      "references": [
+        "kontrollverlust",
+        "zukunftsangst",
+        "https://en.wikipedia.org/wiki/Polycrisis",
+        "polykrise"
+      ]
+    },
+    {
+      "term": "Populistische Performanz",
+      "definition": {
+        "de": "Inszenierung von Authentizität gegen institutionelle Vermittlung.",
+        "en": "Performance of authenticity against institutional mediation."
+      },
+      "references": [
+        "populismus"
+      ]
+    },
+    {
+      "term": "Portabilität",
+      "definition": {
+        "de": "Möglichkeit, Daten verlustfrei zwischen Anbietern zu migrieren.",
+        "en": "Ability to migrate data between providers without loss."
+      },
+      "references": [
+        "datenfragmentierung"
+      ]
+    },
+    {
+      "term": "Postdemokratie",
+      "definition": {
+        "de": "Zustand, in dem demokratische Institutionen formal existieren, reale Macht jedoch entkoppelt ist.",
+        "en": "State in which democratic institutions exist formally, but real power is decoupled."
+      },
+      "references": [
+        "demokratieabbau"
+      ]
+    },
+    {
+      "term": "Präemptive Rationalität",
+      "definition": {
+        "de": "Handeln auf Basis möglicher, nicht tatsächlicher Bedrohungen.",
+        "en": "Acting on the basis of possible, not actual threats."
+      },
+      "references": [
+        "algorithmische-steuerung",
+        "aufrüstung"
+      ]
+    },
+    {
+      "term": "Präsentismus",
+      "definition": {
+        "de": "Anwesenheit trotz Krankheit aus Angst vor Verlust.",
+        "en": "Working while ill, lowering performance."
+      },
+      "references": [
+        "erschoepfung",
+        "exhaustion"
+      ]
+    },
+    {
+      "term": "Preiselastizität",
+      "definition": {
+        "de": "Maß, wie stark Nachfrage auf Preisänderungen reagiert.",
+        "en": "Measure of how strongly demand reacts to price changes."
+      },
+      "references": [
+        "lebensmittelknappheit"
+      ]
+    },
+    {
+      "term": "Prekariat",
+      "definition": {
+        "de": "Soziale Klasse unter unsicheren Bedingungen.",
+        "en": "Social class under insecure conditions."
+      },
+      "references": [
+        "prekarisierung"
+      ]
+    },
+    {
+      "term": "Prekarität",
+      "definition": {
+        "de": "Unplanbare Lebenslage, die Sinnkonstruktion erschwert.",
+        "en": "Unpredictable condition that hinders meaning construction."
+      },
+      "references": [
+        "sinnverlust"
+      ]
+    },
+    {
+      "term": "Programmatic Advertising",
+      "definition": {
+        "de": "Automatisierter Anzeigenhandel über Plattformen.",
+        "en": "Automated ad trading via platforms."
+      },
+      "references": [
+        "medienerosion"
+      ]
+    },
+    {
+      "term": "Proxy",
+      "definition": {
+        "de": "Stellvertretender Akteur, der Interessen Dritter ausführt.",
+        "en": "Actor executing third-party interests."
+      },
+      "references": [
+        "stellvertreterkriege"
+      ]
+    },
+    {
+      "term": "Proxy Variable",
+      "definition": {
+        "de": "Stellvertretermerkmal, das verbotene Merkmale indirekt codiert.",
+        "en": "Stand-in feature that indirectly codes protected traits."
+      },
+      "references": [
+        "algorithmische-steuerung"
+      ]
+    },
+    {
+      "term": "Psychopolitik",
+      "definition": {
+        "de": "Macht durch psychologische Manipulation statt Zwang.",
+        "en": "Power through psychological manipulation instead of coercion."
+      },
+      "references": [
+        "empoerungsdynamiken"
+      ]
+    },
+    {
+      "term": "PsyOps",
+      "definition": {
+        "de": "Psychologische Operationen zur Beeinflussung von Verhalten.",
+        "en": "Psychological operations to influence behaviour."
+      },
+      "references": [
+        "propaganda"
+      ]
+    },
+    {
+      "term": "Purpose Limitation",
+      "definition": {
+        "de": "Datennutzung nur für den erhobenen Zweck.",
+        "en": "Using data only for the purpose collected."
+      },
+      "references": [
+        "ueberwachung"
+      ]
+    },
+    {
+      "term": "Push-Pull",
+      "definition": {
+        "de": "Kombination von Faktoren, die Menschen wegdrücken oder anziehen.",
+        "en": "Combination of factors that push people away or pull them in."
+      },
+      "references": [
+        "migration"
+      ]
+    },
+    {
+      "term": "Pushback",
+      "definition": {
+        "de": "Zurückdrängen ohne individuelles Verfahren.",
+        "en": "Forcing return without individual procedure."
+      },
+      "references": [
+        "grenzregime"
+      ]
+    },
+    {
+      "term": "Quantifiziertes Selbst",
+      "definition": {
+        "de": "Subjekt, das sich primär durch Datenprofile und algorithmische Bewertung definiert.",
+        "en": "Subject that primarily defines itself through data profiles and algorithmic evaluation."
+      },
+      "references": [
+        "kuenstliche-intelligenz"
+      ]
+    },
+    {
+      "term": "R0",
+      "definition": {
+        "de": "Basisreproduktionszahl eines Erregers im unbeeinflussten Zustand.",
+        "en": "Baseline reproduction number of a pathogen in an unmitigated population."
+      },
+      "references": [
+        "pandemic",
+        "pandemie"
+      ]
+    },
+    {
+      "term": "Radikalisierung",
+      "definition": {
+        "de": "Prozess zunehmender ideologischer Verengung und Gewaltbereitschaft.",
+        "en": "Process of deepening ideological fixation and willingness to use violence."
+      },
+      "references": [
+        "terrorismus"
+      ]
+    },
+    {
+      "term": "Rechtspluralismus",
+      "definition": {
+        "de": "Koexistenz mehrerer Rechts- und Regelordnungen im selben Raum.",
+        "en": "Coexistence of multiple legal and rule orders in the same space."
+      },
+      "references": [
+        "normkonflikte"
+      ]
+    },
+    {
+      "term": "Regularisierung",
+      "definition": {
+        "de": "Nachträgliche Legalisierung eines irregulären Aufenthalts.",
+        "en": "Retroactive legalisation of an irregular stay."
+      },
+      "references": [
+        "migration"
+      ]
+    },
+    {
+      "term": "Regulatory Capture",
+      "definition": {
+        "de": "Behörden werden von den zu regulierenden Akteuren gesteuert.",
+        "en": "Agencies steered by the very actors they regulate."
+      },
+      "references": [
+        "corruption"
+      ]
+    },
+    {
+      "term": "Relative Armut",
+      "definition": {
+        "de": "Einkommen <60% Median, zeigt gesellschaftliche Teilhabegrenzen.",
+        "en": "Income <60% of median, indicating constrained participation."
+      },
+      "references": [
+        "armut"
+      ]
+    },
+    {
+      "term": "Remigration",
+      "definition": {
+        "de": "Rückkehrbewegungen, die Leerstellen schließen können.",
+        "en": "Euphemism for forced return and exclusion."
+      },
+      "references": [
+        "demografischer-wandel",
+        "identitaere-bewegungen"
+      ]
+    },
+    {
+      "term": "Remissen",
+      "definition": {
+        "de": "Geldsendungen von Migranten an Herkunftsorte.",
+        "en": "Money sent by migrants back to origin regions."
+      },
+      "references": [
+        "migration"
+      ]
+    },
+    {
+      "term": "Rentier-Logik",
+      "definition": {
+        "de": "Einkünfte aus Besitz dominieren gegenüber Arbeit.",
+        "en": "Income from assets dominates over labour."
+      },
+      "references": [
+        "generationenkonflikt"
+      ]
+    },
+    {
+      "term": "Reproduktive Rechte",
+      "definition": {
+        "de": "Rechte auf körperliche Selbstbestimmung über Fortpflanzung.",
+        "en": "Rights to bodily self-determination over reproduction."
+      },
+      "references": [
+        "koerperpolitik"
+      ]
+    },
+    {
+      "term": "Requisite Variety",
+      "definition": {
+        "de": "Notwendige Vielfalt, um Komplexität absorbieren zu können (Ashby).",
+        "en": "Necessary variety to absorb complexity (Ashby)."
+      },
+      "references": [
+        "faschisierung"
+      ]
+    },
+    {
+      "term": "Reserve-Marge",
+      "definition": {
+        "de": "Puffer zwischen verfügbarer Kapazität und Spitzenlast.",
+        "en": "Buffer between available capacity and peak load."
+      },
+      "references": [
+        "energieknappheit"
+      ]
+    },
+    {
+      "term": "Reshoring",
+      "definition": {
+        "de": "Verlagerung von Produktion zurück in Herkunftsregionen.",
+        "en": "Moving production back to home regions."
+      },
+      "references": [
+        "lieferkettenabhaengigkeit"
+      ]
+    },
+    {
+      "term": "Residenzrecht",
+      "definition": {
+        "de": "Recht auf Aufenthalt; bei Klimaflucht oft temporär oder verwehrt.",
+        "en": "Right to reside; often temporary or denied in climate displacement."
+      },
+      "references": [
+        "klimaflucht"
+      ]
+    },
+    {
+      "term": "Resilienz",
+      "definition": {
+        "de": "Fähigkeit eines Systems, Störungen zu absorbieren und sich anzupassen.",
+        "en": "Ability of a system to absorb disturbance and adapt."
+      },
+      "references": [
+        "infrastrukturverfall"
+      ]
+    },
+    {
+      "term": "Resonanzkatastrophe",
+      "definition": {
+        "de": "Systematischer Zusammenbruch der kommunikativen Resonanzfähigkeit eines Subsystems.",
+        "en": "Systematic collapse of the communicative resonance capacity of a subsystem."
+      },
+      "references": [
+        "empoerungsdynamiken",
+        "radikalisierung"
+      ]
+    },
+    {
+      "term": "Ressentiment",
+      "definition": {
+        "de": "Nietzsche: umgekehrte Ohnmacht, die Moral produziert.",
+        "en": "Nietzsche: inverted powerlessness that produces morality."
+      },
+      "references": [
+        "entfremdung"
+      ]
+    },
+    {
+      "term": "Retention",
+      "definition": {
+        "de": "Zwischenspeicherung von Wasser in Boden/Becken zur Entlastung von Abfluss-Spitzen.",
+        "en": "Temporary water storage in soil/basins to buffer runoff peaks."
+      },
+      "references": [
+        "bodenversiegelung"
+      ]
+    },
+    {
+      "term": "RPA",
+      "definition": {
+        "de": "Robotic Process Automation: Skripte für repetitive Bürotätigkeiten.",
+        "en": "Robotic process automation: scripts for repetitive office tasks."
+      },
+      "references": [
+        "automatisierung"
+      ]
+    },
+    {
+      "term": "Rückführungs- oder Abschiebekette",
+      "definition": {
+        "de": "Eine Rückführungs- oder Abschiebekette beschreibt den multilateralen Prozess, bei dem eine rückkehrpflichtige Person nach einer Abschiebung in einen anderen EU-Staat dort erneut als ausreisepflichtig registriert und aus diesem Staat zurückgeführt werden soll. Neue EU-Richtlinien sorgen für die gegenseitige Anerkennung von Abschiebungsentscheidungen und eine elektronische Rückführungsanordnung im Schengen-Informationssystem, um Schlupflöcher zu schließen und Auffangstrategien von abgelehnten Asylbewerbern zu unterbinden.",
+        "en": "A deportation or return chain describes the multilateral process where a person obliged to leave the EU is registered as still inadmissible after being deported to another member state and is to be returned again. New EU directives introduce mutual recognition of deportation decisions and a digital return order in the Schengen Information System to close loopholes and stop the circumventing strategies of rejected asylum seekers."
+      },
+      "references": [
+        "rueckfuehrungskette"
+      ]
+    },
+    {
+      "term": "Rückführungskette",
+      "definition": {
+        "de": "Abfolge aus Haft, Transport, Übergabe, die als logistischer Prozess geplant wird.",
+        "en": "Sequence of detention, transport, handover planned as a logistical process."
+      },
+      "references": [
+        "abschiebungsapparat"
+      ]
+    },
+    {
+      "term": "Rule of Law",
+      "definition": {
+        "de": "Bindung staatlicher Macht an Recht und unabhängige Kontrolle.",
+        "en": "Binding of state power to law and independent oversight."
+      },
+      "references": [
+        "demokratieabbau"
+      ]
+    },
+    {
+      "term": "Rüstungsdynamik",
+      "definition": {
+        "de": "Wechselseitige Aufschaukelung von Fähigkeiten und Ausgaben.",
+        "en": "Mutual escalation of capabilities and spending."
+      },
+      "references": [
+        "aufrüstung"
+      ]
+    },
+    {
+      "term": "SAIDI",
+      "definition": {
+        "de": "Durchschnittliche Unterbrechungsdauer pro Kunde pro Jahr.",
+        "en": "Average outage duration per customer per year."
+      },
+      "references": [
+        "blackout"
+      ]
+    },
+    {
+      "term": "Sanierungsstau",
+      "definition": {
+        "de": "Aufgeschobene Instandhaltung, die künftige Kosten erhöht.",
+        "en": "Deferred maintenance that raises future costs."
+      },
+      "references": [
+        "infrastrukturverfall"
+      ]
+    },
+    {
+      "term": "Sanitarismus",
+      "definition": {
+        "de": "Politik, die Hygiene- und Gesundheitsnormen als Ordnungsgrundlage nutzt.",
+        "en": "Policy using hygiene and health norms as ordering principle."
+      },
+      "references": [
+        "biopolitische-zuschreibungen"
+      ]
+    },
+    {
+      "term": "Sanktionsspirale",
+      "definition": {
+        "de": "Fehlende Nachweise führen zu Kürzungen, die weitere Exklusion verursachen.",
+        "en": "Missing proofs trigger cuts that deepen exclusion."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Sauerstoffminimumzone",
+      "definition": {
+        "de": "Tiefenbereich mit sehr geringem O₂-Gehalt, biologisch ausgeräumt.",
+        "en": "Depth range with very low O₂, biologically depleted."
+      },
+      "references": [
+        "ozeanerwaermung"
+      ]
+    },
+    {
+      "term": "Schattenfinanzierung",
+      "definition": {
+        "de": "Finanzaktivitäten außerhalb regulierter Banken.",
+        "en": "Financial activities outside regulated banks."
+      },
+      "references": [
+        "finanzblasen"
+      ]
+    },
+    {
+      "term": "Scheinselbstständigkeit",
+      "definition": {
+        "de": "Formal selbstständig, faktisch abhängig beschäftigt.",
+        "en": "Formally self-employed, factually dependent employment."
+      },
+      "references": [
+        "illegale-arbeit"
+      ]
+    },
+    {
+      "term": "Schichtung",
+      "definition": {
+        "de": "Dichteunterschiede verhindern vertikalen Austausch von Wärme und Sauerstoff.",
+        "en": "Density differences inhibit vertical exchange of heat and oxygen."
+      },
+      "references": [
+        "ozeanerwaermung"
+      ]
+    },
+    {
+      "term": "Scoring",
+      "definition": {
+        "de": "Numerische Bewertung von Menschen für Entscheidungen.",
+        "en": "Numerical rating of people for decisions."
+      },
+      "references": [
+        "entmenschlichung-buerokratie"
+      ]
+    },
+    {
+      "term": "Scoring-Regime",
+      "definition": {
+        "de": "Algorithmische Bewertung, die Rechte und Preise determiniert.",
+        "en": "Algorithmic rating that determines rights and prices."
+      },
+      "references": [
+        "biopolitische-zuschreibungen"
+      ]
+    },
+    {
+      "term": "Secondary Use",
+      "definition": {
+        "de": "Weiterverwendung von Daten jenseits des ursprünglichen Zwecks.",
+        "en": "Reuse of data beyond the original purpose."
+      },
+      "references": [
+        "datenmissbrauch"
+      ]
+    },
+    {
+      "term": "Selbst-Überwindung",
+      "definition": {
+        "de": "Technische Überschreitung biologischer Grenzen.",
+        "en": "Technical surpassing of biological limits."
+      },
+      "references": [
+        "transhumanismus"
+      ]
+    },
+    {
+      "term": "Selbstbevorzugung",
+      "definition": {
+        "de": "Eigene Produkte werden im Ranking vorangestellt.",
+        "en": "Platform ranks its own products above others."
+      },
+      "references": [
+        "plattformoekonomie"
+      ]
+    },
+    {
+      "term": "Sequenzrisiko",
+      "definition": {
+        "de": "Risiko ungünstiger Renditereihenfolge beim Entsparen.",
+        "en": "Risk of unfavorable return sequence during decumulation."
+      },
+      "references": [
+        "rentenkrise"
+      ]
+    },
+    {
+      "term": "Shadow Banking",
+      "definition": {
+        "de": "Finanzaktivitäten außerhalb regulierter Banken.",
+        "en": "Financial activities outside regulated banks."
+      },
+      "references": [
+        "finanzblasen"
+      ]
+    },
+    {
+      "term": "Shadow Education",
+      "definition": {
+        "de": "Privat finanzierte Nachhilfe außerhalb des Systems.",
+        "en": "Privately funded tutoring outside the system."
+      },
+      "references": [
+        "bildungsungleichheit"
+      ]
+    },
+    {
+      "term": "Shadowban",
+      "definition": {
+        "de": "Unsichtbare Reichweitenbegrenzung ohne explizite Sperre.",
+        "en": "Invisible reach limitation without explicit ban."
+      },
+      "references": [
+        "zensur"
+      ]
+    },
+    {
+      "term": "Shifting Baseline Syndrome",
+      "definition": {
+        "de": "Jede Generation akzeptiert den bereits degradierten Zustand der Natur als 'normal'.",
+        "en": "Each generation accepts the already degraded state of nature as 'normal'."
+      },
+      "references": [
+        "biodiversitaetsverlust"
+      ]
+    },
+    {
+      "term": "Short-Termism",
+      "definition": {
+        "de": "Fokus auf kurzfristige Gewinne statt langfristiger Stabilität.",
+        "en": "Focus on short-term gain over long-term stability."
+      },
+      "references": [
+        "finanzialisierung"
+      ]
+    },
+    {
+      "term": "Sicherheitsdilemma",
+      "definition": {
+        "de": "Strukturelle Situation, in der defensive Maßnahmen als offensive Bedrohung wirken.",
+        "en": "Structural situation in which defensive measures act as offensive threats."
+      },
+      "references": [
+        "aufrüstung"
+      ]
+    },
+    {
+      "term": "Silver Economy",
+      "definition": {
+        "de": "Markt- und Dienstleistungssegmente, die auf ältere Zielgruppen abzielen.",
+        "en": "Market and service segments targeting older cohorts."
+      },
+      "references": [
+        "alterung"
+      ]
+    },
+    {
+      "term": "Simulacrum",
+      "definition": {
+        "de": "Zeichen, das auf weitere Zeichen verweist, ohne Original.",
+        "en": "Sign referring to signs without original."
+      },
+      "references": [
+        "symbolische-uebercodierung"
+      ]
+    },
+    {
+      "term": "Simulakrum",
+      "definition": {
+        "de": "Zeichen oder Bild, das die Realität ersetzt und keine Referenz mehr hat.",
+        "en": "Sign or image that replaces reality and has no reference anymore."
+      },
+      "references": [
+        "desinformation"
+      ]
+    },
+    {
+      "term": "Skandalisierung",
+      "definition": {
+        "de": "Prozess, der Ereignisse moralisch auflädt, oft mediatisiert.",
+        "en": "Process of moral charging of events, often mediatized."
+      },
+      "references": [
+        "vertrauensverlust"
+      ]
+    },
+    {
+      "term": "Slow Violence",
+      "definition": {
+        "de": "Langsame, unspektakuläre Gewalt, die sich der unmittelbaren Wahrnehmung entzieht.",
+        "en": "Slow, unspectacular violence that eludes immediate perception."
+      },
+      "references": [
+        "umweltzerstoerung",
+        "wasserknappheit"
+      ]
+    },
+    {
+      "term": "Solastalgie",
+      "definition": {
+        "de": "Der existenzielle Stress, verursacht durch Umweltveränderungen im eigenen Lebensraum.",
+        "en": "The existential stress caused by environmental changes in one's own living space."
+      },
+      "references": [
+        "biodiversitaetsverlust",
+        "naturkatastrophen"
+      ]
+    },
+    {
+      "term": "Somatheque",
+      "definition": {
+        "de": "Paul Preciados Konzept der molekularen Regulierung des Körpers durch Technologien.",
+        "en": "Paul Preciado's concept of the molecular regulation of the body through technologies."
+      },
+      "references": [
+        "drogen"
+      ]
+    },
+    {
+      "term": "Soziale Isolation",
+      "definition": {
+        "de": "Objektiv geringe Interaktion und Unterstützung.",
+        "en": "Objectively low interaction and support."
+      },
+      "references": [
+        "vereinsamung"
+      ]
+    },
+    {
+      "term": "Sozialer Lohn",
+      "definition": {
+        "de": "Nicht-monetäre Anerkennung durch Beschäftigung.",
+        "en": "Non-monetary recognition through employment."
+      },
+      "references": [
+        "arbeitslosigkeit"
+      ]
+    },
+    {
+      "term": "Sozialer Wohnungsbau",
+      "definition": {
+        "de": "Öffentlich geförderte, gebundene Mieten.",
+        "en": "Publicly backed, regulated rents."
+      },
+      "references": [
+        "wohnraummangel"
+      ]
+    },
+    {
+      "term": "Spillover",
+      "definition": {
+        "de": "Übergang eines Erregers von Tier zu Mensch durch ökologische Grenzverschiebung.",
+        "en": "Transition of a pathogen from animal to human through ecological boundary shifts."
+      },
+      "references": [
+        "pandemic",
+        "pandemie"
+      ]
+    },
+    {
+      "term": "Spoiler",
+      "definition": {
+        "de": "Akteur, der Friedensprozesse gezielt sabotiert.",
+        "en": "Actor deliberately sabotaging peace processes."
+      },
+      "references": [
+        "stellvertreterkriege"
+      ]
+    },
+    {
+      "term": "Staatsnotstand",
+      "definition": {
+        "de": "Ausnahmezustand mit erweiterten Exekutivrechten.",
+        "en": "State of exception with expanded executive rights."
+      },
+      "references": [
+        "autoritarismus"
+      ]
+    },
+    {
+      "term": "State Capture",
+      "definition": {
+        "de": "Privatinteressen kontrollieren Gesetzgebung und Aufsicht.",
+        "en": "Private interests control lawmaking and oversight."
+      },
+      "references": [
+        "korruption"
+      ]
+    },
+    {
+      "term": "Statelessness",
+      "definition": {
+        "de": "Fehlen jeder Staatsangehörigkeit und damit verbundener Rechte.",
+        "en": "Absence of any nationality and related rights."
+      },
+      "references": [
+        "rechtlosigkeit"
+      ]
+    },
+    {
+      "term": "Stochastische Papageien-Maschinerie",
+      "definition": {
+        "de": "Metapher für generative KI, die Wahrscheinlichkeiten als Bedeutung tarnt.",
+        "en": "Metaphor for generative AI that disguises probabilities as meaning."
+      },
+      "references": [
+        "kuenstliche-intelligenz"
+      ]
+    },
+    {
+      "term": "Stocks-to-use",
+      "definition": {
+        "de": "Verhältnis von Lagerbeständen zu erwarteter Nutzung; Indikator für Puffer.",
+        "en": "Ratio of stocks to expected use; indicator for buffer capacity."
+      },
+      "references": [
+        "lebensmittelknappheit"
+      ]
+    },
+    {
+      "term": "Strategische Stabilität",
+      "definition": {
+        "de": "Zustand, in dem keine Seite Anreiz zum Präventivschlag hat.",
+        "en": "State in which no side has incentive for a pre-emptive strike."
+      },
+      "references": [
+        "atomare-abschreckung"
+      ]
+    },
+    {
+      "term": "Substitutionseffekt",
+      "definition": {
+        "de": "Verlagerung der Nachfrage auf andere Materialien, oft mit neuen Engpässen.",
+        "en": "Shifting demand to other materials, often creating new bottlenecks."
+      },
+      "references": [
+        "ressourcenerschoepfung"
+      ]
+    },
+    {
+      "term": "Sündenbockmechanismus",
+      "definition": {
+        "de": "Verschiebung von Schuld auf markierte Gruppen.",
+        "en": "Displacement of blame onto marked groups."
+      },
+      "references": [
+        "faschisierung"
+      ]
+    },
+    {
+      "term": "Super-Spreader-Events",
+      "definition": {
+        "de": "Katastrophale Kollisionen, die Tausende neuer Trümmerfragmente erzeugen.",
+        "en": "Catastrophic collisions that create thousands of new debris fragments."
+      },
+      "references": [
+        "weltraumschrott"
+      ]
+    },
+    {
+      "term": "Supply Shock",
+      "definition": {
+        "de": "Plötzliche Angebotsänderung durch neue Synthese oder Routen.",
+        "en": "Abrupt supply change driven by new synthesis or routes."
+      },
+      "references": [
+        "drogen"
+      ]
+    },
+    {
+      "term": "Symbolische Ordnung",
+      "definition": {
+        "de": "Lacans Ordnung von Sprache/Zeichen, die Subjekt konstituiert.",
+        "en": "Lacan’s order of language/signs constituting the subject."
+      },
+      "references": [
+        "identitaetspolitik"
+      ]
+    },
+    {
+      "term": "Symbolisches/Real",
+      "definition": {
+        "de": "Lacan: Ordnung der Sprache vs. das Unfassbare.",
+        "en": "Lacan: order of language vs the ungraspable."
+      },
+      "references": [
+        "nihilismus"
+      ]
+    },
+    {
+      "term": "Synopticon",
+      "definition": {
+        "de": "Umkehrung des Panoptikums: Viele überwachen Wenige.",
+        "en": "Reversal of the panopticon: Many monitor the few."
+      },
+      "references": [
+        "empoerungsdynamiken"
+      ]
+    },
+    {
+      "term": "Systemische Belastung",
+      "definition": {
+        "de": "Systemische Belastung benennt den kumulativen Druck, den multiple Störungen auf ein soziales oder technisches Netz ausüben; sie enkodiert die Menge an Energie, Diskrepanz und Erwartungsdruck, die das System nicht mehr in regulären Pfaden verarbeiten kann. Anders als kurzfristige Schocks handelt es sich um persistente, ineinander verlinkte Belastungsfelder (z. B. Klima, Versorgung, Governance, Psychologie), die simultan Wirkräume blockieren und adaptive Kapazität reduzieren.",
+        "en": "Systemic load names the cumulative pressure multiple disruptions exert on a social or technical apparatus; it encodes the amount of energy, discrepancy, and expectation stress the system can no longer process through regular pathways. Unlike acute shocks, it is a persistent, interconnected field of stressors (e.g., climate, supply, governance, psychological) that simultaneously block operational spaces and drain adaptive capacity."
+      },
+      "references": [
+        "Eigene Operationalisierung basierend auf Systemic Risk Matrix Monitoring.",
+        "systemische-belastung"
+      ]
+    },
+    {
+      "term": "Systemische Entkopplung",
+      "definition": {
+        "de": "Der Verlust der Fähigkeit, relevante Informationen in die operativen Codes der Gesellschaft einzuspeisen.",
+        "en": "The loss of ability to feed relevant information into society's operational codes."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Systemische Fragilität",
+      "definition": {
+        "de": "Die empfindliche Fähigkeit eines Systems, auf Störungen mit Resilienz zu reagieren. Fragilität wächst, wenn Komplexität steigt, Pfade versiegen und adaptive Kapazität sinkt. Sie zeigt sich nicht zuerst in spektakulären Zusammenbrüchen, sondern in langsam verschwindender Redundanz, verkürzten Feedbackschleifen und der Akkumulation unbezahlter Kosten.",
+        "en": "The delicate capacity of a system to respond resiliently to shocks. Fragility increases when complexity rises, pathways tighten, and adaptive capacity decreases. It manifests not initially as spectacular collapse, but as vanishing redundancy, shortened feedback loops, and the accumulation of unpaid costs."
+      },
+      "references": [
+        "Situational interpretation based on Manifesto diagnostics and Systemic Risk Matrix hook documentation.",
+        "systemische-fragilitaet"
+      ]
+    },
+    {
+      "term": "Systemischer Hard Reset",
+      "definition": {
+        "de": "Radikaler Neustart eines Systems durch fundamentale Umstrukturierung.",
+        "en": "Radical restart of a system through fundamental restructuring."
+      },
+      "references": [
+        "alterung"
+      ]
+    },
+    {
+      "term": "Systemvertrauen",
+      "definition": {
+        "de": "Grundannahme, dass Institutionen erwartbar handeln.",
+        "en": "Baseline assumption that institutions act predictably."
+      },
+      "references": [
+        "vertrauensverlust"
+      ]
+    },
+    {
+      "term": "Tailings",
+      "definition": {
+        "de": "Feinmaterial und Chemikalien, die nach Erzaufbereitung in Becken landen.",
+        "en": "Fine material and chemicals stored after ore processing."
+      },
+      "references": [
+        "extraktivismus"
+      ]
+    },
+    {
+      "term": "Take Rate",
+      "definition": {
+        "de": "Anteil, den die Plattform pro Transaktion einbehält.",
+        "en": "Share the platform retains per transaction."
+      },
+      "references": [
+        "plattformoekonomie"
+      ]
+    },
+    {
+      "term": "Technische Schulden",
+      "definition": {
+        "de": "Code, Systeme oder Logistik, die in Krisen nicht schnell genug refaktoriert werden können.",
+        "en": "Code, systems, or logistics that cannot be refactored quickly in crises."
+      },
+      "references": [
+        "alterung",
+        "aufruestung"
+      ]
+    },
+    {
+      "term": "Technologische Arbeitslosigkeit",
+      "definition": {
+        "de": "Jobverluste durch Substitution menschlicher Arbeit.",
+        "en": "Job losses due to substitution of human labour."
+      },
+      "references": [
+        "automatisierung"
+      ]
+    },
+    {
+      "term": "Temporal Stretch",
+      "definition": {
+        "de": "Ausdehnung von Provisorien in unbestimmte Dauer.",
+        "en": "Extension of provisional status into indefinite duration."
+      },
+      "references": [
+        "lagerlogik"
+      ]
+    },
+    {
+      "term": "Thanatopolitik",
+      "definition": {
+        "de": "Politik des Todes; Biopolitik, die das Sterbenlassen der 'Anderen' rechtfertigt.",
+        "en": "Politics of death; biopolitics that justifies letting the 'others' die."
+      },
+      "references": [
+        "faschisierung",
+        "war"
+      ]
+    },
+    {
+      "term": "Tipping Points",
+      "definition": {
+        "de": "Kritische Schwellen, jenseits derer Systeme irreversibel umschlagen.",
+        "en": "Critical thresholds beyond which systems flip irreversibly."
+      },
+      "references": [
+        "climate-change"
+      ]
+    },
+    {
+      "term": "Totalisierte Identität",
+      "definition": {
+        "de": "Auflösung individueller Pluralität zugunsten kollektiver Zuschreibungen.",
+        "en": "Dissolution of individual plurality in favor of collective attributions."
+      },
+      "references": [
+        "faschisierung"
+      ]
+    },
+    {
+      "term": "Toyotismus",
+      "definition": {
+        "de": "Toyota-Produktionssystem mit JIT-Prinzipien zur Ressourceneffizienz.",
+        "en": "Toyota production system with JIT principles for resource efficiency."
+      },
+      "references": [
+        "just-in-time-fragilitaet"
+      ]
+    },
+    {
+      "term": "Tracking",
+      "definition": {
+        "de": "Frühe Zuweisung zu Schulzweigen mit langfristigen Effekten.",
+        "en": "Early assignment to school tracks with lasting effects."
+      },
+      "references": [
+        "bildungsungleichheit"
+      ]
+    },
+    {
+      "term": "Transformer-Architektur",
+      "definition": {
+        "de": "Moderne KI-Architektur für sequenzielle Datenverarbeitung mit Attention-Mechanismus.",
+        "en": "Modern AI architecture for sequential data processing with attention mechanism."
+      },
+      "references": [
+        "kuenstliche-intelligenz"
+      ]
+    },
+    {
+      "term": "Transparenzdefizit",
+      "definition": {
+        "de": "Mangel an offengelegten Informationen über Geldflüsse und Interessen.",
+        "en": "Lack of disclosed information on money flows and interests."
+      },
+      "references": [
+        "corruption",
+        "korruption"
+      ]
+    },
+    {
+      "term": "Transzendentalobdachlosigkeit",
+      "definition": {
+        "de": "Lukács: Verlust eines festen ontologischen Ankers; Orientierungslosigkeit in der Moderne.",
+        "en": "Lukács: loss of a firm ontological anchor; disorientation in modernity."
+      },
+      "references": [
+        "nihilismus"
+      ]
+    },
+    {
+      "term": "Trauma des Realen",
+      "definition": {
+        "de": "Lacan: Rückkehr des Unfassbaren, wenn Symbolisches bricht.",
+        "en": "Lacan: return of the unassimilable when the symbolic breaks."
+      },
+      "references": [
+        "symbolische-uebercodierung"
+      ]
+    },
+    {
+      "term": "Trophische Kaskade",
+      "definition": {
+        "de": "Kettenreaktion entlang der Nahrungskette nach Verlust einer Artengruppe.",
+        "en": "Chain reaction along the food web after loss of a functional group."
+      },
+      "references": [
+        "biodiversitaetsverlust",
+        "ozeanversauerung"
+      ]
+    },
+    {
+      "term": "Trophische Simplifizierung",
+      "definition": {
+        "de": "Reduktion der Nahrungsketten-Komplexität auf wenige Ebenen.",
+        "en": "Reduction of food-web complexity to a few levels."
+      },
+      "references": [
+        "artensterben"
+      ]
+    },
+    {
+      "term": "Übercodierung",
+      "definition": {
+        "de": "Mehrfache symbolische Zuschreibung, die Materialität verdeckt.",
+        "en": "Multiple symbolic layers that veil materiality."
+      },
+      "references": [
+        "symbolische-uebercodierung"
+      ]
+    },
+    {
+      "term": "Überflüssige",
+      "definition": {
+        "de": "Subjekte, die für die Kapitalakkumulation nicht mehr notwendig sind.",
+        "en": "Subjects no longer necessary for capital accumulation."
+      },
+      "references": [
+        "exklusion"
+      ]
+    },
+    {
+      "term": "Umverteilung vs Anerkennung",
+      "definition": {
+        "de": "Spannung zwischen materieller Gleichheit und kultureller Sichtbarkeit.",
+        "en": "Tension between material equality and cultural visibility."
+      },
+      "references": [
+        "identitaetspolitik"
+      ]
+    },
+    {
+      "term": "Umwandlung",
+      "definition": {
+        "de": "Wechsel von Miet- zu Eigentumswohnungen.",
+        "en": "Conversion from rental to condos."
+      },
+      "references": [
+        "gentrifizierung"
+      ]
+    },
+    {
+      "term": "Urban Heat Island",
+      "definition": {
+        "de": "Wärmeinseleffekt durch versiegelte Flächen, geringe Verdunstung, fehlende Vegetation.",
+        "en": "Heat island effect from sealed surfaces, low evapotranspiration, missing vegetation."
+      },
+      "references": [
+        "bodenversiegelung"
+      ]
+    },
+    {
+      "term": "Vendor Lock-In",
+      "definition": {
+        "de": "Wechselkosten sind so hoch, dass ein Anbieter faktisch gesetzt ist.",
+        "en": "Switching costs so high that a single vendor is enforced."
+      },
+      "references": [
+        "technologische-intransparenz"
+      ]
+    },
+    {
+      "term": "Verdinglichung",
+      "definition": {
+        "de": "Beziehungen werden zu Dingen, verlieren Lebendigkeit.",
+        "en": "Relations become things, lose vitality."
+      },
+      "references": [
+        "entfremdung",
+        "sinnverlust"
+      ]
+    },
+    {
+      "term": "Verdrängung",
+      "definition": {
+        "de": "Austausch von Bewohnern durch Miet-/Eigentumserhöhung.",
+        "en": "Replacement of residents via rent/ownership hikes."
+      },
+      "references": [
+        "gentrifizierung"
+      ]
+    },
+    {
+      "term": "Vermögenskonzentration",
+      "definition": {
+        "de": "Akkumulation großer Vermögen in kleinen Gruppen.",
+        "en": "Accumulation of large wealth among small groups."
+      },
+      "references": [
+        "soziale-ungleichheit"
+      ]
+    },
+    {
+      "term": "Versickerung",
+      "definition": {
+        "de": "Eindringen von Wasser in den Boden; bei Versiegelung blockiert.",
+        "en": "Percolation of water into soil; blocked by sealing."
+      },
+      "references": [
+        "bodenversiegelung"
+      ]
+    },
+    {
+      "term": "Verwaltung der Politik",
+      "definition": {
+        "de": "Politik als Management ohne offene Konfliktbearbeitung.",
+        "en": "Politics as management without open conflict processing."
+      },
+      "references": [
+        "post-demokratie"
+      ]
+    },
+    {
+      "term": "Vetternwirtschaft",
+      "definition": {
+        "de": "Bevorzugung von Verwandten oder Freunden bei Vergaben.",
+        "en": "Preferential treatment of relatives or friends in allocations."
+      },
+      "references": [
+        "corruption"
+      ]
+    },
+    {
+      "term": "Virtuelles Wasser",
+      "definition": {
+        "de": "Wassermenge, die in importierten Gütern steckt (z.B. Baumwolle, Fleisch).",
+        "en": "Water embedded in traded goods (e.g., cotton, meat)."
+      },
+      "references": [
+        "wasserknappheit"
+      ]
+    },
+    {
+      "term": "Vulnerabilität",
+      "definition": {
+        "de": "Verletzlichkeit von Menschen und Infrastruktur gegenüber Gefahrenprozessen.",
+        "en": "Susceptibility of people and infrastructure to hazard processes."
+      },
+      "references": [
+        "naturkatastrophen"
+      ]
+    },
+    {
+      "term": "Wage Theft",
+      "definition": {
+        "de": "Vorenthalten von Lohn, Überstunden oder Mindestlohn.",
+        "en": "Withholding wages, overtime, or minimum pay."
+      },
+      "references": [
+        "illegale-arbeit"
+      ]
+    },
+    {
+      "term": "Wehrhafte Demokratie",
+      "definition": {
+        "de": "Demokratie, die sich aktiv gegen ihre Feinde verteidigt.",
+        "en": "Democracy that actively defends itself against its enemies."
+      },
+      "references": [
+        "faschisierung"
+      ]
+    },
+    {
+      "term": "Wille zur Macht",
+      "definition": {
+        "de": "Nietzsche: Prinzip, das Werte schafft oder vernichtet.",
+        "en": "Nietzsche: principle that creates or destroys values."
+      },
+      "references": [
+        "nihilismus"
+      ]
+    },
+    {
+      "term": "Working Poor",
+      "definition": {
+        "de": "Erwerbstätig und dennoch unter Armutsrisikoschwelle.",
+        "en": "Employed yet below poverty-risk threshold."
+      },
+      "references": [
+        "armut"
+      ]
+    },
+    {
+      "term": "Yield Point",
+      "definition": {
+        "de": "Belastungsgrenze, ab der strukturelles Versagen eintritt.",
+        "en": "Stress limit beyond which structural failure occurs."
+      },
+      "references": [
+        "prekarisierung"
+      ]
+    },
+    {
+      "term": "Zeitarmut",
+      "definition": {
+        "de": "Mangel an disponibler Zeit durch Erwerb, Pflege und Pendeln.",
+        "en": "Lack of disposable time due to multiple jobs and commuting."
+      },
+      "references": [
+        "armut",
+        "care",
+        "soziale-ungleichheit"
+      ]
+    },
+    {
+      "term": "Zero Trust",
+      "definition": {
+        "de": "Architekturprinzip, das jedem Zugriff misstraut und kontinuierlich prüft.",
+        "en": "Architecture principle that distrusts every access and verifies continuously."
+      },
+      "references": [
+        "cyberangriffe"
+      ]
+    },
+    {
+      "term": "Zinskanal",
+      "definition": {
+        "de": "Wirkpfad, über den Leitzinsen Nachfrage dämpfen.",
+        "en": "Transmission path through which policy rates dampen demand."
+      },
+      "references": [
+        "inflation"
+      ]
+    },
+    {
+      "term": "Zinswende",
+      "definition": {
+        "de": "Wechsel von Niedrig- zu Hochzinsphase.",
+        "en": "Shift from low- to high-rate regime."
+      },
+      "references": [
+        "schuldenlast"
+      ]
+    },
+    {
+      "term": "Zivile Kontrolle",
+      "definition": {
+        "de": "Demokratische Aufsicht über Streitkräfte.",
+        "en": "Democratic oversight over armed forces."
+      },
+      "references": [
+        "militarisierung"
+      ]
+    }
+  ]
+}

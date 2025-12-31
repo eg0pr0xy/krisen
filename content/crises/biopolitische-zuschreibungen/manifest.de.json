@@ -1,0 +1,150 @@
+{
+  "id": "biopolitische-zuschreibungen",
+  "slug": "biopolitische-zuschreibungen",
+  "title": {
+    "de": "Biopolitische Zuschreibungen",
+    "en": "Biopolitical ascriptions"
+  },
+  "summary": {
+    "de": "Biopolitische Zuschreibungen bezeichnen den strukturellen Prozess, in dem Körper, Gesundheit, Verhalten, Herkunft und statistische Risiken administrativ erfasst, bewertet und hierarchisiert werden, um Zugang zu Rechten, Mobilität, Ressourcen und sozialer Anerkennung zu steuern.",
+    "en": "Biopolitical ascriptions denote the structural process by which bodies, health, behaviour, origin and statistical risks are administratively recorded, assessed and ranked to govern access to rights, mobility, resources and social recognition."
+  },
+  "categories": [
+    "Gefühl",
+    "Kontrolle"
+  ],
+  "tags": [
+    "gesundheit",
+    "migration",
+    "rassifizierung",
+    "policing"
+  ],
+  "severity": 74,
+  "volatility": 57,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Risikoprofile",
+        "en": "Risk profiles"
+      },
+      "value": "automatisiert",
+      "source": "Versicherer, Grenzsysteme"
+    },
+    {
+      "label": {
+        "de": "Biometrie",
+        "en": "Biometrics"
+      },
+      "value": "flächendeckend",
+      "source": "Behörden"
+    },
+    {
+      "label": {
+        "de": "Health Scoring",
+        "en": "Health scoring"
+      },
+      "value": "Kreditrelevant",
+      "source": "Finanz-Apps"
+    }
+  ],
+  "diagnosis": {
+    "de": "Biopolitische Zuschreibungen transformieren individuelle Eigenschaften in Steuerungskategorien. Hautfarbe, Genetik, Aufenthaltsstatus oder Gesundheitsdaten werden zu Risikoscores, die Zugang, Mobilität und Absicherung bestimmen. Die Logik der Vorsorge kippt in eine Logik des Ausschlusses und schreibt Ungleichheiten als objektiv und naturgegeben fest. Der Körper wird zum datenbasierten Objekt – die Würde hängt von Scores und Profilen ab.",
+    "en": "Biopolitical ascriptions turn individual traits into governance categories. Skin colour, genetics, legal status or health data become risk scores that determine access, mobility and security. The logic of care tips into a logic of exclusion and naturalises inequality. The body becomes a datafied object – dignity depends on scores and profiles."
+  },
+  "mechanisms": {
+    "de": "Scoring-Modelle koppeln Datenbroker, Versicherer und Behörden. Mustererkennung verfestigt historische Biases. Medizinische Diskurse legitimieren Kontrolle über Fortpflanzung, Mobilität und Arbeitstauglichkeit. Sicherheitslogiken integrieren Gesundheits- und Datenprofile in polizeiliche Raster. Finanzsysteme bewerten Körper über Health Scores, Kreditwürdigkeit und Behavioural Tracking, wodurch Anonymität strukturell unmöglich wird.",
+    "en": "Scoring models link data brokers, insurers and authorities. Pattern recognition cements historical biases. Medical discourses legitimise control over reproduction, mobility and employability. Security logics weave health and data profiles into policing grids. Financial systems evaluate bodies via health scores, creditworthiness and behavioural tracking, rendering anonymity structurally impossible."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Risikokörper",
+        "en": "Risk body"
+      },
+      "description": {
+        "de": "Subjekt wird über Score definiert, nicht über Rechte.",
+        "en": "Subject defined by score rather than rights."
+      }
+    },
+    {
+      "name": {
+        "de": "Datenamt",
+        "en": "Data bureau"
+      },
+      "description": {
+        "de": "Verwaltungseinheit, die biometrische und genetische Marker verwaltet.",
+        "en": "Administrative unit managing biometric and genetic markers."
+      }
+    },
+    {
+      "name": {
+        "de": "Präventionsstaat",
+        "en": "Prevention state"
+      },
+      "description": {
+        "de": "Souveränität wird als Risikofilter ausgeübt.",
+        "en": "Sovereignty exercised as risk filtration."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Biometrische Regierung",
+      "definition": {
+        "de": "Steuerung von Bevölkerung über messbare Körpermerkmale.",
+        "en": "Governing populations via measurable bodily traits."
+      }
+    },
+    {
+      "term": "Scoring-Regime",
+      "definition": {
+        "de": "Algorithmische Bewertung, die Rechte und Preise determiniert.",
+        "en": "Algorithmic rating that determines rights and prices."
+      }
+    },
+    {
+      "term": "Sanitarismus",
+      "definition": {
+        "de": "Politik, die Hygiene- und Gesundheitsnormen als Ordnungsgrundlage nutzt.",
+        "en": "Policy using hygiene and health norms as ordering principle."
+      }
+    }
+  ],
+  "related": [
+    "algorithmische-steuerung",
+    "abschiebungsapparat",
+    "autoritarismus",
+    "faschisierung",
+    "kuenstliche-intelligenz",
+    "aufmerksamkeitsoekonomie",
+    "demografischer-wandel",
+    "drogen",
+    "empoerungsdynamiken",
+    "entmenschlichung-buerokratie",
+    "exklusion"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/biopolitische-zuschreibungen/crisis-placeholder.jpg",
+      "/media/biopolitische-zuschreibungen/impact-placeholder.png",
+      "/media/biopolitische-zuschreibungen/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "biopolitische-zuschreibungen",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Biopolitische Zuschreibungen mit Score-Logik beschrieben.",
+    "Glossar noch auf Referenzen prüfen."
+  ],
+  "analysis": {
+    "de": "Biopolitische Zuschreibungen fungieren als Frühindikator systemischer Fragilität. Sie verschieben die Logik von kollektiver Vorsorge zu individualisierter, datengetriebener Selektion. Wo zuvor menschliche Urteile, implizites Wissen und soziale Aushandlung dominierten, treten Modelle, Scores und Outputs an ihre Stelle, deren Funktionsweise selbst für Betreiber nur begrenzt nachvollziehbar ist. Entscheidungen entziehen sich öffentlicher Begründung, Fehler erscheinen erst im Betrieb („deployment first, audit later“), Skalierung überholt Aufsicht, Macht konzentriert sich bei Akteuren mit Zugriff auf Rechenleistung, Daten und Infrastruktur, während Effizienzgewinne zentralisiert werden und Anpassungskosten dezentral verteilt bleiben.",
+    "en": "Biopolitical ascriptions act as an early indicator of systemic fragility. They shift the logic from collective care to individualized, data-driven selection. Where human judgement, tacit knowledge and social negotiation once prevailed, models, scores and outputs now step in, whose inner workings remain opaque even to operators. Decisions withdraw from public justification, errors appear only in deployment, scaling outruns oversight, and power concentrates with actors controlling compute, data and infrastructure while efficiency gains centralise and adaptation costs disperse."
+  }
+}

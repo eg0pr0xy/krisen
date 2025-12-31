@@ -1,0 +1,156 @@
+{
+  "id": "datenfragmentierung",
+  "slug": "datenfragmentierung",
+  "title": {
+    "de": "Datenfragmentierung",
+    "en": "Data Fragmentation"
+  },
+  "summary": {
+    "de": "Datenbestände zerfallen entlang von Souveränität, Geschäftsmodellen und Technikstacks; Interoperabilität bricht.",
+    "en": "Data stores split along sovereignty, business models, and stacks; interoperability fails."
+  },
+  "categories": [
+    "Kontrolle",
+    "Materie"
+  ],
+  "tags": [
+    "silos",
+    "interoperabilitaet",
+    "residenz",
+    "api",
+    "standard"
+  ],
+  "severity": 69,
+  "volatility": 48,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Nationale Datenresidenzgesetze",
+        "en": "National data residency laws"
+      },
+      "value": ">80",
+      "source": "UNCTAD 2024"
+    },
+    {
+      "label": {
+        "de": "API Deprecations / Jahr (größte Plattformen)",
+        "en": "API deprecations/yr (major platforms)"
+      },
+      "value": "+25% seit 2020",
+      "source": "Vendor change logs"
+    },
+    {
+      "label": {
+        "de": "Anteil proprietärer Formate im B2B-Austausch",
+        "en": "Share of proprietary formats in B2B data"
+      },
+      "value": "~65%",
+      "source": "Industry surveys"
+    }
+  ],
+  "diagnosis": {
+    "de": "Fragmentierung entsteht als Nebenprodukt von Souveränität, Wettbewerb und Sicherheit. Luhmann: Organisationen schützen eigene Kommunikationshistorien; Kopplung misslingt. Baudrillard: Datenkopien erzeugen Simulation von Vollständigkeit, während reale Lücken wachsen. Postkolonial: Datenlokalisierung kann Schutz oder Protektionismus sein. Folge: Forschung, Krisenmanagement und Versorgung verlieren gemeinsame Lagebilder.",
+    "en": "Fragmentation arises as by-product of sovereignty, competition, and security. Luhmann: organisations protect their own communication histories; coupling fails. Baudrillard: duplicate datasets simulate completeness while gaps widen. Postcolonial view: localisation can be protection or protectionism. Result: research, crisis response, and supply lose shared situational awareness."
+  },
+  "mechanisms": {
+    "de": "Datenresidenz erzwingt Inlandspeicherung, APIs werden regionalspezifisch. Proprietäre Formate erschweren Portabilität. Vendor-Lock-in verhindert Export. Sicherheitsteams schließen Schnittstellen nach Vorfällen; Schatten-IT dupliziert Daten. Standardisierungsgremien sind langsam, während Geschäftsmodelle sich im Quartal ändern.",
+    "en": "Residency laws force local storage; APIs become region-specific. Proprietary formats hinder portability. Vendor lock-in blocks export. Security closes interfaces after incidents; shadow IT duplicates data. Standards bodies move slowly while business models pivot quarterly."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Silo",
+        "en": "Silo"
+      },
+      "description": {
+        "de": "Geschlossener Datenraum, der nur minimal mit anderen spricht.",
+        "en": "Closed data room with minimal external exchange."
+      }
+    },
+    {
+      "name": {
+        "de": "Gated Dataset",
+        "en": "Gated Dataset"
+      },
+      "description": {
+        "de": "Zugang nur via NDA/API, jederzeit widerrufbar.",
+        "en": "Access via NDA/API, revocable at will."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Interoperabilität",
+      "definition": {
+        "de": "Fähigkeit verschiedener Systeme, Daten sinnvoll auszutauschen.",
+        "en": "Ability of systems to exchange and use data meaningfully."
+      }
+    },
+    {
+      "term": "Datenresidenz",
+      "definition": {
+        "de": "Ort, an dem Daten rechtlich gespeichert werden müssen.",
+        "en": "Jurisdiction where data must legally reside."
+      }
+    },
+    {
+      "term": "Portabilität",
+      "definition": {
+        "de": "Möglichkeit, Daten verlustfrei zwischen Anbietern zu migrieren.",
+        "en": "Ability to migrate data between providers without loss."
+      }
+    }
+  ],
+  "related": [
+    "plattformoekonomie",
+    "cyberangriffe",
+    "energieknappheit",
+    "lieferkettenabhaengigkeit",
+    "abschiebungsapparat",
+    "kuenstliche-intelligenz"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-datenfrag",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "UNCTAD Data Governance 2024"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/datenfragmentierung/crisis-placeholder.jpg",
+      "/media/datenfragmentierung/impact-placeholder.png",
+      "/media/datenfragmentierung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Map der Residenzgesetze; Sankey von Datenflüssen; API deprecation timeline."
+  ],
+  "timeline": [
+    {
+      "year": "2018",
+      "location": "EU",
+      "event": "DSGVO",
+      "description": "Stärkt Rechte, schafft zugleich Fragmentierung über Interpretationen."
+    },
+    {
+      "year": "2020-2023",
+      "location": "Indien/China/RU",
+      "event": "Lokalisierungsgesetze",
+      "description": "Daten müssen im Land bleiben; Cloud-Architekturen verzweigen."
+    },
+    {
+      "year": "2024",
+      "location": "Global",
+      "event": "API-Shutdowns",
+      "description": "Große Plattformen schließen öffentliche Schnittstellen, Forschende verlieren Zugang."
+    }
+  ]
+}

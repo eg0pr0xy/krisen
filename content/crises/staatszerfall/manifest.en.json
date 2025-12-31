@@ -1,0 +1,243 @@
+{
+  "id": "staatszerfall",
+  "slug": "staatszerfall",
+  "title": {
+    "de": "Staatszerfall",
+    "en": "State Collapse"
+  },
+  "summary": {
+    "de": "Implosion hoheitlicher Architektur; Gewaltmonopol fragmentiert in Warlords und Kartelle.",
+    "en": "Implosion of sovereign architecture; monopoly of violence fragments into warlords and cartels."
+  },
+  "categories": [
+    "Macht",
+    "System"
+  ],
+  "tags": [
+    "staat",
+    "gewalt",
+    "zerfall",
+    "souveränität",
+    "krieg"
+  ],
+  "severity": 90,
+  "volatility": 70,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Fragile States Index 2024 (Somalia)",
+        "en": "Fragile States Index 2024 (Somalia)"
+      },
+      "value": "111.3",
+      "source": "Fund for Peace"
+    },
+    {
+      "label": {
+        "de": "Fragile States Index 2024 (Sudan)",
+        "en": "Fragile States Index 2024 (Sudan)"
+      },
+      "value": "109.3",
+      "source": "Fund for Peace"
+    },
+    {
+      "label": {
+        "de": "Global Economic Impact of Violence (2023)",
+        "en": "Global Economic Impact of Violence (2023)"
+      },
+      "value": "19.1 Trillion USD",
+      "source": "IEP"
+    },
+    {
+      "label": {
+        "de": "Global Displaced People (2024)",
+        "en": "Global Displaced People (2024)"
+      },
+      "value": "> 110 Million",
+      "source": "UNHCR"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist das ontologische Wesen des Phänomens?",
+        "en": "What is the ontological essence of the phenomenon?"
+      },
+      "answer": {
+        "de": "Der Verlust der operativen Souveränität und die Fragmentierung des Gewaltmonopols in konkurrierende Mikro-Despotien.",
+        "en": "The loss of operational sovereignty and the fragmentation of the monopoly of violence into competing micro-despotisms."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer sind die Akteure?",
+        "en": "Who are the actors?"
+      },
+      "answer": {
+        "de": "Prekäre Regime, transnationale kriminelle Syndikate, religiöse Milizen und eine zivile Bevölkerung im Zustand des 'Nackten Lebens'.",
+        "en": "Precarious regimes, transnational criminal syndicates, religious militias, and a civilian population in the state of 'bare life'."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "Aktuell im 'Coup Belt' des Sahel (Mali, Niger, Burkina Faso), am Horn von Afrika (Sudan, Somalia) und in der Karibik (Haiti).",
+        "en": "Currently in the 'Coup Belt' of the Sahel (Mali, Niger, Burkina Faso), at the Horn of Africa (Sudan, Somalia), and in the Caribbean (Haiti)."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann tritt der kritische Punkt ein?",
+        "en": "When does the critical point occur?"
+      },
+      "answer": {
+        "de": "Wenn die Exekutive die Fähigkeit zur Durchsetzung von Rechtsnormen auf über 50% des Territoriums verliert.",
+        "en": "When the executive loses the ability to enforce legal norms over more than 50% of the territory."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum geschieht dies jetzt?",
+        "en": "Why is this happening now?"
+      },
+      "answer": {
+        "de": "Konvergenz von Poly-Krisen: Klimawandel-induzierte Ressourcenknappheit, postkoloniale Schuldenfallen und asymmetrische Kriegsführung.",
+        "en": "Convergence of poly-crises: Climate change-induced resource scarcity, postcolonial debt traps, and asymmetric warfare."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie kann Stabilisierung erfolgen?",
+        "en": "How can stabilization succeed?"
+      },
+      "answer": {
+        "de": "Nur durch massive Reinstitutionalisierung und ökonomische Inklusion, nicht durch rein militärische Interventionen.",
+        "en": "Only through massive reinstitutionalization and economic inclusion, not through purely military interventions."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Staatszerfall bezeichnet die terminale Implosion der hoheitlichen Architektur, bei der das Webersche Gewaltmonopol nicht nur erodiert, sondern sich in molekulare Gewaltakteure (Warlords, Kartelle, Private Military Contractors) fragmentiert. Es ist der Übergang von staatlicher Souveränität zu einer 'Hollowed-Out'-Struktur, in der Institutionen nur noch als zombiehafte Hüllen existieren, während die reale Macht in informelle, oft kriminelle Netzwerke diffundiert. Historisch betrachtet ist der moderne Staatszerfall oft das Spätstadium misslungener Dekolonisation, verschärft durch den Kalten Krieg (Stellvertreterkriege) und die neoliberale Strukturanpassungspolitik der 1990er Jahre, die staatliche Kapazitäten aushöhlte. Im Prisma der Kritischen Theorie und des Poststrukturalismus offenbart sich der Staatszerfall nicht als Unfall, sondern als logische Konsequenz einer neoliberalen Nekropolitik (Achille Mbembe). Der Staat zieht sich auf eine bloße Verwaltung des Todes zurück, während er seine biopolitische Fürsorgepflicht aufgibt. Wie Mark Fisher in 'Capitalist Realism' andeutete, erleben wir eine 'Hauntologie' der Institutionen: Gerichte und Parlamente existieren weiter, aber ihre Performanz ist gespenstisch leer. Michel Foucaults Panoptikum zerbricht; an seine Stelle tritt keine disziplinierende Überwachung, sondern das Chaos des 'Wucherns' – eine unregierbare Multiplizität, in der das nackte Leben (Agamben) schutzlos der Willkür lokaler Despoten ausgeliefert ist. Systemtheoretisch (Luhmann) lässt sich Staatszerfall als radikale Entdifferenzierung der Funktionssysteme beschreiben. Die Codes von Recht (Recht/Unrecht) und Wirtschaft (Zahlen/Nicht-Zahlen) kollabieren in den binären Code der reinen Gewalt (Macht/Ohnmacht). Physikalisch betrachtet ist der Staat ein negentropisches System, das Energie aufwendet, um Ordnung aufrechtzuerhalten. Staatszerfall ist der Sieg des Zweiten Hauptsatzes der Thermodynamik: Maximale Entropie. Positive Rückkopplungsschleifen (Gewalt erzeugt Gewalt) führen zu einem 'Runaway Breakdown', bei dem die autopoietische Selbsterhaltung des Systems versagt und eine Phasenverschiebung in den chaotischen Attraktor eintritt.",
+    "en": "State collapse denotes the terminal implosion of sovereign architecture where Weber's monopoly of violence not only erodes, but fragments into molecular violent actors (warlords, cartels, private military contractors). It is the transition from state sovereignty to a 'hollowed-out' structure where institutions exist only as zombie-like shells, while real power diffuses into informal, often criminal networks."
+  },
+  "mechanisms": {
+    "de": "Ressourcenkonkurrenz verstärkt Fragmentierung. Externe Interventionen (oft als 'Stabilisierungsmissionen') verlängern den Zerfall. Kriminelle Netzwerke bieten Alternativen zur staatlichen Autorität. Soziale Kohäsion zerbricht unter dem Druck von Armut und Vertreibung.",
+    "en": "Resource competition intensifies fragmentation. External interventions (often as 'stabilization missions') prolong collapse. Criminal networks offer alternatives to state authority. Social cohesion breaks under pressure of poverty and displacement."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Warlord-Ökonomie",
+        "en": "Warlord Economy"
+      },
+      "description": {
+        "de": "Lokale Machthaber kontrollieren Ressourcen und erzwingen Tribut.",
+        "en": "Local powerholders control resources and enforce tribute."
+      }
+    },
+    {
+      "name": {
+        "de": "Zombie-Institution",
+        "en": "Zombie Institution"
+      },
+      "description": {
+        "de": "Formale Strukturen bestehen, aber ohne reale Autorität.",
+        "en": "Formal structures persist but without real authority."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Hollowed-Out-Struktur",
+      "definition": {
+        "de": "Staatliche Institutionen ohne substanzielle Macht; nur Fassade.",
+        "en": "State institutions without substantial power; just facade."
+      }
+    },
+    {
+      "term": "Gewaltmonopol",
+      "definition": {
+        "de": "Webersche Definition legitimer physischer Gewalt (Max Weber).",
+        "en": "Weber's definition of legitimate physical violence (Max Weber)."
+      }
+    },
+    {
+      "term": "Nekropolitik",
+      "definition": {
+        "de": "Politik, die über Leben und Tod entscheidet (Mbembe).",
+        "en": "Politics that decides over life and death (Mbembe)."
+      }
+    },
+    {
+      "term": "Hauntologie",
+      "definition": {
+        "de": "Geisterhafte Präsenz vergangener Strukturen (Fisher).",
+        "en": "Ghostly presence of past structures (Fisher)."
+      }
+    },
+    {
+      "term": "Entdifferenzierung",
+      "definition": {
+        "de": "Zusammenbruch funktionaler Differenzierung der Gesellschaft (Luhmann).",
+        "en": "Collapse of functional differentiation of society (Luhmann)."
+      }
+    }
+  ],
+  "related": [
+    "radikalisierung",
+    "zukunftsangst",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "antibiotika-resistenzen",
+    "atomare-abschreckung"
+  ],
+  "citations": [
+    {
+      "label": "Max Weber - Politics as a Vocation",
+      "note": "Monopoly of legitimate violence"
+    },
+    {
+      "label": "Theodor W. Adorno & Max Horkheimer - Dialectic of Enlightenment",
+      "note": "Critical theory of domination fantasy"
+    },
+    {
+      "label": "Michel Foucault - Discipline and Punish",
+      "note": "Panopticon breakdown into ungovernable multiplicity"
+    },
+    {
+      "label": "Achille Mbembe - Necropolitics",
+      "note": "Neoliberal necropolitics and state withdrawal"
+    },
+    {
+      "label": "Mark Fisher - Capitalist Realism",
+      "note": "Hauntology of empty institutional performance"
+    },
+    {
+      "label": "Giorgio Agamben - Homo Sacer",
+      "note": "Bare life exposed to local despots"
+    },
+    {
+      "label": "Niklas Luhmann - Soziale Systeme",
+      "note": "Radical dedifferentiation and entropy victory"
+    }
+  ],
+  "lastUpdatedISO": "2025-12-23T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "editNotes": [
+    "Neue Krise: Umfassende Analyse des Staatszerfalls als terminale Implosion mit philosophischer Tiefe und Kaskadenrisiken."
+  ],
+  "media": {
+    "images": [
+      "/media/staatszerfall/crisis-placeholder.jpg",
+      "/media/staatszerfall/impact-placeholder.png",
+      "/media/staatszerfall/solution-placeholder.jpg"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": "cyberangriffe",
+  "slug": "cyberangriffe",
+  "title": {
+    "de": "Cyberangriffe",
+    "en": "Cyber attacks"
+  },
+  "summary": {
+    "de": "Digitale Infrastrukturen werden zu Angriffsflächen für Staaten, Kriminalität und Aktivismus.",
+    "en": "Digital infrastructures become attack surfaces for states, crime, and activism."
+  },
+  "categories": [
+    "Kontrolle",
+    "Materie"
+  ],
+  "tags": [
+    "ransomware",
+    "kritische-infrastruktur",
+    "spionage",
+    "sicherheit"
+  ],
+  "severity": 79,
+  "volatility": 76,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Zero-Day-Ausnutzung",
+        "en": "Zero-day exploits"
+      },
+      "value": "hoch",
+      "source": "CERT-Meldungen"
+    },
+    {
+      "label": {
+        "de": "Ransomware-Schäden",
+        "en": "Ransomware losses"
+      },
+      "value": "+23% p.a.",
+      "source": "Versicherungsdaten"
+    },
+    {
+      "label": {
+        "de": "OT-Vorfälle",
+        "en": "OT incidents"
+      },
+      "value": "steigend",
+      "source": "Energie- und Logistiksektor"
+    }
+  ],
+  "diagnosis": {
+    "de": "Cyberangriffe verschieben Konflikte in Softwareabhängigkeiten. Lieferketten, Energie, Gesundheit und Verwaltung hängen von vernetzten Systemen ab, deren Angriffsfläche ständig wächst. Asymmetrische Akteure können mit geringen Mitteln massive Störungen erzeugen, während Attribution unsicher bleibt.",
+    "en": "Cyber attacks move conflicts into software dependencies. Supply chains, energy, health, and administration rely on connected systems with expanding attack surface. Asymmetric actors can create large disruption with modest means, while attribution remains uncertain."
+  },
+  "mechanisms": {
+    "de": "Malware-as-a-Service senkt Einstiegskosten, staatliche Akteure nutzen gleiche Ökonomie. Geheimhaltungspflichten verzögern Lernschleifen. Legacy-Systeme bleiben angeschlossen, weil Abschaltung teurer ist. Versicherungen externalisieren Kosten, fördern aber Zahlung statt Resilienz. Propaganda koppelt Informationsoperationen mit technischen Angriffen.",
+    "en": "Malware-as-a-service lowers entry barriers; state actors use the same economy. Secrecy obligations delay learning loops. Legacy systems stay online because shutdown costs are higher. Insurance externalises costs but incentivises payment over resilience. Propaganda blends information operations with technical strikes."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Laterale Bewegung",
+        "en": "Lateral movement"
+      },
+      "description": {
+        "de": "Angreifer springen zwischen Subnetzen, bevor sie entdeckt werden.",
+        "en": "Attackers pivot across subnets before detection."
+      }
+    },
+    {
+      "name": {
+        "de": "Schatten-IT",
+        "en": "Shadow IT"
+      },
+      "description": {
+        "de": "Unverwaltete Systeme als permanente Schwachstelle.",
+        "en": "Unmanaged systems as persistent weak point."
+      }
+    },
+    {
+      "name": {
+        "de": "Command-and-Control",
+        "en": "Command and control"
+      },
+      "description": {
+        "de": "Verteilte Steuerungsknoten halten Angriffe flexibel.",
+        "en": "Distributed control nodes keep attacks adaptive."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Zero Trust",
+      "definition": {
+        "de": "Architekturprinzip, das jedem Zugriff misstraut und kontinuierlich prüft.",
+        "en": "Architecture principle that distrusts every access and verifies continuously."
+      }
+    },
+    {
+      "term": "Air Gap",
+      "definition": {
+        "de": "Physische Trennung sensibler Systeme zur Risikoreduktion.",
+        "en": "Physical separation of sensitive systems to reduce risk."
+      }
+    },
+    {
+      "term": "Attribution",
+      "definition": {
+        "de": "Zuordnung eines Angriffs zu einem Akteur; bleibt oft unsicher.",
+        "en": "Assigning an attack to an actor; often uncertain."
+      }
+    }
+  ],
+  "related": [
+    "datenfragmentierung",
+    "energieknappheit",
+    "lieferkettenabhaengigkeit",
+    "abschiebungsapparat",
+    "kuenstliche-intelligenz",
+    "algorithmische-steuerung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/cyberangriffe/crisis-placeholder.jpg",
+      "/media/cyberangriffe/impact-placeholder.png",
+      "/media/cyberangriffe/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "cyberangriffe",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Platzhalter ersetzt, Angriffsflächen betont.",
+    "Draft für spätere sektorale Beispiele."
+  ]
+}

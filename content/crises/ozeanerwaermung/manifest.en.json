@@ -1,0 +1,192 @@
+{
+  "id": "ozeanerwaermung",
+  "slug": "ozeanerwaermung",
+  "title": {
+    "de": "Ozeanerwärmung",
+    "en": "Ocean Warming"
+  },
+  "summary": {
+    "de": "Der Ozean speichert überschüssige Wärme, verändert Strömungen und entzieht Tiefe und Küsten den Sauerstoff.",
+    "en": "The ocean absorbs excess heat, shifts currents, and drains oxygen from depth and coasts."
+  },
+  "categories": [
+    "Materie"
+  ],
+  "tags": [
+    "heat",
+    "stratifikation",
+    "deoxygenation",
+    "marine-heatwave",
+    "fischerei"
+  ],
+  "severity": 76,
+  "volatility": 58,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "Anteil globaler Wärmeaufnahme",
+        "en": "Share of global heat uptake"
+      },
+      "value": ">90%",
+      "source": "IPCC"
+    },
+    {
+      "label": {
+        "de": "Marine Hitzewellentage",
+        "en": "Marine heatwave days"
+      },
+      "value": "x20 seit 1980",
+      "source": "Nature 2020"
+    },
+    {
+      "label": {
+        "de": "Verlust gelöster O₂",
+        "en": "Loss of dissolved O₂"
+      },
+      "value": "≈-2%",
+      "source": "IUCN"
+    }
+  ],
+  "diagnosis": {
+    "de": "Die Ozeanerwärmung ist die versteckte Hauptbilanz des Anthropozäns. Wärme puffert zunächst, destabilisiert aber Zirkulation. Luhmann: Umwelt bleibt Umwelt des Systems, erst bei Fischereiausfällen wird sie Kommunikation. Baudrillard: Das Bild des blauen Planeten verschleiert die braun werdenden Küstenzonen. Historisch: Klimaschwankungen strukturierten Imperien; jetzt verschiebt der Wärmespeicher die Basis der Nahrungsketten.",
+    "en": "Ocean warming is the hidden main ledger of the Anthropocene. Heat buffers first, then destabilises circulation. Luhmann: environment stays environment until fisheries fail and enter communication. Baudrillard: the blue-planet image hides browning coastal zones. Historically, climate swings shaped empires; now the heat reservoir shifts the base of food chains."
+  },
+  "mechanisms": {
+    "de": "Wärmeaufnahme verstärkt Schichtung; vertikaler Austausch nimmt ab. Sauerstoff diffundiert langsamer, Minimumzonen breiten sich aus. Marine Hitzewellen zerstören Makroalgen- und Korallen-Habitate; Küstenfischerei kollabiert. Gletscher- und Meereisschmelze ändern Dichtefelder, verschieben Strömungen. Hafen- und Kabelinfrastruktur geraten in Sturm- und Wellengürtel neuer Intensität.",
+    "en": "Heat uptake strengthens stratification; vertical mixing weakens. Oxygen diffusion slows, minimum zones spread. Marine heatwaves erase kelp and coral habitats; coastal fisheries collapse. Glacier and sea-ice loss alter density fields and currents. Port and cable infrastructure moves into storm and wave belts of new intensity."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Wärmepuffer",
+        "en": "Heat Buffer"
+      },
+      "description": {
+        "de": "Nimmt Energie auf, gibt sie zeitverzögert als Extremereignis zurück.",
+        "en": "Takes up energy and returns it with delay as extreme events."
+      }
+    },
+    {
+      "name": {
+        "de": "Anoxische Tiefe",
+        "en": "Anoxic Depth"
+      },
+      "description": {
+        "de": "Schichtung sperrt Sauerstoff aus, Leben zieht sich zurück oder stirbt.",
+        "en": "Stratification locks out oxygen; life retreats or dies."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Marine Hitzewelle",
+      "definition": {
+        "de": "Mehrere Tage bis Monate mit außergewöhnlich hohen Meerestemperaturen.",
+        "en": "Multi-day to multi-month anomalies of extreme sea temperature."
+      }
+    },
+    {
+      "term": "Schichtung",
+      "definition": {
+        "de": "Dichteunterschiede verhindern vertikalen Austausch von Wärme und Sauerstoff.",
+        "en": "Density differences inhibit vertical exchange of heat and oxygen."
+      }
+    },
+    {
+      "term": "Sauerstoffminimumzone",
+      "definition": {
+        "de": "Tiefenbereich mit sehr geringem O₂-Gehalt, biologisch ausgeräumt.",
+        "en": "Depth range with very low O₂, biologically depleted."
+      }
+    }
+  ],
+  "related": [
+    "climate-change",
+    "ozeanversauerung",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "automatisierung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-ozeanerwaermung",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "ScienceDirect – Ocean warming overview",
+      "note": "Synopsis of physical and biogeochemical consequences"
+    },
+    {
+      "label": "Wikipedia – Ocean warming",
+      "note": "Systemic indicator of anthropogenic climate change"
+    },
+    {
+      "label": "Climate.gov – Oceans and heat storage",
+      "note": "More than 90% of excess heat resides in the ocean"
+    },
+    {
+      "label": "Helmholtz Climate Research",
+      "note": "Water heat capacity and storage dynamics"
+    },
+    {
+      "label": "WWF Germany – Stratification & oxygen",
+      "note": "Vertical exchange suppression and oxygen loss"
+    },
+    {
+      "label": "European Environment Agency – Ecosystem shifts",
+      "note": "Range shifts and trophic instability"
+    },
+    {
+      "label": "Live Science – Marine heatwaves",
+      "note": "Extremes destroying coral and seagrass"
+    },
+    {
+      "label": "Live Science – AMOC instability",
+      "note": "Potential weakening of major circulation systems"
+    },
+    {
+      "label": "Frontiers – Accelerated warming trends",
+      "note": "Long-term rate of heat uptake"
+    },
+    {
+      "label": "IPCC – Chapter on Ocean & Cryosphere",
+      "note": "Oxygen loss, OHC indicators"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/ozeanerwaermung/crisis-placeholder.jpg",
+      "/media/ozeanerwaermung/impact-placeholder.png",
+      "/media/ozeanerwaermung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Ozeanwärme-Inhalt als Flächenchart; Karte mariner Hitzewellen; O₂-Isolinien."
+  ],
+  "timeline": [
+    {
+      "year": "1870-1900",
+      "location": "Global",
+      "event": "Referenzperiode",
+      "description": "Vorindustrielle Baseline für Ozeanwärme-Inhalte."
+    },
+    {
+      "year": "2013-2017",
+      "location": "Nordostpazifik",
+      "event": "'The Blob'",
+      "description": "Lang anhaltende marine Hitzewelle; Fischereien und Seevögel brechen ein."
+    },
+    {
+      "year": "2040 (proj.)",
+      "location": "Weltweit",
+      "event": "Hitzewelle als Normalzustand",
+      "description": "Modelle zeigen jährliche marine Hitzewellen ohne Erholungsfenster."
+    }
+  ]
+}

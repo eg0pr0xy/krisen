@@ -1,0 +1,228 @@
+{
+  "id": "desinformation",
+  "slug": "desinformation",
+  "title": {
+    "de": "Desinformation",
+    "en": "Disinformation"
+  },
+  "summary": {
+    "de": "Desinformation ist die intentionale, systematische Injektion falscher oder irreführender Signale in den soziokommunikativen Raum mit dem Ziel, epistemische Autoritäten zu untergraben, Realitätskonsense zu fragmentieren und gesellschaftliche Subsysteme durch gezielte Entropie-Steigerung zu destabilisieren.",
+    "en": "Disinformation is the intentional, systematic injection of false or misleading signals into the sociocommunicative space with the aim of undermining epistemic authorities, fragmenting reality consensuses, and destabilizing societal subsystems through targeted entropy increase."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "propaganda",
+    "bots",
+    "troll",
+    "deepfake",
+    "manipulation"
+  ],
+  "severity": 70,
+  "volatility": 63,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Wahrnehmung als Gefahr (DE)",
+        "en": "Perception as danger (DE)"
+      },
+      "value": "84%",
+      "source": "Bertelsmann Stiftung 2024"
+    },
+    {
+      "label": {
+        "de": "Globales Risiko-Ranking",
+        "en": "Global risk ranking"
+      },
+      "value": "#1",
+      "source": "WEF Global Risks Report 2024"
+    },
+    {
+      "label": {
+        "de": "Begegnung auf Social Media",
+        "en": "Encounter on social media"
+      },
+      "value": "59%",
+      "source": "Survey"
+    },
+    {
+      "label": {
+        "de": "Selbstvertrauen Erkennung",
+        "en": "Self-confidence in detection"
+      },
+      "value": "25%",
+      "source": "Bitkom 2024"
+    },
+    {
+      "label": {
+        "de": "Anteil Fake-Accounts bei Wahlhashtags",
+        "en": "Share of fake accounts on election hashtags"
+      },
+      "value": "5-15%",
+      "source": "Monitoring Labs"
+    },
+    {
+      "label": {
+        "de": "Deepfake-Detektionen / Monat",
+        "en": "Deepfake detections per month"
+      },
+      "value": "+120% YoY",
+      "source": "Model Reports"
+    },
+    {
+      "label": {
+        "de": "Kosten pro Einflusskampagne",
+        "en": "Cost per influence campaign"
+      },
+      "value": "<50k USD",
+      "source": "Threat Intel"
+    }
+  ],
+  "diagnosis": {
+    "de": "Desinformation ist die intentionale, systematische Injektion falscher oder irreführender Signale in den soziokommunikativen Raum mit dem Ziel, epistemische Autoritäten zu untergraben, Realitätskonsense zu fragmentieren und gesellschaftliche Subsysteme durch gezielte Entropie-Steigerung zu destabilisieren. Sie unterscheidet sich von der Fehlinformation durch die Absicht (Intentionalität) und strategische Architektur. Desinformation ist so alt wie die Kommunikation selbst (siehe 'Art of War', Sun Tzu), hat jedoch durch die digitale Revolution eine qualitative Metamorphose durchlaufen. Von der manuellen Fälschung (Dezinformatsiya im Kalten Krieg) zur algorithmischen Automatisierung und nun zur KI-generierten synthetischen Realität (Deepfakes). Die Skalierbarkeit und Personalisierung (Micro-Targeting) sind historisch beispiellos. Im poststrukturalistischen Diskurs markiert Desinformation den ultimativen Triumph des Simulakrum über die Referenz (Baudrillard). Wir erleben nicht bloß 'Lügen', sondern die Erosion der Wahrheitsbedingung selbst. Nach Foucault ist Wahrheit kein ontologischer Zustand, sondern ein Effekt von Machttechnologien; Desinformation hackt diese Technologien, indem sie das Dispositiv der Glaubwürdigkeit demokratisiert und zugleich atomisiert. Mark Fisher würde hierin eine Beschleunigung des 'Capitalist Realism' sehen, in dem die Realität selbst zur formbaren Ware wird, zombiehaft entleert von jeder objektiven Substanz. Adornos Kulturindustrie hat sich zur Desinformationsindustrie radikalisiert: Aufklärung schlägt nicht mehr in Mythos um, sondern in reines Rauschen. Desinformation nutzt die Infrastruktur der Aufmerksamkeit, um Zweifel zu säen. Luhmann: Wahrheit ist kein Code moderner Massenmedien, sondern Vertrauen. Baudrillard: Zeichenketten referenzieren aufeinander, Realität wird hyperreal. Systemtheoretisch verschieben Kampagnen die Themenkarriere, indem sie Aufmerksamkeit binden. Historisch verlagert sich Propaganda von Senderzentralen zu dezentralen Netzwerken.",
+    "en": "Disinformation is the intentional, systematic injection of false or misleading signals into the sociocommunicative space with the aim of undermining epistemic authorities, fragmenting reality consensuses, and destabilizing societal subsystems through targeted entropy increase. It differs from misinformation by intention (intentionality) and strategic architecture. Disinformation is as old as communication itself (see 'Art of War', Sun Tzu), but has undergone a qualitative metamorphosis through the digital revolution. From manual forgery (Dezinformatsiya in the Cold War) to algorithmic automation and now to AI-generated synthetic reality (Deepfakes). The scalability and personalization (Micro-Targeting) are historically unprecedented. In the poststructuralist discourse, disinformation marks the ultimate triumph of the simulacrum over reference (Baudrillard). We are not just experiencing 'lies', but the erosion of the condition of truth itself. According to Foucault, truth is not an ontological state, but an effect of power technologies; disinformation hacks these technologies by democratizing and atomizing the dispositif of credibility. Mark Fisher would see herein an acceleration of 'Capitalist Realism', in which reality itself becomes a moldable commodity, zombie-like emptied of any objective substance. Adorno's culture industry has radicalized into the disinformation industry: Enlightenment no longer turns into myth, but into pure noise. Disinformation exploits attention infrastructure to plant doubt. Luhmann: mass media code is not truth but trust. Baudrillard: sign chains reference each other; reality turns hyperreal. Systems view: campaigns shift issue careers by capturing attention. Historically, propaganda moves from central broadcasters to decentralised networks."
+  },
+  "mechanisms": {
+    "de": "Was ist das ontologische Substrat? Synthetische Realitätsfragmente, fabriziert zur Destabilisierung von Wahrheitssystemen. Wer sind die Vektoren? Staatliche Akteure (hybride Kriegsführung), kommerzielle Click-Farmen, ideologische Kollektive und algorithmische Verstärker. Wo liegt das Epizentrum? In den deregulierten Aufmerksamkeitsmärkten der sozialen Plattformen und den Schattenzonen des Dark Social (Messenger). Wann wird der Zustand kritisch? Im Moment der 'Polykrise' (Wahlen, Pandemien, Kriege), wenn die kognitive Belastungsgrenze des Kollektivs überschritten ist. Warum jetzt? Koinzidenz aus technologischer Machbarkeit (GenAI), Erosion traditioneller Gatekeeper und der Monetarisierung von Empörung. Wie erfolgt die Systemstabilisierung? Durch Erhöhung der epistemischen Resilienz (Medienkompetenz), regulatorische Eingriffe in Algorithmen und Re-Institutionalisierung von Vertrauen. Systemtheoretisch (Luhmann) betrachtet ist Desinformation ein parasitärer Code, der die binäre Codierung des Wissenschafts- und Mediensystems (wahr/unwahr) imitiert, um dessen Autopoiesis zu stören. Sie fungiert als 'Rauschen', das sich als 'Signal' maskiert. In der Informationstheorie erhöht sie die Entropie des Systems bis zum Punkt des 'Information Overload', was die Selektionsmechanismen der Kommunikation überlastet. Kybernetisch induziert Desinformation positive Rückkopplungsschleifen (Echo Chambers), die das System aus dem dynamischen Gleichgewicht (Homöostase) in chaotische Zustände treiben, was die Komplexitätsreduktion – die Hauptaufgabe sozialer Systeme – verunmöglicht. Koordinierte Inauthentizität simuliert Vielstimmigkeit. Memes verkürzen Komplexität und transportieren Affekt. Botnetze setzen Hashtags, erhöhen Sichtbarkeit, triggern Medienberichte. Deepfakes unterminieren audiovisuelle Evidenz. Plattformmoderation hinkt hinterher; Anreiz ist Engagement, nicht Verifikation.",
+    "en": "What is the ontological substrate? Synthetic reality fragments, fabricated to destabilize truth systems. Who are the vectors? State actors (hybrid warfare), commercial click farms, ideological collectives, and algorithmic amplifiers. Where is the epicenter? In the deregulated attention markets of social platforms and the shadow zones of Dark Social (messengers). When does the condition become critical? In the moment of 'poly-crisis' (elections, pandemics, wars), when the cognitive load limit of the collective is exceeded. Why now? Coincidence of technological feasibility (GenAI), erosion of traditional gatekeepers, and monetization of outrage. How is system stabilization achieved? Through increasing epistemic resilience (media literacy), regulatory interventions in algorithms, and re-institutionalization of trust. From a systems theory perspective (Luhmann), disinformation is a parasitic code that imitates the binary coding of the science and media systems (true/false) to disrupt their autopoiesis. It functions as 'noise' that masks itself as 'signal'. In information theory, it increases the entropy of the system to the point of 'information overload', overloading the selection mechanisms of communication. Cybernetically, disinformation induces positive feedback loops (echo chambers) that drive the system from dynamic equilibrium (homeostasis) into chaotic states, making complexity reduction – the main task of social systems – impossible. Coordinated inauthentic behaviour simulates plurality. Memes compress complexity and carry affect. Botnets seed hashtags, raise visibility, trigger news coverage. Deepfakes erode audiovisual evidence. Platform moderation lags; incentive is engagement, not verification."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "AstroTurf",
+        "en": "AstroTurf"
+      },
+      "description": {
+        "de": "Künstliche Graswurzelkampagne, die Massenunterstützung vortäuscht.",
+        "en": "Synthetic grassroots campaign that feigns mass support."
+      }
+    },
+    {
+      "name": {
+        "de": "Deepfake-Dub",
+        "en": "Deepfake Dub"
+      },
+      "description": {
+        "de": "Täuschung über audiovisuelle Spur, scheinbar authentisch.",
+        "en": "Deception via audiovisual track, seemingly authentic."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Simulakrum",
+      "definition": {
+        "de": "Zeichen oder Bild, das die Realität ersetzt und keine Referenz mehr hat.",
+        "en": "Sign or image that replaces reality and has no reference anymore."
+      }
+    },
+    {
+      "term": "Echo Chamber",
+      "definition": {
+        "de": "Umgebung, in der Meinungen verstärkt werden, ohne externe Kritik.",
+        "en": "Environment where opinions are amplified without external critique."
+      }
+    },
+    {
+      "term": "Coordinated Inauthentic Behavior",
+      "definition": {
+        "de": "Abgestimmte falsche Identitäten zur Verstärkung von Botschaften.",
+        "en": "Aligned fake identities to amplify messages."
+      }
+    },
+    {
+      "term": "Framing",
+      "definition": {
+        "de": "Auswahl und Gewichtung von Aspekten zur Sinnstiftung.",
+        "en": "Selection and weighting of aspects to produce meaning."
+      }
+    },
+    {
+      "term": "Deepfake",
+      "definition": {
+        "de": "Synthetische Medien, die echte Personen imitieren.",
+        "en": "Synthetic media imitating real persons."
+      }
+    }
+  ],
+  "related": [
+    "krieg",
+    "faschisierung",
+    "war",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-desinfo",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Threat intel reports"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/epistemic-vertigo.jpg",
+      "/media/echo-chamber-network.svg",
+      "/media/entropy-oscillator.png",
+      "/media/simulacrum-pyramid.jpg",
+      "/media/information-cascade.png"
+    ]
+  },
+  "editNotes": [
+    "D3: Bot activity timeline; meme diffusion network; deepfake detection trend."
+  ],
+  "timeline": [
+    {
+      "year": "1923",
+      "location": "UdSSR",
+      "event": "Gründung des 'Spezialbüros für Desinformation'",
+      "description": "Institutionalisierung der strategischen Täuschung als staatliches Machtinstrument."
+    },
+    {
+      "year": "1980er",
+      "location": "Global / USA",
+      "event": "Operation Infektion",
+      "description": "KGB-Kampagne, die behauptete, HIV sei eine US-Biowaffe; Vorläufer moderner Verschwörungsmythen."
+    },
+    {
+      "year": "2014",
+      "location": "Ukraine",
+      "event": "Trollfabrik",
+      "description": "Koordinierte Accounts prägen Konfliktnarrative."
+    },
+    {
+      "year": "2016",
+      "location": "USA / UK",
+      "event": "Wahlen & Brexit",
+      "description": "Industrieller Einsatz von Bot-Netzwerken und Cambridge Analytica; Durchbruch des 'Post-Truth'-Zeitalters."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Infodemic",
+      "description": "Massive Welle von Falschinformationen parallel zur COVID-19-Pandemie; Gesundheitsrisiko durch Information."
+    },
+    {
+      "year": "2023",
+      "location": "Cyberspace",
+      "event": "GenAI Explosion",
+      "description": "Demokratisierung perfekter Fälschungen (Audio/Video) durch KI-Tools; Beginn der Ära der nicht-verifizierbaren Realität."
+    },
+    {
+      "year": "2024",
+      "location": "Global",
+      "event": "Generative Deepfakes",
+      "description": "KI senkt Kosten, audiovisuelle Evidenz wird fragil."
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": "kuenstliche-intelligenz",
+  "slug": "kuenstliche-intelligenz",
+  "title": {
+    "de": "Künstliche Intelligenz",
+    "en": "Artificial intelligence"
+  },
+  "summary": {
+    "de": "Generative und prädiktive Systeme prägen Wahrnehmung, Arbeit und Steuerung; Verantwortlichkeit bleibt diffus.",
+    "en": "Generative and predictive systems shape perception, work, and governance; accountability remains diffuse."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "models",
+    "training",
+    "data",
+    "governance",
+    "automation",
+    "alignment",
+    "labour",
+    "infrastructure"
+  ],
+  "severity": 77,
+  "volatility": 71,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Modellgröße",
+        "en": "Model size"
+      },
+      "value": "skaliert",
+      "source": "Publikationen"
+    },
+    {
+      "label": {
+        "de": "Energiebedarf",
+        "en": "Energy demand"
+      },
+      "value": "+GPU-Cluster",
+      "source": "Rechenzentrumsdaten"
+    },
+    {
+      "label": {
+        "de": "Regulatory Filings",
+        "en": "Regulatory filings"
+      },
+      "value": "zunehmend",
+      "source": "Behördendatenbanken"
+    },
+    {
+      "label": {
+        "de": "Globale KI-Marktgröße (2024)",
+        "en": "Global AI market size (2024)"
+      },
+      "value": "~638 Mrd. USD",
+      "source": "Marktanalysen"
+    },
+    {
+      "label": {
+        "de": "KI-Adoptionsrate in Unternehmen (2024)",
+        "en": "AI adoption rate in companies (2024)"
+      },
+      "value": "72-75%",
+      "source": "Unternehmensumfragen"
+    },
+    {
+      "label": {
+        "de": "Arbeitsplatzexposition (Global)",
+        "en": "Job exposure (Global)"
+      },
+      "value": "40%",
+      "source": "Arbeitsmarktstudien"
+    },
+    {
+      "label": {
+        "de": "Energieverbrauch Rechenzentren (KI-Anteil)",
+        "en": "Energy consumption data centers (AI share)"
+      },
+      "value": "15-20%",
+      "source": "Energieberichte"
+    },
+    {
+      "label": {
+        "de": "Modell-Drift",
+        "en": "Model drift"
+      },
+      "value": "10⁻³ / Tag",
+      "source": "Monitoring generativer Systeme",
+      "note": "Veränderungen durch Feedback, Updates und Nutzungsdaten"
+    },
+    {
+      "label": {
+        "de": "GPU-Kapazität",
+        "en": "GPU capacity"
+      },
+      "value": "+140 % YoY",
+      "source": "Cloudanbieter",
+      "note": "Rechenleistung wächst schneller als Regulation"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist es ontologisch?",
+        "en": "What is it ontologically?"
+      },
+      "answer": {
+        "de": "Eine stochastische Papageien-Maschinerie, die statistische Wahrscheinlichkeiten als Semantik tarnt und kognitive Arbeit automatisiert.",
+        "en": "A stochastic parrot machinery that disguises statistical probabilities as semantics and automates cognitive labor."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer sind die Akteure?",
+        "en": "Who are the actors?"
+      },
+      "answer": {
+        "de": "Eine Tech-Oligarchie im Silicon Valley (Produzenten), das globale Prekariat (Daten-Labeler/Clickworker) und das quantifizierte Selbst (Nutzer/Rohstoff).",
+        "en": "A tech oligarchy in Silicon Valley (producers), the global precariat (data labelers/clickworkers), and the quantified self (users/raw material)."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo ist das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "In den Serverfarmen (physisch) und der Cloud (virtuell), diffundierend in jede smarte Infrastruktur und neuronale Schnittstelle.",
+        "en": "In server farms (physical) and the cloud (virtual), diffusing into every smart infrastructure and neural interface."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann wird es kritisch?",
+        "en": "When does it become critical?"
+      },
+      "answer": {
+        "de": "Der kritische Punkt (Singularität oder Systemkollaps) ist erreicht, wenn synthetische Daten die Trainingsbasis vergiften und die Realitätsprüfung versagt.",
+        "en": "The critical point (singularity or system collapse) is reached when synthetic data poisons the training base and reality checking fails."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum jetzt?",
+        "en": "Why now?"
+      },
+      "answer": {
+        "de": "Konvergenz dreier Vektoren: Exponentielle Rechenleistung (GPUs), ubiquitäre Big Data und hyperkapitalistischer Akkumulationsdruck.",
+        "en": "Convergence of three vectors: exponential computing power (GPUs), ubiquitous big data, and hypercapitalist accumulation pressure."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie stabilisiert man das System?",
+        "en": "How to stabilize the system?"
+      },
+      "answer": {
+        "de": "Durch radikale Demokratisierung der Algorithmen, 'Human-in-the-Loop'-Mandate und strikte regulatorische Entkopplung von Wahrheit und Wahrscheinlichkeit.",
+        "en": "Through radical democratization of algorithms, 'human-in-the-loop' mandates, and strict regulatory decoupling of truth and probability."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Künstliche Intelligenz (KI) bezeichnet den strukturellen Einsatz datengetriebener, insbesondere generativer Modelle zur Automatisierung von Entscheidungs-, Produktions- und Koordinationsprozessen, bei dem menschliche Urteils-, Wissens- und Kreativleistungen zunehmend in statistische Blackboxes ausgelagert werden. Diese Modelle operieren nicht regelbasiert, sondern probabilistisch; sie erzeugen Ergebnisse durch Musterextrapolation aus historischen Datenbeständen und verschieben damit Verantwortung, Kontrolle und Sinnzuschreibung von expliziten Akteuren hin zu technischen Systemen. Im spätmodernen Kontext ist KI weniger ein einzelnes Werkzeug als ein neues Ordnungsregime der Wertschöpfung und Steuerung. Sie reorganisiert Arbeit, Wissen, Macht und Zeitlichkeit zugleich – oft schneller, als rechtliche, ethische oder demokratische Kontrollmechanismen folgen können.",
+    "en": "Artificial intelligence (AI) denotes the structural deployment of data-driven, especially generative, models to automate decision, production and coordination processes while progressively outsourcing human judgement, knowledge and creativity into statistical black boxes. These models do not operate by rules but probabilistically; they deliver outputs through pattern extrapolation from historical datasets and thereby shift accountability, control and meaning-making from explicit actors to technical systems. In the late-modern context, AI is less a singular tool than a new ordering regime of value creation and governance, reorganising work, knowledge, power and temporality all at once—often faster than legal, ethical or democratic control mechanisms can follow."
+  },
+  "mechanisms": {
+    "de": "Skaleneffekte belohnen Datensammlung und Energieeinsatz. Modell-APIs binden Branchen an wenige Anbieter. Arbeitsprozesse werden hybrid: Menschen kuratieren Daten, korrigieren Output, übernehmen Haftung. Regulierung hinkt hinterher und wird oft von Branchenstandards geprägt, wodurch Pfadabhängigkeiten entstehen. Gleichzeitig ist die Verschiebung von Wertschöpfung asymmetrisch: Produktivitätsgewinne zentralisieren sich, Anpassungskosten verteilen sich auf prekäre oder ausgelagerte Tätigkeiten. KI erzeugt so eine Re-Hierarchisierung von Arbeit – wenige Kontroll- und Designrollen versus viele überwachte Mikrotasks.",
+    "en": "Scale effects reward data capture and energy spend. Model APIs lock industries to a handful of providers. Work becomes hybrid: humans curate data, correct outputs, assume liability. Regulation lags and is shaped by industry standards, creating path dependencies. At the same time the value shift is asymmetrical: productivity gains centralise while adaptation costs fall on precarious, outsourced tasks. AI thus produces a re-hierarchisation of labour—few control and design roles versus many monitored micro-tasks."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Prompt-Fließband",
+        "en": "Prompt assembly line"
+      },
+      "description": {
+        "de": "Menschen orchestrieren Modelloutput in Mikroschritten.",
+        "en": "Humans orchestrate model output in micro steps."
+      }
+    },
+    {
+      "name": {
+        "de": "Black-Box-Gutachter",
+        "en": "Black-box arbiter"
+      },
+      "description": {
+        "de": "Undurchsichtige Entscheidungen mit faktischer Autorität.",
+        "en": "Opaque decisions with de facto authority."
+      }
+    },
+    {
+      "name": {
+        "de": "Compute-Korridor",
+        "en": "Compute corridor"
+      },
+      "description": {
+        "de": "Regionen bieten Subventionen und Wasser, um Rechenzentren anzuziehen.",
+        "en": "Regions offer subsidies and water to attract data centres."
+      }
+    },
+    {
+      "name": {
+        "de": "Inference-Farm",
+        "en": "Inference farm"
+      },
+      "description": {
+        "de": "Serverhallen als semi-autonome Produktionsstätten, in denen Texte, Bilder und Entscheidungen industriell erzeugt werden – räumlich entkoppelt von ihren sozialen Folgen.",
+        "en": "Server halls turned into semi-autonomous production sites where text, images and decisions are generated industrially, spatially decoupled from their social consequences."
+      }
+    },
+    {
+      "name": {
+        "de": "Prompt-Kataster",
+        "en": "Prompt registry"
+      },
+      "description": {
+        "de": "Sammlungen impliziter Steuerbefehle, Heuristiken und Qualitätsmetriken, die das Verhalten generativer Modelle profilieren.",
+        "en": "Collections of implicit control commands, heuristics and quality metrics that profile generative model behaviour."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Alignment",
+      "definition": {
+        "de": "Abgleich von Modellverhalten mit menschlichen Werten; bleibt vage.",
+        "en": "Aligning model behaviour with human values; remains vague."
+      }
+    },
+    {
+      "term": "Inference",
+      "definition": {
+        "de": "Ausführen eines trainierten Modells auf Eingabedaten.",
+        "en": "Executing a trained model on input data."
+      }
+    },
+    {
+      "term": "Data Exhaust",
+      "definition": {
+        "de": "Nebenbei entstehende Daten, die zu Trainingsmaterial werden.",
+        "en": "By-product data later used for training."
+      }
+    },
+    {
+      "term": "Transformer-Architektur",
+      "definition": {
+        "de": "Moderne KI-Architektur für sequenzielle Datenverarbeitung mit Attention-Mechanismus.",
+        "en": "Modern AI architecture for sequential data processing with attention mechanism."
+      }
+    },
+    {
+      "term": "Ground Truth",
+      "definition": {
+        "de": "Verifizierte, korrekte Referenzdaten zur Modellvalidierung.",
+        "en": "Verified, correct reference data for model validation."
+      }
+    },
+    {
+      "term": "Model Collapse",
+      "definition": {
+        "de": "Degenerative Entropie-Spirale durch Selbst-Referenzialität ohne externe Korrektur.",
+        "en": "Degenerative entropy spiral through self-referentiality without external correction."
+      }
+    },
+    {
+      "term": "Stochastische Papageien-Maschinerie",
+      "definition": {
+        "de": "Metapher für generative KI, die Wahrscheinlichkeiten als Bedeutung tarnt.",
+        "en": "Metaphor for generative AI that disguises probabilities as meaning."
+      }
+    },
+    {
+      "term": "Quantifiziertes Selbst",
+      "definition": {
+        "de": "Subjekt, das sich primär durch Datenprofile und algorithmische Bewertung definiert.",
+        "en": "Subject that primarily defines itself through data profiles and algorithmic evaluation."
+      }
+    }
+  ],
+  "citations": [
+    {
+      "label": "Theodor W. Adorno & Max Horkheimer - Dialectic of Enlightenment",
+      "note": "Kritische Theorie der instrumentellen Vernunft und Dialektik der Aufklärung"
+    },
+    {
+      "label": "Michel Foucault - The Birth of Biopolitics",
+      "note": "Algorithmische Gouvernementalität und Kontrollgesellschaften"
+    },
+    {
+      "label": "Gilles Deleuze - Postscript on the Societies of Control",
+      "note": "Übergang von Disziplinar- zu Kontrollgesellschaften"
+    },
+    {
+      "label": "Mark Fisher - Capitalist Realism",
+      "note": "Hauntologie und Unfähigkeit zur Imagination des Neuen"
+    },
+    {
+      "label": "Achille Mbembe - Necropolitics",
+      "note": "Transformation zur Psychopolitik"
+    },
+    {
+      "label": "Byung-Chul Han - Psychopolitics",
+      "note": "Von Nekropolitik zur Psychopolitik der Aufmerksamkeit"
+    },
+    {
+      "label": "Niklas Luhmann - Soziale Systeme",
+      "note": "Autopoietisches Subsystem zweiter Ordnung und Entropie-Export"
+    }
+  ],
+  "related": [
+    "surveillance",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus",
+    "corruption",
+    "entmenschlichung-buerokratie",
+    "entfremdung",
+    "asylpolitik",
+    "aufmerksamkeitsoekonomie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "1.0.0",
+  "media": {
+    "images": [
+      "/media/kuenstliche-intelligenz/crisis-placeholder.jpg",
+      "/media/kuenstliche-intelligenz/impact-placeholder.png",
+      "/media/kuenstliche-intelligenz/solution-placeholder.jpg"
+    ]
+  },
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "kuenstliche-intelligenz",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "KI-Platzhalter ersetzt, Fokus auf epistemische Infrastruktur und Pfadabhängigkeiten.",
+    "Umfassende Erweiterung mit systemtheoretischer Analyse, Q&A, statistischen Indikatoren, Glossar-Erweiterung und Zitierungen.",
+    "Draft belassen für weitere Energie- und Arbeitszahlen."
+  ],
+  "analysis": {
+    "de": "Künstliche Intelligenz fungiert als Beschleuniger bereits bestehender struktureller Spannungen. Sie ersetzt nicht isoliert Tätigkeiten, sondern verändert die Logik der Organisation von Arbeit und Entscheidung. Wo zuvor menschliche Urteile, implizites Wissen und soziale Aushandlung dominierten, treten Modelle, Scores und Outputs an ihre Stelle, deren innere Funktionsweise selbst für Betreiber nur begrenzt nachvollziehbar ist. KI wird damit zu einem Frühindikator systemischer Fragilität:\n- Entscheidungslogiken entziehen sich öffentlicher Begründung,\n- Fehler werden erst im Betrieb sichtbar („deployment first, audit later“),\n- Skalierung überholt Aufsicht,\n- Macht konzentriert sich bei Akteuren mit Zugriff auf Rechenleistung, Daten und Infrastruktur,\n- Effizienzgewinne zentralisieren Gewinn, während Anpassungskosten dezentral verteilt werden.",
+    "en": "Artificial intelligence acts as an accelerator of existing structural tensions. It does not replace tasks in isolation but alters the logic of organising work and decision-making. Where human judgement, tacit knowledge and social negotiation once prevailed, models, scores and outputs now step in, whose inner workings remain opaque even to operators. AI therefore becomes an early indicator of systemic fragility:\n- Decision logics withdraw from public justification,\n- Errors emerge only in operations (\"deployment first, audit later\"),\n- Scaling outruns supervision,\n- Power concentrates with actors who control compute, data and infrastructure,\n- Productivity gains are centralised while adaptation costs are spread peripherally."
+  }
+}

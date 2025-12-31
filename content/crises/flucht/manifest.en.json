@@ -1,0 +1,196 @@
+{
+  "id": "flucht",
+  "slug": "flucht",
+  "title": {
+    "de": "Flucht",
+    "en": "Flight"
+  },
+  "summary": {
+    "de": "Organisierte Mobilität als Reaktion auf Gewalt, Klimaschocks, wirtschaftliche Verwerfung und Governance-Krisen.",
+    "en": "Organized mobility triggered by violence, climate shocks, economic rupture, and governance breakdown."
+  },
+  "categories": [
+    "Existenz",
+    "Kontrolle"
+  ],
+  "tags": [
+    "migration",
+    "asylum",
+    "violence",
+    "integration",
+    "governance"
+  ],
+  "severity": 88,
+  "volatility": 72,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Asylanträge EU",
+        "en": "EU Asylum Applications"
+      },
+      "value": "↑ 18% vs. prior year",
+      "source": "Eurostat"
+    },
+    {
+      "label": {
+        "de": "Fluchtkosten pro Familie",
+        "en": "Flight costs per family"
+      },
+      "value": "> €12,000",
+      "source": "NGO finance reports"
+    },
+    {
+      "label": {
+        "de": "Push-Faktoren",
+        "en": "Push factors"
+      },
+      "value": "Climate + war + state violence",
+      "source": "UNHCR"
+    },
+    {
+      "label": {
+        "de": "Governance-Fallen",
+        "en": "Governance traps"
+      },
+      "value": "40 states with shrinking capacities",
+      "source": "Transparency Intl."
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was unterscheidet Flucht von Migration?",
+        "en": "What distinguishes flight from migration?"
+      },
+      "answer": {
+        "de": "Flucht bedeutet systemischen Druck auf Leib und Leben; Migration kann freiwillige Bewegung sein.",
+        "en": "Flight implies systemic pressure on life and limb; migration can be voluntary movement."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer trägt Verantwortung in den Transitketten?",
+        "en": "Who carries responsibility in the transit chains?"
+      },
+      "answer": {
+        "de": "Staaten, Frontex, private Transporteure und smarte Grenztechnologien teilen Verantwortung, aber externalisieren Kosten.",
+        "en": "States, Frontex, private carriers, and smart border technologies share responsibility while externalizing costs."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum ist Flucht so eng mit Klima, Krieg und Ungleichheit?",
+        "en": "Why is flight tightly linked to climate, war, and inequality?"
+      },
+      "answer": {
+        "de": "Weil Klimaschocks Ressourcen zerstören, Kriege Räume destabilisieren und Ungleichheiten Zugang zu Fluchtwegen diktieren.",
+        "en": "Because climate shocks destroy resources, wars destabilize territories, and inequalities dictate access to escape routes."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie stabilisiert man Fluchtbewegungen?",
+        "en": "How can flight movements be stabilized?"
+      },
+      "answer": {
+        "de": "Durch regionale Schutzräume, faire Asylverfahren, klimafeste Infrastruktur und Entkopplung von Sicherheit und Abschiebung.",
+        "en": "Through regional protection hubs, fair asylum procedures, climate-resilient infrastructure, and decoupling security from deportation."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Flucht ist Ausdruck kollektiver Systemschläge: Ressourcenknappheit, konflikthafte Geopolitik, Governance-Verlust. Sie offenbart, wie Macht und Kontrolle Ungleichheiten reproduzieren – Flüchtende werden zu Sicherungsobjekten.",
+    "en": "Flight expresses collective systemic shocks: resource scarcity, conflictual geopolitics, governance loss. It reveals how power and control reproduce inequalities – refugees become securitized objects."
+  },
+  "mechanisms": {
+    "de": "Push-Pull-Dynamiken: Krieg und Klimakippunkte erzeugen Druck, Abschiebesysteme und Lagerlogiken blockieren Wege.",
+    "en": "Push-pull dynamics: war and climate tipping pressure while deportation systems and camp logics block routes."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Transit-Graph",
+        "en": "Transit Graph"
+      },
+      "description": {
+        "de": "Routen, Knoten und digitale Walls strukturieren Bewegung.",
+        "en": "Routes, nodes, and digital walls choreograph movement."
+      }
+    },
+    {
+      "name": {
+        "de": "Klagende Stadt",
+        "en": "Testimonial City"
+      },
+      "description": {
+        "de": "Städte, die Flucht aufnehmen und ihre Infrastruktur der Solidarität widmen.",
+        "en": "Cities absorbing flight and dedicating infrastructure to solidarity."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Asylpolitik",
+      "definition": {
+        "de": "Politische Regeln, die Zugang, Schutz und Integration regulieren.",
+        "en": "Policies regulating access, protection, and integration."
+      }
+    }
+  ],
+  "triggers": [
+    "krieg",
+    "klimaflucht",
+    "migration",
+    "inflation"
+  ],
+  "related": [
+    "kontrollverlust",
+    "vertrauensverlust",
+    "care",
+    "polarisierung",
+    "exklusion"
+  ],
+  "citations": [
+    {
+      "label": "UNHCR Global Trends 2024",
+      "note": "Forced displacement tops 120 million globally."
+    },
+    {
+      "label": "IPCC AR6",
+      "note": "Climate hazards act as displacement multipliers."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2011",
+      "location": "Arab Spring",
+      "event": "Syrian displacement",
+      "description": "War drives millions from their region."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemic",
+      "description": "Borders close, supply chains break, migration stalls."
+    },
+    {
+      "year": "2023",
+      "location": "Mediterranean",
+      "event": "Climate shocks amplify flows",
+      "description": "Climate, war, and debt pressure intensify movement."
+    }
+  ],
+  "lastUpdatedISO": "2025-01-15T00:00:00.000Z",
+  "version": "0.1.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "flucht-202501"
+  },
+  "media": {
+    "images": [
+      "/media/flucht/crisis-placeholder.jpg"
+    ]
+  }
+}

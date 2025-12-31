@@ -1,0 +1,303 @@
+{
+  "id": "korruption",
+  "slug": "korruption",
+  "title": {
+    "de": "Korruption",
+    "en": "Corruption"
+  },
+  "summary": {
+    "de": "Amt und Einfluss werden privat verwertet; Ressourcen fließen in Netzwerke statt Gemeinwohl.",
+    "en": "Office and influence are used privately; resources flow to networks, not the commons."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "bribery",
+    "nepotism",
+    "state-capture",
+    "transparency",
+    "procurement"
+  ],
+  "severity": 77,
+  "volatility": 58,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Vergabe ohne Wettbewerb",
+        "en": "No-bid awards"
+      },
+      "value": "↑",
+      "source": "Audit offices"
+    },
+    {
+      "label": {
+        "de": "Whistleblower-Schutz",
+        "en": "Whistleblower protection"
+      },
+      "value": "lückenhaft",
+      "source": "NGO tracker"
+    },
+    {
+      "label": {
+        "de": "Vermögensoffenlegung",
+        "en": "Asset disclosure"
+      },
+      "value": "gering",
+      "source": "Integrity index"
+    },
+    {
+      "label": {
+        "de": "Globale Durchschnitt CPI 2023/24",
+        "en": "Global Average CPI 2023/24"
+      },
+      "value": "43/100",
+      "source": "Transparency International"
+    },
+    {
+      "label": {
+        "de": "Globale Kosten der Korruption (Schätzung)",
+        "en": "Global Cost of Corruption (Estimate)"
+      },
+      "value": "~5% des Welt-BIP",
+      "source": "World Bank"
+    },
+    {
+      "label": {
+        "de": "Korruptionsfälle Deutschland 2023 (BKA)",
+        "en": "Corruption Cases Germany 2023 (BKA)"
+      },
+      "value": "3.841",
+      "source": "Bundeskriminalamt"
+    },
+    {
+      "label": {
+        "de": "Deutschland CPI Score 2024",
+        "en": "Germany CPI Score 2024"
+      },
+      "value": "75",
+      "source": "Transparency International"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist es exakt?",
+        "en": "What exactly is it?"
+      },
+      "answer": {
+        "de": "Ein informeller Algorithmus zur Privatisierung öffentlicher Macht.",
+        "en": "An informal algorithm for the privatization of public power."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer ist betroffen/verantwortlich?",
+        "en": "Who is affected/responsible?"
+      },
+      "answer": {
+        "de": "Betroffen: Das Kollektiv (Verlust an Gemeinwohl). Verantwortlich: Der Nexus aus politischer Elite und ökonomischen Akteuren.",
+        "en": "Affected: The collective (loss of common good). Responsible: The nexus of political elite and economic actors."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "An den Schnittstellen der Allokation: Vergabeverfahren, Genehmigungsprozesse, Justiz.",
+        "en": "At the interfaces of allocation: procurement processes, approval procedures, justice."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann wird es kritisch?",
+        "en": "When does it become critical?"
+      },
+      "answer": {
+        "de": "Wenn die informellen Kosten (Bribes) die Transaktionskosten der Legalität unterschreiten.",
+        "en": "When the informal costs (bribes) undercut the transaction costs of legality."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum passiert es jetzt?",
+        "en": "Why is it happening now?"
+      },
+      "answer": {
+        "de": "Erosion institutioneller Bindungskräfte und globale Finanzströme, die lokale Kontrolle unmöglich machen.",
+        "en": "Erosion of institutional binding forces and global financial flows that make local control impossible."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie kann das System stabilisiert werden?",
+        "en": "How can the system be stabilized?"
+      },
+      "answer": {
+        "de": "Radikale Transparenz (Open Data), Schließung von Offshore-Schlupflöchern, Automatisierung von Bürokratie.",
+        "en": "Radical transparency (open data), closing offshore loopholes, automation of bureaucracy."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Korruption ist die systemische Subversion normativer Codes durch parasitäre Tauschlogiken. Sie bezeichnet nicht bloß individuelles Fehlverhalten, sondern den strukturellen Zerfall institutioneller Integrität, bei dem die funktionale Differenzierung (Recht, Politik, Wirtschaft) kollabiert und durch informelle Netzwerke der Reziprozität ('Gunst gegen Geld') überlagert wird. In der Sprache der Kybernetik: Ein Rauschen, das das Signal der legalen Ordnung übertönt. Korruption ist so alt wie die organisierte Macht, doch ihre moderne Ausprägung ist untrennbar mit dem Aufstieg des Nationalstaates und des globalen Kapitalismus verbunden. Während vormoderne Systeme oft auf Patronage basierten, definiert die Moderne Korruption als Abweichung vom Ideal der rationalen Bürokratie (Weber). Im Dispositiv der Macht (Foucault) fungiert Korruption nicht als Anomalie, sondern als 'dunkle Materie' der Gouvernementalität – eine informelle Biopolitik, die entscheidet, wer Zugang zu Ressourcen erhält und wer dem sozialen Tod (Mbembe, Necropolitics) überlassen wird. Nach Mark Fisher ('Capitalist Realism') ist Korruption kein externer Feind des Kapitalismus, sondern dessen logische Konsequenz: Wenn Profit das einzige Validierungskriterium ist, wird die Umgehung von Regeln zur betriebswirtschaftlichen Optimierungsstrategie. Adorno würde hierin die totale Verdinglichung erkennen, in der selbst das öffentliche Amt zur Ware degradiert, ein Tauschwert ohne Gebrauchswert für das Kollektiv. Systemtheoretisch (Luhmann) lässt sich Korruption als unzulässige 'Entdifferenzierung' beschreiben: Der Code der Wirtschaft (Zahlen/Nicht-Zahlen) penetriert den Code des Rechts (Recht/Unrecht) oder der Politik (Macht/Opposition). Das korrupte Teilsystem bildet eine parasitäre Autopoiesis, die sich durch Selbstreferenz (Bestechung erzeugt Erpressbarkeit erzeugt mehr Bestechung) stabilisiert. Physikalisch betrachtet erhöht Korruption die Entropie des Systems: Energie (Steuergelder, Ressourcen), die für Arbeitsleistung (Infrastruktur, Bildung) vorgesehen war, dissipiert als Reibungswärme in privaten Taschen. Der Wirkungsgrad des Staates sinkt, bis der thermodynamische Kollaps (Staatsversagen) eintritt. Korruption ist eine Umleitung öffentlicher Güter. Vetternwirtschaft ersetzt Merit; Capture verwandelt Aufsicht in Lobby. Transparenzdefizite ermöglichen Schattenvereinbarungen, komplexe Firmengeflechte verschleiern Begünstigte. Folgen: Investitionsverluste, sinkendes Vertrauen, schwache Institutionen.",
+    "en": "Corruption diverts public goods. Nepotism replaces merit; capture turns oversight into lobbying. Transparency gaps enable side deals; complex corporate webs hide beneficiaries. Outcomes: lost investment, eroded trust, weaker institutions."
+  },
+  "mechanisms": {
+    "de": "Intransparente Vergaben und Spenden schaffen Gegenleistungen. Politische Immunität senkt Sanktionsrisiko. Medienkonzentration reduziert Aufklärung. Internationale Geldflüsse und Briefkastenstrukturen verschleiern Eigentum. Kontrollinstanzen werden personell ausgedünnt.",
+    "en": "Opaque procurement and donations buy favors. Political immunity lowers sanction risk. Media concentration reduces scrutiny. Cross-border finance and shell firms obscure ownership. Oversight bodies are understaffed."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Capture-Kaskade",
+        "en": "Capture Cascade"
+      },
+      "description": {
+        "de": "Regulierer werden Teil der Branche, Regeln dienen Insidern.",
+        "en": "Regulators join the sector; rules serve insiders."
+      }
+    },
+    {
+      "name": {
+        "de": "Vettern-Ökonomie",
+        "en": "Crony Economy"
+      },
+      "description": {
+        "de": "Jobs und Aufträge folgen Loyalität, nicht Leistung.",
+        "en": "Jobs and contracts follow loyalty, not performance."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "State Capture",
+      "definition": {
+        "de": "Privatinteressen kontrollieren Gesetzgebung und Aufsicht.",
+        "en": "Private interests control lawmaking and oversight."
+      }
+    },
+    {
+      "term": "Transparenzdefizit",
+      "definition": {
+        "de": "Mangel an offengelegten Informationen über Geldflüsse und Interessen.",
+        "en": "Lack of disclosed information on money flows and interests."
+      }
+    },
+    {
+      "term": "Interessenkonflikt",
+      "definition": {
+        "de": "Überlagerung privater Vorteile und öffentlicher Rolle.",
+        "en": "Overlap of private gain and public role."
+      }
+    },
+    {
+      "term": "Parasitäre Tauschlogiken",
+      "definition": {
+        "de": "Informelle Austauschbeziehungen, die legale Codes unterlaufen.",
+        "en": "Informal exchange relationships that circumvent legal codes."
+      }
+    },
+    {
+      "term": "Entdifferenzierung",
+      "definition": {
+        "de": "Zusammenbruch funktionaler Differenzierung zwischen Systembereichen.",
+        "en": "Collapse of functional differentiation between system areas."
+      }
+    },
+    {
+      "term": "Gouvernementalität",
+      "definition": {
+        "de": "Kunst der Regierung von Menschen und Dingen (Foucault).",
+        "en": "Art of governing people and things (Foucault)."
+      }
+    },
+    {
+      "term": "Nekropolitik",
+      "definition": {
+        "de": "Politik, die über Leben und Tod entscheidet (Mbembe).",
+        "en": "Politics that decides over life and death (Mbembe)."
+      }
+    }
+  ],
+  "related": [
+    "corruption",
+    "aufruestung",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "autoritarismus",
+    "datenmissbrauch"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-korruption-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "TI, audits",
+      "note": "Perception, procurement red flags"
+    },
+    {
+      "label": "Michel Foucault - The Birth of Biopolitics",
+      "note": "Dispositiv der Macht und Gouvernementalität"
+    },
+    {
+      "label": "Achille Mbembe - Necropolitics",
+      "note": "Nekropolitik und Entscheidung über Leben und Tod"
+    },
+    {
+      "label": "Mark Fisher - Capitalist Realism",
+      "note": "Korruption als logische Konsequenz des Kapitalismus"
+    },
+    {
+      "label": "Theodor W. Adorno - Minima Moralia",
+      "note": "Totale Verdinglichung und Reifikation öffentlicher Ämter"
+    },
+    {
+      "label": "Niklas Luhmann - Soziale Systeme",
+      "note": "Funktionale Differenzierung und systemische Entdifferenzierung"
+    },
+    {
+      "label": "Max Weber - Wirtschaft und Gesellschaft",
+      "note": "Rationale Bürokratie als Ideal der Moderne"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/korruption/crisis-placeholder.jpg",
+      "/media/korruption/impact-placeholder.png",
+      "/media/korruption/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Sankey: funds flow from state to cronies; chord: company-politician links; shader: glitch over sealed files."
+  ],
+  "timeline": [
+    {
+      "year": "2016",
+      "location": "Global",
+      "event": "Leaks",
+      "description": "Offshore-Strukturen werden öffentlich."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Notfallvergaben",
+      "description": "Pandemie-Beschaffungen ohne Wettbewerb."
+    },
+    {
+      "year": "2023",
+      "location": "EU/Global South",
+      "event": "Medienkäufe",
+      "description": "Oligarchische Käufe reduzieren Aufklärungskapazität."
+    }
+  ]
+}

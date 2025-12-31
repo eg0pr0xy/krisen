@@ -1,0 +1,156 @@
+{
+  "id": "aufmerksamkeitsoekonomie",
+  "slug": "aufmerksamkeitsoekonomie",
+  "title": {
+    "de": "Aufmerksamkeits-oekonomie",
+    "en": "Attention Economy"
+  },
+  "summary": {
+    "de": "Aufmerksamkeit wird zur knappen Ressource; Plattformen stapeln Reize und vermessen Verweildauer.",
+    "en": "Attention becomes the scarce resource; platforms stack stimuli and meter dwell time."
+  },
+  "categories": [
+    "Gefühl",
+    "Kontrolle"
+  ],
+  "tags": [
+    "engagement",
+    "ads",
+    "dopamin",
+    "scroll",
+    "notification"
+  ],
+  "severity": 73,
+  "volatility": 77,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Tägliche Bildschirmzeit (Global Ø)",
+        "en": "Daily screen time (global avg)"
+      },
+      "value": "6.8 h",
+      "source": "DataReportal 2024"
+    },
+    {
+      "label": {
+        "de": "CPM Trend (Social)",
+        "en": "CPM trend (social)"
+      },
+      "value": "-18% YoY",
+      "source": "Werbemarktdaten"
+    },
+    {
+      "label": {
+        "de": "Anteil Kurzvideo am Traffic",
+        "en": "Short-video share of traffic"
+      },
+      "value": ">35%",
+      "source": "Sandvine 2024"
+    }
+  ],
+  "diagnosis": {
+    "de": "Die Aufmerksamkeitsökonomie ist ein kybernetisches Labor: Algorithmen optimieren Reizketten, Nutzer werden zum Messobjekt. Luhmann: Kommunikation reduziert Komplexität, doch hier wird sie endlos rekursiv. Baudrillard: Content wird Simulacrum, das nur noch auf Metriken verweist. Poststruktural: Zeichenketten reißen sich vom Referenten los; Affekte werden quantifiziert. Kulturell entsteht Dauerpräsenz, die Erholung und politisches Denken verdrängt.",
+    "en": "The attention economy is a cybernetic lab: algorithms optimise stimulus chains, users become measurement objects. Luhmann: communication reduces complexity, here it loops recursively. Baudrillard: content turns simulacrum referencing metrics only. Poststructural: sign chains detach from referents; affects are quantified. Culturally a state of permanent presence crowds out recovery and political thought."
+  },
+  "mechanisms": {
+    "de": "Ranking priorisiert Vorhersagbarkeit statt Relevanz. A/B-Tests verschieben Mikroelemente im Sekundentakt. Kurzvideo-Formate erhöhen Frequenz und senken kognitive Tiefe. Benachrichtigungen nutzen variable Verstärkung; Entzug wird als Verlust erlebt. Werbemärkte externalisieren Ermüdungskosten auf Nutzer und Pflegearbeit.",
+    "en": "Ranking privileges predictability over relevance. A/B tests move micro-elements each second. Short video formats raise cadence and lower cognitive depth. Notifications exploit variable reinforcement; withdrawal feels like loss. Ad markets externalise exhaustion onto users and care work."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Endlos-Scroll",
+        "en": "Infinite Scroll"
+      },
+      "description": {
+        "de": "Horizont verschiebt sich ständig; kein Signal für Abschluss.",
+        "en": "Horizon keeps moving; no closure signal."
+      }
+    },
+    {
+      "name": {
+        "de": "Benachrichtigungs-Schwarm",
+        "en": "Notification Swarm"
+      },
+      "description": {
+        "de": "Kleine rote Punkte bündeln Affekt und rufen ständig zurück.",
+        "en": "Small red dots bundle affect and recall users constantly."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Dwell Time",
+      "definition": {
+        "de": "Verweildauer als Leitmetrik für Relevanz und Werbewert.",
+        "en": "Time on content as key metric for relevance and ad value."
+      }
+    },
+    {
+      "term": "A/B-Test",
+      "definition": {
+        "de": "Simultanes Testen von Varianten, um Engagement zu maximieren.",
+        "en": "Parallel testing of variants to maximise engagement."
+      }
+    },
+    {
+      "term": "Engagement Farm",
+      "definition": {
+        "de": "Content-Produktion, die ausschließlich Kennzahlen bedient.",
+        "en": "Content production optimised solely for metrics."
+      }
+    }
+  ],
+  "related": [
+    "medienerosion",
+    "biopolitische-zuschreibungen",
+    "drogen",
+    "empoerungsdynamiken",
+    "entmenschlichung-buerokratie",
+    "exklusion"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-aufmerksamkeit",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "DataReportal 2024"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/aufmerksamkeitsoekonomie/crisis-placeholder.jpg",
+      "/media/aufmerksamkeitsoekonomie/impact-placeholder.png",
+      "/media/aufmerksamkeitsoekonomie/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Scroll-depth histogram + CPM trend; notification burst timeline."
+  ],
+  "timeline": [
+    {
+      "year": "2006",
+      "location": "USA",
+      "event": "Newsfeed-Launch",
+      "description": "Feed-Struktur standardisiert endlose Reihenfolge."
+    },
+    {
+      "year": "2016",
+      "location": "Global",
+      "event": "Engagement als Leitkennzahl",
+      "description": "Algorithmen priorisieren Reaktionen, Empörung steigt."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Kurzvideo dominiert",
+      "description": "Vertikale Feeds verkürzen Aufmerksamkeitsspannen."
+    }
+  ]
+}

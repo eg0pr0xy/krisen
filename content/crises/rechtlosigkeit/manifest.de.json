@@ -1,0 +1,158 @@
+{
+  "id": "rechtlosigkeit",
+  "slug": "rechtlosigkeit",
+  "title": {
+    "de": "Rechtlosigkeit",
+    "en": "Rightlessness"
+  },
+  "summary": {
+    "de": "Menschen fallen aus dem Rechtsraum: Lager, Zonen, provisorische Status verschieben Schutz in Ausnahmen.",
+    "en": "People drop out of legal space: camps, zones, provisional statuses push protection into exceptions."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle",
+    "Existenz"
+  ],
+  "tags": [
+    "state-of-exception",
+    "detention",
+    "statelessness",
+    "temporary-status",
+    "paperless"
+  ],
+  "severity": 76,
+  "volatility": 58,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Menschen ohne Papiere",
+        "en": "People without papers"
+      },
+      "value": "steigend",
+      "source": "NGO counts"
+    },
+    {
+      "label": {
+        "de": "Haft ohne Urteil",
+        "en": "Detention w/o verdict"
+      },
+      "value": "↑",
+      "source": "Human rights reports"
+    },
+    {
+      "label": {
+        "de": "Prekäre Aufenthaltstitel",
+        "en": "Precarious permits"
+      },
+      "value": "Zunahme",
+      "source": "Migration stats"
+    }
+  ],
+  "diagnosis": {
+    "de": "Rechtlosigkeit entsteht, wenn der Ausnahmezustand habitualisiert wird. Agamben: Lager als Signatur der Moderne. Verwaltung erzeugt Zonen der Nicht-Zugehörigkeit: Transitzonen, Offshore-Processing, Duldung. Digitalisierung verschiebt Entscheidungen in Scorecards; Fehler bleiben ohne Rechtsmittel. Rechtliche Grauzonen disziplinieren Mobilität und Arbeit.",
+    "en": "Rightlessness emerges when exception becomes routine. Agamben: the camp as modern signature. Administration creates zones of non-belonging: transit areas, offshore processing, tolerated status. Digitalisation moves decisions into scorecards; errors lack remedies. Legal grey zones discipline mobility and labour."
+  },
+  "mechanisms": {
+    "de": "Souveränität definiert Zugehörigkeit über Dokumente. Ohne Papiere fehlen Verträge, Banking, Wohnen. Angst vor Abschiebung senkt Lohnforderungen. Lagerlogik koppelt Versorgung an Gehorsam. Behördliche Überlastung verlängert Verfahren, Provisorien werden Dauerzustand.",
+    "en": "Sovereignty defines belonging via documents. Without papers, contracts, banking, housing vanish. Fear of deportation suppresses wage claims. Camp logic ties provision to compliance. Administrative overload stretches procedures; provisional becomes permanent."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Transit-Schleife",
+        "en": "Transit Loop"
+      },
+      "description": {
+        "de": "Dauerschleife zwischen Ankunft, Anhörung, Duldung ohne Endpunkt.",
+        "en": "Endless loop between arrival, hearing, tolerated stay without resolution."
+      }
+    },
+    {
+      "name": {
+        "de": "Papierloser Arbeitsmarkt",
+        "en": "Paperless Labor"
+      },
+      "description": {
+        "de": "Beschäftigung in Schattenökonomien, keine Ansprüche, hohe Erpressbarkeit.",
+        "en": "Work in shadow economies, no entitlements, high extortability."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ausnahmezustand",
+      "definition": {
+        "de": "Situation, in der Normen suspendiert und durch Dekret ersetzt werden.",
+        "en": "Situation where norms are suspended and replaced by decree."
+      }
+    },
+    {
+      "term": "Duldung",
+      "definition": {
+        "de": "Vorläufiger Status ohne Perspektive, jederzeit widerrufbar.",
+        "en": "Provisional status without perspective, revocable at any time."
+      }
+    },
+    {
+      "term": "Statelessness",
+      "definition": {
+        "de": "Fehlen jeder Staatsangehörigkeit und damit verbundener Rechte.",
+        "en": "Absence of any nationality and related rights."
+      }
+    }
+  ],
+  "related": [
+    "asylpolitik",
+    "grenzregime",
+    "illegale-arbeit",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "atomare-abschreckung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-rechtlosigkeit-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "UNHCR/NGO",
+      "note": "Statelessness, detention figures"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/rechtlosigkeit/crisis-placeholder.jpg",
+      "/media/rechtlosigkeit/impact-placeholder.png",
+      "/media/rechtlosigkeit/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Arc map: detention sites; bar: permit types duration; glitch shader: exception zones."
+  ],
+  "timeline": [
+    {
+      "year": "2001",
+      "location": "Global",
+      "event": "Security turn",
+      "description": "Expanded detention and expedited procedures."
+    },
+    {
+      "year": "2015",
+      "location": "EU",
+      "event": "Transitzonen",
+      "description": "Grenzzonen werden Dauerlösung, Rechtsmittel verkürzt."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Scoring",
+      "description": "Algorithmen bewerten Bleibeperspektiven; Transparenz gering."
+    }
+  ]
+}

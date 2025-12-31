@@ -1,0 +1,265 @@
+{
+  "id": "autokratie",
+  "slug": "autokratie",
+  "title": {
+    "de": "Autokratie",
+    "en": "Autocracy"
+  },
+  "summary": {
+    "de": "Autokratie bezeichnet einen strukturellen Zustand politischer Ordnung, in dem Entscheidungs-, Deutungs- und Vollzugsmacht dauerhaft in einem eng begrenzten Machtzentrum konzentriert sind und nicht mehr wirksam durch demokratische Verfahren, institutionelle Gewaltenteilung oder gesellschaftliche Rückkopplung begrenzt werden. Im Unterschied zu autoritären Praktiken ist Autokratie keine bloße Regierungsweise, sondern eine institutionell verfestigte Krisenform: Sie entsteht aus der Überforderung demokratischer Systeme und stabilisiert sich durch die systematische Reduktion von Pluralität, Kritik und Unsicherheit. Autokratie ersetzt politische Aushandlung durch Entscheidung, Legitimation durch Kontrolle und Verantwortung durch Loyalität. Autokratie ist damit weniger eine Abweichung vom System als ein sekundärer Ordnungszustand, der sich aus multiplen Krisen speist und diese zugleich reproduziert.",
+    "en": "Autocracy denotes a structural state of political order in which decision-making, interpretive and executive power remain permanently concentrated within a narrowly defined center of power and are no longer effectively limited by democratic procedures, institutional separation of powers, or societal feedback loops. Unlike authoritarian practices, autocracy is not merely a form of government, but an institutionally solidified crisis form: it emerges from the overload of democratic systems and stabilizes itself through the systematic reduction of plurality, criticism, and uncertainty. Autocracy replaces political negotiation with decision, legitimation with control, and responsibility with loyalty. Autocracy is thus less a deviation from the system than a secondary state of order that feeds on multiple crises and simultaneously reproduces them."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "autoritarismus",
+    "demokratieabbau",
+    "rechtsstaat",
+    "legitimität",
+    "machtkonzentration",
+    "zentralisierung"
+  ],
+  "severity": 81,
+  "volatility": 49,
+  "timeHorizon": "mid",
+  "systemicLoad": 1,
+  "signals": [
+    {
+      "label": {
+        "de": "Legislative Kontrolle",
+        "en": "Legislative Control"
+      },
+      "value": "Überreizt",
+      "source": "Parlamentsberichte"
+    },
+    {
+      "label": {
+        "de": "Medienpluralismus",
+        "en": "Media Pluralism"
+      },
+      "value": "↓ stark",
+      "source": "Medienbeobachter"
+    },
+    {
+      "label": {
+        "de": "Oppositionsdruck",
+        "en": "Opposition Pressure"
+      },
+      "value": "neutralisiert",
+      "source": "Oppositionsberichte"
+    },
+    {
+      "label": {
+        "de": "Institutionelle Rückkopplung",
+        "en": "Institutional Feedback"
+      },
+      "value": "blockiert",
+      "source": "Verfassungsgerichte"
+    },
+    {
+      "label": {
+        "de": "Zivilgesellschaftliche Resonanz",
+        "en": "Civil Society Resonance"
+      },
+      "value": "unterdrückt",
+      "source": "NGO-Berichte"
+    }
+  ],
+  "diagnosis": {
+    "de": "Autokratie ist ein struktureller Krisenzustand, in dem Gesellschaften auf Überforderung mit Machtkonzentration reagieren. Sie ersetzt demokratische Selbststeuerung durch zentralisierte Entscheidung, blockiert Rückkopplung und transformiert Polykrisen in einen dauerhaften Ausnahmezustand. Kurzfristige Ordnung wird mit langfristiger Fragilität erkauft. In kybernetischer Perspektive versucht Autokratie, Komplexität durch Zentralisierung zu neutralisieren. Rückkopplung wird als Störung interpretiert, nicht als Lernquelle. Entscheidungen fließen top-down, Feedback wird gefiltert oder sanktioniert, Fehler akkumulieren ohne Korrektur. Autokratie erzeugt lokal Negentropie (Ordnung im Machtzentrum), während sie Entropie externalisiert: soziale Spannungen, Gewalt, Exil, ökonomische Instabilität. Langfristig entsteht ein selbstverstärkender Fehlsteuerungskreislauf.",
+    "en": "Autocracy is a structural crisis state in which societies react to overwhelm by concentrating power. It replaces democratic self-governance with centralized decision-making, blocks feedback loops and turns polycrises into permanent states of exception. Short-term order is bought with long-term fragility. From a cybernetic perspective, autocracy attempts to neutralize complexity through centralization. Feedback is interpreted as disturbance, not as a source of learning. Decisions flow top-down, feedback is filtered or sanctioned, errors accumulate without correction. Autocracy generates local negentropy (order in the power center) while externalizing entropy: social tensions, violence, exile, economic instability. In the long term, a self-reinforcing cycle of misgovernance emerges."
+  },
+  "mechanisms": {
+    "de": "Machtkonzentration ohne institutionelle Kontrolle, Delegitimierung von Dissens, Exekutivdominanz, symbolische Einheit und Rechtsfunktionalisierung bilden eine selbstverstärkende Fehlsteuerung. Autokratie transformiert das Verhältnis zwischen Staat und Gesellschaft: Bürger*innen werden zu Adressaten statt Subjekten, Opposition wird delegitimiert oder kriminalisiert, Medien werden kontrolliert oder marginalisiert, Recht wird funktionalisiert (Schutz → Vollzug). Soziale Loyalität ersetzt politische Zustimmung. Stabilität wird performativ, nicht substantiell.",
+    "en": "Power concentration without institutional checks, delegitimization of dissent, executive dominance, symbolic unity and the functionalization of law create a self-reinforcing misgovernance loop. Autocracy transforms the relationship between state and society: citizens become addressees rather than subjects, opposition is delegitimized or criminalized, media are controlled or marginalized, law is functionalized (protection → enforcement). Social loyalty replaces political consent. Stability becomes performative, not substantive."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Entscheidungsmonopol",
+        "en": "Decision Monopoly"
+      },
+      "description": {
+        "de": "Ein einzelnes Zentrum trifft alle wesentlichen Entscheidungen ohne institutionelle Rückbindung oder demokratische Legitimierung.",
+        "en": "A single center makes all essential decisions without institutional accountability or democratic legitimation."
+      }
+    },
+    {
+      "name": {
+        "de": "Feedbackfilter",
+        "en": "Feedback Filter"
+      },
+      "description": {
+        "de": "Kritische Signale, abweichende Meinungen und Fehlermeldungen werden systematisch ausgeblendet, sanktioniert oder umgedeutet, wodurch Lernfähigkeit und Korrekturmechanismen erodieren.",
+        "en": "Critical signals, dissenting opinions and error messages are systematically filtered out, sanctioned or reinterpreted, eroding learning capacity and correction mechanisms."
+      }
+    },
+    {
+      "name": {
+        "de": "Symbolische Einheit",
+        "en": "Symbolic Unity"
+      },
+      "description": {
+        "de": "Die Fiktion nationaler, kultureller oder ideologischer Homogenität ersetzt pluralistische Aushandlung und kaschiert interne Machtkämpfe.",
+        "en": "The fiction of national, cultural or ideological homogeneity replaces pluralistic negotiation and masks internal power struggles."
+      }
+    },
+    {
+      "name": {
+        "de": "Rechtsfunktionalisierung",
+        "en": "Legal Functionalization"
+      },
+      "description": {
+        "de": "Recht dient nicht mehr der Begrenzung von Macht, sondern ihrer Durchsetzung und Legitimierung - von Schutz zu Vollzug.",
+        "en": "Law no longer serves to limit power, but to enforce and legitimize it - from protection to execution."
+      }
+    },
+    {
+      "name": {
+        "de": "Exekutivdominanz",
+        "en": "Executive Dominance"
+      },
+      "description": {
+        "de": "Verwaltung, Sicherheitsapparate und exekutive Organe ersetzen die Politik als primäre Entscheidungsinstanz.",
+        "en": "Administration, security apparatuses and executive bodies replace politics as the primary decision-making authority."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Autoritarismus",
+      "definition": {
+        "de": "Hierarchischer Steuerungsmodus, der Ordnung über Kontrolle erzwingt.",
+        "en": "Hierarchical mode of governance that enforces order through control."
+      }
+    },
+    {
+      "term": "Demokratieabbau",
+      "definition": {
+        "de": "Entleerung von Prozeduren, Standards und Institutionen demokratischer Selbststeuerung.",
+        "en": "Hollowing-out of procedures, norms and institutions of democratic self-rule."
+      }
+    },
+    {
+      "term": "Kybernetik",
+      "definition": {
+        "de": "Wissenschaft von Steuerung, Regelung und Kommunikation in komplexen Systemen.",
+        "en": "Science of control, regulation and communication in complex systems."
+      }
+    },
+    {
+      "term": "Negentropie",
+      "definition": {
+        "de": "Lokale Ordnungsbildung durch Energieeinsatz in einem entropischen Umfeld.",
+        "en": "Local order formation through energy expenditure in an entropic environment."
+      }
+    },
+    {
+      "term": "Politische Theologie",
+      "definition": {
+        "de": "Carl Schmitts Konzept des Politischen als Entscheidung über Freund und Feind im Ausnahmezustand.",
+        "en": "Carl Schmitt's concept of the political as decision about friend and enemy in the state of exception."
+      }
+    }
+  ],
+  "related": [
+    "demokratieabbau",
+    "autoritarismus",
+    "aufruestung",
+    "algorithmische-steuerung",
+    "biopolitische-zuschreibungen",
+    "prekarisierung",
+    "flucht",
+    "faschisierung"
+  ],
+  "triggers": [
+    "demokratieabbau",
+    "autoritarismus",
+    "aufruestung",
+    "algorithmische-steuerung",
+    "biopolitische-zuschreibungen",
+    "prekarisierung",
+    "flucht"
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Warum entsteht Autokratie?",
+        "en": "Why does autocracy emerge?"
+      },
+      "answer": {
+        "de": "Autokratie entsteht als Reaktion auf gesellschaftliche Überforderung: Wenn demokratische Verfahren zu langsam wirken, Sicherheitsdiskurse dominieren und Komplexität politisch nicht mehr vermittelbar erscheint, verspricht Zentralisierung schnelle Ordnung. Sie ist kein primärer Auslöser, sondern ein Verdichtungsevent innerhalb der Polykrise.",
+        "en": "Autocracy emerges as a reaction to societal overwhelm: when democratic procedures seem too slow, security discourses dominate and complexity becomes politically incommunicable, centralization promises quick order. It is not a primary trigger, but a condensation event within the polycrisis."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie unterscheidet sich Autokratie von Autoritarismus?",
+        "en": "How does autocracy differ from authoritarianism?"
+      },
+      "answer": {
+        "de": "Autoritarismus ist ein hierarchischer Steuerungsmodus (Ordnung durch Kontrolle), Autokratie eine institutionell verfestigte Machtstruktur (Entscheidung ohne Rückbindung), Faschisierung eine affektive Mobilisierungsdynamik. Autokratie ist der institutionelle Fixpunkt, an dem autoritäre Logiken sedimentieren.",
+        "en": "Authoritarianism is a hierarchical mode of governance (order through control), autocracy an institutionally solidified power structure (decision without accountability), fascism an affective mobilization dynamic. Autocracy is the institutional fixation point where authoritarian logics sediment."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche systemischen Risiken birgt Autokratie?",
+        "en": "What systemic risks does autocracy entail?"
+      },
+      "answer": {
+        "de": "Autokratie blockiert Rückkopplung und Lernfähigkeit, führt zu Fehlentscheidungsakkumulation und externalisiert Entropie (soziale Spannungen, Gewalt, Exil). Sie kauft kurzfristige Ordnung mit langfristiger Fragilität und erhöht die Wahrscheinlichkeit abrupten Systemversagens.",
+        "en": "Autocracy blocks feedback and learning capacity, leads to error accumulation and externalizes entropy (social tensions, violence, exile). It buys short-term order with long-term fragility and increases the probability of abrupt system failure."
+      }
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/autokratie/decision-monopoly-placeholder.jpg",
+      "/media/autokratie/feedback-filter-placeholder.png",
+      "/media/autokratie/symbolic-unity-placeholder.jpg",
+      "/media/autokratie/legal-functionalization-placeholder.png",
+      "/media/autokratie/executive-dominance-placeholder.jpg"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "1921",
+      "location": "Deutschland",
+      "event": "Carl Schmitt: Politische Theologie",
+      "description": "Schmitt entwickelt das Konzept der Entscheidung im Ausnahmezustand als Kern des Politischen."
+    },
+    {
+      "year": "1933",
+      "location": "Deutschland",
+      "event": "Ermächtigungsgesetz",
+      "description": "Das Ermächtigungsgesetz markiert den Übergang zur autokratischen Ordnung im nationalsozialistischen Deutschland."
+    },
+    {
+      "year": "1947",
+      "location": "USA",
+      "event": "National Security Act",
+      "description": "Schaffung des Nationalen Sicherheitsstaates als autokratisches Element in der US-Demokratie."
+    },
+    {
+      "year": "1989",
+      "location": "Osteuropa",
+      "event": "Fall der Berliner Mauer",
+      "description": "Zusammenbruch autokratischer Systeme in Osteuropa, aber Fortbestehen autokratischer Tendenzen."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "COVID-19 Autokratien",
+      "description": "Pandemie-bedingte Machtkonzentrationen in vielen Ländern verstärken autokratische Tendenzen."
+    }
+  ],
+  "lastUpdatedISO": "2025-01-26T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual"
+  }
+}

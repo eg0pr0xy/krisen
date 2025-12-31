@@ -1,0 +1,5 @@
+
+> krisen-—-kanon@0.0.0 validate:content
+> tsx scripts/validate-content.ts
+
+All manifests valid.

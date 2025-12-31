@@ -1,0 +1,131 @@
+{
+  "id": "inflation",
+  "slug": "inflation",
+  "title": {
+    "de": "Inflation",
+    "en": "Inflation"
+  },
+  "summary": {
+    "de": "Preisauftrieb entwertet Einkommen schneller als Löhne reagieren können.",
+    "en": "Price drift devalues incomes faster than wages can respond."
+  },
+  "categories": [
+    "Existenz"
+  ],
+  "tags": [
+    "prices",
+    "monetary-policy",
+    "supply-shock",
+    "expectations",
+    "rent"
+  ],
+  "severity": 74,
+  "volatility": 58,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "HVPI",
+        "en": "HICP"
+      },
+      "value": "6.1% YoY",
+      "source": "stat-office"
+    },
+    {
+      "label": {
+        "de": "Mietbelastung",
+        "en": "Rent burden"
+      },
+      "value": "42% income"
+    },
+    {
+      "label": {
+        "de": "Lohnanpassung",
+        "en": "Wage adjustment"
+      },
+      "value": "+2.3%"
+    }
+  ],
+  "diagnosis": {
+    "de": "Gleichzeitige Angebots- und Nachfrageimpulse halten die Preis-Spirale oberhalb der Zielbandbreite. Indexierte Verträge verstärken die Trägheit. Haushalte schichten in Sachwerte um und drücken Liquidität aus dem Umlauf.",
+    "en": "Concurrent supply and demand impulses keep the price spiral above target bands. Indexed contracts amplify inertia. Households pivot into hard assets and pull liquidity from circulation."
+  },
+  "mechanisms": {
+    "de": "Importpreise koppeln an geopolitische Reibung. Mieten reagieren asymmetrisch nach oben, weil Wohnraum knapp ist. Erwartungsbildung läuft über soziale Medien, wodurch Zentralbank-Signale gedämpft werden.",
+    "en": "Import prices hinge on geopolitical friction. Rents react asymmetrically upward because housing is scarce. Expectations form via social media, muting central bank signals."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Preisticker",
+        "en": "Price Ticker"
+      },
+      "description": {
+        "de": "Ständiges Mikro-Update der Kosten erzeugt Stress und kurzfristige Entscheidungen.",
+        "en": "Constant micro-updates of costs generate stress and short-horizon decisions."
+      }
+    },
+    {
+      "name": {
+        "de": "Schrumpfpackung",
+        "en": "Shrink Pack"
+      },
+      "description": {
+        "de": "Gleicher Preis, weniger Inhalt; kosmetische Stabilität verdeckt reale Erosion.",
+        "en": "Same price, less content; cosmetic stability masking real erosion."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Kerninflation",
+      "definition": {
+        "de": "Preisdynamik ohne Energie und Lebensmittel.",
+        "en": "Price dynamics excluding energy and food."
+      }
+    },
+    {
+      "term": "Zinskanal",
+      "definition": {
+        "de": "Wirkpfad, über den Leitzinsen Nachfrage dämpfen.",
+        "en": "Transmission path through which policy rates dampen demand."
+      }
+    },
+    {
+      "term": "Lohn-Preis-Spirale",
+      "definition": {
+        "de": "Rückkopplung aus steigenden Löhnen und Preisen.",
+        "en": "Feedback loop of rising wages and prices."
+      }
+    }
+  ],
+  "related": [
+    "alterung",
+    "arbeitslosigkeit",
+    "armut",
+    "artensterben",
+    "asylpolitik",
+    "atomare-abschreckung"
+  ],
+  "lastUpdatedISO": "2025-01-05T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "citations": [
+    {
+      "label": "Eurostat tables"
+    },
+    {
+      "label": "Rental market monitors"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/inflation/crisis-placeholder.jpg",
+      "/media/inflation/impact-placeholder.png",
+      "/media/inflation/solution-placeholder.jpg"
+    ]
+  }
+}

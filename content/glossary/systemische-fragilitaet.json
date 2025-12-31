@@ -1,0 +1,15 @@
+{
+  "term": "Systemische Fragilität",
+  "definition_de": "Die empfindliche Fähigkeit eines Systems, auf Störungen mit Resilienz zu reagieren. Fragilität wächst, wenn Komplexität steigt, Pfade versiegen und adaptive Kapazität sinkt. Sie zeigt sich nicht zuerst in spektakulären Zusammenbrüchen, sondern in langsam verschwindender Redundanz, verkürzten Feedbackschleifen und der Akkumulation unbezahlter Kosten.",
+  "definition_en": "The delicate capacity of a system to respond resiliently to shocks. Fragility increases when complexity rises, pathways tighten, and adaptive capacity decreases. It manifests not initially as spectacular collapse, but as vanishing redundancy, shortened feedback loops, and the accumulation of unpaid costs.",
+  "notes_de": "Instrumente wie Systemic Load oder Systemic Risk Matrix messen diese Fragilität numerisch.",
+  "notes_en": "Instruments such as the systemic load metric or the Systemic Risk Matrix quantify fragility numerically.",
+  "related_terms": [
+    "systemic-fragility",
+    "polykrise",
+    "klimaflucht",
+    "arbeitslosigkeit"
+  ],
+  "source": "Situational interpretation based on Manifesto diagnostics and Systemic Risk Matrix hook documentation.",
+  "short_form": "Fragilität zeigt sich im Verlust von Puffern und Rückkopplung."
+}

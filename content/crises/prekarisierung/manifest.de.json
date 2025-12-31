@@ -1,0 +1,326 @@
+{
+  "id": "prekarisierung",
+  "slug": "prekarisierung",
+  "title": {
+    "de": "Prekarisierung",
+    "en": "Precarisation"
+  },
+  "summary": {
+    "de": "Ein systemischer Prozess, in dem Arbeit und Leben dauerhaft unsicher, fragmentiert und von kollektiven Sicherungssystemen entkoppelt werden. Beschäftigung verwandelt sich in eine Abfolge befristeter, projektbasierter oder plattformvermittelter Tätigkeiten, deren Risiken individualisiert werden, während Einkommen, Wohnsituation, soziale Absicherung, Zukunftsplanung und Identität in einen Zustand permanenter Vorläufigkeit geraten.",
+    "en": "A systemic process that renders work and life permanently insecure, fragmented and disconnected from collective safety nets. Employment turns into a sequence of fixed-term, project-based or platform-mediated tasks whose risks are individualised, while income, housing, social protection, future planning and identity fall into a state of permanent provisionality."
+  },
+  "categories": [
+    "Gefühl",
+    "Existenz"
+  ],
+  "tags": [
+    "gig",
+    "befristet",
+    "lohn",
+    "klasse",
+    "unsicherheit"
+  ],
+  "severity": 77,
+  "volatility": 70,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anteil Befristung/Gig",
+        "en": "Share fixed-term/gig"
+      },
+      "value": ">25%",
+      "source": "Labor stats"
+    },
+    {
+      "label": {
+        "de": "Lohnvolatilität",
+        "en": "Income volatility"
+      },
+      "value": "hoch",
+      "source": "Household panels"
+    },
+    {
+      "label": {
+        "de": "Gewerkschaftsgrad",
+        "en": "Union density"
+      },
+      "value": "↓",
+      "source": "Union data"
+    },
+    {
+      "label": {
+        "de": "Armutsgefährdung (AROPE)",
+        "en": "At-risk-of-poverty (AROPE)"
+      },
+      "value": "20,9 %",
+      "source": "Statistische Ämter"
+    },
+    {
+      "label": {
+        "de": "Armutsgefährdungsquote",
+        "en": "Poverty risk rate"
+      },
+      "value": "15,5 %",
+      "source": "Statistische Ämter"
+    },
+    {
+      "label": {
+        "de": "Working Poor Quote",
+        "en": "Working poor rate"
+      },
+      "value": "8,2 %",
+      "source": "Statistische Ämter"
+    },
+    {
+      "label": {
+        "de": "Atypische Beschäftigung",
+        "en": "Atypical employment"
+      },
+      "value": "17,2 %",
+      "source": "Statistische Ämter"
+    },
+    {
+      "label": {
+        "de": "Materielle Entbehrung",
+        "en": "Material deprivation"
+      },
+      "value": "6,0 %",
+      "source": "Statistische Ämter"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist es exakt?",
+        "en": "What exactly is it?"
+      },
+      "answer": {
+        "de": "Ein struktureller Mechanismus zur Flexibilisierung von Arbeitskraft durch den Entzug von langfristiger Sicherheit und Planbarkeit.",
+        "en": "A structural mechanism for flexibilizing labor by withdrawing long-term security and predictability."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer ist betroffen?",
+        "en": "Who is affected?"
+      },
+      "answer": {
+        "de": "Nicht mehr nur das klassische Proletariat (Working Poor), sondern zunehmend die akademische Mittelschicht (Kognitariat), Freelancer und Plattform-Arbeiter.",
+        "en": "No longer just the classic proletariat (working poor), but increasingly the academic middle class (cognitariat), freelancers, and platform workers."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "In den deregulierten Zonen des Dienstleistungssektors (Gig Economy) und den befristeten Projektstrukturen der Wissensökonomie.",
+        "en": "In the deregulated zones of the service sector (gig economy) and the fixed-term project structures of the knowledge economy."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann wird es kritisch?",
+        "en": "When does it become critical?"
+      },
+      "answer": {
+        "de": "Wenn die individuellen Kompensationsmechanismen (Selbstausbeutung, Verschuldung) erschöpft sind und systemische Dysfunktionalität in soziale Unruhen umschlägt.",
+        "en": "When individual compensation mechanisms (self-exploitation, debt) are exhausted and systemic dysfunction turns into social unrest."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum jetzt?",
+        "en": "Why now?"
+      },
+      "answer": {
+        "de": "Konvergenz von neoliberaler Deregulierung, technologischer Disruption (KI/Automatisierung) und globaler Polykrise.",
+        "en": "Convergence of neoliberal deregulation, technological disruption (AI/automation), and global polycrisis."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie stabilisieren?",
+        "en": "How to stabilize?"
+      },
+      "answer": {
+        "de": "Durch Rekommodifizierung sozialer Sicherheit, bedingungslose Grundeinkommensmodelle oder radikale Arbeitszeitverkürzung zur Umverteilung des Volumens.",
+        "en": "Through recommodification of social security, unconditional basic income models, or radical reduction in working hours to redistribute volume."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Prekarisierung verwandelt Stabilität in ein individuelles Projekt und Unsicherheit in eine kollektive Normalität. Sie unterminiert biografische Kontinuität, schwächt Solidarität und verteilt Risiken überproportional auf diejenigen mit geringster Kontrolle. Dieser dauerhafte Ordnungsmodus late/moderner Ökonomien macht Prekarisierung zur treibenden Kraft multipler Krisen: Arbeitslosigkeit, Demokratieabbau, Faschisierung, algorithmische Steuerung und biopolitische Zuschreibungen stehen in direkter Verbindung zu dieser Entkopplung von Arbeit, Identität und Sicherheit.",
+    "en": "Precarisation turns stability into an individual project and uncertainty into collective normality. It undermines biographical continuity, weakens solidarity, and disproportionately loads risk onto those with the least control. This enduring mode of order in late modern economies makes precarisation a driving force of multiple crises: unemployment, democratic erosion, fascism, algorithmic governance and biopolitical ascriptions are directly connected to this decoupling of labour, identity and security."
+  },
+  "mechanisms": {
+    "de": "Unternehmen flexibilisieren Kosten über Kurzverträge. Plattformen externalisieren Risiko. Sozialsysteme koppeln an Standardbiografien und schließen flexible Erwerbsformen aus. Löhne schwanken, Kreditzugang sinkt. Politische Repräsentation der Prekären bleibt diffus. Langfristig führt systemische Prekarisierung zur Erosion des gesellschaftlichen Zusammenhalts (Anomie), zum Kollaps der Reproduktionsfähigkeit der Gesellschaft (Geburtenrückgang aufgrund von Unsicherheit) und zur Radikalisierung politischer Ränder durch Ressentiment-getriebene Affektpolitik. Das System verzehrt seine eigene Basis.",
+    "en": "Firms flex costs via short contracts. Platforms externalise risk. Welfare systems hinge on standard careers and miss flexible work. Wages swing; credit access drops. Political representation of the precarious remains diffuse. In the long term, systemic precarization leads to the erosion of social cohesion (anomie), the collapse of society's reproductive capacity (birth rate decline due to uncertainty), and the radicalization of political fringes through resentment-driven affect politics. The system consumes its own basis."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Dauerschleife Probe",
+        "en": "Perma-Trial"
+      },
+      "description": {
+        "de": "Immer befristet, nie ankommend.",
+        "en": "Always on trial, never arrived."
+      }
+    },
+    {
+      "name": {
+        "de": "Plattformstückwerk",
+        "en": "Platform Patchwork"
+      },
+      "description": {
+        "de": "Viele Kleinjobs ohne Versicherung.",
+        "en": "Many micro-jobs without insurance."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Prekariat",
+      "definition": {
+        "de": "Soziale Klasse unter unsicheren Bedingungen.",
+        "en": "Social class under insecure conditions."
+      }
+    },
+    {
+      "term": "Flexibilisierung",
+      "definition": {
+        "de": "Abbau fester Standards zugunsten variabler Verträge.",
+        "en": "Dismantling fixed standards for variable contracts."
+      }
+    },
+    {
+      "term": "Kumulative Unsicherheit",
+      "definition": {
+        "de": "Überlagerte Risiken aus Arbeit, Wohnen, Gesundheit.",
+        "en": "Layered risks across work, housing, health."
+      }
+    },
+    {
+      "term": "Depressive Hedonia",
+      "definition": {
+        "de": "Glück durch Depression; unfähig zur Solidarität in der Konkurrenzgesellschaft.",
+        "en": "Happiness through depression; incapable of solidarity in competitive society."
+      }
+    },
+    {
+      "term": "Gouvernementalität",
+      "definition": {
+        "de": "Regierungskunst des Selbst und Anderer (Foucault).",
+        "en": "Art of governing oneself and others (Foucault)."
+      }
+    },
+    {
+      "term": "Yield Point",
+      "definition": {
+        "de": "Belastungsgrenze, ab der strukturelles Versagen eintritt.",
+        "en": "Stress limit beyond which structural failure occurs."
+      }
+    },
+    {
+      "term": "Dissipatives System",
+      "definition": {
+        "de": "System fern vom Gleichgewicht, das Energie dissipiert.",
+        "en": "System far from equilibrium that dissipates energy."
+      }
+    },
+    {
+      "term": "Kognitariat",
+      "definition": {
+        "de": "Akademische Mittelschicht unter prekären Bedingungen.",
+        "en": "Academic middle class under precarious conditions."
+      }
+    }
+  ],
+  "related": [
+    "arbeitslosigkeit",
+    "kontrollverlust",
+    "pflegenotstand",
+    "armut",
+    "drogen",
+    "entfremdung"
+  ],
+  "lastUpdatedISO": "2025-12-23T00:00:00.000Z",
+  "version": "0.3.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-prekarisierung",
+    "generatedAtISO": "2025-12-23T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Labor stats / Standing"
+    },
+    {
+      "label": "Michel Foucault - The Birth of Biopolitics",
+      "note": "Biopolitische Gouvernementalität"
+    },
+    {
+      "label": "Achille Mbembe - Necropolitics",
+      "note": "Zones of Non-Being"
+    },
+    {
+      "label": "Mark Fisher - Capitalist Realism",
+      "note": "Depressive Hedonia und Zukunft annullierung"
+    },
+    {
+      "label": "Niklas Luhmann - Soziale Systeme",
+      "note": "Entropie und strukturelle Kopplung"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/prekarisierung/crisis-placeholder.jpg",
+      "/media/prekarisierung/impact-placeholder.png",
+      "/media/prekarisierung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Income volatility violin; contract-type Sankey; union density trend.",
+    "Umfassende Erweiterung mit philosophischer Diagnose, Q&A, erweiterter Chronologie, statistischen Indikatoren, Glossar-Erweiterung und Zitierungen."
+  ],
+  "timeline": [
+    {
+      "year": "2003",
+      "location": "Deutschland",
+      "event": "Agenda 2010 / Hartz IV",
+      "description": "Implementierung von Sanktionsmechanismen und Ausweitung von Leiharbeit; Bruch mit dem Status-Erhalt-Prinzip."
+    },
+    {
+      "year": "2008",
+      "location": "Global / EU",
+      "event": "Finanzkrise",
+      "description": "Beschleunigung der Flexibilisierung; 'Generation Praktikum' verfestigt sich als Phänomen."
+    },
+    {
+      "year": "2015",
+      "location": "Global",
+      "event": "Rise of Gig Economy",
+      "description": "Uberisierung der Arbeit; Algorithmisches Management ersetzt menschliche Vorgesetzte."
+    },
+    {
+      "year": "2020",
+      "location": "Weltweit",
+      "event": "COVID-19 Pandemie",
+      "description": "Sichtbarmachung der Systemrelevanz bei gleichzeitiger ökonomischer Vulnerabilität essenzieller Arbeitskräfte."
+    },
+    {
+      "year": "2024",
+      "location": "Deutschland",
+      "event": "Stabilisierung der Prekarität",
+      "description": "Trotz Rückgang atypischer Beschäftigung verharrt die Armutsgefährdung auf hohem Niveau (20,9% AROPE)."
+    }
+  ],
+  "analysis": {
+    "de": "Prekarisierung ist kein marginales Phänomen atypischer Beschäftigung, sondern Ausdruck eines tiefgreifenden kapitalistischen Strukturwandels: Globalisierung, Digitalisierung, Finanzialisierung und der Rückzug kollektiver Interessenvertretung schwächen Tarifbindung, Sozialstaatlichkeit und Planungssicherheit. Die zeitliche Dimension ist entscheidend: Verträge bleiben kurz, Hoffnung weicht Kalkulation, Zeit wird fragmentiert und ökonomisiert, sodass Zukunft nicht gestaltbar erscheint. Sozial-psychologisch erzeugt dieses Dauerstressregime chronische Angst, Selbstoptimierungsdruck, internalisierte Schuld, Konkurrenz statt Solidarität und Erschöpfung trotz Arbeit. Prekarisierung verschiebt Verantwortung systematisch von Institutionen zu Individuen und von kollektiver Absicherung zu privatem Risiko.",
+    "en": "Precarisation is not a marginal phenomenon of atypical employment but an expression of deep capitalist restructuring: globalization, digitalisation, financialisation and the retreat of collective representation weaken collective bargaining, welfare states and planning security. The temporal dimension is decisive: contracts stay short, hope gives way to calculation, time fragments and is economised, rendering the future unshapable. Psychologically, this permanent stress regime breeds chronic anxiety, self-optimisation pressure, internalised failure, competition instead of solidarity and exhaustion despite work. Precarisation systematically shifts responsibility from institutions to individuals and from collective protection to private risk."
+  }
+}

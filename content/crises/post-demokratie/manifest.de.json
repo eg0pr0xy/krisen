@@ -1,0 +1,156 @@
+{
+  "id": "post-demokratie",
+  "slug": "post-demokratie",
+  "title": {
+    "de": "Post-Demokratie",
+    "en": "Post-Democracy"
+  },
+  "summary": {
+    "de": "Formale Wahlen bleiben, aber Entscheidungsräume wandern in Exekutive, Technokratie und Lobbyzirkel.",
+    "en": "Formal elections persist while decisions migrate to executive, technocracy, and lobby circuits."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "technokratie",
+    "lobby",
+    "wahl",
+    "repräsentation",
+    "participation"
+  ],
+  "severity": 74,
+  "volatility": 42,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Wahlbeteiligung (OECD-Median)",
+        "en": "Voter turnout (OECD median)"
+      },
+      "value": "~68%",
+      "source": "OECD 2024"
+    },
+    {
+      "label": {
+        "de": "Lobby-Ausgaben pro Jahr (EU/US)",
+        "en": "Lobby spending per year (EU/US)"
+      },
+      "value": ">10 Mrd €/$",
+      "source": "Transparency registries"
+    },
+    {
+      "label": {
+        "de": "Anteil Exekutiv-Notverordnungen",
+        "en": "Share of executive emergency decrees"
+      },
+      "value": "steigend",
+      "source": "Gov monitors"
+    }
+  ],
+  "diagnosis": {
+    "de": "Post-Demokratie ist die Aushöhlung demokratischer Form durch ökonomische und administrative Logik. Habermas: Entkoppelung von System und Lebenswelt – Entscheidungen wandern in Expertengremien. Adorno: Verwaltung ersetzt Politik, Partizipation wird Konsumritual. Öffentlichkeit wird Event, während Governance als Vertragswerk hinter verschlossenen Türen läuft.",
+    "en": "Post-democracy hollowes democratic form via economic and administrative logic. Habermas: decoupling of system and lifeworld—decisions shift to expert committees. Adorno: administration replaces politics, participation becomes a consumption ritual. Publicness turns into event while governance becomes a contractual backstage."
+  },
+  "mechanisms": {
+    "de": "Agenda-Setting erfolgt in Think-Tanks und Ministerialrunden. Parlamentarische Kontrolle schrumpft durch Eilgesetze und Verordnungen. Lobbyregister bleiben lückenhaft. Bürgerbeteiligung wird in konsultative Apps ausgelagert, ohne verbindliche Wirkung. Medieninszenierung erzeugt Zustimmung als Stimmung, nicht als deliberative Zustimmung.",
+    "en": "Agenda-setting sits in think tanks and ministerial circles. Parliamentary control shrinks through fast-track bills and decrees. Lobby registers stay porous. Citizen input is outsourced to consultative apps without binding force. Media staging produces assent as mood, not deliberation."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Schaufenster-Wahl",
+        "en": "Showcase Election"
+      },
+      "description": {
+        "de": "Ritualisierte Abstimmung ohne Wirkung auf zentrale Politikpfade.",
+        "en": "Ritual vote with little impact on core policy paths."
+      }
+    },
+    {
+      "name": {
+        "de": "Expertengremium",
+        "en": "Expert Panel"
+      },
+      "description": {
+        "de": "Entscheidungen werden auf technisches Urteil reduziert, Interessen bleiben unsichtbar.",
+        "en": "Decisions reduced to technical judgement; interests stay hidden."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Depolitisierung",
+      "definition": {
+        "de": "Verschiebung politischer Fragen in technokratische Verfahren.",
+        "en": "Shift of political questions into technocratic procedures."
+      }
+    },
+    {
+      "term": "Legitimitätslücke",
+      "definition": {
+        "de": "Spannung zwischen formaler Zustimmung und fehlender Beteiligung.",
+        "en": "Gap between formal consent and absent participation."
+      }
+    },
+    {
+      "term": "Verwaltung der Politik",
+      "definition": {
+        "de": "Politik als Management ohne offene Konfliktbearbeitung.",
+        "en": "Politics as management without open conflict processing."
+      }
+    }
+  ],
+  "related": [
+    "legitimationsverlust",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus",
+    "corruption"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-postdemokratie",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Habermas / Transparency registers"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/post-demokratie/crisis-placeholder.jpg",
+      "/media/post-demokratie/impact-placeholder.png",
+      "/media/post-demokratie/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Lobby spend stacked bars; share of decrees vs laws; turnout vs trust plot."
+  ],
+  "timeline": [
+    {
+      "year": "2008",
+      "location": "Global",
+      "event": "Finanzkrise-Notverordnungen",
+      "description": "Exekutive entscheidet Rettungen, Parlamente ratifizieren nachträglich."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie-Notstände",
+      "description": "Exekutive Regelwerke ersetzen Debatte, Parlamente treten zurück."
+    },
+    {
+      "year": "2023-2024",
+      "location": "EU/US",
+      "event": "Lobby- und Plattformregulierung",
+      "description": "Späte Versuche, Gatekeeper zu zügeln; Vertrauen bleibt fragil."
+    }
+  ]
+}

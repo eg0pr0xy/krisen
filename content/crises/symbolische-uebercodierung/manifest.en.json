@@ -1,0 +1,156 @@
+{
+  "id": "symbolische-uebercodierung",
+  "slug": "symbolische-uebercodierung",
+  "title": {
+    "de": "Symbolische Übercodierung",
+    "en": "Symbolic Overcoding"
+  },
+  "summary": {
+    "de": "Zeichen und Narrative legen sich wie Schichten über Ereignisse, bis Materialität verschwindet.",
+    "en": "Signs and narratives layer over events until materiality vanishes."
+  },
+  "categories": [
+    "Macht",
+    "Materie"
+  ],
+  "tags": [
+    "zeichen",
+    "image",
+    "hyperreal",
+    "medien",
+    "ideologie"
+  ],
+  "severity": 70,
+  "volatility": 55,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anteil Medieninhalte ohne Ort/Zeit-Kontext",
+        "en": "Share of media without place/time context"
+      },
+      "value": "hoch",
+      "source": "Content audits"
+    },
+    {
+      "label": {
+        "de": "Deepfake/AI-Bild-Anteil",
+        "en": "Deepfake/AI image share"
+      },
+      "value": "steigend",
+      "source": "Platform transparency"
+    },
+    {
+      "label": {
+        "de": "Memes pro Nachrichtentag",
+        "en": "Memes per news day"
+      },
+      "value": "+",
+      "source": "Social tracking"
+    }
+  ],
+  "diagnosis": {
+    "de": "Baudrillard: Das Reale verschwindet im Simulacrum. Lacan: Symbolisches überlagert das Reale; das Reale kehrt als Trauma. Nietzsche: Zeichen werden als Wille zur Macht eingesetzt. Übercodierung heißt, dass jedes Ereignis sofort mit Frames belegt wird; Materialität (Körper, Orte) wird zweitrangig.",
+    "en": "Baudrillard: the Real disappears in the simulacrum. Lacan: the symbolic overlays the Real; the Real returns as trauma. Nietzsche: signs deployed as will to power. Overcoding means every event is instantly framed; materiality (bodies, places) becomes secondary."
+  },
+  "mechanisms": {
+    "de": "Echtzeit-Posting ersetzt Recherche; Bilder zirkulieren ohne Quelle. KI-Bilder erzeugen plausible Fiktionen. Medienlogik belohnt Frames, nicht Befund. Politische Akteure setzen vorgefertigte Deutungen, die Ereignisse absorbieren. Publikum lernt, Zeichen statt Dinge zu lesen.",
+    "en": "Real-time posting replaces investigation; images circulate without source. AI imagery produces plausible fictions. Media logic rewards frames, not findings. Political actors seed prefabricated interpretations that absorb events. Audiences learn to read signs instead of things."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Hyperrealer Clip",
+        "en": "Hyperreal Clip"
+      },
+      "description": {
+        "de": "Kurzes Video ersetzt Kontext, wird Referenz selbst.",
+        "en": "Short clip replaces context, becomes the reference."
+      }
+    },
+    {
+      "name": {
+        "de": "Frame-Kaskade",
+        "en": "Frame Cascade"
+      },
+      "description": {
+        "de": "Ein Ereignis wird in widersprüchliche Narrative gefaltet.",
+        "en": "One event is folded into conflicting narratives."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Simulacrum",
+      "definition": {
+        "de": "Zeichen, das auf weitere Zeichen verweist, ohne Original.",
+        "en": "Sign referring to signs without original."
+      }
+    },
+    {
+      "term": "Übercodierung",
+      "definition": {
+        "de": "Mehrfache symbolische Zuschreibung, die Materialität verdeckt.",
+        "en": "Multiple symbolic layers that veil materiality."
+      }
+    },
+    {
+      "term": "Trauma des Realen",
+      "definition": {
+        "de": "Lacan: Rückkehr des Unfassbaren, wenn Symbolisches bricht.",
+        "en": "Lacan: return of the unassimilable when the symbolic breaks."
+      }
+    }
+  ],
+  "related": [
+    "identitaetspolitik",
+    "polarisierung",
+    "zensur",
+    "automatisierung",
+    "extraktivismus",
+    "finanzialisierung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-uebercodierung",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Baudrillard / Lacan"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/symbolische-uebercodierung/crisis-placeholder.jpg",
+      "/media/symbolische-uebercodierung/impact-placeholder.png",
+      "/media/symbolische-uebercodierung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Layered frames diagram; source/trace graph; AI-image vs real markers."
+  ],
+  "timeline": [
+    {
+      "year": "1981",
+      "location": "Theorie",
+      "event": "Simulacres et Simulation",
+      "description": "Baudrillard beschreibt Hyperrealität."
+    },
+    {
+      "year": "2016",
+      "location": "Social Media",
+      "event": "Clip-Politik",
+      "description": "Snippets dominieren, Quellen verschwinden."
+    },
+    {
+      "year": "2023-2024",
+      "location": "Global",
+      "event": "GenAI-Bildflut",
+      "description": "KI-Bilder verwischen Referenz auf Realität."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "extraktivismus",
+  "slug": "extraktivismus",
+  "title": {
+    "de": "Extraktivismus",
+    "en": "Extractivism"
+  },
+  "summary": {
+    "de": "Rohstoffentnahme folgt Kostengravitation und hinterlässt toxische Zonen, entkoppelt von lokalen Lebenssystemen.",
+    "en": "Resource extraction follows cost gravity, leaving toxic zones decoupled from local life systems."
+  },
+  "categories": [
+    "Materie",
+    "Macht"
+  ],
+  "tags": [
+    "minen",
+    "pipeline",
+    "palmöl",
+    "kolonial",
+    "toxisch"
+  ],
+  "severity": 80,
+  "volatility": 55,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Tailings-Volumen",
+        "en": "Tailings volume"
+      },
+      "value": "15 Mrd t/J",
+      "source": "USGS 2024"
+    },
+    {
+      "label": {
+        "de": "Öl-Pipeline-Lecks",
+        "en": "Oil pipeline leaks"
+      },
+      "value": "300+ /J",
+      "source": "Global Witness"
+    },
+    {
+      "label": {
+        "de": "Landgrabbing-Fläche",
+        "en": "Land grab area"
+      },
+      "value": "30 Mio ha",
+      "source": "GRAIN"
+    }
+  ],
+  "diagnosis": {
+    "de": "Rohstoffketten trennen Ort der Entnahme von Ort des Konsums. Mit Mbembe: Extraktivismus reproduziert Kolonialverhältnisse, Körper und Territorien werden verbraucht. Baudrillard: Ressourcen-„Fülle“ ist Simulacrum; real sind Löcher, Schlämme, verbrannte Dörfer. Luhmann: Wirtschaftssystem nimmt Umwelt nur als Input wahr, Rückkopplung (toxische Altlasten) wird externalisiert.",
+    "en": "Extraction separates site of removal from site of consumption. With Mbembe: extractivism reproduces colonial relations, consuming bodies and territories. Baudrillard: the sign of resource 'plenty' is simulacrum; the real is holes, sludge, burned villages. Luhmann: economy treats environment as input; feedback (toxic legacy) is externalized."
+  },
+  "mechanisms": {
+    "de": "Kapital folgt niedrigsten sozialen und ökologischen Kosten: schwache Regulierung, billiges Land. Tailings-Dämme speichern Gift; Brüche vernichten Flüsse. Pipelines werden unterversorgt, lecken. Agro-Frontiers (Palmöl, Soja) verdrängen Wälder, treiben Feuer. Rebound: höhere Fördertechnologie erhöht Gesamtvolumen.",
+    "en": "Capital follows lowest social/ecological cost: weak regulation, cheap land. Tailings dams store toxins; failures erase rivers. Pipelines under-maintained leak. Agro-frontiers (palm, soy) displace forests, drive fires. Rebound: better tech increases total throughput."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Tailings-Becken",
+        "en": "Tailings Basin"
+      },
+      "description": {
+        "de": "Künstlicher See voller Schwermetalle; permanentes Leckagerisiko.",
+        "en": "Artificial lake of heavy metals; persistent leakage risk."
+      }
+    },
+    {
+      "name": {
+        "de": "Pipelineschlange",
+        "en": "Pipeline Serpent"
+      },
+      "description": {
+        "de": "Durchschneidet Landschaften, transportiert Öl und Konflikte, altert und leckt.",
+        "en": "Cuts through landscapes, carries oil and conflict, ages and leaks."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Externalisierung",
+      "definition": {
+        "de": "Verlagerung von Umwelt- und Sozialkosten auf entfernte Regionen.",
+        "en": "Shifting environmental and social costs to distant regions."
+      }
+    },
+    {
+      "term": "Agro-Frontier",
+      "definition": {
+        "de": "Zone, in der industrielle Landwirtschaft in Primärökosysteme eindringt.",
+        "en": "Zone where industrial agriculture encroaches on primary ecosystems."
+      }
+    },
+    {
+      "term": "Tailings",
+      "definition": {
+        "de": "Feinmaterial und Chemikalien, die nach Erzaufbereitung in Becken landen.",
+        "en": "Fine material and chemicals stored after ore processing."
+      }
+    }
+  ],
+  "related": [
+    "umweltzerstoerung",
+    "automatisierung",
+    "finanzialisierung",
+    "gentrifizierung",
+    "geopolitische-verschiebungen",
+    "rezession"
+  ],
+  "lastUpdatedISO": "2025-02-02T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-extraktiv",
+    "generatedAtISO": "2025-02-02T00:00:00.000Z"
+  },
+  "editNotes": [
+    "D3-Idee: Tailings-Volumen vs. Leckrate; Pipeline-Leck-Zeitreihe.",
+    "Bei Bedarf lokale Fallstudien (Brumadinho, Niger-Delta) erweitern."
+  ],
+  "citations": [
+    {
+      "label": "USGS Mineral Commodity Summary 2024"
+    },
+    {
+      "label": "Global Witness Pipeline incidents"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/extraktivismus/crisis-placeholder.jpg",
+      "/media/extraktivismus/impact-placeholder.png",
+      "/media/extraktivismus/solution-placeholder.jpg"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "2019",
+      "location": "Brumadinho, Brasilien",
+      "event": "Tailings-Dammbruch",
+      "description": "270 Tote; Fluss kontaminiert, Unternehmen unter Druck."
+    },
+    {
+      "year": "2021",
+      "location": "Niger-Delta",
+      "event": "Pipeline-Lecks",
+      "description": "Ölverschmutzungen, Fischereikollaps, zivilgesellschaftliche Proteste."
+    },
+    {
+      "year": "2023",
+      "location": "Indonesien",
+      "event": "Palmöl-Expansion",
+      "description": "Waldrodung, Torfbrand, Konflikte mit lokalen Gemeinden."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "politische-gewaltfantasien",
+  "slug": "politische-gewaltfantasien",
+  "title": {
+    "de": "Politische Gewaltfantasien",
+    "en": "Political violence imaginaries"
+  },
+  "summary": {
+    "de": "Gewalt wird imaginiert und performt, bevor sie stattfindet; Diskurse normalisieren Eskalation.",
+    "en": "Violence is imagined and performed before it occurs; discourse normalises escalation."
+  },
+  "categories": [
+    "Gefühl",
+    "Macht"
+  ],
+  "tags": [
+    "radikalisierung",
+    "memes",
+    "maskulinität",
+    "untergang"
+  ],
+  "severity": 68,
+  "volatility": 74,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Gewaltposts",
+        "en": "Violent posts"
+      },
+      "value": "aufflammend",
+      "source": "Plattformmonitoring"
+    },
+    {
+      "label": {
+        "de": "Waffenbeschaffung",
+        "en": "Arms acquisition"
+      },
+      "value": "legal + DIY",
+      "source": "Handels- und Forendaten"
+    },
+    {
+      "label": {
+        "de": "Attentats-Nachahmung",
+        "en": "Attack imitation"
+      },
+      "value": "clusters",
+      "source": "Sicherheitsanalysen"
+    }
+  ],
+  "diagnosis": {
+    "de": "Gewaltfantasien zirkulieren als Bilder, Manifeste und Soundtracks. Sie erzeugen affektive Bereitschaft und bieten Sinn in krisenhaften Biografien. Online-Communities gamifizieren Bedrohungsszenarien, kombinieren Verschwörungsmythen und ästhetisieren Waffen. Die Schwelle zur Tat sinkt, wenn Fantasie zum performativen Skript wird.",
+    "en": "Violence imaginaries circulate as images, manifestos, and soundtracks. They build affective readiness and offer meaning in precarious lives. Online communities gamify threat scenarios, blend conspiracies, and aestheticise weapons. The threshold to action drops when fantasy becomes a performative script."
+  },
+  "mechanisms": {
+    "de": "Meme-Kulturen kodieren Gewalt als Humor. Echo-Kammern verstärken Feindbilder. Körperliche Übungen und Ausrüstungskäufe übersetzen Fantasie in Praxis. Politische Akteure nutzen Andeutungen, um Anhänger zu mobilisieren, ohne Verantwortung zu übernehmen. Sicherheitsbehörden haben Erkennungsdefizite bei fragmentierten Online-Signalen.",
+    "en": "Meme cultures encode violence as humour. Echo chambers reinforce enemy images. Physical drills and gear purchases translate fantasy into practice. Political actors use insinuation to mobilise followers while dodging responsibility. Security services miss fragmented online signals."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "LARP-Miliz",
+        "en": "LARP militia"
+      },
+      "description": {
+        "de": "Spielerische Übung, die in reale Bewaffnung kippen kann.",
+        "en": "Role-play training that can tip into real armament."
+      }
+    },
+    {
+      "name": {
+        "de": "Stochastic Terror",
+        "en": "Stochastic terror"
+      },
+      "description": {
+        "de": "Verstreute Aufrufe erzeugen probabilistische Gewalttaten.",
+        "en": "Diffuse calls produce probabilistic violence."
+      }
+    },
+    {
+      "name": {
+        "de": "Martyrdom Feed",
+        "en": "Martyrdom feed"
+      },
+      "description": {
+        "de": "Livestreams und Manifeste als Nachahmungsvorlage.",
+        "en": "Livestreams and manifestos as imitation templates."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Gamification",
+      "definition": {
+        "de": "Übertragung von Spielmechaniken auf politisierte Gewaltphantasien.",
+        "en": "Applying game mechanics to politicised violence fantasies."
+      }
+    },
+    {
+      "term": "Martyrdom",
+      "definition": {
+        "de": "Selbstopferung als identitätsstiftendes Narrativ.",
+        "en": "Self-sacrifice as identity narrative."
+      }
+    },
+    {
+      "term": "Echo Chamber",
+      "definition": {
+        "de": "Kommunikationsraum mit verstärkter homophiler Bestätigung.",
+        "en": "Communication space with amplified homophilic confirmation."
+      }
+    }
+  ],
+  "related": [
+    "propaganda",
+    "entmenschlichung-buerokratie",
+    "ethnonationalismus",
+    "faschisierung",
+    "fragmentierung-der-oeffentlichkeit",
+    "generationenkonflikt"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/politische-gewaltfantasien/crisis-placeholder.jpg",
+      "/media/politische-gewaltfantasien/impact-placeholder.png",
+      "/media/politische-gewaltfantasien/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "politische-gewaltfantasien",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Gewaltfantasien mit ästhetischer und memetischer Dimension ausgeführt.",
+    "Draft für weitere Fallbezüge."
+  ]
+}

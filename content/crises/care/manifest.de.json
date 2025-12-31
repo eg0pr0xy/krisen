@@ -1,0 +1,157 @@
+{
+  "id": "care",
+  "slug": "care",
+  "title": {
+    "de": "Care-Ökonomie",
+    "en": "Care economy"
+  },
+  "summary": {
+    "de": "Pflegearbeit kollabiert zwischen demografischem Druck, Migration und Niedriglohn; Sorgearbeit bleibt unsichtbar.",
+    "en": "Care labor strains under ageing, migration, and low wages while remaining invisible."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "care-gap",
+    "care-migration",
+    "aging",
+    "unpaid-work",
+    "time-poverty"
+  ],
+  "severity": 74,
+  "volatility": 62,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Pflegekräfte pro 100 Ältere",
+        "en": "Care workers per 100 elderly"
+      },
+      "value": "⭣",
+      "source": "LTC stats"
+    },
+    {
+      "label": {
+        "de": "Anteil migrantischer Pflege",
+        "en": "Migrant share of care"
+      },
+      "value": "↑",
+      "source": "Eurostat"
+    },
+    {
+      "label": {
+        "de": "Wachstum 80+",
+        "en": "80+ growth"
+      },
+      "value": "+3-4% p.a.",
+      "source": "Demography"
+    }
+  ],
+  "diagnosis": {
+    "de": "Care-Ökonomie ist ein stiller Engpass: alternde Kohorten erhöhen Bedarf, Staaten externalisieren auf Familien und migrierte Frauen. Feministische Ökonomie: unbezahlte Sorgearbeit stützt das BIP, bleibt aber unbepreist. Systemtheorie: wenn Pflegekapazität fällt, kippt die Reproduktion sozialer Systeme. Kulturen der Selbstoptimierung verstärken Zeitarmut.",
+    "en": "Care is a quiet bottleneck: ageing cohorts lift demand while states offload onto families and migrant women. Feminist economics: unpaid care props up GDP yet stays unpriced. Systems view: when care capacity drops, reproduction of social systems falters. Cultures of self-optimization deepen time poverty."
+  },
+  "mechanisms": {
+    "de": "Demografie verschiebt Altersquotienten schneller als Ausbildungskapazitäten wachsen. Löhne bleiben unter Produktivitätszuwächsen, Abwanderung in andere Sektoren steigt. Globale Care-Ketten ziehen Pflegekräfte aus Peripherien ab, dort entstehen Vakuums. Zeitarmut in Haushalten reduziert Betreuungsqualität und verstärkt psychische Belastung.",
+    "en": "Demography pushes old-age ratios faster than training pipelines grow. Wages trail productivity gains, driving exits to other sectors. Global care chains pull workers from peripheries, leaving voids there. Time poverty inside households lowers care quality and feeds mental strain."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Pflegelücke",
+        "en": "Care Gap"
+      },
+      "description": {
+        "de": "Bedarf steigt schneller als Personal; Wartezeiten und Fehlversorgung nehmen zu.",
+        "en": "Needs rise faster than staff; wait times and under-service expand."
+      }
+    },
+    {
+      "name": {
+        "de": "Globale Care-Kette",
+        "en": "Global Care Chain"
+      },
+      "description": {
+        "de": "Migration füllt Lücken im Norden und erzeugt Lücken im Süden.",
+        "en": "Migration fills northern gaps while creating southern gaps."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Care Gap",
+      "definition": {
+        "de": "Lücke zwischen Pflegebedarf und verfügbarer Kapazität.",
+        "en": "Gap between care need and available capacity."
+      }
+    },
+    {
+      "term": "Globale Care-Kette",
+      "definition": {
+        "de": "Transnationale Kette von Sorgearbeit, die regionale Vakuums erzeugt.",
+        "en": "Transnational chain of care labor that produces regional voids."
+      }
+    },
+    {
+      "term": "Zeitarmut",
+      "definition": {
+        "de": "Mangel an disponibler Zeit durch Erwerb, Pflege und Pendeln.",
+        "en": "Lack of disposable time due to work, care, and commuting."
+      }
+    }
+  ],
+  "related": [
+    "armut",
+    "erschoepfung",
+    "soziale-ungleichheit",
+    "vereinsamung",
+    "alterung",
+    "arbeitslosigkeit"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-care-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "OECD LTC",
+      "note": "Care worker ratios 2000-2024"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/care/crisis-placeholder.jpg",
+      "/media/care/impact-placeholder.png",
+      "/media/care/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Chord: care-migration flows by origin/destination; slope: wage vs workload; heatmap: time-use by gender/age."
+  ],
+  "timeline": [
+    {
+      "year": "1990er",
+      "location": "EU",
+      "event": "Kürzungen",
+      "description": "Pflegeversicherung unterfinanziert, Familien kompensieren."
+    },
+    {
+      "year": "2010er",
+      "location": "CEE -> Westeuropa",
+      "event": "Care-Migration",
+      "description": "24h-Betreuung wird transnational organisiert."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie",
+      "description": "Pflegelücken werden sichtbar, Überlastung wird chronisch."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "demokratieabbau",
+  "slug": "demokratieabbau",
+  "title": {
+    "de": "Demokratieabbau",
+    "en": "Democratic erosion"
+  },
+  "summary": {
+    "de": "Gewaltenteilung, Medienvielfalt und Minderheitenschutz werden schrittweise geschwächt; Wahlen bleiben formell, verlieren Substanz.",
+    "en": "Checks, media pluralism, and minority protection erode; elections stay formal while substance drains away."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "rule-of-law",
+    "media-capture",
+    "executive-drift",
+    "judiciary",
+    "civic-space"
+  ],
+  "severity": 79,
+  "volatility": 60,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Rule-of-Law Index",
+        "en": "Rule of Law Index"
+      },
+      "value": "Rückgang",
+      "source": "WJP"
+    },
+    {
+      "label": {
+        "de": "Checks & Balances Score",
+        "en": "Checks & balances score"
+      },
+      "value": "-5 bis -15%",
+      "source": "V-Dem"
+    },
+    {
+      "label": {
+        "de": "Medienbesitzkonzentration",
+        "en": "Media concentration"
+      },
+      "value": "↑ Top-3 >70%",
+      "source": "Market studies"
+    },
+    {
+      "label": {
+        "de": "NGO-Schranken",
+        "en": "NGO barriers"
+      },
+      "value": "steigend",
+      "source": "Civic space monitors"
+    },
+    {
+      "label": {
+        "de": "Notstandsverlängerungen",
+        "en": "Emergency extensions"
+      },
+      "value": "jährlich",
+      "source": "Gov gazettes"
+    }
+  ],
+  "diagnosis": {
+    "de": "Demokratieabbau ist graduell: Exekutive erweitert Dekretmacht, Parlamente verlieren Agenda-Setting, Gerichte werden besetzt oder delegitimiert. Medien werden gekauft, zersplittert oder schikaniert. Wahlrecht wird so angepasst, dass Wettbewerb sinkt. Öffentlicher Raum wird reglementiert, Protest kriminalisiert. Form bleibt, Inhalt schrumpft.",
+    "en": "Democratic erosion is gradual: executives expand decree power, legislatures lose agenda control, courts are packed or delegitimised. Media are bought, fragmented, or harassed. Electoral rules are tweaked to depress competition. Civic space is regulated; protest criminalised. The form remains, the content shrinks."
+  },
+  "mechanisms": {
+    "de": "Notstandslogiken verlängern Ausnahmebefugnisse. Desinformation zersetzt gemeinsame Faktenbasis. Patronage besetzt Behörden. Wahlkreiszuschnitte und Hürden verzerren Repräsentation. Internationale Checks schwächen, wenn Bündnispartner Erosion tolerieren. Media Capture reduziert Pluralität, Civic Space schrumpft, Rule of Law verliert Sanktionskraft.",
+    "en": "States of emergency extend exceptional powers. Disinformation erodes shared facts. Patronage fills agencies. Gerrymanders and thresholds skew representation. External checks weaken when allies tolerate erosion. Media capture reduces pluralism; shrinking civic space and rule of law lose sanction power."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Form ohne Inhalt",
+        "en": "Form Without Substance"
+      },
+      "description": {
+        "de": "Wahlen finden statt, doch Auswahl und Information sind manipuliert.",
+        "en": "Elections occur but choice and information are manipulated."
+      }
+    },
+    {
+      "name": {
+        "de": "Captured Fourth Estate",
+        "en": "Captured Fourth Estate"
+      },
+      "description": {
+        "de": "Medienlandschaft konzentriert, kritische Stimmen werden marginalisiert.",
+        "en": "Media landscape concentrates; critical voices are sidelined."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Rule of Law",
+      "definition": {
+        "de": "Bindung staatlicher Macht an Recht und unabhängige Kontrolle.",
+        "en": "Binding of state power to law and independent oversight."
+      }
+    },
+    {
+      "term": "Media Capture",
+      "definition": {
+        "de": "Übernahme von Medien durch politisch-ökonomische Interessen.",
+        "en": "Takeover of media by political-economic interests."
+      }
+    },
+    {
+      "term": "Civic Space",
+      "definition": {
+        "de": "Freiheitsraum für Organisation, Protest und Ausdruck.",
+        "en": "Freedom space for organisation, protest, and expression."
+      }
+    },
+    {
+      "term": "Illiberale Demokratie",
+      "definition": {
+        "de": "Wahlen ohne funktionsfähige Gewaltenteilung und Minderheitenschutz.",
+        "en": "Elections without functioning separation of powers and minority protection."
+      }
+    }
+  ],
+  "related": [
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus",
+    "corruption",
+    "datenmissbrauch"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-demokratie-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "WJP/Freedom House",
+      "note": "Rule of law, civic space"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/demokratieabbau/courtroom-placeholder.jpg",
+      "/media/demokratieabbau/protest-placeholder.jpg"
+    ]
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Wer verliert Rechte zuerst?",
+        "en": "Who loses rights first?"
+      },
+      "answer": {
+        "de": "Medien, NGOs, oppositionelle Parteien; später Justiz und Verwaltungskarrieren.",
+        "en": "Media, NGOs, opposition parties first; later the judiciary and civil service careers."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Kennzahlen zeigen Kipppunkte?",
+        "en": "Which metrics show tipping points?"
+      },
+      "answer": {
+        "de": "V-Dem (C&B), Rule-of-Law-Index, Media Capture-Quoten, Häufigkeit von Notstandsverlängerungen, Civic-Space-Schließungen.",
+        "en": "V-Dem (C&B), rule-of-law index, media-capture ratios, frequency of emergency extensions, civic-space closures."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Gegenmittel?",
+        "en": "What countermeasures?"
+      },
+      "answer": {
+        "de": "Unabhängige Budgets für Justiz/Medien, Transparenz bei Ernennungen, internationale Verknüpfung von Hilfen an Rule-of-Law-Kriterien.",
+        "en": "Independent budgets for courts/media, transparent appointments, linking external support to rule-of-law criteria."
+      }
+    }
+  ],
+  "editNotes": [
+    "Sankey: power shift exec→leg→judiciary; bar: media ownership; ribbon: civic-space constraints over time."
+  ],
+  "timeline": [
+    {
+      "year": "2010er",
+      "location": "CEE/Global South",
+      "event": "Court packing",
+      "description": "Regierungen besetzen Höchstgerichte parteinah."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Notstand verlängert",
+      "description": "Pandemie-Ausnahmen werden verstetigt."
+    },
+    {
+      "year": "2023",
+      "location": "EU/US",
+      "event": "Medienkäufe",
+      "description": "Oligarchische Käufe reduzieren Pluralität, kritische Redaktionen schließen."
+    },
+    {
+      "year": "2024",
+      "location": "Europa",
+      "event": "Verfassungsreformen",
+      "description": "Checks & Balances werden per Gesetzespaket geschwächt."
+    }
+  ]
+}

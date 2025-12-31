@@ -1,0 +1,158 @@
+{
+  "id": "generationenkonflikt",
+  "slug": "generationenkonflikt",
+  "title": {
+    "de": "Generationenkonflikt",
+    "en": "Generational conflict"
+  },
+  "summary": {
+    "de": "Vermögens- und Machtasymmetrien zwischen Kohorten blockieren Verteilung, Klima- und Sozialreformen.",
+    "en": "Wealth and power asymmetries between cohorts block redistribution, climate, and social reforms."
+  },
+  "categories": [
+    "Macht",
+    "Gefühl",
+    "Existenz"
+  ],
+  "tags": [
+    "wealth-gap",
+    "housing",
+    "pensions",
+    "climate-burden",
+    "youth-disenchantment"
+  ],
+  "severity": 70,
+  "volatility": 54,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Vermögensanteil 65+",
+        "en": "Wealth share 65+"
+      },
+      "value": ">55%",
+      "source": "Household surveys"
+    },
+    {
+      "label": {
+        "de": "Wahlbeteiligung Jung/Alt",
+        "en": "Turnout young/old"
+      },
+      "value": "Δ 15-25pp",
+      "source": "Electoral data"
+    },
+    {
+      "label": {
+        "de": "Mietbelastung U35",
+        "en": "Rent burden <35"
+      },
+      "value": "↑",
+      "source": "Housing stats"
+    }
+  ],
+  "diagnosis": {
+    "de": "Generationenkonflikt ist eine stille Blockade: Ältere besitzen Vermögen, Wahldominanz und Rentenzusagen; Jüngere tragen Klima- und Schuldenlast. Politische Agenden priorisieren Besitzstandssicherung. Wohnungs- und Arbeitsmärkte schließen Kohorten aus, Sinnverlust folgt. Diskurs kippt in Moralismus statt in strukturelle Verhandlungsräume.",
+    "en": "Generational conflict is a silent blockade: older cohorts hold assets, electoral weight, and pension promises; younger ones inherit climate and debt burdens. Policy agendas secure incumbents. Housing and labour markets exclude entrants; meaning erodes. Debate slides into moralism instead of structural bargaining."
+  },
+  "mechanisms": {
+    "de": "Demografie erhöht Wähleranteil Älterer. Steigende Immobilienpreise fixieren Vermögen bei Besitzenden. Jüngere zahlen höhere Mieten, sparen weniger. Renten- und Gesundheitsetats verdrängen Zukunftsinvestitionen. Klima- und Schuldenrisiken werden in die Zukunft externalisiert.",
+    "en": "Demography lifts the electoral share of the old. Rising house prices lock wealth with owners. Younger cohorts pay higher rents and save less. Pension and health budgets crowd out future investment. Climate and debt risks are externalised forward."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Rentnermehrheit",
+        "en": "Retiree Majority"
+      },
+      "description": {
+        "de": "Politik folgt älteren Mehrheiten, Reformen zu Klima/Steuern werden verwässert.",
+        "en": "Policy tracks older majorities; climate/tax reforms are diluted."
+      }
+    },
+    {
+      "name": {
+        "de": "Starter-Blockade",
+        "en": "Starter Block"
+      },
+      "description": {
+        "de": "Hohe Mieten und Schulden verhindern Vermögensaufbau der Jungen.",
+        "en": "High rent and debt block asset formation for the young."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Intergenerationelle Gerechtigkeit",
+      "definition": {
+        "de": "Ausgewogene Verteilung von Lasten und Chancen über Kohorten.",
+        "en": "Balanced distribution of burdens and opportunities across cohorts."
+      }
+    },
+    {
+      "term": "Rentier-Logik",
+      "definition": {
+        "de": "Einkünfte aus Besitz dominieren gegenüber Arbeit.",
+        "en": "Income from assets dominates over labour."
+      }
+    },
+    {
+      "term": "Kohortenvertrag",
+      "definition": {
+        "de": "Ungeschriebene Erwartung wechselseitiger Unterstützung zwischen Generationen.",
+        "en": "Implicit expectation of mutual support between generations."
+      }
+    }
+  ],
+  "related": [
+    "soziale-ungleichheit",
+    "armut",
+    "atomare-abschreckung",
+    "bildungsungleichheit",
+    "drogen",
+    "entfremdung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-generation-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Wealth/turnout surveys",
+      "note": "Asset distribution, turnout gaps"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/generationenkonflikt/crisis-placeholder.jpg",
+      "/media/generationenkonflikt/impact-placeholder.png",
+      "/media/generationenkonflikt/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Stacked bars: wealth by cohort; dot plot: turnout gap; slope: rent burden by age."
+  ],
+  "timeline": [
+    {
+      "year": "2008",
+      "location": "Global North",
+      "event": "Asset inflation",
+      "description": "Nullzinsen treiben Vermögenspreise, Jüngere bleiben außen vor."
+    },
+    {
+      "year": "2020",
+      "location": "OECD",
+      "event": "Klima-Future",
+      "description": "Jugendbewegungen fordern Reformen, stoßen auf Vetospieler."
+    },
+    {
+      "year": "2023",
+      "location": "EU",
+      "event": "Rentenproteste",
+      "description": "Erhöhung des Rentenalters trifft Jüngere stärker, Mobilisierung wächst."
+    }
+  ]
+}

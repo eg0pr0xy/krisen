@@ -1,0 +1,219 @@
+{
+  "id": "soziale-ungleichheit",
+  "slug": "soziale-ungleichheit",
+  "title": {
+    "de": "Soziale Ungleichheit",
+    "en": "Social inequality"
+  },
+  "summary": {
+    "de": "Vermögen, Zeit und Gesundheit konzentrieren sich; Mobilität stagniert, Polarisierung wächst.",
+    "en": "Wealth, time, and health concentrate; mobility stalls, polarisation grows."
+  },
+  "categories": [
+    "Macht",
+    "Existenz"
+  ],
+  "tags": [
+    "wealth-gap",
+    "income-inequality",
+    "time-poverty",
+    "health-gap",
+    "mobility"
+  ],
+  "severity": 78,
+  "volatility": 50,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "Top-10% Vermögensanteil",
+        "en": "Top 10% wealth share"
+      },
+      "value": ">60%",
+      "source": "Wealth surveys"
+    },
+    {
+      "label": {
+        "de": "Gini Einkommen",
+        "en": "Income Gini"
+      },
+      "value": "0.30-0.35",
+      "source": "OECD"
+    },
+    {
+      "label": {
+        "de": "Gesundheitslücke Lebenserwartung",
+        "en": "Life expectancy gap"
+      },
+      "value": "5-10 Jahre",
+      "source": "Public health"
+    }
+  ],
+  "diagnosis": {
+    "de": "Soziale Ungleichheit ist keine bloße Differenz in der Ressourcenverteilung, sondern eine systemisch immanente Asymmetrie der Lebenschancen, die sich durch strukturelle Kopplungen (Bildung, Ökonomie, Gesundheit) autopoietisch reproduziert. Sie manifestiert sich als hierarchische Schichtung, die den Zugang zu knappen Gütern, Status und Macht selektiv reguliert und damit die soziale Mobilität faktisch einfriert. Es handelt sich um eine pathologische Dysfunktionalität im Stoffwechsel des Sozialkörpers.",
+    "en": "Social inequality is not merely a difference in resource distribution, but a systemically immanent asymmetry in life chances that reproduces itself autopoietically through structural couplings (education, economy, health). It manifests as hierarchical stratification that selectively regulates access to scarce goods, status, and power, thereby effectively freezing social mobility. It is a pathological dysfunction in the metabolism of the social body."
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist das Phänomen im Kern?",
+        "en": "What is the phenomenon at its core?"
+      },
+      "answer": {
+        "de": "Systemische Asymmetrie in der Distribution von Kapital (ökonomisch, kulturell, sozial).",
+        "en": "Systemic asymmetry in the distribution of capital (economic, cultural, social)."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer ist betroffen/verantwortlich?",
+        "en": "Who is affected/responsible?"
+      },
+      "answer": {
+        "de": "Betroffen: Das Prekariat und die erodierende Mitte. Verantwortlich: Die Autodynamik deregulierter Finanzmärkte und politische Inätigkeit.",
+        "en": "Affected: The precariat and the eroding middle class. Responsible: The autodynamics of deregulated financial markets and political inactivity."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "In der Entkopplung von Arbeitseinkommen und Vermögensrendite (r > g).",
+        "en": "In the decoupling of labor income and asset returns (r > g)."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann wird es kritisch?",
+        "en": "When does it become critical?"
+      },
+      "answer": {
+        "de": "Wenn die Legitimationsbasis der Demokratie durch empfundene Perspektivlosigkeit kollabiert (Kipppunkt).",
+        "en": "When the legitimacy basis of democracy collapses due to perceived hopelessness (tipping point)."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum passiert es jetzt?",
+        "en": "Why is it happening now?"
+      },
+      "answer": {
+        "de": "Polykrisen (Inflation, Pandemie, Energie) wirken als Katalysatoren für bestehende Disparitäten.",
+        "en": "Polycrises (inflation, pandemic, energy) act as catalysts for existing disparities."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie stabilisiert man das System?",
+        "en": "How to stabilize the system?"
+      },
+      "answer": {
+        "de": "Durch radikale Umverteilungsmechanismen, Investition in öffentliche Güter und De-Kommodifizierung existenzieller Bedarfe.",
+        "en": "Through radical redistribution mechanisms, investment in public goods, and decommodification of existential needs."
+      }
+    }
+  ],
+  "mechanisms": {
+    "de": "Asset-Inflation begünstigt Eigentümer. Löhne stagnieren, Produktivitätsgewinne werden nicht geteilt. Steuerpolitik bevorzugt Kapital. Zeitarmut durch Mehrfachjobs und Pendeln. Gesundheitsversorgung und Umweltbelastung folgen Postleitzahlen.",
+    "en": "Asset inflation benefits owners. Wages stagnate; productivity gains not shared. Tax regimes favour capital. Time poverty from multiple jobs and commuting. Health care and pollution map to ZIP codes."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Vermögenspyramide",
+        "en": "Wealth Pyramid"
+      },
+      "description": {
+        "de": "Oben wachsen Portfolios exponentiell, unten fehlt Notgroschen.",
+        "en": "Portfolios compound at the top while buffers vanish at the bottom."
+      }
+    },
+    {
+      "name": {
+        "de": "Zeitklemme",
+        "en": "Time Squeeze"
+      },
+      "description": {
+        "de": "Arbeit + Pflege + Pendeln lassen keine freie Zeit; Mobilität sinkt.",
+        "en": "Work + care + commuting erase free time; mobility declines."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Vermögenskonzentration",
+      "definition": {
+        "de": "Akkumulation großer Vermögen in kleinen Gruppen.",
+        "en": "Accumulation of large wealth among small groups."
+      }
+    },
+    {
+      "term": "Zeitarmut",
+      "definition": {
+        "de": "Mangel an disponibler Zeit durch Erwerb und Care.",
+        "en": "Lack of disposable time due to work and care."
+      }
+    },
+    {
+      "term": "Intergenerationale Mobilität",
+      "definition": {
+        "de": "Chancen, die soziale Position der Eltern zu übertreffen.",
+        "en": "Chances to exceed the social position of one’s parents."
+      }
+    }
+  ],
+  "related": [
+    "generationenkonflikt",
+    "armut",
+    "care",
+    "atomare-abschreckung",
+    "bildungsungleichheit",
+    "illegale-arbeit"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-inequality-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "OECD/World Inequality",
+      "note": "Wealth shares, Gini"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/soziale-ungleichheit/crisis-placeholder.jpg",
+      "/media/soziale-ungleichheit/impact-placeholder.png",
+      "/media/soziale-ungleichheit/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Lorenz curve animation; beeswarm: wealth per decile; map: life expectancy gap by district."
+  ],
+  "timeline": [
+    {
+      "year": "2008",
+      "location": "Global",
+      "event": "Asset rally",
+      "description": "Zinsen fallen, Vermögenspreise steigen, Lücke wächst."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie-Spaltung",
+      "description": "Homeoffice/Asset-Halter profitieren, Frontline trägt Risiko."
+    },
+    {
+      "year": "2023",
+      "location": "OECD",
+      "event": "Kostenkrise",
+      "description": "Inflation trifft untere Einkommen, Rücklagen schrumpfen."
+    }
+  ]
+}

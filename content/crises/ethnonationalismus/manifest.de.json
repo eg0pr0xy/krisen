@@ -1,0 +1,141 @@
+{
+  "id": "ethnonationalismus",
+  "slug": "ethnonationalismus",
+  "title": {
+    "de": "Ethnonationalismus",
+    "en": "Ethnonationalism"
+  },
+  "summary": {
+    "de": "Nation wird ethnisch definiert; Zugehörigkeit soll über Abstammung und Kultur homogenisiert werden.",
+    "en": "Nation is defined ethnically; belonging is to be homogenised through ancestry and culture."
+  },
+  "categories": [
+    "Macht",
+    "Gefühl"
+  ],
+  "tags": [
+    "nativismus",
+    "identität",
+    "exklusion",
+    "autoritarismus"
+  ],
+  "severity": 80,
+  "volatility": 67,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Verfassungsänderungen",
+        "en": "Constitutional changes"
+      },
+      "value": "staatsbürgerschaft erschwert",
+      "source": "Parlamentsakten"
+    },
+    {
+      "label": {
+        "de": "Grenzregime",
+        "en": "Border regime"
+      },
+      "value": "Militarisierung",
+      "source": "Haushaltszahlen"
+    },
+    {
+      "label": {
+        "de": "Kulturcharta",
+        "en": "Culture charters"
+      },
+      "value": "gesetzlich verankert",
+      "source": "Regierungsdokumente"
+    }
+  ],
+  "diagnosis": {
+    "de": "Ethnonationalismus verschiebt Nation von einem Rechts- zu einem Abstammungskonzept. Er entwertet plurale Zugehörigkeiten und konstruiert Reinheit als politisches Ziel. Minderheiten werden als Sicherheits- oder Kulturproblem gerahmt. Der Staat nutzt Sprache, Bildung und Grenzpolitik, um Homogenität zu erzwingen.",
+    "en": "Ethnonationalism shifts nationhood from legal to ancestral concept. It devalues plural belonging and constructs purity as political aim. Minorities are framed as security or cultural problem. The state uses language, schooling, and border policy to enforce homogeneity."
+  },
+  "mechanisms": {
+    "de": "Staatsbürgerschaft wird restriktiver, doppelte Zugehörigkeiten werden begrenzt. Schul- und Mediencurricula betonen Exklusivnarrative. Sicherheitsbehörden richten Sonderüberwachung auf vermeintlich Fremde. Parteien koppeln Wohlfahrtsstaat an Ethnie und entziehen universelle Leistungen. Internationale Verpflichtungen werden als Souveränitätsbedrohung dargestellt.",
+    "en": "Citizenship rules tighten; dual belonging is curtailed. School and media curricula stress exclusive narratives. Security agencies apply special surveillance to perceived outsiders. Parties tie welfare to ethnicity and erode universal benefits. International commitments are cast as threats to sovereignty."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Kulturtest",
+        "en": "Culture test"
+      },
+      "description": {
+        "de": "Symbolische Prüfungen definieren Zugehörigkeit über Rituale und Sprache.",
+        "en": "Symbolic tests define belonging via rituals and language."
+      }
+    },
+    {
+      "name": {
+        "de": "Homogenitätsstaat",
+        "en": "Homogeneity state"
+      },
+      "description": {
+        "de": "Politik, die Vielfalt als Störung behandelt und räumlich ordnet.",
+        "en": "Policy treating diversity as disturbance to be spatially managed."
+      }
+    },
+    {
+      "name": {
+        "de": "Feind von innen",
+        "en": "Enemy within"
+      },
+      "description": {
+        "de": "Narrativ, das Minderheiten als infiltrierende Gefahr rahmt.",
+        "en": "Narrative framing minorities as infiltrating threat."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Jus Sanguinis",
+      "definition": {
+        "de": "Staatsangehörigkeit nach Abstammung, nicht Geburt im Territorium.",
+        "en": "Citizenship by bloodline rather than birth on territory."
+      }
+    },
+    {
+      "term": "Ethnopluralismus",
+      "definition": {
+        "de": "Idee getrennt homogener Kulturräume als Rechtfertigung für Ausschluss.",
+        "en": "Idea of separate homogeneous cultural spaces as exclusion rationale."
+      }
+    },
+    {
+      "term": "Demographische Angst",
+      "definition": {
+        "de": "Furcht vor numerischer Verschiebung als politisches Mobilisierungsmittel.",
+        "en": "Fear of numerical shift used for political mobilisation."
+      }
+    }
+  ],
+  "related": [
+    "identitaere-bewegungen",
+    "radikalisierung",
+    "entmenschlichung-buerokratie",
+    "faschisierung",
+    "fragmentierung-der-oeffentlichkeit",
+    "generationenkonflikt"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/ethnonationalismus/crisis-placeholder.jpg",
+      "/media/ethnonationalismus/impact-placeholder.png",
+      "/media/ethnonationalismus/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "ethnonationalismus",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Ethnonationalismus auf Homogenitäts- und Souveränitätslogik fokussiert.",
+    "Draft für regionale Fallstudien."
+  ]
+}

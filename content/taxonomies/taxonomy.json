@@ -1,0 +1,46 @@
+{
+  "layers": [
+    {
+      "id": "structural",
+      "label_de": "Strukturell",
+      "description_de": "Langsame, infrastrukturelle Prozesse und Materialität, die das System tragen."
+    },
+    {
+      "id": "governance",
+      "label_de": "Governance / Legitimität",
+      "description_de": "Normative, institutionelle und rechtliche Ordnungen."
+    },
+    {
+      "id": "economic",
+      "label_de": "Ökonomisch / Finanziell",
+      "description_de": "Finanzflüsse, Märkte und Ressourcenverteilungen."
+    },
+    {
+      "id": "enforcement",
+      "label_de": "Exekutiv / Disziplinarisch",
+      "description_de": "Kontrollmechanismen, Polizei, Militär und Durchsetzungsapparate."
+    },
+    {
+      "id": "cognitive",
+      "label_de": "Kognitiv / Symbolisch",
+      "description_de": "Diskurse, Narrative, Medien und Aufmerksamkeit."
+    }
+  ],
+  "facets": {
+    "time_scale": ["slow", "medium", "fast"],
+    "reversibility": ["reversible", "partially_reversible", "irreversible"],
+    "visibility": ["visible", "latent", "normalized"],
+    "distribution": ["universal", "selective", "externalized"],
+    "system_function": ["destabilizing", "stabilizing", "disciplining"]
+  },
+  "mechanisms": [
+    {
+      "id": "technical-debt",
+      "label_de": "Technische Schulden"
+    },
+    {
+      "id": "externalisierung",
+      "label_de": "Externalisierung"
+    }
+  ]
+}

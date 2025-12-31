@@ -1,0 +1,156 @@
+{
+  "id": "klimaflucht",
+  "slug": "klimaflucht",
+  "title": {
+    "de": "Klimaflucht",
+    "en": "Climate Displacement"
+  },
+  "summary": {
+    "de": "Klimatische Schocks zerreißen Aufenthaltsrechte und zwingen Millionen in temporäre oder dauerhafte Mobilität.",
+    "en": "Climate shocks tear apart residency rights and push millions into temporary or permanent movement."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "migration",
+    "drought",
+    "sea-level",
+    "recht",
+    "lager"
+  ],
+  "severity": 77,
+  "volatility": 62,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Potenzielle Klimavertriebene bis 2050",
+        "en": "Potential climate displaced by 2050"
+      },
+      "value": "143 Mio",
+      "source": "World Bank"
+    },
+    {
+      "label": {
+        "de": "Meeresspiegelanstieg",
+        "en": "Sea-level rise"
+      },
+      "value": "+3.3 mm/J",
+      "source": "IPCC"
+    },
+    {
+      "label": {
+        "de": "Dürrerate (Horn von Afrika)",
+        "en": "Drought frequency (Horn of Africa)"
+      },
+      "value": "x4 seit 1980",
+      "source": "WMO"
+    }
+  ],
+  "diagnosis": {
+    "de": "Klimaflucht ist weder rein ökonomisch noch rein humanitär: Sie ist ein Verschieben von Atmosphärenlasten auf Körper. Bei Mbembe koloniale Kontinuität: Grenzen schützen Emittenten, nicht Betroffene. Baudrillard: Das Bild des „Klimaflüchtlings“ wird zum Simulacrum, das Einzelne reduziert. Luhmann: Migrations- und Umweltrecht koppeln schwach; Entscheidungsprämissen passen nicht zu klimatischer Zeitlichkeit.",
+    "en": "Climate displacement is neither purely economic nor humanitarian: it shifts atmospheric burdens onto bodies. Mbembe: colonial continuity—borders protect emitters, not the affected. Baudrillard: the 'climate refugee' image becomes simulacrum, flattening individuals. Luhmann: migration and environmental law couple weakly; decision premises mismatch climatic temporality."
+  },
+  "mechanisms": {
+    "de": "Dürre und Flut zerstören Lebensgrundlagen, Informalität wächst. Staaten reagieren mit Lagern, temporären Papieren, Pushbacks. Internationale Schutzkategorien schließen Klima nicht ein; Rechtslücken erzeugen Prekarität. Städte nehmen Binnenvertriebene auf, Infrastruktur überlastet. Narrative von „Naturkatastrophe“ entpolitisieren Emissionen und historische Verantwortung.",
+    "en": "Drought and flood erase livelihoods; informality grows. States respond with camps, temporary papers, pushbacks. International protection excludes climate; legal gaps create precarity. Cities absorb internal movers; infrastructure strains. 'Natural disaster' narratives depoliticize emissions and historic responsibility."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Schwimmende Grenze",
+        "en": "Floating Border"
+      },
+      "description": {
+        "de": "Grenzlinie verschiebt sich seewärts/landwärts mit Pegel und Politik.",
+        "en": "Border line drifts seaward/landward with tide and policy."
+      }
+    },
+    {
+      "name": {
+        "de": "Transit-Lager",
+        "en": "Transit Camp"
+      },
+      "description": {
+        "de": "Provisorische Stadt aus Zelten/Containern; weder Ankunft noch Rückkehr.",
+        "en": "Makeshift city of tents/containers; neither arrival nor return."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Binnenvertreibung",
+      "definition": {
+        "de": "Vertreibung innerhalb nationaler Grenzen ohne vollen Flüchtlingsschutz.",
+        "en": "Displacement within national borders without full refugee protection."
+      }
+    },
+    {
+      "term": "Loss & Damage",
+      "definition": {
+        "de": "Rahmen für irreparable Klimaschäden und Kompensation.",
+        "en": "Framework for irreparable climate harms and compensation."
+      }
+    },
+    {
+      "term": "Residenzrecht",
+      "definition": {
+        "de": "Recht auf Aufenthalt; bei Klimaflucht oft temporär oder verwehrt.",
+        "en": "Right to reside; often temporary or denied in climate displacement."
+      }
+    }
+  ],
+  "related": [
+    "demografischer-wandel",
+    "pflegenotstand",
+    "wasserknappheit",
+    "lagerlogik",
+    "alterung",
+    "arbeitslosigkeit"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-klimaflucht",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "D3: Wanderungspfeile + Klimaanomalien; rechtliche Kategorien gegenüberstellen."
+  ],
+  "citations": [
+    {
+      "label": "World Bank Groundswell 2021"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/klimaflucht/crisis-placeholder.jpg",
+      "/media/klimaflucht/impact-placeholder.png",
+      "/media/klimaflucht/solution-placeholder.jpg"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "2005",
+      "location": "New Orleans",
+      "event": "Hurrikan + Exodus",
+      "description": "Binnenmigration; Rückkehr unsicher."
+    },
+    {
+      "year": "2010s",
+      "location": "Sahel",
+      "event": "Dürrezyklen",
+      "description": "Pastoralisten werden mobil; Konflikte um Weiden."
+    },
+    {
+      "year": "2040 (proj.)",
+      "location": "Küsten Südasiens",
+      "event": "Meeresspiegel + Sturm",
+      "description": "Periodische Evakuierungen werden dauerhaft."
+    }
+  ]
+}

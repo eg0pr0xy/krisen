@@ -1,0 +1,219 @@
+{
+  "id": "armut",
+  "slug": "armut",
+  "title": {
+    "de": "Armut",
+    "en": "Poverty"
+  },
+  "summary": {
+    "de": "Armut bezeichnet einen strukturellen Zustand chronischer materieller, sozialer und zeitlicher Knappheit, in dem Individuen oder Gruppen nicht über die Ressourcen verfügen, die notwendig sind, um ihre physische Existenz, soziale Teilhabe und biografische Kontinuität nachhaltig zu reproduzieren. Sie ist eine multidimensionale Einschränkung von Handlungsmöglichkeiten, die sich über Wohnraum, Gesundheit, Bildung, Zeit, Sicherheit und Würde erstreckt und sich selbst durch selektive Unsicherheit stabilisiert.",
+    "en": "Poverty describes a structural state of chronic material, social and temporal scarcity in which individuals or groups lack the resources needed to reproduce physical existence, social participation, and biographical continuity. It is a multidimensional curtailing of agency spanning housing, health, education, time, security, and dignity and stabilizes through selective insecurity."
+  },
+  "categories": [
+    "Existenz",
+    "Gefühl"
+  ],
+  "tags": [
+    "income-gap",
+    "housing-costs",
+    "food-insecurity",
+    "time-poverty",
+    "working-poor"
+  ],
+  "severity": 80,
+  "volatility": 55,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Working Poor",
+        "en": "Working poor"
+      },
+      "value": ">10%",
+      "source": "Labor stats"
+    },
+    {
+      "label": {
+        "de": "Mietbelastung",
+        "en": "Rent burden"
+      },
+      "value": ">40% Einkommen",
+      "source": "Housing surveys"
+    },
+    {
+      "label": {
+        "de": "Tafelnutzung",
+        "en": "Food bank use"
+      },
+      "value": "↑ zweistellig",
+      "source": "NGO reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Armut ist kein temporärer Mangel, sondern ein dauerhaft produzierter Zustand struktureller Knappheit, der materielle, zeitliche und symbolische Ressourcen zugleich entzieht. Sie entsteht dort, wo Märkte, Arbeitsverhältnisse und Sicherungssysteme nicht auf Reproduktion, sondern auf Effizienz und Selektion ausgerichtet sind. Armut bindet Aufmerksamkeit und Energie durch permanente Alarmbereitschaft, verhindert Zukunftsplanung und verkehrt Verantwortung in individuelle Anpassung; sie stabilisiert gesellschaftliche Ordnung durch selektive Unsicherheit.",
+    "en": "Poverty is not a temporary shortage but a permanently produced condition of structural scarcity that withdraws material, temporal, and symbolic resources simultaneously. It arises where markets, labor relations and welfare systems prioritize efficiency and selection over reproduction. Poverty monopolizes attention and energy through constant alertness, blocks future planning, and converts responsibility into individual adaptation; it stabilizes social order through selective insecurity."
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist das Phänomen im Kern?",
+        "en": "What is the phenomenon at its core?"
+      },
+      "answer": {
+        "de": "Systemische Deprivation; der Entzug materieller und immaterieller Teilhaberechte durch ökonomische Selektionsmechanismen.",
+        "en": "Systemic deprivation; the withdrawal of material and immaterial participation rights through economic selection mechanisms."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer ist betroffen?",
+        "en": "Who is affected?"
+      },
+      "answer": {
+        "de": "Global 8,5% (extreme Armut). In DE ca. 15,5% der Bevölkerung (2024), spezifisch Alleinerziehende, Kinder (21,8% nach Paritätischem Bericht) und das Prekariat.",
+        "en": "Global 8.5% (extreme poverty). In Germany approx. 15.5% of the population (2024), specifically single parents, children (21.8% according to Paritätischer Wohlfahrtsverband) and the precariat."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "Global: Subsahara-Afrika und Konfliktzonen. National: Strukturschwache Regionen (z.B. Bremen, Teile Ostdeutschlands) und urbane Segregationsräume.",
+        "en": "Global: Sub-Saharan Africa and conflict zones. National: Structurally weak regions (e.g., Bremen, parts of East Germany) and urban segregation spaces."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann wird es kritisch?",
+        "en": "When does it become critical?"
+      },
+      "answer": {
+        "de": "Wenn die relative Armut in absolute Deprivation umschlägt (Entzug von Grundbedürfnissen) oder wenn die soziale Mobilität gegen Null tendiert (Vererbung von Armut).",
+        "en": "When relative poverty turns into absolute deprivation (withdrawal of basic needs) or when social mobility tends toward zero (inheritance of poverty)."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum passiert es jetzt?",
+        "en": "Why is it happening now?"
+      },
+      "answer": {
+        "de": "Polycrisis (Inflation, Pandemie, Energie) trifft auf erodierte Sozialsysteme und eine neoliberale Austeritätspolitik, die Umverteilung blockiert.",
+        "en": "Polycrisis (inflation, pandemic, energy) meets eroded social systems and neoliberal austerity politics that block redistribution."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie ist das System zu stabilisieren?",
+        "en": "How to stabilize the system?"
+      },
+      "answer": {
+        "de": "Durch radikale Rekodierung der Verteilungsalgorithmen (z.B. Grundeinkommen, massive Investition in öffentliche Infrastruktur), um die Exklusionsketten zu durchbrechen.",
+        "en": "Through radical recoding of distribution algorithms (e.g., basic income, massive investment in public infrastructure) to break the exclusion chains."
+      }
+    }
+  ],
+  "mechanisms": {
+    "de": "Relative Verarmung entsteht, wenn Lebensstandards selektiv steigen und Armut relational definiert wird. Disziplinierung erfolgt durch permanente Knappheit, die Anpassung und Konformität erzwingt. Institutionelle Fragmentierung macht Hilfesysteme komplex, konditional und stigmatisierend. Intergenerationale Reproduktion bindet Armut an Bildung, Wohnraum und Netzwerke. Moralische Umcodierung individualisiert Armut als Fehlverhalten, nicht als strukturelle Folge.",
+    "en": "Relative impoverishment appears when living standards rise selectively and poverty remains relational. Discipline is enforced through constant scarcity, which demands adaptation and conformity. Institutional fragmentation renders aid systems complex, conditional, and stigmatizing. Intergenerational reproduction ties poverty to education, housing, and social networks. Moral recoding individualizes poverty as failure rather than structural consequence."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Working Poor",
+        "en": "Working Poor"
+      },
+      "description": {
+        "de": "Vollzeit oder mehrere Jobs, trotzdem unter Armutsgrenze.",
+        "en": "Full-time or multiple jobs yet below poverty line."
+      }
+    },
+    {
+      "name": {
+        "de": "Kostenfresser Wohnen",
+        "en": "Housing Drain"
+      },
+      "description": {
+        "de": "Miete absorbiert Einkommen, Dispositionsfreiheit sinkt.",
+        "en": "Rent absorbs income; discretionary space collapses."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Relative Armut",
+      "definition": {
+        "de": "Einkommen <60% Median, zeigt gesellschaftliche Teilhabegrenzen.",
+        "en": "Income <60% of median, indicating constrained participation."
+      }
+    },
+    {
+      "term": "Working Poor",
+      "definition": {
+        "de": "Erwerbstätig und dennoch unter Armutsrisikoschwelle.",
+        "en": "Employed yet below poverty-risk threshold."
+      }
+    },
+    {
+      "term": "Zeitarmut",
+      "definition": {
+        "de": "Mangel an disponibler Zeit durch Mehrfachjobs und Pendeln.",
+        "en": "Lack of disposable time due to multiple jobs and commuting."
+      }
+    }
+  ],
+  "related": [
+    "care",
+    "soziale-ungleichheit",
+    "drogen",
+    "entfremdung",
+    "erschoepfung",
+    "exhaustion"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-armut-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "OECD/NGO",
+      "note": "Working poor, rent burden"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/armut/homeless-placeholder.jpg",
+      "/media/armut/food-bank-placeholder.png",
+      "/media/armut/working-poor-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Chord: income → expenses; heatmap: rent burden by district; particle noise over scarcity index."
+  ],
+  "timeline": [
+    {
+      "year": "2008",
+      "location": "Global",
+      "event": "Krisenschub",
+      "description": "Arbeitslosigkeit steigt, Löhne stagnieren, Armut verhärtet."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie",
+      "description": "Unsichere Jobs brechen weg, Tafelnutzung steigt."
+    },
+    {
+      "year": "2023",
+      "location": "OECD",
+      "event": "Kostenkrise",
+      "description": "Inflation trifft Haushalte, Mieten und Lebensmittelpreise beschleunigen."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "schuldenlast",
+  "slug": "schuldenlast",
+  "title": {
+    "de": "Schuldenlast",
+    "en": "Debt Burden"
+  },
+  "summary": {
+    "de": "Staaten, Haushalte und Unternehmen tragen steigende Schulden; Zinswenden machen Lasten sichtbar.",
+    "en": "States, households, and firms carry rising debt; rate hikes make burdens visible."
+  },
+  "categories": [
+    "Materie",
+    "Macht"
+  ],
+  "tags": [
+    "verschuldung",
+    "zinsen",
+    "haushalt",
+    "krise",
+    "souveraen"
+  ],
+  "severity": 72,
+  "volatility": 66,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Gesamtverschuldung % BIP",
+        "en": "Total debt % GDP"
+      },
+      "value": ">250% global",
+      "source": "IIF"
+    },
+    {
+      "label": {
+        "de": "Zinsausgaben Anteil Haushalt/Staat",
+        "en": "Interest outlays share budget"
+      },
+      "value": "steigend",
+      "source": "Budget reports"
+    },
+    {
+      "label": {
+        "de": "Refinanzierungskosten",
+        "en": "Refinancing costs"
+      },
+      "value": "+",
+      "source": "Bond markets"
+    }
+  ],
+  "diagnosis": {
+    "de": "Schuldenlast ist Zeitverschiebung von Konflikten. Keynes: Kredit stabilisiert Nachfrage, bis Zins dreht. Minsky: Stabilität erzeugt Instabilität. Nietzsche: Schuld/Moral – Verschuldung bindet Subjekte an Gläubiger. Zinswenden legen versteckte Risiken frei; Sparprogramme treffen öffentliche Güter, soziale Spannungen wachsen.",
+    "en": "Debt burden shifts conflict over time. Keynes: credit props demand until rates turn. Minsky: stability begets instability. Nietzsche: guilt/debt binds subjects to creditors. Rate hikes expose hidden risk; austerity hits public goods and raises social strain."
+  },
+  "mechanisms": {
+    "de": "Niedrige Zinsen fördern Verschuldung; steigende Zinsen erhöhen Servicekosten. Währungsabwertungen verteuern Fremdwährungsschulden. Staaten sparen bei Investitionen, Infrastruktur leidet. Haushalte kürzen Konsum, Unternehmen streichen Jobs. Überschuldete Sektoren lösen Kettenreaktionen aus.",
+    "en": "Low rates fuel borrowing; rising rates lift servicing costs. Currency drops raise FX debt. States cut investment; infrastructure suffers. Households trim consumption; firms cut jobs. Overlevered sectors trigger chain reactions."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Zinsfalle",
+        "en": "Rate Trap"
+      },
+      "description": {
+        "de": "Umschuldung wird teurer, Handlungsspielraum schrumpft.",
+        "en": "Refinancing costs climb, room to act shrinks."
+      }
+    },
+    {
+      "name": {
+        "de": "Schuldner-Moral",
+        "en": "Debtor Morality"
+      },
+      "description": {
+        "de": "Schuld wird moralisiert, soziale Kontrolle verstärkt.",
+        "en": "Debt becomes moralised; social control tightens."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Zinswende",
+      "definition": {
+        "de": "Wechsel von Niedrig- zu Hochzinsphase.",
+        "en": "Shift from low- to high-rate regime."
+      }
+    },
+    {
+      "term": "Haircut",
+      "definition": {
+        "de": "Schuldenschnitt; Gläubiger verzichten teilweise.",
+        "en": "Debt write-down; creditors take a cut."
+      }
+    },
+    {
+      "term": "Minsky-Moment",
+      "definition": {
+        "de": "Plötzlicher Umschwung von Stabilität zu Panik.",
+        "en": "Sudden turn from stability to panic."
+      }
+    }
+  ],
+  "related": [
+    "automatisierung",
+    "extraktivismus",
+    "finanzialisierung",
+    "gentrifizierung",
+    "geopolitische-verschiebungen",
+    "rezession"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-schulden",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "IIF debt monitor / IMF"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/schuldenlast/crisis-placeholder.jpg",
+      "/media/schuldenlast/impact-placeholder.png",
+      "/media/schuldenlast/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Debt-to-GDP paths; interest share bars; FX-debt risk map."
+  ],
+  "timeline": [
+    {
+      "year": "2008-2015",
+      "location": "Global",
+      "event": "Nullzinsphase",
+      "description": "Verschuldung steigt stark."
+    },
+    {
+      "year": "2022",
+      "location": "Global",
+      "event": "Zinswende",
+      "description": "Servicekosten schießen hoch."
+    },
+    {
+      "year": "2023-2024",
+      "location": "Mehrere Staaten",
+      "event": "Haushaltskrisen",
+      "description": "Sparrunden, Schuldenschnitte diskutiert."
+    }
+  ]
+}

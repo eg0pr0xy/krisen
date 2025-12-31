@@ -1,0 +1,157 @@
+{
+  "id": "digitalisierung",
+  "slug": "digitalisierung",
+  "title": {
+    "de": "Digitalisierung",
+    "en": "Digitalization"
+  },
+  "summary": {
+    "de": "Analoge Prozesse werden in Daten, Plattformen und Interfaces übersetzt; Macht verschiebt sich zu Intermediären.",
+    "en": "Analog processes translate into data, platforms, and interfaces; power shifts to intermediaries."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "platformization",
+    "datafication",
+    "intermediation",
+    "lock-in",
+    "inclusion-gap"
+  ],
+  "severity": 68,
+  "volatility": 57,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Cloud-Abhängigkeit",
+        "en": "Cloud dependency"
+      },
+      "value": "hoch",
+      "source": "IT spend"
+    },
+    {
+      "label": {
+        "de": "Digitale Kluft",
+        "en": "Digital divide"
+      },
+      "value": "persistierend",
+      "source": "ICILS"
+    },
+    {
+      "label": {
+        "de": "API-Governance",
+        "en": "API governance"
+      },
+      "value": "zentralisiert",
+      "source": "Platform policies"
+    }
+  ],
+  "diagnosis": {
+    "de": "Digitalisierung ist mehr als Technik: Sie verschiebt Wertschöpfung zu Plattformen, schafft Abhängigkeiten und neue Ausschlüsse. Daten werden Rohstoff, Schnittstellen werden Gatekeeper. Öffentliche Dienste werden von privaten Clouds getragen. Arbeitsbeziehungen fragmentieren. Kulturell: Beschleunigung, Entgrenzung, aber auch neue Räume.",
+    "en": "Digitalization is more than tech: value shifts to platforms, dependencies and exclusions emerge. Data become raw material; interfaces become gatekeepers. Public services rest on private clouds. Work relations fragment. Culturally: acceleration, boundary loss, but also new spaces."
+  },
+  "mechanisms": {
+    "de": "Lock-in durch proprietäre Stacks. Winner-takes-most-Netzwerkeffekte. AGBs ersetzen klassische Regulierung. Digitale Ungleichheit folgt Einkommen, Bildung, Geschlecht, Region. Bürokratie wird API, verliert Kontext. Kulturproduktion wird von Algorithmus-Kuratoren geprägt.",
+    "en": "Lock-in via proprietary stacks. Winner-take-most network effects. Terms-of-service displace regulation. Digital inequality tracks income, education, gender, region. Bureaucracy becomes API, loses context. Cultural production shaped by algorithmic curation."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Plattform-Gate",
+        "en": "Platform Gate"
+      },
+      "description": {
+        "de": "Zugang, Bezahlung, Sichtbarkeit werden von einem Intermediär definiert.",
+        "en": "Access, payment, visibility defined by one intermediary."
+      }
+    },
+    {
+      "name": {
+        "de": "Digitale Kluft",
+        "en": "Digital Divide"
+      },
+      "description": {
+        "de": "Geräte, Netz, Skills fehlen; Teilhabe bricht ab.",
+        "en": "Devices, connectivity, skills lacking; participation drops."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Datenfizierung",
+      "definition": {
+        "de": "Übersetzung von Aktivitäten in Datenpunkte.",
+        "en": "Translation of activities into data points."
+      }
+    },
+    {
+      "term": "Plattformisierung",
+      "definition": {
+        "de": "Verlagerung von Interaktionen auf proprietäre Plattformen.",
+        "en": "Shift of interactions onto proprietary platforms."
+      }
+    },
+    {
+      "term": "Netzwerkeffekt",
+      "definition": {
+        "de": "Wert steigt mit Nutzerzahl, erzeugt Konzentration.",
+        "en": "Value rises with users, creating concentration."
+      }
+    }
+  ],
+  "related": [
+    "koerperpolitik",
+    "plattformoekonomie",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-digitalisierung-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "ICILS, IT spend",
+      "note": "Digital divide, cloud dependency"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/digitalisierung/crisis-placeholder.jpg",
+      "/media/digitalisierung/impact-placeholder.png",
+      "/media/digitalisierung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Sankey: data flows; map: connectivity gaps; shader: UI glitch over API icons."
+  ],
+  "timeline": [
+    {
+      "year": "2010er",
+      "location": "Global",
+      "event": "Platform rise",
+      "description": "Marketplace- und Social-Plattformen dominieren Interfaces."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Remote Pivot",
+      "description": "Arbeit und Schule wandern ins Netz, Kluften werden sichtbar."
+    },
+    {
+      "year": "2023",
+      "location": "EU",
+      "event": "DMA/DSA",
+      "description": "Regulatorische Gegenbewegung, Umsetzung offen."
+    }
+  ]
+}

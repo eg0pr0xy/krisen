@@ -1,0 +1,303 @@
+{
+  "id": "kontrollverlust",
+  "slug": "kontrollverlust",
+  "title": {
+    "de": "Kontrollverlust",
+    "en": "Loss of Control"
+  },
+  "summary": {
+    "de": "Systeme reagieren nicht mehr wie erwartet; Steuerbarkeit wird Illusion, Zufall dominiert Erfahrung.",
+    "en": "Systems stop reacting as expected; steerability becomes an illusion, contingency dominates experience."
+  },
+  "categories": [
+    "Gefühl",
+    "Kontrolle"
+  ],
+  "tags": [
+    "steuerung",
+    "kybernetik",
+    "risiko",
+    "automatisierung",
+    "unsicherheit"
+  ],
+  "severity": 78,
+  "volatility": 64,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anteil Bürger, die „Kontrollverlust“ über Ereignisse empfinden",
+        "en": "Share feeling 'loss of control' over events"
+      },
+      "value": ">50%",
+      "source": "Survey trackers"
+    },
+    {
+      "label": {
+        "de": "Automatisierungsgrad kritischer Infrastrukturen",
+        "en": "Automation level critical infrastructure"
+      },
+      "value": "hoch, steigend",
+      "source": "Sector reports"
+    },
+    {
+      "label": {
+        "de": "Systemausfälle durch Software-Fehler",
+        "en": "System outages caused by software faults"
+      },
+      "value": "+30% YoY",
+      "source": "Incident databases"
+    },
+    {
+      "label": {
+        "de": "Digitale Entropie (Cybercrime Kosten 2025)",
+        "en": "Digital Entropy (Cybercrime Costs 2025)"
+      },
+      "value": "10.5 Bio. USD",
+      "source": "Cybersecurity reports"
+    },
+    {
+      "label": {
+        "de": "Psychische Erosion (Angststörungen Global)",
+        "en": "Psychic Erosion (Anxiety Disorders Global)"
+      },
+      "value": "301 Mio. Menschen",
+      "source": "WHO"
+    },
+    {
+      "label": {
+        "de": "Institutioneller Vertrauensverlust (Edelman 2024)",
+        "en": "Institutional Trust Loss (Edelman 2024)"
+      },
+      "value": "Gov < Business",
+      "source": "Edelman Trust Barometer"
+    },
+    {
+      "label": {
+        "de": "Systemische Unsicherheit (GEPU Index 2024)",
+        "en": "Systemic Uncertainty (GEPU Index 2024)"
+      },
+      "value": "Allzeithoch",
+      "source": "Economic Policy Uncertainty"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist es ontologisch?",
+        "en": "What is it ontologically?"
+      },
+      "answer": {
+        "de": "Die Auflösung linearer Kausalität und der Zusammenbruch der 'Grand Narratives' der Ordnung.",
+        "en": "The dissolution of linear causality and the collapse of the 'grand narratives' of order."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer ist das Subjekt?",
+        "en": "Who is the subject?"
+      },
+      "answer": {
+        "de": "Sowohl der Staat (Souveränitätsverlust) als auch das Individuum (psychische Erosion/Burnout).",
+        "en": "Both the state (loss of sovereignty) and the individual (psychic erosion/burnout)."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "In der Schnittstelle zwischen digitaler Infrastruktur (algorithmische Blackboxes) und kognitiver Verarbeitung.",
+        "en": "At the interface between digital infrastructure (algorithmic black boxes) and cognitive processing."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann wird es kritisch?",
+        "en": "When does it become critical?"
+      },
+      "answer": {
+        "de": "Jetzt. Der 'Tipping Point' ist überschritten; wir befinden uns in der Phase der kaskadierenden Systemausfälle.",
+        "en": "Now. The 'tipping point' has been exceeded; we are in the phase of cascading system failures."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum gerade jetzt?",
+        "en": "Why now?"
+      },
+      "answer": {
+        "de": "Wegen der Synchronizität von Polykrisen (Klima, Finanzen, Geopolitik), die die Pufferkapazitäten der Systeme überlasten.",
+        "en": "Due to the synchronicity of polycrises (climate, finance, geopolitics) that overload the buffer capacities of systems."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie ist Stabilisierung möglich?",
+        "en": "How is stabilization possible?"
+      },
+      "answer": {
+        "de": "Nur durch radikale Komplexitätsreduktion oder einen systemischen 'Hard Reset' (nicht durch inkrementelle Reformen).",
+        "en": "Only through radical complexity reduction or a systemic 'hard reset' (not through incremental reforms)."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Kontrollverlust bezeichnet die irreversible Entkoppelung exekutiver Steuerungsinstanzen von den operativen Prozessen eines komplexen Systems. Es ist der Moment, in dem die Kybernetik zweiter Ordnung (Beobachtung der Beobachtung) kollabiert und durch algorithmische Autopoiesis oder bloße Entropie ersetzt wird. In der Spätmoderne manifestiert sich dies als Unfähigkeit staatlicher, ökonomischer und individueller Akteure, Kausalitäten zu erzwingen oder Zukunft zu linearisieren. Vom Aufklärungsversprechen der absoluten Beherrschbarkeit der Natur (Descartes/Kant) über den technokratischen Optimismus der Kybernetik (Wiener) bis zur Ernüchterung des Anthropozäns. Der Kontrollverlust ist das finale Kapitel der Moderne. Kontrollverlust ist das Gefühl, dass Kybernetik versagt. Bei Adorno: Totalität des Systems zeigt sich erst im Scheitern, wenn Subjekte ohnmächtig werden. Luhmann: Komplexität übersteigt die Kapazität von Prognose; Vertrauen wird durch Kontingenz ersetzt. Automatisierte Steuerungen erzeugen Black Boxes; Entscheidungen entziehen sich Rückkopplung. Gesellschaftlich entsteht ein Klima der Zufallserfahrung.",
+    "en": "Loss of control denotes the irreversible decoupling of executive steering instances from the operational processes of a complex system. It is the moment when second-order cybernetics (observation of observation) collapses and is replaced by algorithmic autopoiesis or mere entropy. In late modernity this manifests as the inability of state, economic, and individual actors to enforce causalities or linearize the future."
+  },
+  "mechanisms": {
+    "de": "Automatisierung koppelt Subjekte von Steuerungen ab. Schnittstellen verbergen Zustände. Datenabhängigkeit macht Fehler unsichtbar, bis sie kaskadieren. Krisen überlagern sich (Polykrise) und entziehen sich Linearität. Kommunikationslatenzen erzeugen Kontrollillusionen: Entscheidungen treffen zu spät ein.",
+    "en": "Automation decouples subjects from control loops. Interfaces hide state. Data dependency makes errors invisible until cascading. Crises overlap (polycrisis) and defy linear handling. Communication latency produces control illusions: decisions arrive too late."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Black Box",
+        "en": "Black Box"
+      },
+      "description": {
+        "de": "System reagiert, aber Gründe bleiben verborgen; Vertrauen ersetzt Wissen.",
+        "en": "System reacts but reasons stay hidden; trust replaces knowledge."
+      }
+    },
+    {
+      "name": {
+        "de": "Schaltzentrum",
+        "en": "Control Room"
+      },
+      "description": {
+        "de": "Displays flackern, Parameter springen; Eingriffe wirken wirkungslos.",
+        "en": "Displays flicker, parameters jump; interventions feel futile."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Kybernetik",
+      "definition": {
+        "de": "Lehre der Steuerung und Regelung komplexer Systeme.",
+        "en": "Study of control and regulation of complex systems."
+      }
+    },
+    {
+      "term": "Kontingenz",
+      "definition": {
+        "de": "Erfahrung des Nicht-Notwendigen; Dinge könnten auch anders sein.",
+        "en": "Experience of non-necessity; things could be otherwise."
+      }
+    },
+    {
+      "term": "Polykrise",
+      "definition": {
+        "de": "Überlagerung mehrerer Krisen, die sich gegenseitig verstärken.",
+        "en": "Overlay of multiple crises that reinforce each other."
+      }
+    },
+    {
+      "term": "Kybernetik zweiter Ordnung",
+      "definition": {
+        "de": "Beobachtung der Beobachtung; Reflexivität in Steuerungsprozessen.",
+        "en": "Observation of observation; reflexivity in control processes."
+      }
+    },
+    {
+      "term": "Algorithmische Autopoiesis",
+      "definition": {
+        "de": "Selbstorganisation von Algorithmen ohne menschliche Intervention.",
+        "en": "Self-organization of algorithms without human intervention."
+      }
+    },
+    {
+      "term": "Grand Narratives",
+      "definition": {
+        "de": "Große Erzählungen der Moderne über Fortschritt und Ordnung (Lyotard).",
+        "en": "Grand narratives of modernity about progress and order (Lyotard)."
+      }
+    },
+    {
+      "term": "Hard Reset",
+      "definition": {
+        "de": "Radikaler Neustart eines Systems durch fundamentale Umstrukturierung.",
+        "en": "Radical restart of a system through fundamental restructuring."
+      }
+    }
+  ],
+  "related": [
+    "prekarisierung",
+    "aufmerksamkeitsoekonomie",
+    "biopolitische-zuschreibungen",
+    "drogen",
+    "empoerungsdynamiken",
+    "entmenschlichung-buerokratie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-kontrollverlust",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Incident databases / automation reports"
+    },
+    {
+      "label": "René Descartes - Discourse on Method",
+      "note": "Enlightenment promise of absolute mastery over nature"
+    },
+    {
+      "label": "Immanuel Kant - Critique of Pure Reason",
+      "note": "Rational control over causality and future"
+    },
+    {
+      "label": "Norbert Wiener - Cybernetics",
+      "note": "Technocratic optimism of cybernetic control"
+    },
+    {
+      "label": "Theodor W. Adorno - Negative Dialectics",
+      "note": "System totality revealed in failure, subject powerlessness"
+    },
+    {
+      "label": "Niklas Luhmann - Social Systems",
+      "note": "Complexity exceeds forecasting capacity, contingency replaces trust"
+    },
+    {
+      "label": "Jean-François Lyotard - The Postmodern Condition",
+      "note": "Collapse of grand narratives of order"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/kontrollverlust/crisis-placeholder.jpg",
+      "/media/kontrollverlust/impact-placeholder.png",
+      "/media/kontrollverlust/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Outage timeline; control-loop diagram with latency; survey bars on perceived control.",
+    "LIVE-EVIDENCE (SEARCH RADAR): RADAR_TARGET // 001 evrimagaci.org, 002 thehackernews.com, 003 engadget.com, 004 chinadaily.com.cn, 005 wfae.org, 006 intercede.com, 007 brightdefense.com"
+  ],
+  "timeline": [
+    {
+      "year": "2003",
+      "location": "Nordost-USA",
+      "event": "Grid-Blackout",
+      "description": "Software-Fehler + Baumkontakt zeigen Kaskaden."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie",
+      "description": "Politik erfährt Kontrollillusion gegenüber exponentiellen Prozessen."
+    },
+    {
+      "year": "2024",
+      "location": "Cloud-Infrastruktur",
+      "event": "Großausfall",
+      "description": "Konfigurationsfehler legt Dienste weltweit lahm; Nutzer erleben Ohnmacht."
+    }
+  ]
+}

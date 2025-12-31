@@ -1,0 +1,158 @@
+{
+  "id": "entmenschlichung-buerokratie",
+  "slug": "entmenschlichung-buerokratie",
+  "title": {
+    "de": "Entmenschlichung durch Bürokratie",
+    "en": "Bureaucratic dehumanisation"
+  },
+  "summary": {
+    "de": "Verfahren ersetzen Beziehungen: Menschen werden zu Akten, Scores oder Tickets.",
+    "en": "Procedures replace relations: people become files, scores, or tickets."
+  },
+  "categories": [
+    "Kontrolle",
+    "Gefühl",
+    "Macht"
+  ],
+  "tags": [
+    "administrative-violence",
+    "queue",
+    "scoring",
+    "automation",
+    "opacity"
+  ],
+  "severity": 68,
+  "volatility": 53,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Verfahrensdauer",
+        "en": "Processing time"
+      },
+      "value": "Monate/Jahre",
+      "source": "Gov stats"
+    },
+    {
+      "label": {
+        "de": "Automatisierte Bescheide",
+        "en": "Automated decisions"
+      },
+      "value": "↑",
+      "source": "Agency reports"
+    },
+    {
+      "label": {
+        "de": "Widerspruchsquote",
+        "en": "Appeal rate"
+      },
+      "value": "steigend",
+      "source": "Ombuds offices"
+    }
+  ],
+  "diagnosis": {
+    "de": "Bürokratische Entmenschlichung entsteht, wenn Verfahren wichtiger werden als Situationen. Graeber: Bullshit-Rules verdrängen Sinn. Automatisierte Bescheide verstärken Distanz, Fehler werden nicht korrigiert. Warteschlangen und Antragsrituale erzeugen Demütigung, besonders für rechtlose Gruppen. Vertrauen in Staatlichkeit sinkt.",
+    "en": "Bureaucratic dehumanisation arises when procedures trump situations. Graeber: rules without purpose. Automated rulings deepen distance; errors stay uncorrected. Queues and ritualised applications humiliate, especially the rightless. Trust in institutions declines."
+  },
+  "mechanisms": {
+    "de": "Standardisierung spart Zeit, verliert Kontext. KPIs fokussieren Durchsatz statt Fairness. Digitalisierung ohne Ombudsstelle verstärkt Asymmetrien. Personalabbau erhöht Automatisierung, Empathie schrumpft. Sprache wird formalistisch, Zugangshürden wachsen.",
+    "en": "Standardisation saves time but loses context. KPIs target throughput over fairness. Digitalisation without ombuds deepens asymmetry. Staff cuts push automation; empathy contracts. Language turns formalistic; access barriers rise."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Ticket-Mensch",
+        "en": "Ticket Person"
+      },
+      "description": {
+        "de": "Anliegen wird Nummer, Bearbeitung folgt Schema ohne Blickkontakt.",
+        "en": "A case becomes a number; handling follows scripts without eye contact."
+      }
+    },
+    {
+      "name": {
+        "de": "Score-Stempel",
+        "en": "Score Stamp"
+      },
+      "description": {
+        "de": "Algorithmische Scores entscheiden über Leistung oder Ablehnung.",
+        "en": "Algorithmic scores decide support or denial."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Administrative Violence",
+      "definition": {
+        "de": "Schaden, der durch Formalismen und Verzögerung entsteht.",
+        "en": "Harm produced by formalism and delay."
+      }
+    },
+    {
+      "term": "Deskilling",
+      "definition": {
+        "de": "Verlust professioneller Urteilskraft durch starre Prozesse.",
+        "en": "Loss of professional judgment due to rigid processes."
+      }
+    },
+    {
+      "term": "Scoring",
+      "definition": {
+        "de": "Numerische Bewertung von Menschen für Entscheidungen.",
+        "en": "Numerical rating of people for decisions."
+      }
+    }
+  ],
+  "related": [
+    "algorithmische-steuerung",
+    "corruption",
+    "kuenstliche-intelligenz",
+    "entfremdung",
+    "koerperpolitik",
+    "terrorismus"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-bureaucracy-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Ombuds/Gov stats",
+      "note": "Processing times, appeals"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/entmenschlichung-buerokratie/crisis-placeholder.jpg",
+      "/media/entmenschlichung-buerokratie/impact-placeholder.png",
+      "/media/entmenschlichung-buerokratie/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Queue animation; Sankey of application paths; shader: red tape noise."
+  ],
+  "timeline": [
+    {
+      "year": "2000er",
+      "location": "Global North",
+      "event": "New Public Management",
+      "description": "KPIs priorisieren Durchsatz, Empathie sinkt."
+    },
+    {
+      "year": "2018",
+      "location": "EU",
+      "event": "Automation wave",
+      "description": "Digitale Bescheide ersetzen persönliche Prüfung."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Backlogs",
+      "description": "Überlastung + Kürzungen verlängern Verfahren, Fehler häufen sich."
+    }
+  ]
+}

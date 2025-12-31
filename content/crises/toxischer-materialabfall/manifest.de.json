@@ -1,0 +1,256 @@
+{
+  "id": "toxischer-materialabfall",
+  "slug": "toxischer-materialabfall",
+  "title": {
+    "de": "Toxischer Materialabfall",
+    "en": "Toxic Material Waste"
+  },
+  "summary": {
+    "de": "Die Akkumulation persistenter toxischer Substanzen in Ökosystemen und menschlichen Körpern, die sich der biologischen und technischen Degradation entziehen und generationenübergreifende Gesundheits- und Umweltschäden verursachen.",
+    "en": "The accumulation of persistent toxic substances in ecosystems and human bodies that resist biological and technical degradation, causing intergenerational health and environmental damage."
+  },
+  "categories": [
+    "Materie"
+  ],
+  "tags": [
+    "persistent",
+    "bioakkumulation",
+    "endocrine",
+    "waste",
+    "contamination"
+  ],
+  "severity": 82,
+  "volatility": 38,
+  "timeHorizon": "long",
+  "systemicLoad": 2,
+  "signals": [
+    {
+      "label": {
+        "de": "Globaler Elektronikabfall",
+        "en": "Global E-waste"
+      },
+      "value": "62 Mio. Tonnen (2024)",
+      "source": "UNEP"
+    },
+    {
+      "label": {
+        "de": "PFAS in menschlichem Blut",
+        "en": "PFAS in Human Blood"
+      },
+      "value": "99% Kontamination",
+      "source": "CDC"
+    },
+    {
+      "label": {
+        "de": "Schwermetalle in Böden",
+        "en": "Heavy Metals in Soils"
+      },
+      "value": ">50% EU-Limite",
+      "source": "EEA"
+    },
+    {
+      "label": {
+        "de": "Radioaktiver Abfall Lager",
+        "en": "Radioactive Waste Storage"
+      },
+      "value": "270.000 m³",
+      "source": "IAEA"
+    },
+    {
+      "label": {
+        "de": "Mikroplastik in Meeren",
+        "en": "Microplastics in Oceans"
+      },
+      "value": ">10 Mio. Tonnen/Jahr",
+      "source": "GESAMP"
+    }
+  ],
+  "diagnosis": {
+    "de": "Toxischer Materialabfall markiert den Übergang von linearen Stoffkreisläufen zu persistenten Kontaminationen. Was als 'Abfall' deklariert wird, entzieht sich der Degradation und wird zu einem Hyperobjekt (Morton): räumlich verteilt, zeitlich persistent, epistemisch opak. Die Krise entsteht aus der Externalisierung industrieller Metabolismen - toxische Nebenprodukte werden nicht eliminiert, sondern temporär ausgelagert. Dies führt zu Bioakkumulation in Nahrungsketten, endokriner Disruption und epigenetischer Schäden. In kybernetischer Perspektive blockiert die Persistenz von Toxinen Feedback-Schleifen: Signale von Kontamination kehren nicht als korrigierende Impulse zurück, sondern als chronische Schäden. Die Krise ist damit ein Beispiel für 'slow violence' (Nixon): unspektakulär, aber kumulativ destruktiv. Toxische Substanzen werden zu 'Zeitbomben' - ihre Wirkung entfaltet sich über Generationen, entzieht sich der unmittelbaren Wahrnehmung und unterläuft traditionelle Risikobewertungen.",
+    "en": "Toxic material waste marks the transition from linear material cycles to persistent contaminations. What is declared 'waste' escapes degradation and becomes a hyperobject (Morton): spatially dispersed, temporally persistent, epistemically opaque. The crisis emerges from the externalization of industrial metabolisms - toxic byproducts are not eliminated but temporarily displaced. This leads to bioaccumulation in food chains, endocrine disruption, and epigenetic damage. From a cybernetic perspective, the persistence of toxins blocks feedback loops: contamination signals do not return as corrective impulses but as chronic damage. The crisis is thus an example of 'slow violence' (Nixon): unspectacular but cumulatively destructive. Toxic substances become 'time bombs' - their effects unfold across generations, escape immediate perception, and undermine traditional risk assessments."
+  },
+  "mechanisms": {
+    "de": "Persistente organische Schadstoffe (POPs) und Schwermetalle akkumulieren in Böden, Gewässern und biologischen Systemen. Industrielle Externalisierung verlagert Risiken räumlich und zeitlich: Produktionsländer exportieren toxische Abfälle in Entsorgungsländer. Regulatorische Lücken (Basler Konvention unvollständig) ermöglichen illegale Abfallexporte. Wirtschaftliche Anreize begünstigen kostengünstige, aber risikoreiche Entsorgungsmethoden. Bioakkumulation führt zu exponentieller Konzentration in Nahrungsketten. Epigenetische Effekte übertragen Schäden generationenübergreifend.",
+    "en": "Persistent organic pollutants (POPs) and heavy metals accumulate in soils, waters, and biological systems. Industrial externalization displaces risks spatially and temporally: production countries export toxic waste to disposal countries. Regulatory gaps (incomplete Basel Convention) enable illegal waste exports. Economic incentives favor low-cost but high-risk disposal methods. Bioaccumulation leads to exponential concentration in food chains. Epigenetic effects transmit damage across generations."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Elektronikfriedhof",
+        "en": "E-waste Graveyard"
+      },
+      "description": {
+        "de": "Akkumulation veralteter Elektronik mit Schwermetallen und seltenen Erden; informeller Recycling in toxischen Slums.",
+        "en": "Accumulation of obsolete electronics with heavy metals and rare earths; informal recycling in toxic slums."
+      }
+    },
+    {
+      "name": {
+        "de": "Chemikalien-Zeitbombe",
+        "en": "Chemical Time Bomb"
+      },
+      "description": {
+        "de": "Gelagerte Industriechemikalien mit unbekannten Langzeiteffekten; veraltete Lagertechnik birgt Freisetzungsrisiken.",
+        "en": "Stored industrial chemicals with unknown long-term effects; outdated storage technology carries release risks."
+      }
+    },
+    {
+      "name": {
+        "de": "Radioaktive Hinterlassenschaft",
+        "en": "Radioactive Legacy"
+      },
+      "description": {
+        "de": "Kernkraft-Abfälle mit Halbwertszeiten von Jahrtausenden; fehlende Endlager und grenzüberschreitende Kontamination.",
+        "en": "Nuclear waste with half-lives of millennia; missing repositories and cross-border contamination."
+      }
+    },
+    {
+      "name": {
+        "de": "Mikroplastik-Ozean",
+        "en": "Microplastic Ocean"
+      },
+      "description": {
+        "de": "Zerfaserte Kunststoffe in Meeren; Partikel <5mm akkumulieren in Nahrungsketten und menschlichen Organen.",
+        "en": "Fragmented plastics in oceans; particles <5mm accumulate in food chains and human organs."
+      }
+    },
+    {
+      "name": {
+        "de": "Endokriner Disruptor",
+        "en": "Endocrine Disruptor"
+      },
+      "description": {
+        "de": "Chemikalien, die Hormonsysteme stören; führen zu Reproduktionsstörungen und Entwicklungsdefekten über Generationen.",
+        "en": "Chemicals that disrupt endocrine systems; lead to reproductive disorders and developmental defects across generations."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Persistente Organische Schadstoffe",
+      "definition": {
+        "de": "Chemikalien, die sich nicht biologisch abbauen und in der Umwelt akkumulieren.",
+        "en": "Chemicals that do not biodegrade and accumulate in the environment."
+      }
+    },
+    {
+      "term": "Bioakkumulation",
+      "definition": {
+        "de": "Anreicherung toxischer Substanzen in Organismen über die Nahrungskette.",
+        "en": "Buildup of toxic substances in organisms through the food chain."
+      }
+    },
+    {
+      "term": "Endokrine Disruption",
+      "definition": {
+        "de": "Störung des Hormonsystems durch chemische Substanzen mit hormonähnlicher Wirkung.",
+        "en": "Disruption of the endocrine system by chemicals with hormone-like effects."
+      }
+    },
+    {
+      "term": "Epigenetische Schäden",
+      "definition": {
+        "de": "Veränderungen der Genexpression ohne Veränderung der DNA-Sequenz; können vererbt werden.",
+        "en": "Changes in gene expression without altering DNA sequence; can be inherited."
+      }
+    },
+    {
+      "term": "Basler Konvention",
+      "definition": {
+        "de": "Internationales Abkommen zur Kontrolle grenzüberschreitender gefährlicher Abfälle.",
+        "en": "International agreement to control transboundary movements of hazardous wastes."
+      }
+    }
+  ],
+  "related": [
+    "umweltzerstoerung",
+    "artensterben",
+    "pandemie",
+    "koerperpolitik",
+    "just-in-time-fragilitaet"
+  ],
+  "triggers": [
+    "umweltzerstoerung",
+    "technologische-intransparenz",
+    "finanzialisierung"
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Warum ist toxischer Abfall ein systemisches Problem?",
+        "en": "Why is toxic waste a systemic problem?"
+      },
+      "answer": {
+        "de": "Toxischer Abfall ist persistent und entzieht sich natürlichen Kreisläufen. Er akkumuliert exponentiell in Nahrungsketten und menschlichen Körpern, wirkt generationenübergreifend und unterläuft nationale Grenzen.",
+        "en": "Toxic waste is persistent and escapes natural cycles. It accumulates exponentially in food chains and human bodies, acts across generations, and undermines national borders."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie unterscheidet sich toxischer Abfall von normalem Müll?",
+        "en": "How does toxic waste differ from regular waste?"
+      },
+      "answer": {
+        "de": "Normaler Müll zerfällt biologisch oder chemisch; toxischer Abfall ist persistent, bioakkumuliert und verursacht irreversible Schäden. Er wird nicht 'entsorgt', sondern temporär ausgelagert.",
+        "en": "Regular waste decomposes biologically or chemically; toxic waste is persistent, bioaccumulates, and causes irreversible damage. It is not 'disposed of' but temporarily displaced."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Branchen sind die größten Verursacher?",
+        "en": "Which industries are the biggest contributors?"
+      },
+      "answer": {
+        "de": "Elektronikindustrie (Schwermetalle), Chemieindustrie (POPs, PFAS), Kernenergie (radioaktive Abfälle), Kunststoffproduktion (Mikroplastik), Landwirtschaft (Pestizide).",
+        "en": "Electronics industry (heavy metals), chemical industry (POPs, PFAS), nuclear energy (radioactive waste), plastics production (microplastics), agriculture (pesticides)."
+      }
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/toxischer-materialabfall/electronic-waste-placeholder.jpg",
+      "/media/toxischer-materialabfall/chemical-storage-placeholder.png",
+      "/media/toxischer-materialabfall/microplastic-ocean-placeholder.jpg",
+      "/media/toxischer-materialabfall/endocrine-disruptor-placeholder.png",
+      "/media/toxischer-materialabfall/radioactive-waste-placeholder.jpg"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "1989",
+      "location": "Basel",
+      "event": "Basler Konvention",
+      "description": "Erstes globales Abkommen zur Kontrolle gefährlicher Abfälle."
+    },
+    {
+      "year": "2001",
+      "location": "Stockholm",
+      "event": "Stockholmer Konvention",
+      "description": "Verbot persistenter organischer Schadstoffe (POPs)."
+    },
+    {
+      "year": "2019",
+      "location": "Global",
+      "event": "E-waste Explosion",
+      "description": "Elektronikabfall erreicht 53,6 Millionen Tonnen jährlich."
+    },
+    {
+      "year": "2023",
+      "location": "USA",
+      "event": "PFAS-Krise",
+      "description": "Entdeckung von PFAS-Kontamination in 45 US-Bundesstaaten."
+    },
+    {
+      "year": "2024",
+      "location": "Global",
+      "event": "Mikroplastik-Peak",
+      "description": "Über 10 Millionen Tonnen Mikroplastik gelangen jährlich in Ozeane."
+    }
+  ],
+  "lastUpdatedISO": "2025-01-26T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "sinnverlust",
+  "slug": "sinnverlust",
+  "title": {
+    "de": "Sinnverlust",
+    "en": "Loss of Meaning"
+  },
+  "summary": {
+    "de": "Individuen und Institutionen verlieren verbindliche Erzählungen; Arbeit, Politik, Alltag wirken austauschbar.",
+    "en": "Individuals and institutions lose binding narratives; work, politics, everyday life feel interchangeable."
+  },
+  "categories": [
+    "Gefühl",
+    "Existenz"
+  ],
+  "tags": [
+    "entfremdung",
+    "nihilismus",
+    "arbeit",
+    "fragment",
+    "orientierung"
+  ],
+  "severity": 83,
+  "volatility": 39,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anteil „Job ohne Sinn“ (Gallup)",
+        "en": "Share calling job meaningless"
+      },
+      "value": "~40%",
+      "source": "Gallup 2024"
+    },
+    {
+      "label": {
+        "de": "Psychische Belastung/Depression (Inzidenz)",
+        "en": "Depression incidence"
+      },
+      "value": "↑ global",
+      "source": "WHO"
+    },
+    {
+      "label": {
+        "de": "Religiöse/ideologische Zugehörigkeit",
+        "en": "Religious/ideological affiliation"
+      },
+      "value": "sinkend in OECD",
+      "source": "WVS"
+    }
+  ],
+  "diagnosis": {
+    "de": "Sinnverlust folgt der Verdinglichung des Lebens. Adorno: Sinn wird zur Ware, verschwindet im Tauschwert. Horkheimer: Zweckrationalität frisst Zwecke. Luhmann: Funktionssysteme entkoppeln, bieten keine Gesamtsemantik. Individuen erfahren Fragmentierung als Leere; Versuche der Sinnproduktion (Selbstoptimierung, Wellness) bleiben privat und prekär.",
+    "en": "Loss of meaning follows reification of life. Adorno: meaning turns commodity, dissolves in exchange value. Horkheimer: instrumental reason devours ends. Luhmann: functional systems decouple and offer no overarching semantics. Individuals experience fragmentation as void; meaning-making attempts (self-optimisation, wellness) stay private and precarious."
+  },
+  "mechanisms": {
+    "de": "Arbeitsprozesse werden in Tasks zerlegt, Sinnkette bricht. Digitaler Konsum füllt Zeit ohne Narrativ. Institutionen kommunizieren in KPIs, nicht in Geschichten. Religiöse oder ideologische Bindungen schwinden, Subjekte kompensieren über Selbstmarke. Prekarität verhindert langfristige Pläne.",
+    "en": "Work is atomised into tasks; chains of purpose break. Digital consumption fills time without narrative. Institutions speak in KPIs, not stories. Religious or ideological ties fade; subjects compensate via self-branding. Precarity blocks long-term plans."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Leeres Büro",
+        "en": "Empty Office"
+      },
+      "description": {
+        "de": "Routine läuft, Bedeutung fehlt; alles ist austauschbar.",
+        "en": "Routine runs, meaning absent; everything is interchangeable."
+      }
+    },
+    {
+      "name": {
+        "de": "Wellness-Schleife",
+        "en": "Wellness Loop"
+      },
+      "description": {
+        "de": "Selbstberuhigung ersetzt Veränderung; Sinnproduktion bleibt konsumtiv.",
+        "en": "Self-soothing replaces change; meaning production stays consumptive."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Verdinglichung",
+      "definition": {
+        "de": "Beziehungen werden zu Dingen, verlieren Lebendigkeit.",
+        "en": "Relations become things, lose vitality."
+      }
+    },
+    {
+      "term": "Instrumentelle Vernunft",
+      "definition": {
+        "de": "Vernunft reduziert auf Mittelwahl, Zwecke bleiben leer.",
+        "en": "Reason reduced to choosing means; ends remain empty."
+      }
+    },
+    {
+      "term": "Prekarität",
+      "definition": {
+        "de": "Unplanbare Lebenslage, die Sinnkonstruktion erschwert.",
+        "en": "Unpredictable condition that hinders meaning construction."
+      }
+    }
+  ],
+  "related": [
+    "entfremdung",
+    "zukunftsangst",
+    "arbeitslosigkeit",
+    "armut",
+    "automatisierung",
+    "drogen"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-sinnverlust",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Gallup Engagement / WHO mental health"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/sinnverlust/crisis-placeholder.jpg",
+      "/media/sinnverlust/impact-placeholder.png",
+      "/media/sinnverlust/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Time-use stacked areas; task atomisation chord; affiliation decline lines."
+  ],
+  "timeline": [
+    {
+      "year": "1990er",
+      "location": "OECD",
+      "event": "Säkularisierungsschub",
+      "description": "Religiöse Bindungen sinken, Sinnquellen verschieben sich."
+    },
+    {
+      "year": "2010s",
+      "location": "Global",
+      "event": "Gig- und Task-Economy",
+      "description": "Arbeit fragmentiert, Zugehörigkeit sinkt."
+    },
+    {
+      "year": "2020-2024",
+      "location": "Global",
+      "event": "Polykrisen",
+      "description": "Langfristige Erzählungen brechen, Zukunft wird unplanbar."
+    }
+  ]
+}

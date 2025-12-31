@@ -1,0 +1,157 @@
+{
+  "id": "technologische-intransparenz",
+  "slug": "technologische-intransparenz",
+  "title": {
+    "de": "Technologische Intransparenz",
+    "en": "Technological opacity"
+  },
+  "summary": {
+    "de": "Systeme werden komplex und proprietär; Funktionslogik und Haftung werden unsichtbar.",
+    "en": "Systems grow complex and proprietary; logic and liability become invisible."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "black-box",
+    "ai-opacity",
+    "supply-chain",
+    "standards",
+    "vendor-lock"
+  ],
+  "severity": 70,
+  "volatility": 56,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Black-Box KI",
+        "en": "Black-box AI"
+      },
+      "value": "↑ Einsatz",
+      "source": "Industry surveys"
+    },
+    {
+      "label": {
+        "de": "Closed Source Anteil",
+        "en": "Closed-source share"
+      },
+      "value": "dominant",
+      "source": "Market data"
+    },
+    {
+      "label": {
+        "de": "Lieferkettenblick",
+        "en": "Supply chain visibility"
+      },
+      "value": "gering",
+      "source": "Audits"
+    }
+  ],
+  "diagnosis": {
+    "de": "Technologische Intransparenz entzieht Kontrolle. Black-Box-Modelle treffen Entscheidungen ohne Erklärbarkeit. Proprietäre Standards schaffen Abhängigkeit. Komplexe Lieferketten verdecken Herkunft und Sicherheit. Governance kann weder prüfen noch haftbar machen. Nutzer:innen verlieren Agency, demokratische Kontrolle wird ersetzt durch Verträge.",
+    "en": "Technological opacity withdraws control. Black-box models decide without explanations. Proprietary standards create dependency. Complex supply chains mask origin and safety. Governance cannot audit or assign liability. Users lose agency; democratic oversight is replaced by contracts."
+  },
+  "mechanisms": {
+    "de": "Vendor-Lock-In bindet Daten und Formate. Dokumentation fehlt oder ist geheim. Sicherheitslücken bleiben unentdeckt, weil Komponenten unbekannt sind. Standardisierung folgt Marktmacht, nicht Offenheit. Erklärbarkeit kostet Performance und wird vermieden.",
+    "en": "Vendor lock-in ties data and formats. Documentation is missing or secret. Vulnerabilities persist because components are unknown. Standardisation follows market power, not openness. Explainability reduces performance and is avoided."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Black-Box-Urteil",
+        "en": "Black-Box Verdict"
+      },
+      "description": {
+        "de": "Entscheidung ohne Begründung, kein Widerspruch möglich.",
+        "en": "Decision without rationale; no contest possible."
+      }
+    },
+    {
+      "name": {
+        "de": "Locked Stack",
+        "en": "Locked Stack"
+      },
+      "description": {
+        "de": "Proprietäre Schichten verhindern Wechsel, Transparenz und Audit.",
+        "en": "Proprietary layers block switching, transparency, and audit."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Black Box",
+      "definition": {
+        "de": "System, dessen innere Funktionsweise nicht einsehbar ist.",
+        "en": "System whose internal workings are not observable."
+      }
+    },
+    {
+      "term": "Vendor Lock-In",
+      "definition": {
+        "de": "Wechselkosten sind so hoch, dass ein Anbieter faktisch gesetzt ist.",
+        "en": "Switching costs so high that a single vendor is enforced."
+      }
+    },
+    {
+      "term": "Explainability",
+      "definition": {
+        "de": "Nachvollziehbarkeit von Modellentscheidungen.",
+        "en": "Traceability of model decisions."
+      }
+    }
+  ],
+  "related": [
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus",
+    "corruption",
+    "datenmissbrauch"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-opaque-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Industry surveys",
+      "note": "AI opacity, supply visibility"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/technologische-intransparenz/crisis-placeholder.jpg",
+      "/media/technologische-intransparenz/impact-placeholder.png",
+      "/media/technologische-intransparenz/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Layered diagram: proprietary stack; network graph: supply chain nodes; shader: black-box noise."
+  ],
+  "timeline": [
+    {
+      "year": "2015",
+      "location": "Global",
+      "event": "Deep Learning Wave",
+      "description": "Erklärbarkeit sinkt, Performance steigt."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Supply shocks",
+      "description": "Undurchsichtige Komponentenketten zeigen Verwundbarkeit."
+    },
+    {
+      "year": "2023",
+      "location": "EU/US",
+      "event": "Regulierungsdruck",
+      "description": "AI-Acts fordern Transparenz, Umsetzung bleibt offen."
+    }
+  ]
+}

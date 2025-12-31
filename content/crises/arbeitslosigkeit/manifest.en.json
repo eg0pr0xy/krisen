@@ -1,0 +1,169 @@
+{
+  "id": "arbeitslosigkeit",
+  "slug": "arbeitslosigkeit",
+  "title": {
+    "de": "Arbeitslosigkeit",
+    "en": "Unemployment"
+  },
+  "summary": {
+    "de": "Ein systemisch erzeugter Zustand existenzieller Unsicherheit, in dem Menschen vom Arbeitsmarkt ausgeschlossen werden und Einkommen, Anerkennung und Selbstwirksamkeit verlieren. Arbeitslosigkeit ist mehr als eine ökonomische Kennziffer: Sie wirkt sozial, psychisch und politisch und macht strukturelle Fragilitäten moderner Gesellschaften sichtbar.",
+    "en": "Unemployment denotes the structural condition in which people, despite being able to work, are permanently or repeatedly excluded from the formal labour market. It is not a temporary market imbalance but an existential crisis experience in which economic insecurity, social devaluation, and psychological stress intersect."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "arbeit",
+    "jobverlust",
+    "sozialstaat",
+    "klasse",
+    "rezession"
+  ],
+  "severity": 75,
+  "volatility": 82,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Arbeitslosenquote (national)",
+        "en": "Unemployment rate (national)"
+      },
+      "value": "↑",
+      "source": "Stats offices"
+    },
+    {
+      "label": {
+        "de": "Jugendarbeitslosigkeit",
+        "en": "Youth unemployment"
+      },
+      "value": ">2x gesamt",
+      "source": "Labor surveys"
+    },
+    {
+      "label": {
+        "de": "Dauerarbeitslosigkeit (>12M)",
+        "en": "Long-term unemployment (>12m)"
+      },
+      "value": "steigend",
+      "source": "Employment agencies"
+    }
+  ],
+  "diagnosis": {
+    "de": "Arbeitslosigkeit ist der Resonanzraum, in dem sich ökonomische, politische und technologische Krisen konkret manifestieren. Marx kodierte sie als Teil der industriellen Reservearmee, die Löhne diszipliniert und Klassenmacht verschiebt; Polanyi betonte die Fiktionalisierung der Arbeit, die als Ware zuerst ihre sozialen Schutzfunktionen verliert; Keynes warnte vor Nachfrageschocks, die ohne staatliche Intervention in Abwärtsspiralen kippen. In modernen Kontexten kumulieren Effekte: Deindustrialisierung, Standortverlagerung, Automatisierung/Digitalisierung, ökologische Transformation und regionale Disparitäten erzeugen strukturelle Ausschlüsse. Arbeit konstituiert Zeitstruktur, Anerkennung und Selbstwirksamkeit, ihr Wegfall führt zu chronischer Unsicherheit, Stigmata, sozialem Rückzug, sinkendem Selbstwert und höherem Depressionsrisiko. Offizielle Statistiken verschleiern verdeckte Arbeitslosigkeit oder prekäre Formen, sodass die soziale Erfahrung radikal abweicht. Arbeitslosigkeit signalisiert damit nicht nur Desintegration, sondern die Fragilität von Produktion, Nachfrage, Qualifikation und sozialer Absicherung.",
+    "en": "Unemployment is the resonance space where economic, political, and technological crises concretely unfold. Marx portrayed it as part of the industrial reserve army disciplining wages and shifting class power; Polanyi highlighted how labour as a fictitious commodity first loses its social protections; Keynes warned of demand shocks triggering downward spirals without state intervention. In late modernity, cumulative forces—deindustrialization, relocation, automation/digitalization, ecological transformation, and regional disparities—produce structural exclusions. Work also provides temporal structure, recognition, and agency; its loss brings chronic insecurity, stigma, social withdrawal, diminished self-worth, and rising risks of depression. Official statistics obscure hidden unemployment and precarious forms, making lived experience diverge radically. Unemployment thus signals not just disintegration but the fragility of production, demand, skills, and social protection."
+  },
+  "mechanisms": {
+    "de": "Rezession oder Strukturwandel schließen Betriebe. Automatisierung senkt Nachfrage nach Routinearbeit. Fehlende Weiterbildung lässt Matching scheitern. Sozialsysteme puffern ungleich: Schutz für Kernbelegschaften, wenig für Outsider. Regionale Cluster fallen zurück, Migration nimmt zu.",
+    "en": "Recession or structural change shutter firms. Automation cuts demand for routine work. Lack of reskilling breaks matching. Safety nets cushion insiders more than outsiders. Regions slip behind, migration rises."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Warteschleife",
+        "en": "Waiting Loop"
+      },
+      "description": {
+        "de": "Bewerben ohne Ende, seltene Rückmeldung.",
+        "en": "Endless applications, scarce replies."
+      }
+    },
+    {
+      "name": {
+        "de": "Abgehängter Korridor",
+        "en": "Stranded Corridor"
+      },
+      "description": {
+        "de": "Region verliert Arbeitgeber, Infrastruktur verwaist.",
+        "en": "Region loses employers, infrastructure empties."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Hysterese",
+      "definition": {
+        "de": "Persistenz der Arbeitslosigkeit nach einem Schock.",
+        "en": "Persistence of unemployment after a shock."
+      }
+    },
+    {
+      "term": "Matching",
+      "definition": {
+        "de": "Passung von Fähigkeiten und offenen Stellen.",
+        "en": "Fit between skills and vacancies."
+      }
+    },
+    {
+      "term": "Sozialer Lohn",
+      "definition": {
+        "de": "Nicht-monetäre Anerkennung durch Beschäftigung.",
+        "en": "Non-monetary recognition through employment."
+      }
+    }
+  ],
+  "related": [
+    "automatisierung",
+    "entfremdung",
+    "prekarisierung",
+    "sinnverlust",
+    "zukunftsangst",
+    "alterung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-arbeitslosigkeit",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Karl Marx – Capital",
+      "note": "Industrial reserve army discipline wages"
+    },
+    {
+      "label": "Karl Polanyi – The Great Transformation",
+      "note": "Labour as fictitious commodity"
+    },
+    {
+      "label": "John Maynard Keynes – The General Theory",
+      "note": "Demand shortfalls drive spirals"
+    },
+    {
+      "label": "ILO / OECD labour data",
+      "note": "Unemployment statistics and structural trends"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/arbeitslosigkeit/crisis-placeholder.jpg",
+      "/media/arbeitslosigkeit/impact-placeholder.png",
+      "/media/arbeitslosigkeit/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Sankey from sectors to unemployment; map of regional job losses; duration histogram."
+  ],
+  "timeline": [
+    {
+      "year": "2008-2009",
+      "location": "Global",
+      "event": "Finanzkrise",
+      "description": "Massenentlassungen, Langzeitarbeitslosigkeit steigt."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie",
+      "description": "Dienstleistungen brechen ein, Kurzarbeit puffert ungleich."
+    },
+    {
+      "year": "2023-2024",
+      "location": "Mehrere Regionen",
+      "event": "Tech/Auto Umbau",
+      "description": "Automatisierung verdrängt Routine-Jobs, Umschulung hinkt."
+    }
+  ]
+}

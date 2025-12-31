@@ -1,0 +1,243 @@
+{
+  "id": "umweltzerstoerung",
+  "slug": "umweltzerstoerung",
+  "title": {
+    "de": "Umweltzerstörung",
+    "en": "Environmental Degradation"
+  },
+  "summary": {
+    "de": "Die systematische Entkopplung der sozioökonomischen Reproduktionszyklen von den biophysikalischen Regenerationskapazitäten der Biosphäre, resultierend in einer progressiven Entropie-Beschleunigung und der Destabilisierung planetarer Belastungsgrenzen.",
+    "en": "The systematic decoupling of socioeconomic reproduction cycles from the biophysical regeneration capacities of the biosphere, resulting in progressive entropy acceleration and the destabilization of planetary boundaries."
+  },
+  "categories": [
+    "Materie"
+  ],
+  "tags": [
+    "boden",
+    "toxisch",
+    "deponie",
+    "industrie",
+    "externalitaet"
+  ],
+  "severity": 78,
+  "volatility": 44,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "CO2-Konzentration (Global)",
+        "en": "CO2 Concentration (Global)"
+      },
+      "value": "422.8 ppm (2024)",
+      "source": "NOAA"
+    },
+    {
+      "label": {
+        "de": "Globale Temperatur-Anomalie",
+        "en": "Global Temperature Anomaly"
+      },
+      "value": "+1.55°C (2024)",
+      "source": "NASA GISS"
+    },
+    {
+      "label": {
+        "de": "Wildtierbestände (LPI)",
+        "en": "Wildlife Populations (LPI)"
+      },
+      "value": "-73% (1970-2020)",
+      "source": "WWF Living Planet Report 2024"
+    },
+    {
+      "label": {
+        "de": "Entwaldung Amazonas (Brasilien)",
+        "en": "Amazon Deforestation (Brazil)"
+      },
+      "value": "-30.6% (2023/24)",
+      "source": "INPE"
+    }
+  ],
+  "diagnosis": {
+    "de": "Die Genese der Umweltzerstörung ist untrennbar mit dem Aufstieg des industriellen Kapitalismus und der kolonialen Expansion verbunden. Sie markiert den Übergang vom Holozän zum Anthropozän, in dem menschliche Aktivität zur dominierenden geologischen Kraft wurde. Die Umweltzerstörung ist keine bloße Externalität, sondern die logische Konsequenz einer instrumentellen Vernunft (Adorno/Horkheimer), die Natur ausschließlich als stummes Substrat der Verwertung begreift. Im Sinne von Achille Mbembes Nekropolitik manifestiert sich hier eine globale Verteilung des Todes: Die 'Zonen des Nicht-Seins' werden ausgeweitet, wobei der Klimakollaps selektiv jene Populationen eliminiert, die für das Kapital überflüssig geworden sind. Mark Fishers 'Capitalist Realism' diagnostiziert dabei die Unfähigkeit des kollektiven Bewusstseins, sich ein Ende dieser Destruktion vorzustellen; es ist einfacher, sich das Ende der Welt vorzustellen als das Ende des fossilen Kapitalismus. Wir erleben eine 'langsame Gewalt' (Slow Violence), die sich der spektakulären Unmittelbarkeit entzieht und stattdessen als strukturelle Zermürbung der Lebensgrundlagen operiert. Die Biosphäre wird in eine Produktionsmatrix aus Extraktion und Entsorgung gekerbt. Nach Adorno/Foucault zeigt sich instrumentelle Vernunft als flächige Gewalt: Landschaften werden zu Assets, toxische Reste zu unsichtbaren Nebenprodukten. Systemtheoretisch wird die Umwelt zum bloßen Input; Rückkopplung (Schadstoffe, Erosion) wird externalisiert und kehrt als Risiko zurück.",
+    "en": "The genesis of environmental destruction is inextricably linked to the rise of industrial capitalism and colonial expansion. It marks the transition from the Holocene to the Anthropocene, in which human activity became the dominant geological force. Environmental destruction is not merely an externality, but the logical consequence of instrumental reason (Adorno/Horkheimer), which understands nature exclusively as a silent substrate for exploitation. In the sense of Achille Mbembe's necropolitics, a global distribution of death manifests here: the 'zones of non-being' are expanded, with climate collapse selectively eliminating those populations that have become superfluous for capital. Mark Fisher's 'Capitalist Realism' diagnoses the collective consciousness's inability to imagine an end to this destruction; it is easier to imagine the end of the world than the end of fossil capitalism. We are experiencing 'slow violence' that eludes spectacular immediacy and instead operates as structural erosion of the foundations of life. The biosphere is carved into a production matrix of extraction and disposal. In Adorno/Foucault, instrumental reason appears as planar violence: landscapes become assets, toxic residues invisible byproducts. Systems-theoretically, environment is treated as input; feedback (pollutants, erosion) is externalized and returns as risk."
+  },
+  "mechanisms": {
+    "de": "Was ist es? Eine thermodynamische Anomalie; die Beschleunigung des Entropie-Exports in die Biosphäre durch industrielle Metabolismen. Wer ist betroffen? Asymmetrisch verteilt: Existenzielle Bedrohung für den Globalen Süden (Nekropolitik), infrastrukturelle Instabilität für den Globalen Norden. Wo ist das Epizentrum? Dezentralisiert in extraktivistischen Zonen (Amazonas, Arktis, Ozeane) und urbanen Emissionszentren. Wann wird es kritisch? Jetzt. Der Übergang von linearem Wandel zu exponentiellen Kaskadeneffekten (Kipppunkte) hat bereits begonnen (z.B. AMOC-Abschwächung). Warum jetzt? Kummulation historischer Emissionen trifft auf die Saturierung natürlicher Senken (Ozeane, Wälder). Wie stabilisieren? Radikale Reduktion der stofflichen Durchsatzraten (Degrowth) und Rekopplung der Ökonomie an thermodynamische Realitäten. Systemtheoretisch (Luhmann) lässt sich das Phänomen als Resonanzkatastrophe beschreiben: Das Wirtschaftssystem operiert autopoietisch geschlossen nach dem Code Zahlen/Nicht-Zahlen und ist strukturell blind für ökologische Reize, solange diese nicht in Preise übersetzt werden. Physikalisch betrachtet handelt es sich um einen massiven Exergieverlust: Die industrielle Zivilisation fungiert als dissipative Struktur, die Ordnung (Waren, Infrastruktur) nur durch den massiven Export von Entropie (Abfall, CO2, Wärme) in die Umwelt aufrechterhalten kann. Wir nähern uns nichtlinearen Kipppunkten, an denen positive Rückkopplungsschleifen das System aus dem Holozän-Stabilitätskorridor in ein chaotisches neues Gleichgewicht (Hothouse Earth) katapultieren. Versiegelung blockiert Infiltration, erhöht Hitzeinseln, beschleunigt Oberflächenabfluss. Chemische Ketten (PFAS, PCB) akkumulieren über Jahrzehnte, entziehen sich Governance. Müll- und Abwasserströme folgen Kostengravitation: toxische Mengen wandern dorthin, wo Kontrolle schwach und Land billig ist. Morton’s Hyperobjekt Müll bleibt räumlich verteilt und zeitlich persistent.",
+    "en": "What is it? A thermodynamic anomaly; the acceleration of entropy export into the biosphere through industrial metabolisms. Who is affected? Asymmetrically distributed: existential threat for the Global South (necropolitics), infrastructural instability for the Global North. Where is the epicenter? Decentralized in extractivist zones (Amazon, Arctic, oceans) and urban emission centers. When does it become critical? Now. The transition from linear change to exponential cascade effects (tipping points) has already begun (e.g., AMOC weakening). Why now? Accumulation of historical emissions meets saturation of natural sinks (oceans, forests). How to stabilize? Radical reduction of material throughput rates (degrowth) and recoupling of the economy to thermodynamic realities. From a systems theory perspective (Luhmann), the phenomenon can be described as a resonance catastrophe: The economic system operates autopoietically closed according to the code numbers/non-numbers and is structurally blind to ecological stimuli as long as these are not translated into prices. Physically considered, it is a massive exergy loss: Industrial civilization functions as a dissipative structure that maintains order (goods, infrastructure) only through massive export of entropy (waste, CO2, heat) into the environment. We are approaching nonlinear tipping points where positive feedback loops catapult the system out of the Holocene stability corridor into a chaotic new equilibrium (Hothouse Earth). Sealing blocks infiltration, amplifies heat islands, accelerates surface runoff. Chemical chains (PFAS, PCB) accumulate for decades, eluding governance. Waste and wastewater follow cost gravity: toxic loads move where oversight is weak and land cheap. Morton's waste hyperobject is spatially dispersed and temporally persistent."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Biodiversitätsverlust",
+        "en": "Biodiversity Loss"
+      },
+      "description": {
+        "de": "Massenaussterben und Habitatzerstörung führen zu ökologischer Vereinfachung.",
+        "en": "Mass extinction and habitat destruction lead to ecological simplification."
+      }
+    },
+    {
+      "name": {
+        "de": "Atmosphärische Dysregulation",
+        "en": "Atmospheric Dysregulation"
+      },
+      "description": {
+        "de": "Treibhausgasanstieg destabilisiert Klimasystem und Wetterzyklen.",
+        "en": "Greenhouse gas increase destabilizes climate system and weather cycles."
+      }
+    },
+    {
+      "name": {
+        "de": "Ozeanversauerung",
+        "en": "Ocean Acidification"
+      },
+      "description": {
+        "de": "CO2-Absorption versauert Meere und zerstört marine Ökosysteme.",
+        "en": "CO2 absorption acidifies oceans and destroys marine ecosystems."
+      }
+    },
+    {
+      "name": {
+        "de": "Kryosphären-Zerfall",
+        "en": "Cryosphere Decay"
+      },
+      "description": {
+        "de": "Schmelzen von Eis und Permafrost verstärkt globale Erwärmung.",
+        "en": "Melting of ice and permafrost accelerates global warming."
+      }
+    },
+    {
+      "name": {
+        "de": "Abraumhalde",
+        "en": "Overburden Heap"
+      },
+      "description": {
+        "de": "Künstlicher Hügel aus Restmaterial, der Landschaftsprofile umschreibt und Giftstoffe ausgast.",
+        "en": "Artificial hill of residue, rewriting landscape profiles while off-gassing toxins."
+      }
+    },
+    {
+      "name": {
+        "de": "Lichtloser Fluss",
+        "en": "Lightless River"
+      },
+      "description": {
+        "de": "Trübe Wasserader voller Industriepartikel; biologisches Leben kippt in mikrobiologische Restformen.",
+        "en": "Turbid watercourse saturated with industrial particles; biological life collapses into microbial remnants."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Slow Violence",
+      "definition": {
+        "de": "Langsame, unspektakuläre Gewalt, die sich der unmittelbaren Wahrnehmung entzieht.",
+        "en": "Slow, unspectacular violence that eludes immediate perception."
+      }
+    },
+    {
+      "term": "Dissipative Struktur",
+      "definition": {
+        "de": "System, das Ordnung durch Energieverlust an die Umwelt aufrechterhält.",
+        "en": "System that maintains order through energy loss to the environment."
+      }
+    },
+    {
+      "term": "Exergieverlust",
+      "definition": {
+        "de": "Verlust an nutzbarer Energie in thermodynamischen Prozessen.",
+        "en": "Loss of usable energy in thermodynamic processes."
+      }
+    },
+    {
+      "term": "Externalität",
+      "definition": {
+        "de": "Kosten, die nicht in der Preisbildung auftauchen und auf Umwelt/Gesellschaft abgewälzt werden.",
+        "en": "Costs omitted from pricing and shifted onto environment/society."
+      }
+    },
+    {
+      "term": "PFAS",
+      "definition": {
+        "de": "Persistente per- und polyfluorierte Chemikalien mit extrem langer Halbwertszeit.",
+        "en": "Persistent per- and polyfluorinated chemicals with extremely long half-lives."
+      }
+    },
+    {
+      "term": "Bodenerosion",
+      "definition": {
+        "de": "Abtrag fruchtbarer Schicht durch Wasser/Wind; reduziert Resilienz ganzer Ökosysteme.",
+        "en": "Removal of fertile layer by water/wind; reduces resilience of entire ecosystems."
+      }
+    }
+  ],
+  "related": [
+    "extraktivismus",
+    "wohnraummangel",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "automatisierung"
+  ],
+  "lastUpdatedISO": "2025-02-01T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-2",
+    "generatedAtISO": "2025-02-01T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Datenquellen nachtragen, wenn final.",
+    "Medienidee: Infrarot-Aufnahme eines Industrieflusses."
+  ],
+  "citations": [
+    {
+      "label": "EEA Soil Sealing 2024"
+    },
+    {
+      "label": "FAO Nitrogen Balance"
+    },
+    {
+      "label": "Interpol Waste Crime Report"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/umweltzerstoerung/crisis-placeholder.jpg",
+      "/media/umweltzerstoerung/impact-placeholder.png",
+      "/media/umweltzerstoerung/solution-placeholder.jpg"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "1784",
+      "location": "Global / UK",
+      "event": "Patentierung der Dampfmaschine",
+      "description": "Beginn der fossilen Energieära und der exponentiellen Emissionskurve."
+    },
+    {
+      "year": "1950",
+      "location": "Global",
+      "event": "The Great Acceleration",
+      "description": "Synchroner Anstieg fast aller sozioökonomischen und erdsystemaren Indikatoren (Bevölkerung, CO2, Plastik)."
+    },
+    {
+      "year": "1972",
+      "location": "Rom / Global",
+      "event": "Grenzen des Wachstums",
+      "description": "Der Club of Rome publiziert die erste systemtheoretische Warnung vor dem Kollaps."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Planetare Grenzen",
+      "description": "Sechs von neun planetaren Belastungsgrenzen sind offiziell überschritten."
+    },
+    {
+      "year": "2024",
+      "location": "Atmosphäre",
+      "event": "1.5 Grad Überschreitung",
+      "description": "Erstes Jahr mit einer globalen Durchschnittstemperatur von +1.55°C über dem vorindustriellen Niveau."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "polarisierung",
+  "slug": "polarisierung",
+  "title": {
+    "de": "Polarisierung",
+    "en": "Polarisation"
+  },
+  "summary": {
+    "de": "Gesellschaftliche Lager verhärten, Zwischenräume verschwinden, Konflikte werden identitär statt lösungsorientiert.",
+    "en": "Camps harden, interstices vanish, conflict shifts from problem-solving to identity defence."
+  },
+  "categories": [
+    "Gefühl",
+    "Macht"
+  ],
+  "tags": [
+    "lager",
+    "affekt",
+    "parteien",
+    "medien",
+    "vertrauen"
+  ],
+  "severity": 72,
+  "volatility": 68,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anteil der Bevölkerung, die extremen Lagern zugerechnet wird",
+        "en": "Share of population aligned with extremes"
+      },
+      "value": "15–25%",
+      "source": "Survey panels EU/US"
+    },
+    {
+      "label": {
+        "de": "Kontakt über Parteigrenzen (privates Umfeld)",
+        "en": "Cross-party contact (personal network)"
+      },
+      "value": "↓ seit 2010",
+      "source": "Longitudinal surveys"
+    },
+    {
+      "label": {
+        "de": "Affektive Distanz (Skala 0-100)",
+        "en": "Affective distance (0-100 scale)"
+      },
+      "value": ">60",
+      "source": "Political affect studies"
+    }
+  ],
+  "diagnosis": {
+    "de": "Polarisierung ist die Verhärtung kommunikativer Erwartungsstrukturen. Bei Adorno: Verblendungszusammenhang – Gegensätze scheinen absolut, sind jedoch in derselben Logik der Kulturindustrie verankert. Luhmann: Vertrauen in Gegenkommunikation sinkt, jeder Beitrag rechnet mit feindlicher Attribution. Die Öffentlichkeit fragmentiert, Common Knowledge erodiert. Ergebnis sind blinde Flecken: sachliche Probleme werden moralisiert, Lösungen delegitimiert.",
+    "en": "Polarisation hardens communicative expectations. Adorno: a deception nexus—opposites appear absolute yet share the logic of the culture industry. Luhmann: trust in counter-communication drops; every utterance anticipates hostile attribution. The public sphere fragments, common knowledge erodes. Outcome: blind spots where material problems are moralised and solutions delegitimised."
+  },
+  "mechanisms": {
+    "de": "Filternde Medienökologien erhöhen affektive Salienz. Parteien und Plattformen mobilisieren über Feindbilder. Wahlkreise und Timelines entkoppeln Erfahrungswelten. Negative Partisanschaft verdrängt Policy-Bezug. Wirtschafts- und Klassenkonflikte werden in Kulturcodes übersetzt, wodurch Kompromissfähigkeit weiter sinkt.",
+    "en": "Filtered media ecologies heighten affect. Parties and platforms mobilise through enemy images. Districting and timelines decouple lived worlds. Negative partisanship displaces policy focus. Economic and class conflicts are translated into cultural codes, further lowering compromise capacity."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Spaltlinie",
+        "en": "Cleavage"
+      },
+      "description": {
+        "de": "Historische Konfliktlinie, die reaktiviert und überidentifiziert wird.",
+        "en": "Historic conflict line reactivated and over-identified."
+      }
+    },
+    {
+      "name": {
+        "de": "Echo-Block",
+        "en": "Echo Block"
+      },
+      "description": {
+        "de": "Kohärentes affektives Cluster, das externe Signale als Angriff liest.",
+        "en": "Coherent affective cluster reading external signals as attack."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Affektive Polarisierung",
+      "definition": {
+        "de": "Gegenseitige Abneigung zwischen politischen Lagern jenseits von Sachfragen.",
+        "en": "Mutual dislike between political camps beyond issue disagreement."
+      }
+    },
+    {
+      "term": "Negative Partisanschaft",
+      "definition": {
+        "de": "Bindung entsteht über Ablehnung des Gegners statt Zustimmung zum Eigenen.",
+        "en": "Attachment driven by rejecting opponents rather than endorsing one’s side."
+      }
+    },
+    {
+      "term": "Common Knowledge",
+      "definition": {
+        "de": "Wissen darum, dass andere dieselben Informationen haben und dies auch wissen.",
+        "en": "Knowledge that others have the same information and know that one knows it."
+      }
+    }
+  ],
+  "related": [
+    "fragmentierung-der-oeffentlichkeit",
+    "populismus",
+    "vertrauensverlust",
+    "symbolische-uebercodierung",
+    "zensur",
+    "entmenschlichung-buerokratie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-polarisierung",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Affective Polarization Panel Studies"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/polarisierung/polarization-placeholder.jpg",
+      "/media/polarisierung/divide-placeholder.png",
+      "/media/polarisierung/conflict-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Affective distance by party over time; bipartite network of cross-party ties; timeline of shocks."
+  ],
+  "timeline": [
+    {
+      "year": "1990er",
+      "location": "USA/EU",
+      "event": "Talk-Radio/Opinion TV",
+      "description": "Segmentierte Medienangebote verstärken Lageridentität."
+    },
+    {
+      "year": "2010s",
+      "location": "Global",
+      "event": "Social Feed Personalisierung",
+      "description": "Algorithmische Sortierung erhöht affektive Polarisierung."
+    },
+    {
+      "year": "2020-2024",
+      "location": "Global",
+      "event": "Krisen als Trigger",
+      "description": "Pandemie, Kriege, Klima werden entlang Lagerlogiken gelesen."
+    }
+  ]
+}

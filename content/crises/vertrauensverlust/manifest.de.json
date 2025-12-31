@@ -1,0 +1,203 @@
+{
+  "id": "vertrauensverlust",
+  "slug": "vertrauensverlust",
+  "title": {
+    "de": "Vertrauensverlust",
+    "en": "Erosion of Trust"
+  },
+  "summary": {
+    "de": "Institutionen, Medien und Expert*innen verlieren Glaubwürdigkeit; Systemvertrauen erodiert, Skepsis wird Default.",
+    "en": "Institutions, media, and experts lose credibility; system trust erodes and scepticism becomes default."
+  },
+  "categories": [
+    "Macht",
+    "Gefühl"
+  ],
+  "tags": [
+    "institutionen",
+    "elite",
+    "skandal",
+    "transparenz",
+    "vertrauen"
+  ],
+  "severity": 70,
+  "volatility": 58,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Vertrauen in Regierung (EU Ø)",
+        "en": "Trust in government (EU avg)"
+      },
+      "value": "<40%",
+      "source": "Eurobarometer 2024"
+    },
+    {
+      "label": {
+        "de": "Vertrauen in Medien (Global Ø)",
+        "en": "Media trust (global avg)"
+      },
+      "value": "40%",
+      "source": "Reuters Institute"
+    },
+    {
+      "label": {
+        "de": "Anteil „traue niemandem“",
+        "en": "Share saying 'trust nobody'"
+      },
+      "value": "↑ in meisten Ländern",
+      "source": "World Values Survey"
+    },
+    {
+      "label": {
+        "de": "Vertrauen in Wissenschaft",
+        "en": "Trust in science"
+      },
+      "value": "50–70%",
+      "source": "GSS/Eurobarometer"
+    },
+    {
+      "label": {
+        "de": "Korruptionswahrnehmung",
+        "en": "Perceived corruption"
+      },
+      "value": "CPI 2024: 43/100",
+      "source": "Transparency International"
+    }
+  ],
+  "diagnosis": {
+    "de": "Vertrauen ist ein Erwartungsmechanismus, der Komplexität senkt. Horkheimer/Adorno: Aufklärung kippt in Mythos, wenn Instrumentalität dominiert. Luhmann: Vertrauenssysteme brechen bei wiederholter Enttäuschung; Misstrauen wird rational. Systemvertrauen sinkt, wenn Legitimätserzählungen nicht mehr tragen. Skandale, Korruption und Intransparenz entwerten Expertisen; Plattformen belohnen Zynismus. Folge: kollektive Handlungsfähigkeit sinkt, Verschwörungsnarrative füllen Lücken.",
+    "en": "Trust lowers complexity through expectation. Horkheimer/Adorno: enlightenment flips to myth under instrumental reason. Luhmann: trust systems fail after repeated disappointment; mistrust becomes rational. System trust erodes when legitimacy narratives collapse. Scandals, corruption, and opacity devalue expertise; platforms reward cynicism. Collective capacity declines, conspiracy narratives fill the gap."
+  },
+  "mechanisms": {
+    "de": "Korruptionsaffären und Fehlleistungen häufen sich sichtbar. Transparenzrhetorik ohne Konsequenz erzeugt Zynismus. Plattformökonomien beschleunigen Skandalzirkulation und vergessen Korrekturen. Bürgerliche Kontaktpunkte (Ämter, Versorgung, Medien) werden abgebaut, Servicequalität sinkt. Fehlende Rechenschaftspflicht verstärkt Distanz.",
+    "en": "Corruption cases and failures accumulate visibly. Transparency rhetoric without consequence breeds cynicism. Platform economies accelerate scandal circulation and forget corrections. Civic touchpoints (offices, services, media) shrink; service quality drops. Missing accountability widens distance."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Zerbrochener Vertrag",
+        "en": "Broken Contract"
+      },
+      "description": {
+        "de": "Implizite Erwartungen werden verletzt, Bindung löst sich.",
+        "en": "Implicit expectations are violated, attachment dissolves."
+      }
+    },
+    {
+      "name": {
+        "de": "Zynische Öffentlichkeit",
+        "en": "Cynical Public"
+      },
+      "description": {
+        "de": "Ironie ersetzt Argument, Legitimität wird pauschal verneint.",
+        "en": "Irony replaces argument; legitimacy is denied wholesale."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Systemvertrauen",
+      "definition": {
+        "de": "Grundannahme, dass Institutionen erwartbar handeln.",
+        "en": "Baseline assumption that institutions act predictably."
+      }
+    },
+    {
+      "term": "Legitimität",
+      "definition": {
+        "de": "Anerkennung von Herrschaft/Entscheidung als gerechtfertigt.",
+        "en": "Recognition of authority/decision as justified."
+      }
+    },
+    {
+      "term": "Skandalisierung",
+      "definition": {
+        "de": "Prozess, der Ereignisse moralisch auflädt, oft mediatisiert.",
+        "en": "Process of moral charging of events, often mediatized."
+      }
+    }
+  ],
+  "related": [
+    "fragmentierung-der-oeffentlichkeit",
+    "polarisierung",
+    "empoerungsdynamiken",
+    "entmenschlichung-buerokratie",
+    "ethnonationalismus",
+    "faschisierung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-vertrauen",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Eurobarometer / WVS / Reuters"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/vertrauensverlust/trust-index-placeholder.png",
+      "/media/vertrauensverlust/service-counter-placeholder.jpg"
+    ]
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Wer verliert Vertrauen zuerst?",
+        "en": "Who loses trust first?"
+      },
+      "answer": {
+        "de": "Jüngere Kohorten mit prekären Erfahrungen, Gruppen mit hoher Skandalsexposition, digital native Öffentlichkeiten.",
+        "en": "Younger cohorts with precarious lives, groups heavily exposed to scandals, digital-native publics."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Kennzahlen beobachten?",
+        "en": "Which metrics to watch?"
+      },
+      "answer": {
+        "de": "Systemvertrauen nach Institution, Skandalvolumen, Beschwerdedaten, Service-Level (Antwortzeiten, Fehlerquoten).",
+        "en": "System trust by institution, scandal volume, grievance data, service-level metrics (response time, error rates)."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie lässt sich Legitimät stabilisieren?",
+        "en": "How to stabilise legitimacy?"
+      },
+      "answer": {
+        "de": "Rechenschaftspflicht, sichtbare Korrekturen, Coproduction von Dienstleistungen, Transparenz jenseits PR.",
+        "en": "Accountability, visible corrections, co-produced services, transparency beyond PR."
+      }
+    }
+  ],
+  "editNotes": [
+    "D3: Trust indices over time; chord of institution trust flows; scandal timeline with media volume."
+  ],
+  "timeline": [
+    {
+      "year": "2008",
+      "location": "Global",
+      "event": "Finanzkrise",
+      "description": "Bankenrettungen delegitimieren politische Zusagen."
+    },
+    {
+      "year": "2015-2020",
+      "location": "EU/US",
+      "event": "Skandalhäufung",
+      "description": "Korruption, Datenlecks, Missmanagement unterminieren Vertrauen."
+    },
+    {
+      "year": "2023-2024",
+      "location": "Global",
+      "event": "Polykrisen",
+      "description": "Pandemie-Nachhall, Krieg, Inflation verstärken Skepsis gegenüber Institutionen."
+    }
+  ]
+}

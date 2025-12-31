@@ -1,0 +1,219 @@
+{
+  "id": "energieknappheit",
+  "slug": "energieknappheit",
+  "title": {
+    "de": "Energieknappheit",
+    "en": "Energy scarcity"
+  },
+  "summary": {
+    "de": "Übergang von Fossil zu Erneuerbar bei hoher Nachfrage erzeugt Engpässe, Preispeaks und politische Erpressbarkeit. Lastabwurf, Brennstoffmangel und Netzinstabilität erzeugen Kaskaden.",
+    "en": "Shifting from fossil to renewables under high demand produces shortages, price spikes, and political vulnerability. Load shedding, fuel scarcity, and grid instability trigger cascades."
+  },
+  "categories": [
+    "Materie",
+    "Kontrolle"
+  ],
+  "tags": [
+    "capacity-margin",
+    "grid",
+    "geopolitics",
+    "storage",
+    "transition-risk"
+  ],
+  "severity": 75,
+  "volatility": 72,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Kapazitätsreserve",
+        "en": "Capacity margin"
+      },
+      "value": "<10%",
+      "source": "TSO reports"
+    },
+    {
+      "label": {
+        "de": "Lastabwurf-Ereignisse/Monat",
+        "en": "Load shedding events/month"
+      },
+      "value": "2–15",
+      "source": "TSO reports"
+    },
+    {
+      "label": {
+        "de": "Speicherfüllstand Gas",
+        "en": "Gas storage fill"
+      },
+      "value": "schwankend",
+      "source": "Energy agencies"
+    },
+    {
+      "label": {
+        "de": "Reserve-Marge",
+        "en": "Reserve margin"
+      },
+      "value": "3–8%",
+      "source": "Grid operator"
+    },
+    {
+      "label": {
+        "de": "Großhandelspreis",
+        "en": "Wholesale price"
+      },
+      "value": "volatil",
+      "source": "Market data"
+    },
+    {
+      "label": {
+        "de": "Haushaltsenergie-Armut",
+        "en": "Household energy poverty"
+      },
+      "value": "10–25%",
+      "source": "Household surveys"
+    }
+  ],
+  "diagnosis": {
+    "de": "Energieknappheit resultiert aus Pfadwechseln und geopolitischer Kopplung. Fossile Kapazitäten werden schneller abgeschaltet als Speicher und Netze wachsen. A2/AD-ähnliche Energieblockaden entstehen durch Sanktionen und Sabotage. Nachfrage bleibt hoch, Effizienz stagniert. Preispeaks treffen Industrie und Haushalte asymmetrisch und politisieren Alltage. Lastabwurf destabilisiert Vertrauen, Reserve-Margen schrumpfen.",
+    "en": "Energy scarcity stems from path shifts and geopolitical coupling. Fossil capacity retires faster than storage and grids expand. Energy blockades mirror A2/AD dynamics via sanctions and sabotage. Demand stays high, efficiency stagnates. Price spikes hit industry and households asymmetrically, politicising daily life. Load shedding erodes trust as reserve margins shrink."
+  },
+  "mechanisms": {
+    "de": "Netzausbau und Speicher hinken hinter Ausbauzielen. Merit-Order koppelt Gaspreise an Strom. Lieferketten für Turbinen, PV und Speicher sind konzentriert. Wartungszyklen und Dürren reduzieren Verfügbarkeit. Strategische Reserven werden politisch eingesetzt. Negative Reserve-Marge löst Lastabwurf aus; Gas-LNG-Substitution erzeugt neue Lock-ins.",
+    "en": "Grid and storage lag expansion targets. Merit order ties gas to power prices. Turbine, PV, and storage supply chains are concentrated. Maintenance cycles and droughts cut availability. Strategic reserves are used as political levers. Negative reserve margins trigger load shedding; gas-to-LNG substitution creates new lock-ins."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Lastabwurf",
+        "en": "Load Shed"
+      },
+      "description": {
+        "de": "Gezielte Abschaltung zur Netzstabilität; sozial ungleich verteilt.",
+        "en": "Targeted outages to stabilise grids; socially uneven."
+      }
+    },
+    {
+      "name": {
+        "de": "Preispeitsche",
+        "en": "Price Whip"
+      },
+      "description": {
+        "de": "Kurze Peaks treiben Industrie aus dem Markt, Haushalte in Armut.",
+        "en": "Short spikes push industry offline and households into hardship."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Kapazitätsreserve",
+      "definition": {
+        "de": "Puffer zwischen erwarteter Last und verfügbarer Leistung.",
+        "en": "Buffer between expected load and available capacity."
+      }
+    },
+    {
+      "term": "Reserve-Marge",
+      "definition": {
+        "de": "Puffer zwischen verfügbarer Kapazität und Spitzenlast.",
+        "en": "Buffer between available capacity and peak load."
+      }
+    },
+    {
+      "term": "Merit-Order",
+      "definition": {
+        "de": "Reihenfolge, in der Kraftwerke nach Grenzkosten eingesetzt werden.",
+        "en": "Order in which plants dispatch by marginal cost."
+      }
+    },
+    {
+      "term": "Lastabwurf",
+      "definition": {
+        "de": "Kontrollierte Abschaltung von Verbrauchern zur Stabilisierung.",
+        "en": "Controlled shedding of load to stabilise the grid."
+      }
+    }
+  ],
+  "related": [
+    "cyberangriffe",
+    "datenfragmentierung",
+    "lieferkettenabhaengigkeit",
+    "abschiebungsapparat",
+    "kuenstliche-intelligenz",
+    "algorithmische-steuerung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-energy-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "TSO/IEA",
+      "note": "Margins, storage, prices"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/energieknappheit/loadshedding-placeholder.jpg",
+      "/media/energieknappheit/gas-storage-placeholder.png"
+    ]
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Wer ist verwundbar?",
+        "en": "Who is vulnerable?"
+      },
+      "answer": {
+        "de": "Haushalte mit Energiearmut, KMU, energieintensive Industrien, Krankenhäuser bei Netzinstabilität.",
+        "en": "Energy-poor households, SMEs, energy-intensive industries, hospitals under grid instability."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Kennzahlen frühwarnen?",
+        "en": "Which metrics give early warning?"
+      },
+      "answer": {
+        "de": "Reserve-Marge, Lastabwurf-Ereignisse, Brennstofflagerreichweiten, Preisvolatilität Baseload/Peak.",
+        "en": "Reserve margins, load-shedding events, fuel days of coverage, baseload/peak price volatility."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Gegenstrategien?",
+        "en": "What counter-strategies?"
+      },
+      "answer": {
+        "de": "Demand Response, Speicher, Diversifikation von Importen, Priorisierung kritischer Infrastrukturen, Sozialtarife.",
+        "en": "Demand response, storage, diversified imports, prioritising critical infrastructure, social tariffs."
+      }
+    }
+  ],
+  "editNotes": [
+    "Merit-order slope chart; sparkline: price spikes; map: pipeline/storage nodes; shader: grain over grid."
+  ],
+  "timeline": [
+    {
+      "year": "2021",
+      "location": "EU",
+      "event": "Gasdrehpunkt",
+      "description": "Importabhängigkeit sichtbar, Preise explodieren."
+    },
+    {
+      "year": "2022",
+      "location": "Global",
+      "event": "Sabotage & Sanktionen",
+      "description": "Infrastruktur als geopolitische Waffe."
+    },
+    {
+      "year": "2023",
+      "location": "OECD",
+      "event": "Fossile Stilllegung",
+      "description": "Abschaltungen vor Speicher/Netz-Bereitstellung erzeugen Lücken."
+    }
+  ]
+}

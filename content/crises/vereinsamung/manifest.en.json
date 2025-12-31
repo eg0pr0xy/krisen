@@ -1,0 +1,157 @@
+{
+  "id": "vereinsamung",
+  "slug": "vereinsamung",
+  "title": {
+    "de": "Vereinsamung",
+    "en": "Loneliness"
+  },
+  "summary": {
+    "de": "Soziale Netze dünnen aus; Arbeit, Wohnen und digitale Filterblasen verstärken Isolation.",
+    "en": "Social networks thin out; work, housing, and digital filter bubbles deepen isolation."
+  },
+  "categories": [
+    "Gefühl",
+    "Existenz"
+  ],
+  "tags": [
+    "social-isolation",
+    "urban",
+    "aging",
+    "digital",
+    "mental-health"
+  ],
+  "severity": 69,
+  "volatility": 55,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Alleinlebende Haushalte",
+        "en": "Single households"
+      },
+      "value": "↑ >30%",
+      "source": "Census"
+    },
+    {
+      "label": {
+        "de": "Subjektive Einsamkeit",
+        "en": "Subjective loneliness"
+      },
+      "value": "hoch",
+      "source": "Health surveys"
+    },
+    {
+      "label": {
+        "de": "Screen-Time/Tag",
+        "en": "Screen time/day"
+      },
+      "value": "↑",
+      "source": "Device stats"
+    }
+  ],
+  "diagnosis": {
+    "de": "Vereinsamung ist eine stille Epidemie. Arbeit flexibilisiert, Wohnraum verteuert, Nachbarschaften fragmentieren. Digitale Kommunikation ersetzt Nähe nicht, Filterblasen verengen Resonanz. Psychische Belastung steigt, Mortalität korreliert mit Isolation. Einsamkeit wird politisch, wenn sie Vertrauen und kollektives Handeln unterminiert.",
+    "en": "Loneliness is a quiet epidemic. Work flexibilizes, housing costs isolate, neighbourhoods fragment. Digital communication does not substitute proximity; filter bubbles narrow resonance. Mental strain rises; mortality correlates with isolation. Loneliness turns political as it erodes trust and collective action."
+  },
+  "mechanisms": {
+    "de": "Zeitarmut reduziert Pflege sozialer Netze. Pendeln und Remote-Arbeit verlagern Begegnungen. Städte wachsen vertikal, Erdgeschosskontakte sinken. Altersstruktur führt zu Alleinleben. Algorithmen verstärken Echokammern statt Begegnung. Stigma verhindert Hilfe.",
+    "en": "Time poverty shrinks social upkeep. Commuting and remote work shift encounters. Cities grow vertically; ground-floor contact drops. Ageing increases solo living. Algorithms amplify echo chambers instead of meeting. Stigma blocks help."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Stiller Flur",
+        "en": "Silent Corridor"
+      },
+      "description": {
+        "de": "Wohnungen dicht, Kontakte dünn; niemand klingelt.",
+        "en": "Dense flats, sparse contact; no one knocks."
+      }
+    },
+    {
+      "name": {
+        "de": "Digitale Blase",
+        "en": "Digital Bubble"
+      },
+      "description": {
+        "de": "Viele Nachrichten, wenig Nähe; Stimmung kippt ins Rauschen.",
+        "en": "Many messages, little closeness; mood drifts into noise."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Einsamkeit",
+      "definition": {
+        "de": "Subjektives Empfinden fehlender bedeutsamer Beziehungen.",
+        "en": "Subjective feeling of lacking meaningful relationships."
+      }
+    },
+    {
+      "term": "Soziale Isolation",
+      "definition": {
+        "de": "Objektiv geringe Interaktion und Unterstützung.",
+        "en": "Objectively low interaction and support."
+      }
+    },
+    {
+      "term": "Echo-Kammer",
+      "definition": {
+        "de": "Kommunikationsraum ohne abweichende Sichtweisen.",
+        "en": "Communication space devoid of dissenting views."
+      }
+    }
+  ],
+  "related": [
+    "care",
+    "armut",
+    "bodenversiegelung",
+    "drogen",
+    "entfremdung",
+    "erschoepfung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-vereinsamung-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Health surveys, census",
+      "note": "Loneliness prevalence, single households"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/vereinsamung/loneliness-placeholder.jpg",
+      "/media/vereinsamung/isolation-placeholder.png",
+      "/media/vereinsamung/social-media-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Heatmap: loneliness by age/urbanity; network graph: ego nets size; shader: static over empty rooms."
+  ],
+  "timeline": [
+    {
+      "year": "2010er",
+      "location": "OECD",
+      "event": "Single-Haushalte",
+      "description": "Alleinlebende werden dominantes Wohnmodell in Städten."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Lockdowns",
+      "description": "Einsamkeit steigt, digitale Ersatzkontakte dominieren."
+    },
+    {
+      "year": "2023",
+      "location": "UK/JPN",
+      "event": "Ministerien gegen Einsamkeit",
+      "description": "Staatliche Reaktion institutionalisiert das Thema."
+    }
+  ]
+}

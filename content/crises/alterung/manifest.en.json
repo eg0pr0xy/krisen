@@ -1,0 +1,306 @@
+{
+  "id": "alterung",
+  "slug": "alterung",
+  "title": {
+    "de": "Alterung",
+    "en": "Ageing"
+  },
+  "summary": {
+    "de": "Gesellschaftliche und infrastrukturelle Systeme werden älter als ihre Finanzierungs- und Pflegekapazität.",
+    "en": "Societal and infrastructural systems age faster than financing and care capacity."
+  },
+  "categories": [
+    "Existenz",
+    "Materie"
+  ],
+  "tags": [
+    "demografie",
+    "pflege",
+    "arbeitsmarkt",
+    "versorgung"
+  ],
+  "severity": 65,
+  "volatility": 48,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "Medianalter",
+        "en": "Median age"
+      },
+      "value": ">45 Jahre",
+      "source": "Statistikämter"
+    },
+    {
+      "label": {
+        "de": "Pflegequote",
+        "en": "Care ratio"
+      },
+      "value": "steigend",
+      "source": "Kassenberichte"
+    },
+    {
+      "label": {
+        "de": "Infrastrukturalter",
+        "en": "Infrastructure age"
+      },
+      "value": ">35 Jahre Bestand",
+      "source": "Kommunale Inventare"
+    },
+    {
+      "label": {
+        "de": "Brücken jenseits geplanter Lebensdauer",
+        "en": "Bridges beyond planned lifespan"
+      },
+      "value": ">50% US-Bestand",
+      "source": "US DOT"
+    },
+    {
+      "label": {
+        "de": "Explodierende Instandhaltungs-Backlogs",
+        "en": "Exploding maintenance backlogs"
+      },
+      "value": "+200% seit 2010",
+      "source": "Infrastrukturberichte"
+    },
+    {
+      "label": {
+        "de": "Psychische Erosion (Angststörungen)",
+        "en": "Psychic erosion (anxiety disorders)"
+      },
+      "value": "Altersunabhängiger Anstieg",
+      "source": "WHO"
+    },
+    {
+      "label": {
+        "de": "Institutioneller Vertrauensverlust",
+        "en": "Institutional trust loss"
+      },
+      "value": "Senkendes Vertrauen in Handlungsfähigkeit",
+      "source": "Edelman Trust Barometer"
+    },
+    {
+      "label": {
+        "de": "Digitale Systeminstabilität (Legacy-Code)",
+        "en": "Digital system instability (legacy code)"
+      },
+      "value": "Steigende Ausfallraten",
+      "source": "Cybersecurity Reports"
+    },
+    {
+      "label": {
+        "de": "Politischer Reformstau",
+        "en": "Political reform backlog"
+      },
+      "value": "Erwartungsdruck ohne Umsetzung",
+      "source": "Policy Analysen"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Ist Alterung Ausdruck der Auflösung linearer Kausalität und teleologischer Fortschrittsannahmen?",
+        "en": "Is ageing an expression of the dissolution of linear causality and teleological progress assumptions?"
+      },
+      "answer": {
+        "de": "Ja, Alterung markiert den Bruch zwischen Aufklärung (Beherrschbarkeit), Kybernetik (Steuerbarkeit) und Anthropozän (Selbstüberforderung).",
+        "en": "Yes, ageing marks the fracture between Enlightenment (mastery), cybernetics (controllability), and Anthropocene (self-overload)."
+      }
+    },
+    {
+      "question": {
+        "de": "Altern Staaten schneller als ihre Bevölkerungen?",
+        "en": "Do states age faster than their populations?"
+      },
+      "answer": {
+        "de": "Institutionen altern schneller als Individuen reformierbar sind; politische Halbwertszeiten übersteigen biologische.",
+        "en": "Institutions age faster than individuals can be reformed; political half-lives exceed biological ones."
+      }
+    },
+    {
+      "question": {
+        "de": "Liegt das Epizentrum an der Schnittstelle von digitaler Kognition, Verwaltung und Infrastruktur?",
+        "en": "Is the epicenter at the interface of digital cognition, administration, and infrastructure?"
+      },
+      "answer": {
+        "de": "Ja, dort manifestiert sich die kybernetische Krise zweiter Ordnung: Systeme verlieren Beobachtungs- und Korrekturfähigkeit.",
+        "en": "Yes, that's where the cybernetic crisis of the second order manifests: systems lose observation and correction capacity."
+      }
+    },
+    {
+      "question": {
+        "de": "Ist der Kipppunkt bereits überschritten – befinden wir uns in einer Phase kaskadierender Alterung?",
+        "en": "Has the tipping point already been exceeded – are we in a phase of cascading ageing?"
+      },
+      "answer": {
+        "de": "Ja, Alterung ist kein zukünftiges Risiko, sondern gegenwärtiger Strukturzustand: Systeme funktionieren, obwohl sie nicht mehr tragfähig sind.",
+        "en": "Yes, ageing is not a future risk, but a present structural state: systems function even though they are no longer sustainable."
+      }
+    },
+    {
+      "question": {
+        "de": "Verstärken sich demografische, ökologische, technologische und institutionelle Alterung synchron?",
+        "en": "Do demographic, ecological, technological, and institutional ageing reinforce each other synchronously?"
+      },
+      "answer": {
+        "de": "Ja, Polykrisen-Konvergenz überlastet Pufferkapazitäten; Alterung wird zur emergenten Eigenschaft vernetzter Systeme.",
+        "en": "Yes, polycrisis convergence overloads buffer capacities; ageing becomes an emergent property of networked systems."
+      }
+    },
+    {
+      "question": {
+        "de": "Ist Alterung nur durch radikale Komplexitätsreduktion oder einen systemischen Hard Reset aufzuhalten?",
+        "en": "Can ageing only be stopped through radical complexity reduction or a systemic hard reset?"
+      },
+      "answer": {
+        "de": "Inkrementelle Reformen reichen nicht; Alterung erfordert entweder fundamentale Vereinfachung oder tabula-rasa-Neuanfänge.",
+        "en": "Incremental reforms are not enough; ageing requires either fundamental simplification or clean-slate restarts."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Alterung bezeichnet im gesellschafts- und systemtheoretischen Sinne einen langfristigen, kumulativen Prozess struktureller, funktionaler und materieller Abnutzung sozialer, technischer und institutioneller Systeme, der nicht primär biologisch, sondern organisationell, infrastrukturell und politökonomisch zu verstehen ist. Gemeint ist die zeitliche Diskrepanz zwischen der zunehmenden Komplexität, Erhaltungsbedürftigkeit und Störanfälligkeit bestehender gesellschaftlicher und infrastruktureller Arrangements einerseits und den verfügbaren finanziellen, personellen, institutionellen sowie normativen Kapazitäten zu deren Pflege, Anpassung und Erneuerung andererseits. Gesellschaftliche und infrastrukturelle Systeme – etwa Verkehrsnetze, Energie- und Wasserversorgung, Bildungseinrichtungen, Gesundheitssysteme, Verwaltung, Wohnungsbestand oder soziale Sicherungssysteme – sind historisch gewachsen und beruhen auf Annahmen vergangener demografischer, ökonomischer, technologischer und politischer Konstellationen. Im Prozess der Alterung verlieren diese Systeme zunehmend ihre Passung zur Gegenwart: Wartungszyklen werden verlängert, Investitionen aufgeschoben, institutionelle Routinen verfestigen sich, und Reformfähigkeit nimmt ab. Gleichzeitig steigen die Anforderungen an Stabilität, Sicherheit, Inklusion und Leistungsfähigkeit. Alterung manifestiert sich daher nicht nur in physischem Verschleiß, sondern auch in institutioneller Trägheit, normativer Überalterung, Pfadabhängigkeiten und sinkender Adaptionsfähigkeit. Sie wird besonders kritisch, wenn die Belastung durch demografischen Wandel, ökologische Transformation, technologische Beschleunigung oder geopolitische Unsicherheiten zunimmt, während Finanzierungsmodelle, Governance-Strukturen und Verantwortlichkeiten auf kurzfristige Effizienz statt langfristige Erhaltung ausgerichtet bleiben. In diesem Sinne beschreibt Alterung eine systemische Schieflage: Die Lebensdauer gesellschaftlicher und infrastruktureller Systeme übersteigt die zeitlichen Horizonte ihrer Finanzierung, Pflege und politischen Aufmerksamkeit. Alterung ist somit weniger ein punktuelles Problem als ein schleichender, struktureller Zustand, der die Resilienz moderner Gesellschaften untergräbt und ihre Fähigkeit zur Selbststabilisierung und Erneuerung langfristig gefährdet.",
+    "en": "Ageing denotes a structural state of societal, institutional, and infrastructural systems where their material, organizational, and normative lifespan systematically exceeds the temporal, financial, and cognitive capacities for their maintenance, control, and renewal. At its core, ageing describes an irreversible decoupling of maintenance needs and control capacity: Systems persist even though their prerequisites – resources, attention, legitimacy, expertise, institutional clarity – have already eroded. Ageing is thus not mere wear and tear, but a cybernetic problem of the second order: The systems not only lose their functionality, but also their ability to adequately observe, evaluate, and correct this loss."
+  },
+  "mechanisms": {
+    "de": "Sinkende Geburtenraten und steigende Lebenserwartung verschieben das Abhängigenverhältnis. Pensionen drücken auf Haushalte, Pflegekräfte fehlen und werden importiert. Wohnungs- und Verkehrsbauten wurden für andere Altersprofile entworfen, wodurch Mobilität und Teilhabe sinken. Digitale Dienste schließen ältere Kohorten aus und erzeugen neue Abhängigkeiten zu Intermediären.",
+    "en": "Falling birth rates and rising life expectancy shift dependency ratios. Pensions burden budgets, care workers are scarce and imported. Housing and transport were designed for different age profiles, reducing mobility and participation. Digital services exclude older cohorts and create new dependencies on intermediaries."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Pflegeengpass",
+        "en": "Care bottleneck"
+      },
+      "description": {
+        "de": "Regionale Versorgung bricht, Notlösungen über Familien oder Leiharbeit.",
+        "en": "Regional supply fails; families or temp labour patch gaps."
+      }
+    },
+    {
+      "name": {
+        "de": "Graue Infrastruktur",
+        "en": "Grey infrastructure"
+      },
+      "description": {
+        "de": "Veraltete Bauten und Netze, die auf Wartung statt Transformation laufen.",
+        "en": "Outdated assets and networks running on maintenance instead of transformation."
+      }
+    },
+    {
+      "name": {
+        "de": "Generationenvertrag 2.0",
+        "en": "Generation contract 2.0"
+      },
+      "description": {
+        "de": "Neu verhandelte Umverteilung zwischen Erwerbstätigen, Ruheständlern und Zuwanderung.",
+        "en": "Renegotiated redistribution between workers, retirees, and newcomers."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Dependency Ratio",
+      "definition": {
+        "de": "Verhältnis von Nichterwerbstätigen zu Erwerbstätigen als Belastungsindikator.",
+        "en": "Ratio of non-working to working population as load indicator."
+      }
+    },
+    {
+      "term": "Pflegelücke",
+      "definition": {
+        "de": "Differenz zwischen benötigten und verfügbaren Pflegekapazitäten.",
+        "en": "Gap between required and available care capacity."
+      }
+    },
+    {
+      "term": "Silver Economy",
+      "definition": {
+        "de": "Markt- und Dienstleistungssegmente, die auf ältere Zielgruppen abzielen.",
+        "en": "Market and service segments targeting older cohorts."
+      }
+    },
+    {
+      "term": "Kybernetik zweiter Ordnung",
+      "definition": {
+        "de": "Beobachtung von Systemen, die ihre eigene Steuerungslogik nicht mehr vollständig erfassen.",
+        "en": "Observation of systems that can no longer fully grasp their own control logic."
+      }
+    },
+    {
+      "term": "Institutionelle Ermüdung",
+      "definition": {
+        "de": "Zustand reduzierter Reformfähigkeit trotz steigender Belastung.",
+        "en": "State of reduced reform capacity despite increasing burdens."
+      }
+    },
+    {
+      "term": "Technische Schulden",
+      "definition": {
+        "de": "Aufgeschobene Erneuerungskosten, die sich langfristig exponentiell erhöhen.",
+        "en": "Postponed renewal costs that increase exponentially in the long term."
+      }
+    },
+    {
+      "term": "Systemischer Hard Reset",
+      "definition": {
+        "de": "Radikaler Neustart eines Systems durch fundamentale Umstrukturierung.",
+        "en": "Radical restart of a system through fundamental restructuring."
+      }
+    }
+  ],
+  "related": [
+    "klimawandel",
+    "pflegenotstand",
+    "wasserknappheit",
+    "arbeitslosigkeit",
+    "artensterben",
+    "biodiversitaetsverlust"
+  ],
+  "citations": [
+    {
+      "label": "René Descartes - Discourse on Method",
+      "note": "Enlightenment promise of absolute mastery over nature"
+    },
+    {
+      "label": "Immanuel Kant - Critique of Pure Reason",
+      "note": "Rational control over causality and future"
+    },
+    {
+      "label": "Norbert Wiener - Cybernetics",
+      "note": "Technocratic optimism of cybernetic control"
+    },
+    {
+      "label": "Theodor W. Adorno - Negative Dialectics",
+      "note": "Self-destruction of rational systems"
+    },
+    {
+      "label": "Niklas Luhmann - Social Systems",
+      "note": "Autopoiesis and reform incapacity"
+    },
+    {
+      "label": "Jean-François Lyotard - The Postmodern Condition",
+      "note": "End of grand narratives of progress"
+    }
+  ],
+  "lastUpdatedISO": "2025-12-23T00:00:00.000Z",
+  "version": "0.3.0",
+  "media": {
+    "images": [
+      "/media/alterung/crisis-placeholder.jpg",
+      "/media/alterung/impact-placeholder.png",
+      "/media/alterung/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "alterung",
+    "generatedAtISO": "2025-12-23T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Platzhalter durch demografisch orientierten Text ersetzt.",
+    "Status Draft für Datenvertiefung belassen.",
+    "LIVE-EVIDENCE: Alterung evident wo Systeme nur durch Notmaßnahmen stabil bleiben, Reformen politisch nicht legitimierbar, Krisen nur reaktiv beantwortet werden. Alterung kein zukünftiges Risiko, sondern gegenwärtiger Strukturzustand moderner Gesellschaften."
+  ]
+}

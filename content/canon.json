@@ -1,0 +1,704 @@
+{
+  "items": [
+    {
+      "slug": "klimawandel",
+      "title": {
+        "de": "Klimawandel",
+        "en": "Klimawandel"
+      }
+    },
+    {
+      "slug": "umweltzerstoerung",
+      "title": {
+        "de": "Umweltzerstörung",
+        "en": "Umweltzerstörung"
+      }
+    },
+    {
+      "slug": "biodiversitaetsverlust",
+      "title": {
+        "de": "Biodiversitätsverlust",
+        "en": "Biodiversitätsverlust"
+      }
+    },
+    {
+      "slug": "artensterben",
+      "title": {
+        "de": "Artensterben",
+        "en": "Artensterben"
+      }
+    },
+    {
+      "slug": "wasserknappheit",
+      "title": {
+        "de": "Wasserknappheit",
+        "en": "Wasserknappheit"
+      }
+    },
+    {
+      "slug": "energieknappheit",
+      "title": {
+        "de": "Energieknappheit",
+        "en": "Energieknappheit"
+      }
+    },
+    {
+      "slug": "ressourcenerschoepfung",
+      "title": {
+        "de": "Ressourcenerschöpfung",
+        "en": "Ressourcenerschöpfung"
+      }
+    },
+    {
+      "slug": "bodenversiegelung",
+      "title": {
+        "de": "Bodenversiegelung",
+        "en": "Bodenversiegelung"
+      }
+    },
+    {
+      "slug": "naturkatastrophen",
+      "title": {
+        "de": "Naturkatastrophen",
+        "en": "Naturkatastrophen"
+      }
+    },
+    {
+      "slug": "klimaflucht",
+      "title": {
+        "de": "Klimaflucht",
+        "en": "Klimaflucht"
+      }
+    },
+    {
+      "slug": "pandemie",
+      "title": {
+        "de": "Pandemie",
+        "en": "Pandemie"
+      }
+    },
+    {
+      "slug": "ozeanversauerung",
+      "title": {
+        "de": "Ozeanversauerung",
+        "en": "Ozeanversauerung"
+      }
+    },
+    {
+      "slug": "extraktivismus",
+      "title": {
+        "de": "Extraktivismus",
+        "en": "Extraktivismus"
+      }
+    },
+    {
+      "slug": "krieg",
+      "title": {
+        "de": "Krieg",
+        "en": "Krieg"
+      }
+    },
+    {
+      "slug": "militarisierung",
+      "title": {
+        "de": "Militarisierung",
+        "en": "Militarisierung"
+      }
+    },
+    {
+      "slug": "aufrüstung",
+      "title": {
+        "de": "Aufrüstung",
+        "en": "Aufrüstung"
+      }
+    },
+    {
+      "slug": "geopolitische-verschiebungen",
+      "title": {
+        "de": "Geopolitische Verschiebungen",
+        "en": "Geopolitische Verschiebungen"
+      }
+    },
+    {
+      "slug": "atomare-abschreckung",
+      "title": {
+        "de": "Atomare Abschreckung",
+        "en": "Atomare Abschreckung"
+      }
+    },
+    {
+      "slug": "stellvertreterkriege",
+      "title": {
+        "de": "Stellvertreterkriege",
+        "en": "Stellvertreterkriege"
+      }
+    },
+    {
+      "slug": "grenzkonflikte",
+      "title": {
+        "de": "Grenzkonflikte",
+        "en": "Grenzkonflikte"
+      }
+    },
+    {
+      "slug": "terrorismus",
+      "title": {
+        "de": "Terrorismus",
+        "en": "Terrorismus"
+      }
+    },
+    {
+      "slug": "politische-gewaltfantasien",
+      "title": {
+        "de": "Politische Gewaltfantasien",
+        "en": "Politische Gewaltfantasien"
+      }
+    },
+    {
+      "slug": "populismus",
+      "title": {
+        "de": "Populismus",
+        "en": "Populismus"
+      }
+    },
+    {
+      "slug": "faschisierung",
+      "title": {
+        "de": "Faschisierung",
+        "en": "Faschisierung"
+      }
+    },
+    {
+      "slug": "identitaere-bewegungen",
+      "title": {
+        "de": "Identitäre Bewegungen",
+        "en": "Identitäre Bewegungen"
+      }
+    },
+    {
+      "slug": "ethnonationalismus",
+      "title": {
+        "de": "Ethnonationalismus",
+        "en": "Ethnonationalismus"
+      }
+    },
+    {
+      "slug": "autoritarismus",
+      "title": {
+        "de": "Autoritarismus",
+        "en": "Autoritarismus"
+      }
+    },
+    {
+      "slug": "demokratieabbau",
+      "title": {
+        "de": "Demokratieabbau",
+        "en": "Demokratieabbau"
+      }
+    },
+    {
+      "slug": "korruption",
+      "title": {
+        "de": "Korruption",
+        "en": "Korruption"
+      }
+    },
+    {
+      "slug": "machtmissbrauch",
+      "title": {
+        "de": "Machtmissbrauch",
+        "en": "Machtmissbrauch"
+      }
+    },
+    {
+      "slug": "vertrauensverlust",
+      "title": {
+        "de": "Vertrauensverlust",
+        "en": "Vertrauensverlust"
+      }
+    },
+    {
+      "slug": "legitimationsverlust",
+      "title": {
+        "de": "Legitimationsverlust",
+        "en": "Legitimationsverlust"
+      }
+    },
+    {
+      "slug": "post-demokratie",
+      "title": {
+        "de": "Post-Demokratie",
+        "en": "Post-Demokratie"
+      }
+    },
+    {
+      "slug": "inflation",
+      "title": {
+        "de": "Inflation",
+        "en": "Inflation"
+      }
+    },
+    {
+      "slug": "rezession",
+      "title": {
+        "de": "Rezession",
+        "en": "Rezession"
+      }
+    },
+    {
+      "slug": "finanzialisierung",
+      "title": {
+        "de": "Finanzialisierung",
+        "en": "Finanzialisierung"
+      }
+    },
+    {
+      "slug": "schuldenlast",
+      "title": {
+        "de": "Schuldenlast",
+        "en": "Schuldenlast"
+      }
+    },
+    {
+      "slug": "armut",
+      "title": {
+        "de": "Armut",
+        "en": "Armut"
+      }
+    },
+    {
+      "slug": "soziale-ungleichheit",
+      "title": {
+        "de": "Soziale Ungleichheit",
+        "en": "Soziale Ungleichheit"
+      }
+    },
+    {
+      "slug": "prekarisierung",
+      "title": {
+        "de": "Prekarisierung",
+        "en": "Prekarisierung"
+      }
+    },
+    {
+      "slug": "wohnraummangel",
+      "title": {
+        "de": "Wohnraummangel",
+        "en": "Wohnraummangel"
+      }
+    },
+    {
+      "slug": "lieferkettenabhaengigkeit",
+      "title": {
+        "de": "Lieferkettenabhängigkeit",
+        "en": "Lieferkettenabhängigkeit"
+      }
+    },
+    {
+      "slug": "infrastrukturverfall",
+      "title": {
+        "de": "Infrastrukturverfall",
+        "en": "Infrastrukturverfall"
+      }
+    },
+    {
+      "slug": "migration",
+      "title": {
+        "de": "Migration",
+        "en": "Migration"
+      }
+    },
+    {
+      "slug": "grenzregime",
+      "title": {
+        "de": "Grenzregime",
+        "en": "Grenzregime"
+      }
+    },
+    {
+      "slug": "abschiebungsapparat",
+      "title": {
+        "de": "Abschiebungsapparat",
+        "en": "Abschiebungsapparat"
+      }
+    },
+    {
+      "slug": "entmenschlichung-buerokratie",
+      "title": {
+        "de": "Entmenschlichung durch Bürokratie",
+        "en": "Entmenschlichung durch Bürokratie"
+      }
+    },
+    {
+      "slug": "lagerlogik",
+      "title": {
+        "de": "Lagerlogik",
+        "en": "Lagerlogik"
+      }
+    },
+    {
+      "slug": "asylpolitik",
+      "title": {
+        "de": "Asylpolitik",
+        "en": "Asylpolitik"
+      }
+    },
+    {
+      "slug": "staatsbuergerschaft",
+      "title": {
+        "de": "Staatsbürgerschaft",
+        "en": "Staatsbürgerschaft"
+      }
+    },
+    {
+      "slug": "exklusion",
+      "title": {
+        "de": "Exklusion",
+        "en": "Exklusion"
+      }
+    },
+    {
+      "slug": "illegale-arbeit",
+      "title": {
+        "de": "Illegale Arbeit",
+        "en": "Illegale Arbeit"
+      }
+    },
+    {
+      "slug": "rechtlosigkeit",
+      "title": {
+        "de": "Rechtlosigkeit",
+        "en": "Rechtlosigkeit"
+      }
+    },
+    {
+      "slug": "care",
+      "title": {
+        "de": "Care",
+        "en": "Care"
+      }
+    },
+    {
+      "slug": "drogen",
+      "title": {
+        "de": "Drogen",
+        "en": "Drogen"
+      }
+    },
+    {
+      "slug": "gentrifizierung",
+      "title": {
+        "de": "Gentrifizierung",
+        "en": "Gentrifizierung"
+      }
+    },
+    {
+      "slug": "bildungsungleichheit",
+      "title": {
+        "de": "Bildungsungleichheit",
+        "en": "Bildungsungleichheit"
+      }
+    },
+    {
+      "slug": "demografischer-wandel",
+      "title": {
+        "de": "Demografischer Wandel",
+        "en": "Demografischer Wandel"
+      }
+    },
+    {
+      "slug": "alterung",
+      "title": {
+        "de": "Alterung",
+        "en": "Alterung"
+      }
+    },
+    {
+      "slug": "pflegenotstand",
+      "title": {
+        "de": "Pflegenotstand",
+        "en": "Pflegenotstand"
+      }
+    },
+    {
+      "slug": "rentenkrise",
+      "title": {
+        "de": "Altersvorsorge",
+        "en": "Altersvorsorge"
+      }
+    },
+    {
+      "slug": "generationenkonflikt",
+      "title": {
+        "de": "Generationenkonflikt",
+        "en": "Generationenkonflikt"
+      }
+    },
+    {
+      "slug": "kuenstliche-intelligenz",
+      "title": {
+        "de": "Künstliche Intelligenz",
+        "en": "Künstliche Intelligenz"
+      }
+    },
+    {
+      "slug": "algorithmische-steuerung",
+      "title": {
+        "de": "Algorithmische Steuerung",
+        "en": "Algorithmische Steuerung"
+      }
+    },
+    {
+      "slug": "automatisierung",
+      "title": {
+        "de": "Automatisierung",
+        "en": "Automatisierung"
+      }
+    },
+    {
+      "slug": "digitalisierung",
+      "title": {
+        "de": "Digitalisierung",
+        "en": "Digitalisierung"
+      }
+    },
+    {
+      "slug": "plattformoekonomie",
+      "title": {
+        "de": "Plattformökonomie",
+        "en": "Plattformökonomie"
+      }
+    },
+    {
+      "slug": "ueberwachung",
+      "title": {
+        "de": "Überwachung",
+        "en": "Überwachung"
+      }
+    },
+    {
+      "slug": "datenmissbrauch",
+      "title": {
+        "de": "Datenmissbrauch",
+        "en": "Datenmissbrauch"
+      }
+    },
+    {
+      "slug": "cyberangriffe",
+      "title": {
+        "de": "Cyberangriffe",
+        "en": "Cyberangriffe"
+      }
+    },
+    {
+      "slug": "technologische-intransparenz",
+      "title": {
+        "de": "Technologische Intransparenz",
+        "en": "Technologische Intransparenz"
+      }
+    },
+    {
+      "slug": "kontrollverlust",
+      "title": {
+        "de": "Kontrollverlust",
+        "en": "Kontrollverlust"
+      }
+    },
+    {
+      "slug": "transhumanismus",
+      "title": {
+        "de": "Transhumanismus",
+        "en": "Transhumanismus"
+      }
+    },
+    {
+      "slug": "desinformation",
+      "title": {
+        "de": "Desinformation",
+        "en": "Desinformation"
+      }
+    },
+    {
+      "slug": "propaganda",
+      "title": {
+        "de": "Propaganda",
+        "en": "Propaganda"
+      }
+    },
+    {
+      "slug": "postfaktizitaet",
+      "title": {
+        "de": "Postfaktizität",
+        "en": "Postfaktizität"
+      }
+    },
+    {
+      "slug": "medienerosion",
+      "title": {
+        "de": "Medienerosion",
+        "en": "Medienerosion"
+      }
+    },
+    {
+      "slug": "fragmentierung-der-oeffentlichkeit",
+      "title": {
+        "de": "Fragmentierung der Öffentlichkeit",
+        "en": "Fragmentierung der Öffentlichkeit"
+      }
+    },
+    {
+      "slug": "polarisierung",
+      "title": {
+        "de": "Polarisierung",
+        "en": "Polarisierung"
+      }
+    },
+    {
+      "slug": "radikalisierung",
+      "title": {
+        "de": "Radikalisierung",
+        "en": "Radikalisierung"
+      }
+    },
+    {
+      "slug": "aufmerksamkeitsoekonomie",
+      "title": {
+        "de": "Aufmerksamkeitsökonomie",
+        "en": "Aufmerksamkeitsökonomie"
+      }
+    },
+    {
+      "slug": "empoerungsdynamiken",
+      "title": {
+        "de": "Empörungsdynamiken",
+        "en": "Empörungsdynamiken"
+      }
+    },
+    {
+      "slug": "zensur",
+      "title": {
+        "de": "Zensur",
+        "en": "Zensur"
+      }
+    },
+    {
+      "slug": "identitaetspolitik",
+      "title": {
+        "de": "Identitätspolitik",
+        "en": "Identitätspolitik"
+      }
+    },
+    {
+      "slug": "sprachregime",
+      "title": {
+        "de": "Sprachregime",
+        "en": "Sprachregime"
+      }
+    },
+    {
+      "slug": "normkonflikte",
+      "title": {
+        "de": "Normkonflikte",
+        "en": "Normkonflikte"
+      }
+    },
+    {
+      "slug": "koerperpolitik",
+      "title": {
+        "de": "Körperpolitik",
+        "en": "Körperpolitik"
+      }
+    },
+    {
+      "slug": "biopolitische-zuschreibungen",
+      "title": {
+        "de": "Biopolitische Zuschreibungen",
+        "en": "Biopolitische Zuschreibungen"
+      }
+    },
+    {
+      "slug": "symbolische-uebercodierung",
+      "title": {
+        "de": "Symbolische Übercodierung",
+        "en": "Symbolische Übercodierung"
+      }
+    },
+    {
+      "slug": "sinnverlust",
+      "title": {
+        "de": "Sinnverlust",
+        "en": "Sinnverlust"
+      }
+    },
+    {
+      "slug": "vereinsamung",
+      "title": {
+        "de": "Vereinsamung",
+        "en": "Vereinsamung"
+      }
+    },
+    {
+      "slug": "psychische-belastung",
+      "title": {
+        "de": "Psychische Belastung",
+        "en": "Psychische Belastung"
+      }
+    },
+    {
+      "slug": "erschoepfung",
+      "title": {
+        "de": "Erschöpfung",
+        "en": "Erschöpfung"
+      }
+    },
+    {
+      "slug": "zukunftsangst",
+      "title": {
+        "de": "Zukunftsangst",
+        "en": "Zukunftsangst"
+      }
+    },
+    {
+      "slug": "entfremdung",
+      "title": {
+        "de": "Entfremdung",
+        "en": "Entfremdung"
+      }
+    },
+    {
+      "slug": "nihilismus",
+      "title": {
+        "de": "Nihilismus",
+        "en": "Nihilismus"
+      }
+    },
+    {
+      "slug": "blackout",
+      "title": {
+        "de": "Blackout",
+        "en": "Blackout"
+      }
+    },
+    {
+      "slug": "lebensmittelknappheit",
+      "title": {
+        "de": "Lebensmittelknappheit",
+        "en": "Food Shortage"
+      }
+    },
+    {
+      "slug": "datenfragmentierung",
+      "title": {
+        "de": "Datenfragmentierung",
+        "en": "Data Fragmentation"
+      }
+    },
+    {
+      "slug": "ozeanerwaermung",
+      "title": {
+        "de": "Ozeanerwärmung",
+        "en": "Ocean Warming"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "asylpolitik",
+  "slug": "asylpolitik",
+  "title": {
+    "de": "Asylpolitik",
+    "en": "Asylum policy"
+  },
+  "summary": {
+    "de": "Zugang zu Schutz wird über Verfahren, Quoten und Grenzregime gesteuert; Humanität kollidiert mit Abschreckung.",
+    "en": "Access to protection is steered by procedure, quotas, and border regimes; humanitarian duty collides with deterrence."
+  },
+  "categories": [
+    "Existenz",
+    "Kontrolle"
+  ],
+  "tags": [
+    "border",
+    "quota",
+    "detention",
+    "resettlement",
+    "rights"
+  ],
+  "severity": 77,
+  "volatility": 64,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anerkennungsquote",
+        "en": "Recognition rate"
+      },
+      "value": "spreizt",
+      "source": "Asylum stats"
+    },
+    {
+      "label": {
+        "de": "Verfahrensdauer",
+        "en": "Processing time"
+      },
+      "value": "Monate/Jahre",
+      "source": "Gov reports"
+    },
+    {
+      "label": {
+        "de": "Rückführungen",
+        "en": "Returns"
+      },
+      "value": "steigend",
+      "source": "Border agency"
+    }
+  ],
+  "diagnosis": {
+    "de": "Asylpolitik balanciert Schutz und Abschreckung, unter Wahrung des Non-Refoulement. Verfahren werden verkürzt, rechtsstaatliche Garantien gestreckt. Drittstaaten-Deals führen zur Exterritorialisierung der Verantwortung. Lagerlogik erzeugt Prekarität und Unsichtbarkeit. Politische Debatten verschieben sich in Richtung Kontrolle; Solidarität wird konditional.",
+    "en": "Asylum policy balances protection and deterrence, respecting non-refoulement. Procedures shorten while due process stretches thin. Third-country deals exterritorialise responsibility. Camp logic produces precarity and invisibility. Debate drifts toward control; solidarity becomes conditional."
+  },
+  "mechanisms": {
+    "de": "Dublin-System verteilen Verantwortung ungleich. Grenzschutz wird militarisiert, NGOs kriminalisiert. Abschiebehaft und Sachleistungen disziplinieren. Medien framings koppeln Asyl an Bedrohung. Rechtsschutz ist komplex und teuer.",
+    "en": "Dublin system rules allocate responsibility unevenly. Border control militarises; NGOs face criminalisation. Detention and in-kind aid discipline claimants. Media framings link asylum to threat. Legal protection is complex and costly."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Transit-Schleife",
+        "en": "Transit Loop"
+      },
+      "description": {
+        "de": "Ankommen, warten, weitergeschoben; Status bleibt provisorisch.",
+        "en": "Arrival, waiting, shifted onward; status stays provisional."
+      }
+    },
+    {
+      "name": {
+        "de": "Externe Pufferzone",
+        "en": "External Buffer"
+      },
+      "description": {
+        "de": "Schutz wird in Drittstaaten ausgelagert, Kontrolle bleibt indirekt.",
+        "en": "Protection outsourced to third states, control remains indirect."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Non-Refoulement",
+      "definition": {
+        "de": "Verbot, Menschen in Verfolgung oder Gefahr zurückzuschicken.",
+        "en": "Ban on returning people to persecution or danger."
+      }
+    },
+    {
+      "term": "Dublin-System",
+      "definition": {
+        "de": "Regel, die Zuständigkeit auf Erstankunftsland legt.",
+        "en": "Rule assigning responsibility to first-entry country."
+      }
+    },
+    {
+      "term": "Exterritorialisierung",
+      "definition": {
+        "de": "Verlagerung von Verfahren und Kontrolle außerhalb des Staatsgebiets.",
+        "en": "Moving procedures and control outside national territory."
+      }
+    }
+  ],
+  "related": [
+    "rechtlosigkeit",
+    "grenzregime",
+    "blackout",
+    "drogen",
+    "illegale-arbeit",
+    "lagerlogik"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-asylpolitik-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "UNHCR/Eurostat",
+      "note": "Recognition, duration, returns"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/asylpolitik/refugee-placeholder.jpg",
+      "/media/asylpolitik/border-placeholder.png",
+      "/media/asylpolitik/asylum-seeker-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Flow: routes and responsibility; bar: recognition vs returns; shader: grain over camp silhouettes."
+  ],
+  "timeline": [
+    {
+      "year": "2015",
+      "location": "EU",
+      "event": "Hotspots",
+      "description": "Verfahren und Aufnahmezentren an Außengrenzen."
+    },
+    {
+      "year": "2019",
+      "location": "EU/Libyen",
+      "event": "Externalisierung",
+      "description": "Kooperation mit Drittstaaten, Kritik an Menschenrechten."
+    },
+    {
+      "year": "2023",
+      "location": "EU/UK",
+      "event": "Offshore-Pläne",
+      "description": "Asylverfahren sollen ausgelagert werden, Rechtsfragen offen."
+    }
+  ]
+}

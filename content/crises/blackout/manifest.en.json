@@ -1,0 +1,159 @@
+{
+  "id": "blackout",
+  "slug": "blackout",
+  "title": {
+    "de": "Blackout",
+    "en": "Blackout"
+  },
+  "summary": {
+    "de": "Netzausfälle zeigen, wie eng Strom, Wasser, Daten und Logistik verkoppelt sind – und wie schnell Kaskaden entstehen.",
+    "en": "Grid failures expose how tightly power, water, data, and logistics are coupled—and how fast cascades emerge."
+  },
+  "categories": [
+    "Existenz",
+    "Kontrolle"
+  ],
+  "tags": [
+    "stromnetz",
+    "resilienz",
+    "kaskade",
+    "cyber",
+    "spitzenlast"
+  ],
+  "severity": 86,
+  "volatility": 78,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "SAIDI (Europa)",
+        "en": "SAIDI (Europe)"
+      },
+      "value": "~120 min/J",
+      "source": "ENTSO-E"
+    },
+    {
+      "label": {
+        "de": "Frequenzabweichungen >0,2 Hz",
+        "en": "Frequency deviations >0.2 Hz"
+      },
+      "value": "x3 seit 2015",
+      "source": "Netzbetreiber"
+    },
+    {
+      "label": {
+        "de": "Gemeldete Cybervorfälle Energie",
+        "en": "Reported cyber incidents energy"
+      },
+      "value": "+38% YoY",
+      "source": "ENISA 2024"
+    }
+  ],
+  "diagnosis": {
+    "de": "Der Blackout ist eine soziale Katastrophe mit technischem Auslöser. Luhmann: Energie bleibt Umwelt, bis der Strom weg ist und Kommunikation erlischt. Baudrillard: Übungsvideos simulieren Ordnung, im Ernstfall dominiert Improvisation. Infrastrukturökologie zeigt, dass Wasser, Verkehr, IT und Pflege an derselben Steckdose hängen. Jede Redundanz wurde aus Effizienzgründen wegrationalisiert.",
+    "en": "Blackout is a social catastrophe with a technical trigger. Luhmann: energy stays environment until power is gone and communication stops. Baudrillard: training videos simulate control; in reality improvisation rules. Infrastructure ecology shows water, transport, IT, and care share the same plug. Redundancy has been rationalised away for efficiency."
+  },
+  "mechanisms": {
+    "de": "Lastspitzen, Leitungsfehler oder Cyberangriffe bringen Frequenz aus der Toleranz. Schutzgeräte schalten ab, Erzeugung und Verbrauch entkoppeln. Kaskaden laufen schneller als menschliche Eingriffe. Inselbetriebe werden improvisiert, Dieselreserven reichen Tage. Krankenhäuser und Kühlketten verlieren Funktion; Trinkwasserpumpen stehen.",
+    "en": "Peak load, line faults, or cyberattacks push frequency outside tolerance. Protection trips, generation and demand decouple. Cascades outrun human intervention. Islands are improvised; diesel buffers last days. Hospitals and cold chains fail; drinking-water pumps stop."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Domino-Leitung",
+        "en": "Domino Line"
+      },
+      "description": {
+        "de": "Ein Schaltfehler zieht Segment um Segment in den Stillstand.",
+        "en": "One switching error pulls segment after segment into standstill."
+      }
+    },
+    {
+      "name": {
+        "de": "Inselbetrieb",
+        "en": "Island Mode"
+      },
+      "description": {
+        "de": "Abgekoppeltes Teilnetz, das autonom balancieren muss.",
+        "en": "Decoupled subgrid forced to balance autonomously."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "SAIDI",
+      "definition": {
+        "de": "Durchschnittliche Unterbrechungsdauer pro Kunde pro Jahr.",
+        "en": "Average outage duration per customer per year."
+      }
+    },
+    {
+      "term": "Lastabwurf",
+      "definition": {
+        "de": "Gezieltes Abschalten von Verbrauchern, um Frequenz zu stabilisieren.",
+        "en": "Targeted shedding of load to stabilise frequency."
+      }
+    },
+    {
+      "term": "N-1-Kriterium",
+      "definition": {
+        "de": "Netz bleibt stabil, wenn ein Element ausfällt; wird oft verletzt.",
+        "en": "Grid remains stable if one element fails; often violated."
+      }
+    }
+  ],
+  "related": [
+    "biodiversitaetsverlust",
+    "asylpolitik",
+    "drogen",
+    "illegale-arbeit",
+    "lagerlogik",
+    "pandemie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-blackout",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "ENISA Threat Landscape"
+    },
+    {
+      "label": "ENTSO-E Reliability Reports"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/blackout/crisis-placeholder.jpg",
+      "/media/blackout/impact-placeholder.png",
+      "/media/blackout/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Netzgraph mit Kaskaden-Simulation; Frequenzzeitreihe mit Lastabwurf."
+  ],
+  "timeline": [
+    {
+      "year": "2003",
+      "location": "Italien / Schweiz",
+      "event": "Europaweiter Blackout",
+      "description": "Baumkontakt löst Leitungssturz aus; 57 Mio. betroffen."
+    },
+    {
+      "year": "2021",
+      "location": "Texas",
+      "event": "Kälte + Netzversagen",
+      "description": "Extremwetter + Marktregeln führen zu Massenabschaltungen."
+    },
+    {
+      "year": "2022",
+      "location": "Ukraine",
+      "event": "Gezielte Netzangriffe",
+      "description": "Raketen und Cyberoperationen nehmen Übertragungsnetz ins Visier."
+    }
+  ]
+}

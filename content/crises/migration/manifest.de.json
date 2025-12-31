@@ -1,0 +1,131 @@
+{
+  "id": "migration",
+  "slug": "migration",
+  "title": {
+    "de": "Migration",
+    "en": "Migration"
+  },
+  "summary": {
+    "de": "Bewegung von Menschen entlang von Ungleichheiten trifft auf starre Grenzregime.",
+    "en": "Movement of people along inequalities meets rigid border regimes."
+  },
+  "categories": [
+    "Existenz",
+    "Macht"
+  ],
+  "tags": [
+    "displacement",
+    "borders",
+    "labor",
+    "remittances",
+    "integration"
+  ],
+  "severity": 71,
+  "volatility": 63,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Asylgesuche",
+        "en": "Asylum claims"
+      },
+      "value": "+19% YoY"
+    },
+    {
+      "label": {
+        "de": "Todesfälle an Grenzen",
+        "en": "Border deaths"
+      },
+      "value": ">3k"
+    },
+    {
+      "label": {
+        "de": "Überweisungen",
+        "en": "Remittances"
+      },
+      "value": "$630B"
+    }
+  ],
+  "diagnosis": {
+    "de": "Konflikt, Klima und Ökonomie drücken Menschen aus ihren Räumen. Aufnahmestrukturen reagieren mit temporären Lagern und bürokratischer Verlangsamung. Sekundärmärkte für Transport, Dokumente und Arbeit profitieren.",
+    "en": "Conflict, climate, and economics push people out of place. Receiving systems respond with temporary camps and bureaucratic slowdown. Secondary markets for transport, documents, and labour profit."
+  },
+  "mechanisms": {
+    "de": "Visa-Politiken schaffen legale Engstellen und fördern illegale Routen. Informationsflüsse über Chat-Apps koordinieren Bewegung in Echtzeit. Integration scheitert, wenn Wohnraum fehlt und Arbeit prekär bleibt.",
+    "en": "Visa policies create legal bottlenecks and foster illegal routes. Information flows via chat apps coordinate movement in real time. Integration fails when housing is scarce and work stays precarious."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Transit-Lager",
+        "en": "Transit Camp"
+      },
+      "description": {
+        "de": "Provisorische Knoten mit hygienischer Minimalversorgung und latenter Gewalt.",
+        "en": "Provisional nodes with minimal hygiene and latent violence."
+      }
+    },
+    {
+      "name": {
+        "de": "Grenzzaun",
+        "en": "Border Fence"
+      },
+      "description": {
+        "de": "Physische Manifestation politischer Ausschlüsse; ständig geflickt.",
+        "en": "Physical manifestation of political exclusion; constantly patched."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Push-Pull",
+      "definition": {
+        "de": "Kombination von Faktoren, die Menschen wegdrücken oder anziehen.",
+        "en": "Combination of factors that push people away or pull them in."
+      }
+    },
+    {
+      "term": "Regularisierung",
+      "definition": {
+        "de": "Nachträgliche Legalisierung eines irregulären Aufenthalts.",
+        "en": "Retroactive legalisation of an irregular stay."
+      }
+    },
+    {
+      "term": "Remissen",
+      "definition": {
+        "de": "Geldsendungen von Migranten an Herkunftsorte.",
+        "en": "Money sent by migrants back to origin regions."
+      }
+    }
+  ],
+  "related": [
+    "illegale-arbeit",
+    "atomare-abschreckung",
+    "bildungsungleichheit",
+    "generationenkonflikt",
+    "rechtlosigkeit",
+    "soziale-ungleichheit"
+  ],
+  "lastUpdatedISO": "2025-01-06T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "citations": [
+    {
+      "label": "UN displacement data"
+    },
+    {
+      "label": "Border monitoring NGOs"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/migration/crisis-placeholder.jpg",
+      "/media/migration/impact-placeholder.png",
+      "/media/migration/solution-placeholder.jpg"
+    ]
+  }
+}

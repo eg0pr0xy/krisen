@@ -1,0 +1,382 @@
+{
+  "id": "exklusion",
+  "slug": "exklusion",
+  "title": {
+    "de": "Exklusion",
+    "en": "Exclusion"
+  },
+  "summary": {
+    "de": "Teilhabe wird entlang von Klasse, Herkunft, Geschlecht oder Digitalzugang systematisch verwehrt oder verteuert.",
+    "en": "Participation is systematically denied or priced out along class, origin, gender, or digital access."
+  },
+  "categories": [
+    "Kontrolle",
+    "Gefühl"
+  ],
+  "tags": [
+    "ungleichheit",
+    "zugang",
+    "diskriminierung",
+    "raum"
+  ],
+  "severity": 66,
+  "volatility": 55,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Wohnkostenquote",
+        "en": "Housing cost ratio"
+      },
+      "value": ">35% Einkommen",
+      "source": "Mietspiegel"
+    },
+    {
+      "label": {
+        "de": "Digital Divide",
+        "en": "Digital divide"
+      },
+      "value": "persistierend",
+      "source": "Infrastrukturberichte"
+    },
+    {
+      "label": {
+        "de": "Diskriminierungsklagen",
+        "en": "Discrimination claims"
+      },
+      "value": "steigend",
+      "source": "Gerichtsstatistiken"
+    },
+    {
+      "label": {
+        "de": "Armutsgefährdung oder soziale Ausgrenzung (AROPE) Deutschland 2024",
+        "en": "At-risk-of-poverty or social exclusion (AROPE) Germany 2024"
+      },
+      "value": "20,9 % (ca. 17,6 Mio. Personen)",
+      "source": "Statistische Ämter"
+    },
+    {
+      "label": {
+        "de": "Kinderarmutsgefährdung (unter 18) 2024",
+        "en": "Child poverty risk (under 18) 2024"
+      },
+      "value": "15,2 %",
+      "source": "Statistische Ämter"
+    },
+    {
+      "label": {
+        "de": "Erhebliche materielle und soziale Entbehrung 2024",
+        "en": "Severe material and social deprivation 2024"
+      },
+      "value": "6,0 %",
+      "source": "Statistische Ämter"
+    },
+    {
+      "label": {
+        "de": "Langzeitarbeitslosigkeit 2024",
+        "en": "Long-term unemployment 2024"
+      },
+      "value": "~1 Million Personen",
+      "source": "Bundesagentur für Arbeit"
+    },
+    {
+      "label": {
+        "de": "Wohnungslosigkeit (Total) DE",
+        "en": "Homelessness (Total) DE"
+      },
+      "value": "~1.029.000",
+      "source": "Statistische Ämter"
+    },
+    {
+      "label": {
+        "de": "Wahrnehmung dig. Spaltung",
+        "en": "Perception of digital divide"
+      },
+      "value": "67 %",
+      "source": "Sozialwissenschaftliche Studien"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist es exakt?",
+        "en": "What exactly is it?"
+      },
+      "answer": {
+        "de": "Eine operative Unterscheidung, die Subjekte aus den Kommunikationskreisläufen relevanter Funktionssysteme (Recht, Wirtschaft, Bildung) tilgt.",
+        "en": "An operative distinction that deletes subjects from the communication circuits of relevant functional systems (law, economy, education)."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer ist betroffen/verantwortlich?",
+        "en": "Who is affected/responsible?"
+      },
+      "answer": {
+        "de": "Betroffen: Das prekarisierte Prekariat, digitale 'Offliner', Langzeitarbeitslose. Verantwortlich: Die systemische Verantwortung liegt bei den Architekten der bestehenden Ordnung; betroffene Entitäten sind jene am Rande der strukturellen Stabilität.",
+        "en": "Affected: The precarized precariat, digital 'offliners', long-term unemployed. Responsible: Systemic responsibility lies with the architects of the existing order; affected entities are those on the edge of structural stability."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "In den 'Non-Places' (Augé) der urbanen Peripherie und den digitalen Dunkelfeldern der technologischen Illiteralität.",
+        "en": "In the 'non-places' (Augé) of the urban periphery and the digital dark fields of technological illiteracy."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann wird es kritisch?",
+        "en": "When does it become critical?"
+      },
+      "answer": {
+        "de": "Sobald Exklusionsbereiche (Slums, Parallelgesellschaften) eigene, konkurrierende Ordnungsstrukturen ausbilden (Re-Entry des Ausgeschlossenen).",
+        "en": "As soon as exclusion areas (slums, parallel societies) develop their own, competing order structures (re-entry of the excluded)."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum passiert es jetzt?",
+        "en": "Why is it happening now?"
+      },
+      "answer": {
+        "de": "Durch die Gleichzeitigkeit von algorithmischer Effizienzsteigerung, Wohnraumkommodifizierung und der Auflösung fordistischer Integrationsmodelle.",
+        "en": "Through the simultaneity of algorithmic efficiency increases, housing commodification, and the dissolution of Fordist integration models."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie kann das System stabilisiert werden?",
+        "en": "How can the system be stabilized?"
+      },
+      "answer": {
+        "de": "Durch radikale Erhöhung der strukturellen Kopplung (Inklusionsarchitektur) oder repressive Eindämmung; letzteres erhöht langfristig die Systementropie.",
+        "en": "Through radical increase in structural coupling (inclusion architecture) or repressive containment; the latter increases system entropy in the long term."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Exklusion ist kein passiver Zustand des 'Draußen-Seins', sondern eine aktive, konstitutive Operation funktional differenzierter Systeme. Sie bezeichnet den Prozess, durch den gesellschaftliche Teilsysteme (Ökonomie, Recht, Politik) ihre Komplexität reduzieren, indem sie bestimmte Akteure oder Kommunikationen als 'Umwelt' definieren und somit ihrer internen Operationslogik entziehen. Exklusion ist die Produktion von Überflüssigkeit in einer post-souveränen Ordnung. Exklusion ist historisch die Kehrseite der Eigentumsbildung. Von den 'Enclosures' (Einhegungen) im England des 16. Jahrhunderts, die Bauern von ihrem Land vertrieben und das moderne Proletariat schufen, über die Kolonialgeschichte (Exklusion aus dem Menschsein) bis hin zur heutigen digitalen Spaltung. Jede Epoche definiert ihren 'Abfall' neu. Im diskursiven Feld der Kritischen Theorie und des Poststrukturalismus erscheint Exklusion nicht als Unfall der Moderne, sondern als deren dunkles Fundament. Foucaults Analyse der Bio-Macht zeigt, dass das System nicht nur diszipliniert, sondern reguliert: Wer nicht in das Raster der Normalisierungsgesellschaft passt, fällt nicht ins Nichts, sondern in Zonen des 'sozialen Todes'. Achille Mbembe erweitert dies zur Nekropolitik: Die Macht entscheidet, wer leben darf und wer 'sterben gelassen' wird – hier verstanden als systemische Verwahrlosung. Für Mark Fisher wäre die Exklusion ein Symptom des 'Capitalist Realism': Das System kann sich keine Alternative zur eigenen Logik vorstellen, weshalb das 'Draußen' (die Exkludierten) als irrelevantes Rauschen (Noise) behandelt wird. Adornos 'beschädigtes Leben' manifestiert sich heute in der Unfähigkeit des Subjekts, überhaupt noch als Subjekt der Geschichte aufzutreten; es wird zum bloßen Objekt der Verwaltung oder der Vernachlässigung. Aus der Perspektive der Luhmannschen Systemtheorie ist Inklusion/Exklusion der 'Master-Code' der funktionalen Differenzierung. Systeme (z.B. der Arbeitsmarkt) operieren binär. Um zu funktionieren, müssen sie selektieren. Exklusion ist thermodynamisch als Entropie-Export zu verstehen: Das System erhält seine innere Ordnung (Negentropie), indem es Unordnung (prekarisierte Subjekte) in die Umwelt auslagert. Wenn die 'strukturelle Kopplung' zwischen Teilsystemen (z.B. kein Wohnsitz -> kein Bankkonto -> keine Arbeit) versagt, entsteht eine Exklusionskaskade. Phänomenologisch gleicht dies einem Phasenübergang in der Physik: Ab einer kritischen Dichte an Systemfehlern kollabiert der laminare Fluss gesellschaftlicher Integration in turbulente Zustände (Anomie). Exklusion ist kein passiver Zustand des 'Draußen', sondern ein aktiver, konstitutiver Prozess der Systemdifferenzierung. In der Logik funktional differenzierter Gesellschaften (nach Luhmann) bezeichnet sie den Abbruch der Kopplungsfähigkeit von psychischen Systemen (Individuen) an soziale Funktionssysteme (Wirtschaft, Recht, Politik, Gesundheit). Exklusion ist der Entzug der Adressabilität: Das Subjekt wird für die kommunikativen Operationen des Systems irrelevant – es existiert physisch, aber nicht mehr kommunikativ. Es handelt sich um die Produktion von 'überflüssigem Leben' (Bauman), das weder als Ausbeutungsobjekt (Arbeiter) noch als Konsument benötigt wird. Historisch war Exklusion oft strafend (Ostracismus) oder sakral (Verbannung). Im 19. Jahrhundert produzierte der Kapitalismus das Industrieproletariat, das jedoch durch den Klassenkampf inklusionsfähig wurde (Arbeiterbewegung). Die späte Moderne (seit 1990) erzeugt eine neue Qualität der Exklusion: Die 'Überflüssigen', die für die Kapitalakkumulation nicht mehr notwendig sind. Der Übergang vom fordistischen Wohlfahrtsstaat zum neoliberalen Wettbewerbsstaat (Agenda 2010 in Deutschland) hat diese Dynamik institutionalisiert. Die Phänomenologie der Exklusion lässt sich als negative Dialektik der Aufklärung lesen. Während Foucaults 'Große Einsperrung' die Disziplinargesellschaft definierte, markiert die zeitgenössische Exklusion den Übergang zu Deleuzes Kontrollgesellschaft und Mbembes Nekropolitik: Es geht nicht mehr primär um Korrektur, sondern um das 'Sterbenlassen' in Zonen der Ununterscheidbarkeit. Giorgio Agamben identifiziert hier den 'Homo Sacer', das nackte Leben, das getötet, aber nicht geopfert werden kann. Mark Fisher würde argumentieren, dass der 'Kapitalistische Realismus' die Exklusion als naturgegebenen Kollateralschaden einer alternativlosen Ontologie naturalisiert hat. Adornos Diktum, 'Es gibt kein richtiges Leben im falschen', radikalisiert sich: Für den Exkludierten gibt es gar kein Leben im System mehr, nur noch das bloße Vegetieren in den Interstices der algorithmischen Governance. Aus systemtheoretischer Sicht (Luhmann) ist Inklusion die Form der Adressierung von Personen durch Kommunikationsmedien (Geld, Macht, Recht). Exklusion ist der Zusammenbruch dieser Form. Es entsteht eine 'Exklusionsdrift': Wer aus dem Wirtschaftssystem exkludiert ist (Armut), verliert oft die Kopplung an das Rechtssystem (kein Rechtsschutz) und das Gesundheitssystem (geringere Lebenserwartung). Physikalisch lässt sich dies als Entropie-Export beschreiben. Soziale Systeme sind autopoietische Einheiten, die ihre interne Komplexität (Ordnung) nur aufrechterhalten können, indem sie 'Rauschen' (Unordnung/Exkludierte) in die Umwelt exportieren. Die Exklusionszone fungiert als thermodynamischer Sumpf, der die Stabilität des Kernsystems erkauft. Exklusion ist mehrschichtig: ökonomisch durch Preise, räumlich durch Verdrängung, institutionell durch bürokratische Hürden, digital durch Infrastruktur und Geräte. Sie produziert Gefühl von Entbehrlichkeit und untergräbt Vertrauen. Kulturelle Codes verstärken die Distanz, indem sie Zugehörigkeit ästhetisch markieren.",
+    "en": "Exclusion is layered: economic via pricing, spatial via displacement, institutional via bureaucratic hurdles, digital via infrastructure and devices. It generates a sense of dispensability and erodes trust. Cultural codes reinforce distance by aesthetically marking belonging."
+  },
+  "mechanisms": {
+    "de": "Gentrifizierung verlagert einkommensschwache Gruppen. Zugang zu Bildung oder Mobilität hängt an Gebühren und Garantien. Algorithmen sortieren Bewerbungen und Kredite nach Risikoprofilen, die soziale Herkunft verstetigen. Verwaltung verlangt Nachweise, die vulnerable Gruppen nicht erbringen können. Kulturindustrien kuratieren Publikum und verknappen Sichtbarkeit. Durch die Algorithmisierung der Daseinsvorsorge und die Effizienzlogik des Finanzkapitalismus werden nicht-verwertbare Subjekte schneller identifiziert und abgestoßen. Der Übergang vom fordistischen Wohlfahrtsstaat zum neoliberalen Wettbewerbsstaat (Agenda 2010) institutionalisiert Prekarisierung als politische Technologie. Die 'Überflüssigen' produzieren eine neue Qualität der Exklusion: Subjekte, die weder als Ausbeutungsobjekte noch als Konsumenten benötigt werden.",
+    "en": "Gentrification displaces low-income groups. Access to education or mobility depends on fees and guarantees. Algorithms rank applications and credit by risk profiles that codify social origin. Bureaucracies demand proofs vulnerable groups cannot provide. Cultural industries curate audiences and ration visibility. Through the algorithmization of existential provision and the efficiency logic of financial capitalism, non-valuable subjects are identified and rejected faster. The transition from the Fordist welfare state to the neoliberal competition state (Agenda 2010) institutionalizes precarization as a political technology. The 'superfluous' produce a new quality of exclusion: subjects who are needed neither as objects of exploitation nor as consumers."
+  },
+  "timeline": [
+    {
+      "year": "1601",
+      "location": "England",
+      "event": "Elizabethan Poor Law",
+      "description": "Erste systematische staatliche Verwaltung der Exklusion; Unterscheidung zwischen 'würdigen' und 'unwürdigen' Armen."
+    },
+    {
+      "year": "1834",
+      "location": "Großbritannien",
+      "event": "New Poor Law",
+      "description": "Institutionalisierung des Arbeitshauses. Armut wird pathologisiert und kriminalisiert (Vorläufer moderner Sanktionssysteme)."
+    },
+    {
+      "year": "1975",
+      "location": "Globaler Norden",
+      "event": "Ende des Fordismus",
+      "description": "Beginn der strukturellen Arbeitslosigkeit. Der Arbeitsmarkt kann nicht mehr alle inkludieren; Entstehung der 'Überflüssigen'."
+    },
+    {
+      "year": "2005",
+      "location": "Deutschland",
+      "event": "Hartz IV (Agenda 2010)",
+      "description": "Paradigmenwechsel zur Aktivierung. Exklusion wird als individuelles Motivationsdefizit umgedeutet ('Fördern und Fordern')."
+    },
+    {
+      "year": "2024",
+      "location": "Deutschland",
+      "event": "Wohnraumkrise & Digitale Spaltung",
+      "description": "Wohnungslosigkeit erreicht Rekordwerte (>1 Mio); digitale Teilhabe wird zur harten Exklusionsgrenze."
+    }
+  ],
+  "archetypes": [
+    {
+      "name": {
+        "de": "Unsichtbare Schwelle",
+        "en": "Invisible threshold"
+      },
+      "description": {
+        "de": "Formale Offenheit, faktische Barrieren (Sprache, Dresscode, Zeit).",
+        "en": "Formal openness, factual barriers (language, dress code, time)."
+      }
+    },
+    {
+      "name": {
+        "de": "Preisfilter",
+        "en": "Price filter"
+      },
+      "description": {
+        "de": "Kostenstruktur selektiert Publikum und Bewohner:innen.",
+        "en": "Cost structures select audiences and residents."
+      }
+    },
+    {
+      "name": {
+        "de": "Datenprofil",
+        "en": "Data profile"
+      },
+      "description": {
+        "de": "Scoring schließt aus, ohne Begründung offen zu legen.",
+        "en": "Scoring excludes without disclosing reasons."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Digitale Kluft",
+      "definition": {
+        "de": "Ungleicher Zugang zu Geräten, Netzen und Kompetenzen.",
+        "en": "Unequal access to devices, networks, and skills."
+      }
+    },
+    {
+      "term": "Sanktionsspirale",
+      "definition": {
+        "de": "Fehlende Nachweise führen zu Kürzungen, die weitere Exklusion verursachen.",
+        "en": "Missing proofs trigger cuts that deepen exclusion."
+      }
+    },
+    {
+      "term": "Gentrifizierung",
+      "definition": {
+        "de": "Aufwertung von Quartieren mit Verdrängung bestehender Bewohner:innen.",
+        "en": "Upgrading neighbourhoods that displace existing residents."
+      }
+    },
+    {
+      "term": "Systemische Entkopplung",
+      "definition": {
+        "de": "Der Verlust der Fähigkeit, relevante Informationen in die operativen Codes der Gesellschaft einzuspeisen.",
+        "en": "The loss of ability to feed relevant information into society's operational codes."
+      }
+    },
+    {
+      "term": "Hysterese-Effekt",
+      "definition": {
+        "de": "Negative Rückkopplungsschleife, die aus eigener Kraft nicht mehr durchbrochen werden kann.",
+        "en": "Negative feedback loop that can no longer be broken by its own power."
+      }
+    },
+    {
+      "term": "Exklusionsdrift",
+      "definition": {
+        "de": "Kaskadenartige Ausbreitung der Exklusion von einem Funktionssystem auf andere.",
+        "en": "Cascading spread of exclusion from one functional system to others."
+      }
+    },
+    {
+      "term": "Homo Sacer",
+      "definition": {
+        "de": "Das nackte Leben, das getötet, aber nicht geopfert werden kann (Agamben).",
+        "en": "The bare life that can be killed but not sacrificed (Agamben)."
+      }
+    },
+    {
+      "term": "Kapitalistische Realismus",
+      "definition": {
+        "de": "Die Naturalisierung der Exklusion als alternativloser Kollateralschaden des Systems (Fisher).",
+        "en": "The naturalization of exclusion as an unavoidable collateral damage of the system (Fisher)."
+      }
+    },
+    {
+      "term": "Nekropolitik",
+      "definition": {
+        "de": "Politik des 'Sterbenlassens' in Zonen der Ununterscheidbarkeit (Mbembe).",
+        "en": "Politics of 'letting die' in zones of indistinguishability (Mbembe)."
+      }
+    },
+    {
+      "term": "Kontrollgesellschaft",
+      "definition": {
+        "de": "Gesellschaftsform, die nicht mehr diszipliniert, sondern kontrolliert (Deleuze).",
+        "en": "Form of society that no longer disciplines but controls (Deleuze)."
+      }
+    },
+    {
+      "term": "Überflüssige",
+      "definition": {
+        "de": "Subjekte, die für die Kapitalakkumulation nicht mehr notwendig sind.",
+        "en": "Subjects no longer necessary for capital accumulation."
+      }
+    },
+    {
+      "term": "Algorithmische Governance",
+      "definition": {
+        "de": "Steuerung gesellschaftlicher Prozesse durch Algorithmen und Datenprofile.",
+        "en": "Governance of societal processes through algorithms and data profiles."
+      }
+    }
+  ],
+  "citations": [
+    {
+      "label": "Niklas Luhmann - Soziale Systeme",
+      "note": "Systemtheoretische Grundlagen der funktionalen Differenzierung"
+    },
+    {
+      "label": "Zygmunt Bauman - Wasted Lives",
+      "note": "Konzept des 'überflüssigen Lebens'"
+    },
+    {
+      "label": "Michel Foucault - Discipline and Punish",
+      "note": "Große Einsperrung und Disziplinargesellschaft"
+    },
+    {
+      "label": "Gilles Deleuze - Postscript on the Societies of Control",
+      "note": "Übergang zur Kontrollgesellschaft"
+    },
+    {
+      "label": "Achille Mbembe - Necropolitics",
+      "note": "Politik des Sterbenlassens"
+    },
+    {
+      "label": "Giorgio Agamben - Homo Sacer",
+      "note": "Nacktes Leben und Ausnahmezustand"
+    },
+    {
+      "label": "Mark Fisher - Capitalist Realism",
+      "note": "Naturalisierung des Kapitalismus als alternativlos"
+    },
+    {
+      "label": "Theodor W. Adorno - Minima Moralia",
+      "note": "'Es gibt kein richtiges Leben im falschen'"
+    }
+  ],
+  "related": [
+    "aufmerksamkeitsoekonomie",
+    "biopolitische-zuschreibungen",
+    "drogen",
+    "empoerungsdynamiken",
+    "entmenschlichung-buerokratie",
+    "koerperpolitik"
+  ],
+  "lastUpdatedISO": "2025-12-23T00:00:00.000Z",
+  "version": "0.3.0",
+  "media": {
+    "images": [
+      "/media/exklusion/exclusion-placeholder.jpg",
+      "/media/exklusion/discrimination-placeholder.png",
+      "/media/exklusion/marginalization-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "exklusion",
+    "generatedAtISO": "2025-12-23T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Exklusion mehrdimensional beschrieben.",
+    "Erweitert um philosophische Diagnose, Q&A, historische Chronologie, statistische Indikatoren, Glossar-Erweiterung, Zitierungen und Mechanismen-Updates.",
+    "Zweite umfassende Inhalts-Erweiterung mit vertiefter systemtheoretischer Analyse, zusätzlichen statistischen Indikatoren und erweiteter historischer Chronologie.",
+    "Draft für weitere Datenpunkte belassen."
+  ]
+}

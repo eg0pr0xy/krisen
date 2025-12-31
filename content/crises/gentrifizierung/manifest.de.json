@@ -1,0 +1,156 @@
+{
+  "id": "gentrifizierung",
+  "slug": "gentrifizierung",
+  "title": {
+    "de": "Gentrifizierung",
+    "en": "Gentrification"
+  },
+  "summary": {
+    "de": "Kapital und höhere Einkommen verdrängen bestehende Milieus; Stadtteile werden kuratiert und verteuert.",
+    "en": "Capital and higher incomes displace existing milieus; districts are curated and priced up."
+  },
+  "categories": [
+    "Macht",
+    "Materie"
+  ],
+  "tags": [
+    "miete",
+    "invest",
+    "stadt",
+    "kultur",
+    "verdrängung"
+  ],
+  "severity": 73,
+  "volatility": 69,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Mietanstieg Kernstadt",
+        "en": "Core-city rent increase"
+      },
+      "value": ">+8% p.a.",
+      "source": "City stats"
+    },
+    {
+      "label": {
+        "de": "Umwandlung Miet- in Eigentum",
+        "en": "Rental to condo conversions"
+      },
+      "value": "↑",
+      "source": "Land registries"
+    },
+    {
+      "label": {
+        "de": "Anteil Kurzzeitvermietung",
+        "en": "Share short-term rentals"
+      },
+      "value": "+",
+      "source": "Platform data"
+    }
+  ],
+  "diagnosis": {
+    "de": "Gentrifizierung ist räumliche Klassenverschiebung. Bodenwertsteigerung extrahiert Kultur als Kulisse. Lokale Netzwerke verlieren Orte, soziale Infrastruktur kippt. Imaginäre Aufwertung (Branding) geht der realen Verdrängung voraus. Konflikte entzünden sich an Symbolen (Cafés, Galerien), wirken aber über Mieten und Eigentumstitel.",
+    "en": "Gentrification is spatial class shift. Rising land value extracts culture as backdrop. Local networks lose venues; social infrastructure tilts. Imagined upgrading (branding) precedes material displacement. Conflicts spark on symbols (cafés, galleries) but act through rents and titles."
+  },
+  "mechanisms": {
+    "de": "Investoren kaufen Bestände, sanieren, erhöhen Mieten. Kurzzeitvermietung reduziert Langzeitangebot. Öffentliche Aufwertungsprojekte ziehen Kapital an. Mietrechtliche Lücken ermöglichen Umwandlung. Kulturelle Produktion (Clubs, Ateliers) wird zur Werbefläche und danach verdrängt.",
+    "en": "Investors acquire stock, renovate, raise rents. Short-term rentals cut long-term supply. Public upgrades attract capital. Legal gaps allow conversions. Cultural production (clubs, studios) becomes marketing and is then displaced."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Kaffee als Keil",
+        "en": "Coffee Wedge"
+      },
+      "description": {
+        "de": "Neue Cafés/Galerien als Signal, Preise steigen nach.",
+        "en": "New cafés/galleries signal later price hikes."
+      }
+    },
+    {
+      "name": {
+        "de": "Airbnb-Korridor",
+        "en": "Airbnb Corridor"
+      },
+      "description": {
+        "de": "Kurzzeitmieten verdrängen Nachbarschaften.",
+        "en": "Short-term lets displace neighbors."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Verdrängung",
+      "definition": {
+        "de": "Austausch von Bewohnern durch Miet-/Eigentumserhöhung.",
+        "en": "Replacement of residents via rent/ownership hikes."
+      }
+    },
+    {
+      "term": "Umwandlung",
+      "definition": {
+        "de": "Wechsel von Miet- zu Eigentumswohnungen.",
+        "en": "Conversion from rental to condos."
+      }
+    },
+    {
+      "term": "Aufwertung",
+      "definition": {
+        "de": "Staatliche/private Investitionen erhöhen Standortwert.",
+        "en": "State/private investment lifts location value."
+      }
+    }
+  ],
+  "related": [
+    "wohnraummangel",
+    "automatisierung",
+    "extraktivismus",
+    "finanzialisierung",
+    "geopolitische-verschiebungen",
+    "rezession"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-gentr",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "City housing stats / platform data"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/gentrifizierung/crisis-placeholder.jpg",
+      "/media/gentrifizierung/impact-placeholder.png",
+      "/media/gentrifizierung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Rent heatmap by district; conversion timeline; short-term rental density map."
+  ],
+  "timeline": [
+    {
+      "year": "2000er",
+      "location": "Metropolen",
+      "event": "Aufwertungswellen",
+      "description": "Investitionen treiben Mieten."
+    },
+    {
+      "year": "2010s",
+      "location": "Städte",
+      "event": "Airbnb-Ausbreitung",
+      "description": "Kurzzeitmiete entzieht Wohnungen."
+    },
+    {
+      "year": "2023-2024",
+      "location": "Global",
+      "event": "Zins + Baukosten",
+      "description": "Neuangebot stockt, Bestandsmieten steigen."
+    }
+  ]
+}

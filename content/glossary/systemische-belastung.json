@@ -1,0 +1,15 @@
+{
+  "term": "Systemische Belastung",
+  "definition_de": "Systemische Belastung benennt den kumulativen Druck, den multiple Störungen auf ein soziales oder technisches Netz ausüben; sie enkodiert die Menge an Energie, Diskrepanz und Erwartungsdruck, die das System nicht mehr in regulären Pfaden verarbeiten kann. Anders als kurzfristige Schocks handelt es sich um persistente, ineinander verlinkte Belastungsfelder (z. B. Klima, Versorgung, Governance, Psychologie), die simultan Wirkräume blockieren und adaptive Kapazität reduzieren.",
+  "definition_en": "Systemic load names the cumulative pressure multiple disruptions exert on a social or technical apparatus; it encodes the amount of energy, discrepancy, and expectation stress the system can no longer process through regular pathways. Unlike acute shocks, it is a persistent, interconnected field of stressors (e.g., climate, supply, governance, psychological) that simultaneously block operational spaces and drain adaptive capacity.",
+  "notes_de": "Indikatoren wie Systemic Load, Systemic Risk Matrix oder Netzwerkanalysen modellieren diese Belastung numerisch. Sie erlaubt eine andere Lesart des Krisenbegriffs: Nicht nur einzelne Ereignisse, sondern die gleichzeitige Überschreitung mehrerer Pfade wird sichtbar.",
+  "notes_en": "Indicators such as Systemic Load, the Systemic Risk Matrix, or network analyses quantify this load numerically. It offers a different reading of crisis: not single events but the simultaneous overshooting of multiple pathways becomes visible.",
+  "short_form": "Systemische Belastung zeigt, wann mehrere Krisenliche die gleichen Pfade überlasten.",
+  "related_terms": [
+    "systemische-fragilitaet",
+    "polykrise",
+    "systemic-load",
+    "systemic-risk-matrix"
+  ],
+  "source": "Eigene Operationalisierung basierend auf Systemic Risk Matrix Monitoring."
+}

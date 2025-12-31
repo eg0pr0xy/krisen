@@ -1,0 +1,244 @@
+{
+  "id": "antibiotika-resistenzen",
+  "slug": "antibiotika-resistenzen",
+  "title": {
+    "de": "Antibiotika-Resistenzen",
+    "en": "Antibiotic Resistance"
+  },
+  "summary": {
+    "de": "Evolutionäre Adaption von Pathogenen untergräbt medizinische Souveränität; post-antibiotisches Zeitalter droht.",
+    "en": "Pathogens' evolutionary adaptation undermines medical sovereignty; post-antibiotic era threatens."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "evolution",
+    "medizin",
+    "pathogene",
+    "resistenz",
+    "pandemie"
+  ],
+  "severity": 85,
+  "volatility": 45,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Todesfälle direkt durch AMR (2021)",
+        "en": "Deaths directly from AMR (2021)"
+      },
+      "value": "1,14 Millionen",
+      "source": "WHO"
+    },
+    {
+      "label": {
+        "de": "Prognostizierte Tote (2050, direkt)",
+        "en": "Projected deaths (2050, direct)"
+      },
+      "value": "1,91 Millionen/Jahr",
+      "source": "Lancet Commission"
+    },
+    {
+      "label": {
+        "de": "Assoziierte Todesfälle (Kumulativ 2025-2050)",
+        "en": "Associated deaths (Cumulative 2025-2050)"
+      },
+      "value": "169 Millionen",
+      "source": "OECD"
+    },
+    {
+      "label": {
+        "de": "Verbrauch Reserveantibiotika DE (2023)",
+        "en": "Consumption of reserve antibiotics DE (2023)"
+      },
+      "value": "15,7 Millionen Verordnungen",
+      "source": "BfArM"
+    },
+    {
+      "label": {
+        "de": "Veterinär-Antibiotika DE (2023)",
+        "en": "Veterinary antibiotics DE (2023)"
+      },
+      "value": "529 Tonnen",
+      "source": "BfR"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist das ontologische Substrat?",
+        "en": "What is the ontological substrate?"
+      },
+      "answer": {
+        "de": "Eine mikrobielle Evolution in Zeitraffer. Selektionsdruck eliminiert vulnerable Stämme und lässt resistente Mutanten proliferieren.",
+        "en": "Microbial evolution in fast-forward. Selection pressure eliminates vulnerable strains and allows resistant mutants to proliferate."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer sind die Akteure?",
+        "en": "Who are the actors?"
+      },
+      "answer": {
+        "de": "Global: Patienten (Vektoren), Kliniken (Inkubatoren), Agrarindustrie (Massenapplikation) und das Mikrobiom selbst.",
+        "en": "Global: Patients (vectors), clinics (incubators), agricultural industry (mass application) and the microbiome itself."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "Nosokomiale Räume (Intensivstationen) und Regionen mit unreguliertem Antibiotika-Zugang (Südasien, Subsahara-Afrika).",
+        "en": "Nosocomial spaces (intensive care units) and regions with unregulated antibiotic access (South Asia, Sub-Saharan Africa)."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann kippt das System?",
+        "en": "When does the system tip?"
+      },
+      "answer": {
+        "de": "Der Tipping-Point ist bereits überschritten; wir bewegen uns asymptotisch auf das 'post-antibiotische Zeitalter' (Prognose 2050) zu.",
+        "en": "The tipping point has already been exceeded; we are moving asymptotically towards the 'post-antibiotic era' (forecast 2050)."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum jetzt?",
+        "en": "Why now?"
+      },
+      "answer": {
+        "de": "Kumulative Effekte von Jahrzehnten der Überverschreibung, globaler Mobilität und Stagnation in der Antibiotika-Forschung.",
+        "en": "Cumulative effects of decades of over-prescription, global mobility, and stagnation in antibiotic research."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie stabilisiert man das System?",
+        "en": "How to stabilize the system?"
+      },
+      "answer": {
+        "de": "Durch radikale 'Antibiotic Stewardship', Phagentherapie, One-Health-Ansätze und Dekommodifizierung der Gesundheitsgüter.",
+        "en": "Through radical 'Antibiotic Stewardship', phage therapy, One-Health approaches, and decommodification of health goods."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Systemische Dysfunktion der antimikrobiellen pharmakologischen Intervention, bei der bakterielle Organismen durch evolutionäre Adaption (Mutation, horizontaler Gentransfer) eine Resistenz gegenüber zuvor letalen Wirkstoffklassen entwickeln. Es handelt sich um eine Autopoiesis der Pathogene, die die medizinische Souveränität untergräbt. Vom 'Goldenen Zeitalter' der Antibiotika (1940er-1970er) zur 'Entdeckungs-Lücke' (Discovery Void) seit den 1980ern. Die anfängliche Euphorie über Penicillin (Fleming warnte bereits 1945 vor Resistenzen) wich einer pragmatischen Ausbeutung der Ressourcen, gefolgt von der aktuellen Stagnation. Im Prisma der Kritischen Theorie (Adorno/Horkheimer) offenbart sich die Antibiotikaresistenz als Scheitern der modernen 'Beherrschungsphantasie'. Die Dialektik der Aufklärung manifestiert sich hier biologisch: Der Versuch, die Natur totalitär zu sterilisieren, schlägt in eine unkontrollierbare 'Rache der Natur' um. Foucaults Biopolitik, die das Leben verwalten will, stößt an ihre materiellen Grenzen; das 'Make live and let die' wird durch die mikrobielle Agency invertiert. Wir treten in eine Ära der 'negativen Nekropolitik' (Mbembe) ein, in der der Tod nicht mehr nur durch souveräne Entscheidung, sondern durch das Versagen der technokratischen Schutzschirme (Immunologie) verabreicht wird. Mark Fisher würde dies als 'Realitäts-Schock' bezeichnen – das Eindringen des traumatischen Realen in die hermetische Blase des kapitalistischen Realismus, der glaubte, Krankheit technisch 'auslagern' zu können. Systemtheoretisch betrachtet (Luhmann) ist Antibiotikaresistenz eine klassische 'Resonanzkatastrophe'. Das Gesundheitssystem und das ökonomische System (Pharmaindustrie) operieren in unterschiedlichen Zeitcodes. Die bakterielle Evolution operiert in Echtzeit-Feedbackschleifen (hohe Replikationsrate, Plasmid-Austausch), während die pharmazeutische Innovation linearen, kapitalintensiven Zyklen folgt (10-15 Jahre Pipeline). Die physikalische Entropie des Systems nimmt zu: Die Einführung eines Antibiotikums (Ordnung) erzeugt zwangsläufig ein thermodynamisches Ungleichgewicht, das das bakterielle System durch Komplexitätssteigerung (Resistenzmechanismen wie Efflux-Pumpen, enzymatische Degradation) ausgleicht. Es ist ein asymmetrisches Wettrüsten, bei dem die Statik der Chemie gegen die Dynamik der Biologie verliert.",
+    "en": "Systemic dysfunction of antimicrobial pharmacological intervention where bacterial organisms develop resistance to previously lethal drug classes through evolutionary adaptation (mutation, horizontal gene transfer). It is an autopoiesis of pathogens that undermines medical sovereignty."
+  },
+  "mechanisms": {
+    "de": "Selektionsdruck durch Massenanwendung in Human- und Veterinärmedizin. Horizontale Resistenzgene-Übertragung via Plasmide. Globale Mobilität beschleunigt Dissemination. Stagnation der pharmazeutischen Pipeline durch geringe Profitmargen. Überdiagnostik und prophylaktische Verschreibung.",
+    "en": "Selection pressure through mass application in human and veterinary medicine. Horizontal resistance gene transfer via plasmids. Global mobility accelerates dissemination. Stagnation of pharmaceutical pipeline due to low profit margins. Overdiagnosis and prophylactic prescription."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Multiresistente Infektion",
+        "en": "Multidrug-resistant infection"
+      },
+      "description": {
+        "de": "Krankheit, die auf alle verfügbaren Antibiotika resistent ist und nur experimentelle Therapien zulässt.",
+        "en": "Disease resistant to all available antibiotics, allowing only experimental therapies."
+      }
+    },
+    {
+      "name": {
+        "de": "Post-antibiotische Chirurgie",
+        "en": "Post-antibiotic surgery"
+      },
+      "description": {
+        "de": "Eingriffe ohne Infektionsprophylaxe, mit deutlich erhöhtem Risiko von Sepsis und Tod.",
+        "en": "Procedures without infection prophylaxis, with significantly increased risk of sepsis and death."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Autopoiesis der Pathogene",
+      "definition": {
+        "de": "Selbstorganisation von Mikroorganismen durch evolutionäre Anpassung an antimikrobielle Agentien.",
+        "en": "Self-organization of microorganisms through evolutionary adaptation to antimicrobial agents."
+      }
+    },
+    {
+      "term": "Horizontale Resistenzgene-Übertragung",
+      "definition": {
+        "de": "Austausch von Resistenzgenen zwischen verschiedenen Bakterienstämmen ohne vertikale Vererbung.",
+        "en": "Exchange of resistance genes between different bacterial strains without vertical inheritance."
+      }
+    },
+    {
+      "term": "Negativer Nekropolitik",
+      "definition": {
+        "de": "Tod durch Versagen technischer Schutzsysteme, nicht durch souveräne Entscheidung (Mbembe).",
+        "en": "Death through failure of technical protection systems, not through sovereign decision (Mbembe)."
+      }
+    },
+    {
+      "term": "Antibiotic Stewardship",
+      "definition": {
+        "de": "Systematische Programme zur rationalen Antibiotika-Verwendung und Resistenzprävention.",
+        "en": "Systematic programs for rational antibiotic use and resistance prevention."
+      }
+    },
+    {
+      "term": "One-Health-Ansatz",
+      "definition": {
+        "de": "Integrierte Betrachtung von Human-, Veterinär- und Umweltgesundheit zur AMR-Bekämpfung.",
+        "en": "Integrated consideration of human, veterinary, and environmental health for AMR control."
+      }
+    }
+  ],
+  "related": [
+    "just-in-time-fragilitaet",
+    "staatszerfall",
+    "weltraumschrott"
+  ],
+  "citations": [
+    {
+      "label": "Alexander Fleming - Nobel Lecture 1945",
+      "note": "Frühe Warnung vor Antibiotikaresistenz"
+    },
+    {
+      "label": "Theodor W. Adorno & Max Horkheimer - Dialectic of Enlightenment",
+      "note": "Kritische Theorie der Beherrschungsphantasie"
+    },
+    {
+      "label": "Michel Foucault - The Birth of Biopolitics",
+      "note": "Grenzen der Biopolitik und mikrobielle Agency"
+    },
+    {
+      "label": "Achille Mbembe - Necropolitics",
+      "note": "Negative Nekropolitik und Tod durch Systemversagen"
+    },
+    {
+      "label": "Mark Fisher - Capitalist Realism",
+      "note": "Realitäts-Schock des kapitalistischen Realismus"
+    },
+    {
+      "label": "Niklas Luhmann - Soziale Systeme",
+      "note": "Resonanzkatastrophe und Entropie-Export"
+    }
+  ],
+  "lastUpdatedISO": "2025-12-23T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "editNotes": [
+    "Neue Krise: Umfassende Analyse der Antibiotikaresistenz als systemische Dysfunktion mit philosophischer Tiefe."
+  ],
+  "media": {
+    "images": [
+      "/media/antibiotika-resistenzen/crisis-placeholder.jpg",
+      "/media/antibiotika-resistenzen/impact-placeholder.png",
+      "/media/antibiotika-resistenzen/solution-placeholder.jpg"
+    ]
+  }
+}

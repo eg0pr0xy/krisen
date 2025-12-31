@@ -1,0 +1,177 @@
+{
+  "id": "autoritarismus",
+  "slug": "autoritarismus",
+  "title": {
+    "de": "Autoritarismus",
+    "en": "Authoritarianism"
+  },
+  "summary": {
+    "de": "Macht konzentriert sich, pluralistische Verfahren werden entkernt, Gehorsam wird Tugend.",
+    "en": "Power concentrates, plural procedures are hollowed out, obedience becomes virtue."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "gehorsam",
+    "ordnung",
+    "rechtsstaat",
+    "furcht",
+    "führungsfigur"
+  ],
+  "severity": 78,
+  "volatility": 48,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Index demokratischer Rückschritt",
+        "en": "Democratic backsliding index"
+      },
+      "value": "↓ in >30 Staaten",
+      "source": "V-Dem"
+    },
+    {
+      "label": {
+        "de": "Notstandsverordnungen/ Jahr",
+        "en": "Emergency decrees per year"
+      },
+      "value": "steigend",
+      "source": "Gov monitors"
+    },
+    {
+      "label": {
+        "de": "Zustimmung zu starker Führungsfigur",
+        "en": "Support for strong leader"
+      },
+      "value": ">40% in mehreren Ländern",
+      "source": "Pew/WVS"
+    }
+  ],
+  "diagnosis": {
+    "de": "Autoritarismus ist nicht primär eine Herrschaftsform, sondern ein struktureller Krisenmodus gesellschaftlicher Ordnung, der unter Bedingungen hoher Komplexität, Unsicherheit und Kontingenz aktiviert wird. Er fungiert als pathologische Strategie der Komplexitätsreduktion, bei der die Offenheit sozialer Systeme nicht verarbeitet, sondern gewaltsam geschlossen wird. Im autoritären Modus wird Komplexität nicht als notwendige Eigenschaft moderner Gesellschaften anerkannt, sondern als Störgröße interpretiert. Pluralität, Dissens, Ambiguität und Selbstorganisation gelten nicht als Ressourcen, sondern als Risiken. Steuerung erfolgt daher nicht über Aushandlung, Rückkopplung und adaptive Prozesse, sondern über hierarchische Verdichtung, exekutive Zentralisierung und Repression von Varianz. Autoritarismus operiert dabei weniger über offene Ideologie als über funktionale Vereinfachung: Entscheidungen werden beschleunigt, Alternativen eliminiert, Verantwortlichkeiten verkürzt. Ordnung erscheint als technisch herstellbar – durch Kontrolle, Überwachung, Disziplinierung und Ausnahmebefugnisse. In kybernetischer Perspektive lässt sich Autoritarismus als der gewaltsame Versuch verstehen, Negentropie (Ordnung, Vorhersagbarkeit, Steuerbarkeit) im Systemkern zu konservieren, während die entstehenden Kosten systematisch nach außen verlagert werden.",
+    "en": "Authoritarianism is not primarily a form of rule, but a structural crisis mode of social order that is activated under conditions of high complexity, uncertainty, and contingency. It functions as a pathological strategy of complexity reduction, in which the openness of social systems is not processed, but forcibly closed. In the authoritarian mode, complexity is not recognized as a necessary property of modern societies, but interpreted as a disruptive factor. Plurality, dissent, ambiguity, and self-organization are not regarded as resources, but as risks. Governance therefore does not occur through negotiation, feedback, and adaptive processes, but through hierarchical condensation, executive centralization, and repression of variance. Authoritarianism operates less through open ideology than through functional simplification: decisions are accelerated, alternatives eliminated, responsibilities shortened. Order appears technically producible – through control, surveillance, disciplining, and exceptional powers. In a cybernetic perspective, authoritarianism can be understood as the violent attempt to conserve negentropy (order, predictability, controllability) in the system core, while the resulting costs are systematically externalized."
+  },
+  "mechanisms": {
+    "de": "Autoritäre Systeme entstehen häufig nicht aus Stärke, sondern aus Überforderung. Sie reagieren auf: steigende Systemkomplexität, Kontrollverlust politischer Institutionen, beschleunigte Krisenkaskaden, Erosion symbolischer Ordnungen. Autoritarismus verspricht: Entscheidungsfähigkeit ohne Diskurs, Ordnung ohne Konflikt, Sicherheit ohne Vertrauen. In kybernetischer Perspektive wird Negentropie (Ordnung) im Systemkern konserviert, während Entropie (Chaos, Gewalt, Ausschluss) an die Peripherie ausgelagert wird. Repression ist nicht Fehlfunktion, sondern kybernetische Notwendigkeit. Autoritarismus operiert weniger über Ideologie als über funktionale Vereinfachung: Entscheidungen werden beschleunigt, Alternativen eliminiert, Verantwortlichkeiten verkürzt.",
+    "en": "Authoritarian systems often emerge not from strength, but from overload. They respond to: increasing system complexity, loss of control of political institutions, accelerated crisis cascades, erosion of symbolic orders. Authoritarianism promises: decision-making capacity without discourse, order without conflict, security without trust. In a cybernetic perspective, negentropy (order) is conserved in the system core, while entropy (chaos, violence, exclusion) is externalized to the periphery. Repression is not malfunction, but cybernetic necessity. Authoritarianism operates less through ideology than through functional simplification: decisions are accelerated, alternatives eliminated, responsibilities shortened."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Starker Mann",
+        "en": "Strongman"
+      },
+      "description": {
+        "de": "Personalisierte Herrschaft, die Institutionen überschreibt.",
+        "en": "Personalised rule overriding institutions."
+      }
+    },
+    {
+      "name": {
+        "de": "Notstand",
+        "en": "State of Exception"
+      },
+      "description": {
+        "de": "Ausnahmezustand wird Normalfall und legitimiert Dauerbefugnisse.",
+        "en": "Exception becomes norm, legitimising permanent powers."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Autoritärer Charakter",
+      "definition": {
+        "de": "Persönlichkeitsmuster aus Unterordnung und Aggression.",
+        "en": "Personality pattern of submission and aggression."
+      }
+    },
+    {
+      "term": "Staatsnotstand",
+      "definition": {
+        "de": "Ausnahmezustand mit erweiterten Exekutivrechten.",
+        "en": "State of exception with expanded executive rights."
+      }
+    },
+    {
+      "term": "Gleichschaltung",
+      "definition": {
+        "de": "Anpassung von Institutionen/Medien an zentrale Linie.",
+        "en": "Alignment of institutions/media to a central line."
+      }
+    },
+    {
+      "term": "Negentropie",
+      "definition": {
+        "de": "Ordnung, Vorhersagbarkeit, Steuerbarkeit im Systemkern.",
+        "en": "Order, predictability, controllability in the system core."
+      }
+    },
+    {
+      "term": "Entropie-Export",
+      "definition": {
+        "de": "Auslagerung von Chaos, Gewalt und Ausschluss an die Peripherie.",
+        "en": "Externalization of chaos, violence, and exclusion to the periphery."
+      }
+    },
+    {
+      "term": "Funktionale Vereinfachung",
+      "definition": {
+        "de": "Beschleunigung von Entscheidungen durch Eliminierung von Alternativen.",
+        "en": "Acceleration of decisions through elimination of alternatives."
+      }
+    }
+  ],
+  "related": [
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "corruption",
+    "datenmissbrauch",
+    "demokratieabbau"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-autoritarismus",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Adorno / V-Dem"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/autoritarismus/dictator-placeholder.jpg",
+      "/media/autoritarismus/protest-placeholder.png",
+      "/media/autoritarismus/censorship-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Backsliding index lines; emergency decree count; leader-approval vs trust plot."
+  ],
+  "timeline": [
+    {
+      "year": "1930er",
+      "location": "Europa",
+      "event": "Historische Referenz",
+      "description": "Autoritäre Bewegungen nutzen Krise für Machtzentralisierung."
+    },
+    {
+      "year": "2010s",
+      "location": "Global",
+      "event": "Backsliding-Welle",
+      "description": "Medienkontrolle und Notstandsrecht nehmen zu."
+    },
+    {
+      "year": "2022-2024",
+      "location": "Mehrere Länder",
+      "event": "Krisenfestigung",
+      "description": "Krieg/Inflation legitimieren weitere Exekutivbefugnisse."
+    }
+  ]
+}

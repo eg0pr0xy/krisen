@@ -1,0 +1,329 @@
+{
+  "id": "climate-change",
+  "slug": "climate-change",
+  "title": {
+    "de": "Klimawandel",
+    "en": "Climate Change"
+  },
+    "summary": {
+      "de": "Der Klimawandel ist keine meteorologische Anomalie, sondern eine systemische Disruption des planetaren Metabolismus. Er beschreibt den durch anthropogene Emissionen induzierten Kollaps der holozänen Stabilität, gekennzeichnet durch eine forcierte Entropie-Zunahme in der Atmosphäre und die Destabilisierung biosphärischer Regelkreise (Autopoiesis). Es handelt sich um ein '[Hyperobjekt]' (Morton), das räumlich und zeitlich so massiv ist, dass es sich der unmittelbaren menschlichen Wahrnehmung entzieht, während es gleichzeitig jede lokale Realität determiniert.",
+      "en": "Climate change is not a meteorological anomaly, but a systemic disruption of planetary metabolism. It describes the collapse of Holocene stability induced by anthropogenic emissions, characterized by a forced increase in atmospheric entropy and the destabilization of biospheric feedback loops (autopoiesis). It is a '[hyperobject]' (Morton) that is spatially and temporally so massive that it escapes immediate human perception, while simultaneously determining every local reality."
+    },
+  "categories": [
+    "Materie"
+  ],
+  "tags": [
+    "emissions",
+    "heat",
+    "water",
+    "adaptation",
+    "tipping-point"
+  ],
+  "severity": 91,
+  "volatility": 42,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "Globale Temperatur-Anomalie (2024)",
+        "en": "Global Temperature Anomaly (2024)"
+      },
+      "value": "+1.6 °C",
+      "source": "NOAA"
+    },
+    {
+      "label": {
+        "de": "CO2-Konzentration (2024)",
+        "en": "CO2 Concentration (2024)"
+      },
+      "value": "424 ppm",
+      "source": "Mauna Loa Observatory"
+    },
+    {
+      "label": {
+        "de": "Klimabedingte Binnenvertreibungen (2024)",
+        "en": "Climate-induced Internal Displacements (2024)"
+      },
+      "value": "45.8 Mio.",
+      "source": "IDMC"
+    },
+    {
+      "label": {
+        "de": "Globale Schäden durch Naturkatastrophen (2024)",
+        "en": "Global Damages from Natural Disasters (2024)"
+      },
+      "value": "320 Mrd. USD",
+      "source": "Aon"
+    },
+    {
+      "label": {
+        "de": "Meeresspiegelanstieg Rate (2024)",
+        "en": "Sea Level Rise Rate (2024)"
+      },
+      "value": "0.59 cm/Jahr",
+      "source": "NASA"
+    },
+    {
+      "label": {
+        "de": "Adaptationslücke",
+        "en": "Adaptation gap"
+      },
+      "value": "USD 194–366 Mrd./Jahr",
+      "source": "UNEP 2023"
+    },
+    {
+      "label": {
+        "de": "Loss & Damage Bedarf",
+        "en": "Loss & Damage need"
+      },
+      "value": "USD 290–580 Mrd./Jahr",
+      "source": "UNFCCC"
+    },
+    {
+      "label": {
+        "de": "Thwaites-Gletscher Schmelzrate (2024)",
+        "en": "Thwaites Glacier Melt Rate (2024)"
+      },
+      "value": "80-100 Gt/Jahr",
+      "source": "ITGC"
+    },
+    {
+      "label": {
+        "de": "Thwaites Meeresspiegel-Beitrag",
+        "en": "Thwaites Sea Level Contribution"
+      },
+      "value": "3.3 m potentiell",
+      "source": "NASA/IPCC"
+    }
+  ],
+  "diagnosis": {
+    "de": "Die Genese des Klimawandels ist untrennbar mit der Industriellen Revolution (ca. 1750) und der Erfindung der Dampfmaschine verknüpft. Sie beschleunigte sich exponentiell ab 1950 ('The Great Acceleration') mit der Globalisierung des westlichen Konsummodells. Wissenschaftlich ist der Treibhauseffekt seit dem 19. Jahrhundert (Arrhenius, Tyndall) bekannt, wurde jedoch politisch und ökonomisch systematisch verdrängt. Im Sinne der Kritischen Theorie (Adorno/Horkheimer) offenbart der Klimawandel die fatale Dialektik der Aufklärung: Die instrumentelle Vernunft, die antrat, die Natur zu beherrschen, schlägt nun in naturwüchsigen Zwang zurück. Michel Foucaults Konzept der Biopolitik erweitert sich hier zur Nekropolitik (Mbembe): Das Klimaregime entscheidet implizit, welche Populationen 'leben dürfen' und welche in den Zonen der Unbewohnbarkeit 'sterben müssen'. Mark Fisher würde dies als ultimativen Ausdruck des 'Capitalist Realism' diagnostizieren – es ist einfacher, sich das Ende der Welt vorzustellen als das Ende des Kapitalismus, selbst wenn das System seine eigene ökologische Basis verzehrt. Baudrillard schließlich verschiebt die Szene noch einmal: Die Störung ist nicht nur Ausdruck eines Mangels an Sinn, sondern wird zum Effekt einer Welt, in der Simulation, Modelle und Codes an die Stelle der Realität treten. Anthropogene Emissionen erhöhen die Energiedichte der Atmosphäre. Thermodynamische Ungleichgewichte treiben Wetterextreme. Ökosysteme migrieren, während Infrastrukturen statisch bleiben.",
+    "en": "The genesis of climate change is inextricably linked to the Industrial Revolution (ca. 1750) and the invention of the steam engine. It accelerated exponentially from 1950 ('The Great Acceleration') with the globalization of the Western consumer model. Scientifically, the greenhouse effect has been known since the 19th century (Arrhenius, Tyndall), but was systematically suppressed politically and economically. In the sense of Critical Theory (Adorno/Horkheimer), climate change reveals the fatal dialectic of Enlightenment: instrumental reason, which set out to master nature, now turns back into natural compulsion. Michel Foucault's concept of biopolitics extends here to necropolitics (Mbembe): the climate regime implicitly decides which populations 'may live' and which 'must die' in the zones of uninhabitability. Mark Fisher would diagnose this as the ultimate expression of 'Capitalist Realism' - it is easier to imagine the end of the world than the end of capitalism, even when the system consumes its own ecological basis. Baudrillard finally shifts the scene once more: the disturbance is not merely an expression of a lack of meaning, but becomes the effect of a world where simulation, models, and codes take the place of reality. Anthropogenic emissions raise atmospheric energy density. Thermodynamic imbalance drives extreme weather. Ecosystems migrate while infrastructures stay fixed."
+  },
+  "mechanisms": {
+    "de": "Was ist das Phänomen im Kern? Ein anthropogen induzierter Bruch im Kohlenstoffkreislauf, der zu einer rapiden Erhitzung der Atmosphäre und Destabilisierung aller planetaren Subsysteme führt. Wer sind die Akteure? Verursacher: Der Globale Norden und fossile Konzerne (Carbon Majors). Betroffene: Der Globale Süden, zukünftige Generationen und die nicht-menschliche Biosphäre. Wo liegt das Epizentrum? Ubiquitär. Kritische Zonen sind jedoch die Kryosphäre (Arktis/Antarktis) als Thermostat und die Tropen als Zonen potenzieller Unbewohnbarkeit. Wann wird es kritisch? Jetzt. Das Jahr 2024 markierte mit +1,6°C über dem vorindustriellen Niveau bereits das Überschreiten der 1,5-Grad-Schwelle. Warum geschieht es jetzt? Wegen der kumulativen Trägheit des Systems. Die Emissionen des 20. Jahrhunderts entfalten erst jetzt ihre volle thermische Wirkung (Great Acceleration). Wie ist Stabilisierung möglich? Nur durch radikale Dekarbonisierung, negative Emissionen (CDR) und eine fundamentale Reorganisation der globalen Ökonomie jenseits des Wachstumszwangs. Systemtheoretisch (Luhmann) lässt sich der Klimawandel als katastrophale Resonanzkatastrophe beschreiben. Das Wirtschaftssystem, operierend mit dem Code Zahlen/Nicht-Zahlen (Geld), ist strukturell blind für den Code des ökologischen Systems (Gleichgewicht/Kollaps). Es fehlen funktionierende Kopplungsmechanismen, um ökologische Realitäten in ökonomische Signale zu übersetzen, bevor Kipppunkte erreicht sind. Physikalisch betrachtet erleben wir eine positive Rückkopplungsschleife: Die Freisetzung gespeicherter Sonnenenergie (Fossile) erhöht die thermische Energie der Atmosphäre, was Albedo-Effekte (Eisschmelze) schwächt und weitere Erwärmung autokatalytisch beschleunigt. Rückkopplungen über Albedo, Methan und Ozeanzirkulation. Kohlenstoff bleibt in langlebigen Assets gebunden, was Umstieg verlangsamt. Versicherungen ziehen sich zurück und externalisieren Verluste auf Haushalte.",
+    "en": "What is the phenomenon at its core? An anthropogenically induced rupture in the carbon cycle, leading to rapid heating of the atmosphere and destabilization of all planetary subsystems. Who are the actors? Causers: The Global North and fossil companies (Carbon Majors). Affected: The Global South, future generations, and the non-human biosphere. Where is the epicenter? Ubiquitous. Critical zones are however the cryosphere (Arctic/Antarctica) as thermostat and the tropics as zones of potential uninhabitability. When does it become critical? Now. The year 2024 marked with +1.6°C above the pre-industrial level the already exceeding of the 1.5-degree threshold. Why is it happening now? Because of the cumulative inertia of the system. The emissions of the 20th century only now unfold their full thermal effect (Great Acceleration). How is stabilization possible? Only through radical decarbonization, negative emissions (CDR), and a fundamental reorganization of the global economy beyond the compulsion to grow. From a systems theory perspective (Luhmann), climate change can be described as a catastrophic resonance catastrophe. The economic system, operating with the code numbers/non-numbers (money), is structurally blind to the code of the ecological system (balance/collapse). Functional coupling mechanisms are missing to translate ecological realities into economic signals before tipping points are reached. Physically considered, we are experiencing a positive feedback loop: The release of stored solar energy (fossils) increases the thermal energy of the atmosphere, which weakens albedo effects (ice melt) and accelerates further warming autocatalytically. Feedbacks through albedo, methane, and ocean circulation. Carbon stays locked in long-lived assets, slowing transition. Insurers withdraw and externalise losses onto households."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Thermische Anomalien",
+        "en": "Thermal Anomalies"
+      },
+      "description": {
+        "de": "Extreme Temperaturabweichungen führen zu systemischen Brüchen.",
+        "en": "Extreme temperature deviations lead to systemic fractures."
+      }
+    },
+    {
+      "name": {
+        "de": "Kryosphären-Kollaps",
+        "en": "Cryosphere Collapse"
+      },
+      "description": {
+        "de": "Schmelzen von Eis und Permafrost destabilisiert globale Thermoregulation.",
+        "en": "Melting of ice and permafrost destabilizes global thermoregulation."
+      }
+    },
+    {
+      "name": {
+        "de": "Hydrologische Extremata",
+        "en": "Hydrological Extremes"
+      },
+      "description": {
+        "de": "Zyklus von Dürren und Überschwemmungen zerstört Wassersysteme.",
+        "en": "Cycle of droughts and floods destroys water systems."
+      }
+    },
+    {
+      "name": {
+        "de": "Ozean-Versauerung",
+        "en": "Ocean Acidification"
+      },
+      "description": {
+        "de": "Aufnahme von CO2 versauert Meere und zerstört marine Ökosysteme.",
+        "en": "Absorption of CO2 acidifies oceans and destroys marine ecosystems."
+      }
+    },
+    {
+      "name": {
+        "de": "Dürremosaik",
+        "en": "Drought Mosaic"
+      },
+      "description": {
+        "de": "Patchwork aus ausgetrockneten Böden, die Landwirtschaft zerreißen.",
+        "en": "Patchwork of desiccated soils tearing agriculture apart."
+      }
+    },
+    {
+      "name": {
+        "de": "Kühlinsel",
+        "en": "Cooling Island"
+      },
+      "description": {
+        "de": "Kleine, künstlich temperierte Zonen für die Wohlhabenden.",
+        "en": "Small artificially tempered zones reserved for the affluent."
+      }
+    },
+    {
+      "name": {
+        "de": "Doomsday-Gletscher",
+        "en": "Doomsday Glacier"
+      },
+      "description": {
+        "de": "Der Thwaites-Gletscher als Kippelement: Strukturelle Instabilität durch Rissbildung schwächt den Eisschild und bedroht massive Meeresspiegelanstiege.",
+        "en": "Thwaites Glacier as tipping element: Structural instability through crack formation weakens the ice shelf and threatens massive sea level rises."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Metabolic Rift",
+      "definition": {
+        "de": "Bruch im Stoffwechsel zwischen Gesellschaft und Natur.",
+        "en": "Rupture in the metabolism between society and nature."
+      }
+    },
+    {
+      "term": "Anthropozän",
+      "definition": {
+        "de": "Geologische Epoche menschlich dominierter Erdveränderungen.",
+        "en": "Geological epoch of human-dominated Earth changes."
+      }
+    },
+    {
+      "term": "Hyperobjekt",
+      "definition": {
+        "de": "Objekt, das zu groß ist, um direkt wahrgenommen zu werden.",
+        "en": "Object too large to be directly perceived."
+      }
+    },
+    {
+      "term": "Tipping Points",
+      "definition": {
+        "de": "Kritische Schwellen, jenseits derer Systeme irreversibel umschlagen.",
+        "en": "Critical thresholds beyond which systems flip irreversibly."
+      }
+    },
+    {
+      "term": "Kippelement",
+      "definition": {
+        "de": "System, das nach Schwelle irreversibel umschlägt.",
+        "en": "System that flips irreversibly after a threshold."
+      }
+    },
+    {
+      "term": "Carbon Lock-in",
+      "definition": {
+        "de": "Infrastruktur, die Emissionen strukturell verankert.",
+        "en": "Infrastructure that structurally anchors emissions."
+      }
+    },
+    {
+      "term": "Adaptationslücke",
+      "definition": {
+        "de": "Differenz zwischen erwarteten Schäden und Schutzkapazität.",
+        "en": "Gap between expected damage and protective capacity."
+      }
+    }
+  ],
+  "related": [
+    "klimawandel",
+    "ozeanerwaermung",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "automatisierung"
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Wer ist am stärksten exponiert?",
+        "en": "Who is most exposed?"
+      },
+      "answer": {
+        "de": "Küsten- und Flussdeltas, städtische Hitzeinseln, vulnerable Gruppen im Globalen Süden.",
+        "en": "Coastal and delta regions, urban heat islands, vulnerable groups in the Global South."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Hebel sind wirksam?",
+        "en": "Which levers are effective?"
+      },
+      "answer": {
+        "de": "Rasches Ende neuer Fossil-Infrastruktur (Carbon Lock-in vermeiden), Massiver Ausbau Erneuerbare, Anpassungsfonds, CO2-Preise, CDR mit Governance.",
+        "en": "Rapid stop to new fossil infrastructure (avoid carbon lock-in), massive renewables buildout, adaptation funds, carbon pricing, and governed CDR."
+      }
+    },
+    {
+      "question": {
+        "de": "Was visualisieren?",
+        "en": "What to visualise?"
+      },
+      "answer": {
+        "de": "Kippelement-Ketten, Emissionspfade vs. Budget, Adaptationslücke nach Region, Meeresspiegel und Hitzetage als Hyperobjekt-Proxies.",
+        "en": "Tipping cascades, emissions paths vs. budget, adaptation gap by region, sea level and heat days as hyperobject proxies."
+      }
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/climate-change/temperature-anomaly-placeholder.png",
+      "/media/climate-change/sea-level-placeholder.png",
+      "/media/climate-change/tipping-elements-placeholder.jpg",
+      "/media/climate-change/thwaites-cracks-placeholder.jpg",
+      "/media/climate-change/thwaites-collapse-placeholder.png",
+      "/media/climate-change/thwaites-satellite-placeholder.jpg"
+    ],
+    "video": [
+      "/media/video/doom-glacier.mp4"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "1896",
+      "location": "Schweden",
+      "event": "Arrhenius-Publikation",
+      "description": "Svante Arrhenius berechnet erstmals den Treibhauseffekt durch CO2-Emissionen."
+    },
+    {
+      "year": "1997",
+      "location": "Kyoto, Japan",
+      "event": "Kyoto-Protokoll",
+      "description": "Erstes völkerrechtlich verbindliches Abkommen zur Begrenzung von Treibhausgasen."
+    },
+    {
+      "year": "2015",
+      "location": "Paris, Frankreich",
+      "event": "Pariser Abkommen",
+      "description": "Völkerrechtlicher Vertrag zur Begrenzung der Erwärmung auf deutlich unter 2°C, idealerweise 1,5°C."
+    },
+    {
+      "year": "2023/2024",
+      "location": "Global",
+      "event": "1.5°C Breach",
+      "description": "Erstmals überschreitet die globale Durchschnittstemperatur für ein ganzes Jahr die 1,5-Grad-Schwelle (+1,6°C in 2024)."
+    },
+    {
+      "year": "2024",
+      "location": "Antarktis",
+      "event": "Thwaites Instabilität",
+      "description": "ITGC-Studie dokumentiert rapide Zunahme von Rissen im Thwaites-Gletscher-Eisschild, was auf bevorstehenden strukturellen Kollaps hinweist."
+    }
+  ],
+  "lastUpdatedISO": "2025-01-08T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "citations": [
+    {
+      "label": "IPCC synthesis"
+    },
+    {
+      "label": "National adaptation plans"
+    }
+  ]
+}

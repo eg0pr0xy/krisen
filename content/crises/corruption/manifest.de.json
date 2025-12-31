@@ -1,0 +1,131 @@
+{
+  "id": "corruption",
+  "slug": "corruption",
+  "title": {
+    "de": "Korruption",
+    "en": "Corruption"
+  },
+  "summary": {
+    "de": "Private Aneignung öffentlicher Ressourcen schwächt Institutionen und Vertrauen.",
+    "en": "Private capture of public resources weakens institutions and trust."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "rent-seeking",
+    "bribery",
+    "opacity",
+    "clientelism",
+    "procurement"
+  ],
+  "severity": 69,
+  "volatility": 45,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Anomalien in Vergaben",
+        "en": "Procurement anomalies"
+      },
+      "value": "+27%"
+    },
+    {
+      "label": {
+        "de": "Vertrauensindex",
+        "en": "Trust index"
+      },
+      "value": "-14pts"
+    },
+    {
+      "label": {
+        "de": "Whistleblower-Fälle",
+        "en": "Whistleblower cases"
+      },
+      "value": "38"
+    }
+  ],
+  "diagnosis": {
+    "de": "Regelwerke existieren, werden aber selektiv durchgesetzt. Informelle Netzwerke ersetzen formelle Verfahren. Bürger vermeiden Interaktion mit Behörden, wodurch Servicequalität weiter sinkt.",
+    "en": "Rules exist but are selectively enforced. Informal networks replace formal procedures. Citizens avoid interacting with agencies, further eroding service quality."
+  },
+  "mechanisms": {
+    "de": "Intransparente Budgetierung verhindert Kontrolle. Lobbystrukturen schreiben Normen um. Straflosigkeit erzeugt Wiederholung und repliziert das Muster auf nachgelagerte Ebenen.",
+    "en": "Opaque budgeting blocks oversight. Lobby structures rewrite norms. Impunity drives repetition and replicates the pattern down the chain."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Hinterzimmer",
+        "en": "Backroom"
+      },
+      "description": {
+        "de": "Abgeschlossene Räume, in denen Entscheidungen ohne Protokoll fallen.",
+        "en": "Sealed rooms where decisions are made without record."
+      }
+    },
+    {
+      "name": {
+        "de": "Briefumschlag",
+        "en": "Envelope"
+      },
+      "description": {
+        "de": "Träger kleiner Geldströme, die den Prozess verbiegen.",
+        "en": "Carrier of small cash streams that bend the process."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Vetternwirtschaft",
+      "definition": {
+        "de": "Bevorzugung von Verwandten oder Freunden bei Vergaben.",
+        "en": "Preferential treatment of relatives or friends in allocations."
+      }
+    },
+    {
+      "term": "Regulatory Capture",
+      "definition": {
+        "de": "Behörden werden von den zu regulierenden Akteuren gesteuert.",
+        "en": "Agencies steered by the very actors they regulate."
+      }
+    },
+    {
+      "term": "Transparenzdefizit",
+      "definition": {
+        "de": "Mangel an nachvollziehbarer Dokumentation und Offenlegung.",
+        "en": "Lack of traceable documentation and disclosure."
+      }
+    }
+  ],
+  "related": [
+    "korruption",
+    "aufruestung",
+    "entmenschlichung-buerokratie",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "autoritarismus"
+  ],
+  "lastUpdatedISO": "2025-01-12T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "citations": [
+    {
+      "label": "Audit court reports"
+    },
+    {
+      "label": "Transparency indices"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/corruption/crisis-placeholder.jpg",
+      "/media/corruption/impact-placeholder.png",
+      "/media/corruption/solution-placeholder.jpg"
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "exhaustion",
+  "slug": "exhaustion",
+  "title": {
+    "de": "Erschöpfung",
+    "en": "Exhaustion"
+  },
+  "summary": {
+    "de": "Chronische Überlastung entzieht Gesellschaften Konzentration, Fürsorge und Vorstellungskraft.",
+    "en": "Chronic overload drains concentration, care, and imagination from societies."
+  },
+  "categories": [
+    "Gefühl",
+    "Existenz"
+  ],
+  "tags": [
+    "burnout",
+    "overwork",
+    "precarity",
+    "attention",
+    "care"
+  ],
+  "severity": 64,
+  "volatility": 52,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Krankschreibungen psychisch",
+        "en": "Mental health leave"
+      },
+      "value": "+22%"
+    },
+    {
+      "label": {
+        "de": "Arbeitsstunden",
+        "en": "Work hours"
+      },
+      "value": "47h avg"
+    },
+    {
+      "label": {
+        "de": "Pflegekraft-Quote",
+        "en": "Care worker ratio"
+      },
+      "value": "1:28"
+    }
+  ],
+  "diagnosis": {
+    "de": "Produktivitätserwartungen steigen schneller als Erholung. Digitale Werkzeuge erweitern den Arbeitstag in den privaten Raum. Emotionale Reserven werden in Dienstleistungsjobs verkauft und verbraucht.",
+    "en": "Productivity expectations rise faster than recovery. Digital tools extend workdays into private space. Emotional reserves are sold and depleted in service roles."
+  },
+  "mechanisms": {
+    "de": "Schichtpläne verdichten Zeit. Plattformarbeit isoliert Individuen, wodurch Solidarität sinkt. Ständige Erreichbarkeit verhindert Tiefenschlaf und reduziert Entscheidungsqualität.",
+    "en": "Shift schedules compress time. Platform work isolates individuals, lowering solidarity. Always-on communication blocks deep sleep and reduces decision quality."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Lichtlose Schicht",
+        "en": "Lightless Shift"
+      },
+      "description": {
+        "de": "Nachtschicht ohne Tageslicht; Körperrhythmus wird zu Produktionsrhythmus.",
+        "en": "Night shift without daylight; body rhythm becomes production rhythm."
+      }
+    },
+    {
+      "name": {
+        "de": "Benachrichtigungs-Strom",
+        "en": "Notification Stream"
+      },
+      "description": {
+        "de": "Unendliche Mikroreize, die Aufmerksamkeit zerlegen.",
+        "en": "Endless micro-stimuli carving attention into fragments."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Erholungsdefizit",
+      "definition": {
+        "de": "Kumulierter Mangel an Ruhephasen.",
+        "en": "Accumulated lack of restorative phases."
+      }
+    },
+    {
+      "term": "Präsentismus",
+      "definition": {
+        "de": "Anwesenheit trotz Krankheit aus Angst vor Verlust.",
+        "en": "Showing up sick out of fear of loss."
+      }
+    },
+    {
+      "term": "Aufmerksamkeitsökonomie",
+      "definition": {
+        "de": "Märkte, die menschliche Aufmerksamkeit als knappe Ressource handeln.",
+        "en": "Markets trading human attention as scarce resource."
+      }
+    }
+  ],
+  "related": [
+    "erschoepfung",
+    "psychische-belastung",
+    "armut",
+    "drogen",
+    "entfremdung",
+    "generationenkonflikt"
+  ],
+  "lastUpdatedISO": "2025-01-03T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "citations": [
+    {
+      "label": "Workforce health surveys"
+    },
+    {
+      "label": "Platform labour reports"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/exhaustion/crisis-placeholder.jpg",
+      "/media/exhaustion/impact-placeholder.png",
+      "/media/exhaustion/solution-placeholder.jpg"
+    ]
+  }
+}

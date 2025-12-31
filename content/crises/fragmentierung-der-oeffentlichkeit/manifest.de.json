@@ -1,0 +1,156 @@
+{
+  "id": "fragmentierung-der-oeffentlichkeit",
+  "slug": "fragmentierung-der-oeffentlichkeit",
+  "title": {
+    "de": "Fragmentierung der Öffentlichkeit",
+    "en": "Fragmented Public Sphere"
+  },
+  "summary": {
+    "de": "Gemeinsame Resonanzräume lösen sich auf; Diskurse zerfallen in parallele Filterblasen und Plattform-Logiken.",
+    "en": "Shared resonance spaces dissolve; discourse breaks into parallel filter bubbles and platform logics."
+  },
+  "categories": [
+    "Gefühl",
+    "Macht"
+  ],
+  "tags": [
+    "echo",
+    "filter",
+    "vertrauen",
+    "polarisierung",
+    "plattform"
+  ],
+  "severity": 72,
+  "volatility": 67,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Medienvertrauen (Ø EU)",
+        "en": "Media trust (EU avg)"
+      },
+      "value": "46%",
+      "source": "Reuters Institute 2024"
+    },
+    {
+      "label": {
+        "de": "News-Konsum über Social",
+        "en": "News consumption via social"
+      },
+      "value": "54% <35J",
+      "source": "Reuters Institute 2024"
+    },
+    {
+      "label": {
+        "de": "Anteil geschlossen verschickter News",
+        "en": "Share of news via closed messaging"
+      },
+      "value": ">30% in mehreren Ländern",
+      "source": "Messenger Surveys"
+    }
+  ],
+  "diagnosis": {
+    "de": "Öffentlichkeit war nie homogen, aber sie besaß gemeinsame Referenzpunkte. Mit Plattformlogiken wird Sichtbarkeit privat berechnet. Luhmann: Themen diffundieren in Teilsysteme ohne Rückkopplung. Baudrillard: Ereignisse werden zu Bildern ohne gemeinsamen Kontext; Hyperrealität ersetzt Streit. Kritische Theorie: Öffentlichkeit verliert emanzipatorische Funktion, wird Marktsegment. Konsequenz: kollektive Problembeschreibung scheitert, Politik reagiert mit Symbolakten.",
+    "en": "Public spheres were never uniform, yet shared reference points existed. Platform logics privatise visibility. Luhmann: issues diffuse into subsystems without feedback. Baudrillard: events become images without common context; hyperreality replaces conflict. Critical theory: publicity loses emancipatory role and becomes a market segment. Result: collective problem description fails, politics answers with symbols."
+  },
+  "mechanisms": {
+    "de": "Algorithmische Feeds sortieren nach Engagement, nicht nach Relevanz. Messaging-Gruppen werden zu Mini-Öffentlichkeiten ohne Archiv. Lokale Medien sterben, überregionale Redaktionen verlieren Reichweite. Plattformregeln definieren Moderation und Sichtbarkeit, nicht demokratische Verfahren. Sprach- und Memekulturen differieren; Übersetzung fehlt.",
+    "en": "Algorithmic feeds rank by engagement not relevance. Messaging groups act as mini publics without archives. Local media die, national newsrooms lose reach. Platform rules—not democratic procedures—define moderation and visibility. Language and meme cultures diverge; translation is absent."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Echo-Kammer",
+        "en": "Echo Chamber"
+      },
+      "description": {
+        "de": "Rückkopplung der eigenen Position, Fremdheit wird ausgeblendet.",
+        "en": "Feedback of one’s stance; otherness muted."
+      }
+    },
+    {
+      "name": {
+        "de": "Splinter Feed",
+        "en": "Splinter Feed"
+      },
+      "description": {
+        "de": "Jeder Scroll erzeugt eigenes Ereignisset, nicht mehr kollektiv teilbar.",
+        "en": "Each scroll produces a personal event set, no longer shareable."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Filterblase",
+      "definition": {
+        "de": "Algorithmisch verstärkte Homogenität der Informationsumgebung.",
+        "en": "Algorithmically reinforced homogeneity of information environment."
+      }
+    },
+    {
+      "term": "Common Knowledge",
+      "definition": {
+        "de": "Wissen darum, dass alle dieselben Informationen kennen.",
+        "en": "Knowledge that others share the same information."
+      }
+    },
+    {
+      "term": "Context Collapse",
+      "definition": {
+        "de": "Zusammenbruch unterschiedlicher Publika in einem Feed ohne Nuance.",
+        "en": "Collapse of distinct audiences into one feed without nuance."
+      }
+    }
+  ],
+  "related": [
+    "zensur",
+    "polarisierung",
+    "vertrauensverlust",
+    "medienerosion",
+    "entmenschlichung-buerokratie",
+    "ethnonationalismus"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-fragment",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Reuters Digital News Report 2024"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/fragmentierung-der-oeffentlichkeit/crisis-placeholder.jpg",
+      "/media/fragmentierung-der-oeffentlichkeit/impact-placeholder.png",
+      "/media/fragmentierung-der-oeffentlichkeit/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Diverging stacked bars für Vertrauen; Netzwerkgraph paralleler Blasen; Messenger/Feed-Split."
+  ],
+  "timeline": [
+    {
+      "year": "2004",
+      "location": "Blogs/Foren",
+      "event": "Long Tail Diskurse",
+      "description": "Erste Auflösung zentraler Gatekeeper."
+    },
+    {
+      "year": "2016",
+      "location": "Global",
+      "event": "Algorithmische Feeds + Wahlkämpfe",
+      "description": "Personalisierung verstärkt politische Fragmentierung."
+    },
+    {
+      "year": "2022",
+      "location": "Global",
+      "event": "Messenger als Hauptquelle",
+      "description": "Geschlossene Kanäle ersetzen offene Feeds für News."
+    }
+  ]
+}

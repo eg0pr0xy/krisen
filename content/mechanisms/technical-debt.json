@@ -1,0 +1,7 @@
+{
+  "id": "technical-debt",
+  "title_de": "Technische Schulden",
+  "definition_de": "Architekturen, die schnelle Iteration über gepflegte Infrastruktur stellen, hinterlassen latent fehlerhafte Komponenten.",
+  "notes_de": "Sie manifestieren sich als wachsender Wartungsaufwand, Sicherheitslücken und blockierte Innovationen.",
+  "related_crises": ["systemic-fragility", "digital-debt"]
+}

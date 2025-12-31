@@ -1,0 +1,219 @@
+{
+  "id": "armut",
+  "slug": "armut",
+  "title": {
+    "de": "Armut",
+    "en": "Poverty"
+  },
+  "summary": {
+    "de": "Materielle Knappheit wird chronisch: Einkommen, Wohnraum und Zeit reichen nicht zur Reproduktion.",
+    "en": "Material scarcity becomes chronic: income, housing, and time no longer cover reproduction."
+  },
+  "categories": [
+    "Existenz",
+    "Gefühl"
+  ],
+  "tags": [
+    "income-gap",
+    "housing-costs",
+    "food-insecurity",
+    "time-poverty",
+    "working-poor"
+  ],
+  "severity": 80,
+  "volatility": 55,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Working Poor",
+        "en": "Working poor"
+      },
+      "value": ">10%",
+      "source": "Labor stats"
+    },
+    {
+      "label": {
+        "de": "Mietbelastung",
+        "en": "Rent burden"
+      },
+      "value": ">40% Einkommen",
+      "source": "Housing surveys"
+    },
+    {
+      "label": {
+        "de": "Tafelnutzung",
+        "en": "Food bank use"
+      },
+      "value": "↑ zweistellig",
+      "source": "NGO reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Armut ist im poststrukturalistischen und systemtheoretischen Sinne nicht bloß ein Ressourcenmangel, sondern eine operative Exklusion von den zentralen Funktionssystemen der Gesellschaft (Wirtschaft, Recht, Bildung). Sie manifestiert sich als biopolitische Verwaltung von 'Überflüssigkeit' und markiert die Zonen, in denen das Versprechen der liberalen Demokratie strukturell kollabiert. Armut ist der statische Lärm im Kanal der kapitalistischen Kommunikation – ein Zustand der Entmündigung, in dem das Subjekt vom handelnden Akteur zum verwalteten Objekt der Sozialbürokratie degradiert wird.",
+    "en": "Poverty, in a poststructuralist and systems-theoretic sense, is not merely a resource shortage, but an operational exclusion from society's central function systems (economy, law, education). It manifests as biopolitical administration of 'superfluity' and marks the zones where the promise of liberal democracy structurally collapses. Poverty is the static noise in the channel of capitalist communication – a state of disenfranchisement in which the subject is degraded from acting agent to administered object of the social bureaucracy."
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist das Phänomen im Kern?",
+        "en": "What is the phenomenon at its core?"
+      },
+      "answer": {
+        "de": "Systemische Deprivation; der Entzug materieller und immaterieller Teilhaberechte durch ökonomische Selektionsmechanismen.",
+        "en": "Systemic deprivation; the withdrawal of material and immaterial participation rights through economic selection mechanisms."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer ist betroffen?",
+        "en": "Who is affected?"
+      },
+      "answer": {
+        "de": "Global 8,5% (extreme Armut). In DE ca. 15,5% der Bevölkerung (2024), spezifisch Alleinerziehende, Kinder (21,8% nach Paritätischem Bericht) und das Prekariat.",
+        "en": "Global 8.5% (extreme poverty). In Germany approx. 15.5% of the population (2024), specifically single parents, children (21.8% according to Paritätischer Wohlfahrtsverband) and the precariat."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "Global: Subsahara-Afrika und Konfliktzonen. National: Strukturschwache Regionen (z.B. Bremen, Teile Ostdeutschlands) und urbane Segregationsräume.",
+        "en": "Global: Sub-Saharan Africa and conflict zones. National: Structurally weak regions (e.g., Bremen, parts of East Germany) and urban segregation spaces."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann wird es kritisch?",
+        "en": "When does it become critical?"
+      },
+      "answer": {
+        "de": "Wenn die relative Armut in absolute Deprivation umschlägt (Entzug von Grundbedürfnissen) oder wenn die soziale Mobilität gegen Null tendiert (Vererbung von Armut).",
+        "en": "When relative poverty turns into absolute deprivation (withdrawal of basic needs) or when social mobility tends toward zero (inheritance of poverty)."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum passiert es jetzt?",
+        "en": "Why is it happening now?"
+      },
+      "answer": {
+        "de": "Polycrisis (Inflation, Pandemie, Energie) trifft auf erodierte Sozialsysteme und eine neoliberale Austeritätspolitik, die Umverteilung blockiert.",
+        "en": "Polycrisis (inflation, pandemic, energy) meets eroded social systems and neoliberal austerity politics that block redistribution."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie ist das System zu stabilisieren?",
+        "en": "How to stabilize the system?"
+      },
+      "answer": {
+        "de": "Durch radikale Rekodierung der Verteilungsalgorithmen (z.B. Grundeinkommen, massive Investition in öffentliche Infrastruktur), um die Exklusionsketten zu durchbrechen.",
+        "en": "Through radical recoding of distribution algorithms (e.g., basic income, massive investment in public infrastructure) to break the exclusion chains."
+      }
+    }
+  ],
+  "mechanisms": {
+    "de": "Lohn- und Preisentwicklung entkoppeln. Transferleistungen werden restriktiver, Zugangshürden hoch. Lokale Segregation koppelt Armut an schlechte Infrastruktur und Bildung. Gesundheitsrisiken steigen, Behandlung wird verschoben. Kreditkosten sind höher für Arme; Ersparnisse fehlen, was zu Zeitarmut führt.",
+    "en": "Wage and price dynamics decouple. Transfers tighten; access frictions stay high. Spatial segregation ties poverty to weak infrastructure and education. Health risks rise, care is deferred. Credit costs more for the poor; buffers are absent."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Working Poor",
+        "en": "Working Poor"
+      },
+      "description": {
+        "de": "Vollzeit oder mehrere Jobs, trotzdem unter Armutsgrenze.",
+        "en": "Full-time or multiple jobs yet below poverty line."
+      }
+    },
+    {
+      "name": {
+        "de": "Kostenfresser Wohnen",
+        "en": "Housing Drain"
+      },
+      "description": {
+        "de": "Miete absorbiert Einkommen, Dispositionsfreiheit sinkt.",
+        "en": "Rent absorbs income; discretionary space collapses."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Relative Armut",
+      "definition": {
+        "de": "Einkommen <60% Median, zeigt gesellschaftliche Teilhabegrenzen.",
+        "en": "Income <60% of median, indicating constrained participation."
+      }
+    },
+    {
+      "term": "Working Poor",
+      "definition": {
+        "de": "Erwerbstätig und dennoch unter Armutsrisikoschwelle.",
+        "en": "Employed yet below poverty-risk threshold."
+      }
+    },
+    {
+      "term": "Zeitarmut",
+      "definition": {
+        "de": "Mangel an disponibler Zeit durch Mehrfachjobs und Pendeln.",
+        "en": "Lack of disposable time due to multiple jobs and commuting."
+      }
+    }
+  ],
+  "related": [
+    "care",
+    "soziale-ungleichheit",
+    "drogen",
+    "entfremdung",
+    "erschoepfung",
+    "exhaustion"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-armut-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "OECD/NGO",
+      "note": "Working poor, rent burden"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/armut/homeless-placeholder.jpg",
+      "/media/armut/food-bank-placeholder.png",
+      "/media/armut/working-poor-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Chord: income → expenses; heatmap: rent burden by district; particle noise over scarcity index."
+  ],
+  "timeline": [
+    {
+      "year": "2008",
+      "location": "Global",
+      "event": "Krisenschub",
+      "description": "Arbeitslosigkeit steigt, Löhne stagnieren, Armut verhärtet."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie",
+      "description": "Unsichere Jobs brechen weg, Tafelnutzung steigt."
+    },
+    {
+      "year": "2023",
+      "location": "OECD",
+      "event": "Kostenkrise",
+      "description": "Inflation trifft Haushalte, Mieten und Lebensmittelpreise beschleunigen."
+    }
+  ]
+}

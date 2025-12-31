@@ -1,0 +1,235 @@
+{
+  "id": "drogen",
+  "slug": "drogen",
+  "title": {
+    "de": "Drogen",
+    "en": "Drug markets"
+  },
+  "summary": {
+    "de": "Drogen sind keine externen Objekte, sondern pharmakopornografische Technologien der Selbstmodulation. Sie fungieren als molekulare Prothesen in einem neoliberalen Leistungsdispositiv, das Subjektivität nicht als gegeben, sondern als chemisch optimierbares Projekt versteht.",
+    "en": "Drugs are not external objects but pharmacopornographic technologies of self-modulation. They function as molecular prostheses in a neoliberal performance dispositif that understands subjectivity not as given, but as a chemically optimizable project."
+  },
+  "categories": [
+    "Existenz",
+    "Gefühl",
+    "Kontrolle"
+  ],
+  "tags": [
+    "opioids",
+    "stimulants",
+    "harm-reduction",
+    "synthetics",
+    "shadow-economy"
+  ],
+  "severity": 68,
+  "volatility": 75,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Drogentote Deutschland (2024 Report)",
+        "en": "Drug deaths Germany (2024 report)"
+      },
+      "value": "2.137",
+      "source": "DBDD"
+    },
+    {
+      "label": {
+        "de": "Globale Drogennutzer (2022 Daten)",
+        "en": "Global drug users (2022 data)"
+      },
+      "value": "292 Mio",
+      "source": "UNODC"
+    },
+    {
+      "label": {
+        "de": "Cannabis Nutzer Global",
+        "en": "Cannabis users global"
+      },
+      "value": "228 Mio",
+      "source": "UNODC"
+    },
+    {
+      "label": {
+        "de": "Kokain Sicherstellung DE (2023)",
+        "en": "Cocaine seizures DE (2023)"
+      },
+      "value": "43 Tonnen",
+      "source": "BKA"
+    },
+    {
+      "label": {
+        "de": "Überdosisrate",
+        "en": "Overdose rate"
+      },
+      "value": "↑ >20/100k",
+      "source": "Health data"
+    },
+    {
+      "label": {
+        "de": "Abwasserindex",
+        "en": "Wastewater index"
+      },
+      "value": "Stimulanzien ↑",
+      "source": "EMCDDA"
+    },
+    {
+      "label": {
+        "de": "Naloxon-Verteilung",
+        "en": "Naloxone distribution"
+      },
+      "value": "steigend",
+      "source": "Public health"
+    }
+  ],
+  "diagnosis": {
+    "de": "In der systemischen Betrachtung sind Drogen operative Interventionen in den synaptischen Spalt, die dazu dienen, die Dissonanz zwischen systemischem Imperativ (Leistung/Genuss) und biologischer Limitierung (Erschöpfung/Schmerz) temporär zu suspendieren. Die Geschichte der Drogen ist die Geschichte des Kolonialismus und der Industrialisierung. Vom Opiumkrieg (Erzwingung von Märkten) über die Pervitin-gestützte Blitzkriegsführung bis zur CIA-Verwicklung in den Kokainhandel. Substanzen waren stets Werkzeuge der Herrschaftssicherung und Arbeitskraftmobilisierung. Die heutige 'Opioid-Krise' ist lediglich die implodierende Rückseite der pharmazeutischen Profitlogik. Im Sinne von Mark Fishers 'Capitalist Realism' sind Drogen weniger Rebellion als vielmehr notwendiges Schmiermittel, um die 'langsame Auslöschung der Zukunft' zu ertragen. Das Subjekt, gefangen in einer hedonistischen Depressivität, nutzt Substanzen, um die psychische Autopoiesis unter den Bedingungen totaler Kommodifizierung aufrechtzuerhalten. Nach Foucault und Preciado markiert der Drogenkonsum den Übergang von der Disziplinargesellschaft (externe Kontrolle) zur Kontrollgesellschaft (interne molekulare Regulierung). Die 'Somatheque' wird zum Schlachtfeld: Wer kontrolliert die Erregungspotenziale? Adorno würde diagnostizieren: Der Rausch ist das falsche Versprechen von Ausbruch aus der 'verwalteten Welt', das diese Welt nur umso effektiver stabilisiert, indem es das Leiden am System privatisiert und pathologisiert. Drogenmärkte entkoppeln sich von klassischen Verboten: chemische Innovationen erzeugen hochpotente Synthetika, Plattformhandel umgeht Straßenkontrolle. Prekarisierte Lebenslagen erhöhen Nachfrage nach Sedierung und Aktivierung. Governance oszilliert zwischen Repression und Harm Reduction, erzeugt Fragmentierung. Kulturell verschiebt sich die Grenze zwischen Medikament und Droge.",
+    "en": "In systemic consideration, drugs are operative interventions in the synaptic cleft that serve to temporarily suspend the dissonance between systemic imperative (performance/enjoyment) and biological limitation (exhaustion/pain). The history of drugs is the history of colonialism and industrialization. From the opium war (enforcement of markets) to Pervitin-supported Blitzkrieg to CIA involvement in cocaine trafficking. Substances have always been tools of securing domination and mobilizing labor power. Today's 'opioid crisis' is merely the imploding backside of pharmaceutical profit logic. In the sense of Mark Fisher's 'Capitalist Realism', drugs are less rebellion than necessary lubricant to endure the 'slow cancellation of the future'. The subject, trapped in a hedonistic depression, uses substances to maintain psychic autopoiesis under conditions of total commodification. According to Foucault and Preciado, drug consumption marks the transition from disciplinary society (external control) to control society (internal molecular regulation). The 'somatheque' becomes the battlefield: Who controls the excitation potentials? Adorno would diagnose: The high is the false promise of escape from the 'administered world', which this world only stabilizes all the more effectively by privatizing and pathologizing suffering from the system. Drug markets decouple from classic prohibition: chemical innovation yields high-potency synthetics, platform trade bypasses street control. Precarious lives fuel demand for sedation and activation. Governance swings between repression and harm reduction, producing fragmentation. Culturally, the line between medicine and drug blurs."
+  },
+  "mechanisms": {
+    "de": "Was ist es exakt? Eine molekulare Intervention zur Modulation der Realitätswahrnehmung und Leistungsfähigkeit. Wer ist betroffen? Das gesamte sozioökonomische Spektrum; vom optimierten Leistungssubjekt (Microdosing) bis zum marginalisierten Verlierer (Sedierung). Wo liegt das Epizentrum? Im synaptischen Spalt (mikroskopisch) und in den transatlantischen Logistikketten des Narco-Kapitalismus (makroskopisch). Wann wird es kritisch? Wenn die chemische Prothese zur Bedingung der Möglichkeit von sozialer Teilhabe wird (Sucht/Abhängigkeit). Warum passiert es jetzt? Weil die psychische Belastbarkeit des Einzelnen mit der Beschleunigung des digitalen Spätkapitalismus nicht mehr Schritt halten kann. Wie kann das System stabilisiert werden? Durch Entkriminalisierung, Harm Reduction (Schadensminimierung) und die Entkopplung von Rausch und strafrechtlicher Verfolgung. Aus perspektive der Systemtheorie (Luhmann) ist der Drogenkonsum eine risikobehaftete Selbstirritation des psychischen Systems, um die strukturelle Kopplung zum organischen System zu manipulieren. Der Körper wird als biochemischer Zustandsraum begriffen, in den Negentropie (Ordnung/Energie) durch exogene Liganden künstlich injiziert wird. Dies führt kurzfristig zu einer Erhöhung der Systemkomplexität (High), langfristig jedoch zur Akkumulation von Entropie (Toleranz, Toxizität, Systemabsturz). Thermodynamisch betrachtet ist die Sucht ein energetisches Defizitgeschäft: Der Aufwand zur Aufrechterhaltung der Homöostase steigt exponentiell, während die externe Energiezufuhr (Dosis) linear verliert. Synthese senkt Fixkosten, Kartelllogiken werden variabler. Plattformen und verschlüsselte Chats reduzieren physische Risiken im Handel. Harm-Reduction-Programme stabilisieren Mortalität, stoßen aber auf moralische Gegenwehr. Polydrogenkonsum erhöht Interaktionen; Daten über Reinheit bleiben intransparent.",
+    "en": "What is it exactly? A molecular intervention for modulating reality perception and performance capability. Who is affected? The entire socioeconomic spectrum; from the optimized performance subject (microdosing) to the marginalized loser (sedation). Where is the epicenter? In the synaptic cleft (microscopically) and in the transatlantic logistics chains of narco-capitalism (macroscopically). When does it become critical? When the chemical prosthesis becomes the condition of possibility for social participation (addiction/dependence). Why is it happening now? Because the individual's psychic resilience can no longer keep pace with the acceleration of digital late capitalism. How can the system be stabilized? Through decriminalization, harm reduction, and decoupling of intoxication from criminal prosecution. From the perspective of systems theory (Luhmann), drug consumption is a risky self-irritation of the psychic system to manipulate the structural coupling to the organic system. The body is understood as a biochemical state space into which negentropy (order/energy) is artificially injected through exogenous ligands. This leads to a short-term increase in system complexity (high), but long-term accumulation of entropy (tolerance, toxicity, system crash). Thermodynamically considered, addiction is an energy deficit business: The effort to maintain homeostasis increases exponentially, while the external energy supply (dose) decreases linearly. Synthesis lowers fixed costs, cartel logics become more modular. Platforms and encrypted chats reduce physical trade risk. Harm-reduction programs stabilise mortality yet face moral pushback. Poly-drug use raises interactions while purity data stay opaque."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Opioid-Schleife",
+        "en": "Opioid Loop"
+      },
+      "description": {
+        "de": "Schmerzmittelabhängigkeit wandert in illegale Märkte; Potenz steigt, Toleranz kollabiert.",
+        "en": "Prescription dependence moves to illicit markets; potency rises, tolerance collapses."
+      }
+    },
+    {
+      "name": {
+        "de": "Stimulanzien-Welle",
+        "en": "Stimulant Wave"
+      },
+      "description": {
+        "de": "Meth und synthetisches Kokain verdrängen klassische Produkte, Alltagsfunktion wird chemisch gestützt.",
+        "en": "Meth and synthetic cocaine displace classic products; daily functioning becomes chemically propped."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Capitalist Realism",
+      "definition": {
+        "de": "Mark Fishers Begriff für die Vorstellung, dass es keine Alternative zum Kapitalismus gibt.",
+        "en": "Mark Fisher's term for the notion that there is no alternative to capitalism."
+      }
+    },
+    {
+      "term": "Negentropie",
+      "definition": {
+        "de": "Maß für Ordnung und Energie in einem System; Drogen injizieren künstliche Negentropie.",
+        "en": "Measure of order and energy in a system; drugs inject artificial negentropy."
+      }
+    },
+    {
+      "term": "Somatheque",
+      "definition": {
+        "de": "Paul Preciados Konzept der molekularen Regulierung des Körpers durch Technologien.",
+        "en": "Paul Preciado's concept of the molecular regulation of the body through technologies."
+      }
+    },
+    {
+      "term": "Harm Reduction",
+      "definition": {
+        "de": "Strategien zur Risikominimierung statt Totalverbot.",
+        "en": "Strategies to minimise risk rather than enforce total prohibition."
+      }
+    },
+    {
+      "term": "Supply Shock",
+      "definition": {
+        "de": "Plötzliche Angebotsänderung durch neue Synthese oder Routen.",
+        "en": "Abrupt supply change driven by new synthesis or routes."
+      }
+    },
+    {
+      "term": "Polykonsum",
+      "definition": {
+        "de": "Gleichzeitiger Konsum mehrerer Substanzen mit schwer kalkulierbaren Wechselwirkungen.",
+        "en": "Concurrent use of multiple substances with hard-to-estimate interactions."
+      }
+    }
+  ],
+  "related": [
+    "armut",
+    "asylpolitik",
+    "aufmerksamkeitsoekonomie",
+    "biopolitische-zuschreibungen",
+    "blackout",
+    "empoerungsdynamiken"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-drogen-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "EMCDDA/CDC",
+      "note": "Overdose, wastewater"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/drogen/drugs-placeholder.jpg",
+      "/media/drogen/addiction-placeholder.png",
+      "/media/drogen/trafficking-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Stacked area: overdose causes; chord: supply routes; dotplot: purity vs price; shader: glitch grain over timeline."
+  ],
+  "timeline": [
+    {
+      "year": "1839",
+      "location": "China/Großbritannien",
+      "event": "Erster Opiumkrieg",
+      "description": "Gewaltsame Öffnung chinesischer Märkte für britisches Opium; Drogenhandel als staatliches Wirtschaftsinstrument."
+    },
+    {
+      "year": "1938",
+      "location": "Deutschland",
+      "event": "Markteinführung Pervitin",
+      "description": "Methamphetamin wird als Leistungssteigerer für die Zivilbevölkerung und die Wehrmacht normalisiert."
+    },
+    {
+      "year": "1971",
+      "location": "USA",
+      "event": "War on Drugs",
+      "description": "Richard Nixon erklärt Drogen zum Staatsfeind Nr. 1; Beginn der globalen Militarisierung der Drogenpolitik."
+    },
+    {
+      "year": "2000er",
+      "location": "USA/EU",
+      "event": "Opioidisierung",
+      "description": "Verschreibungspflichtige Schmerzmittel öffnen Pfad."
+    },
+    {
+      "year": "2015",
+      "location": "Global",
+      "event": "Fentanyl",
+      "description": "Hochpotente Synthetika reduzieren Preise massiv."
+    },
+    {
+      "year": "2023",
+      "location": "EU",
+      "event": "Stimulanzienmix",
+      "description": "Meth und synthetisches Kokain steigen, Polykonsum wird Normalmodus."
+    },
+    {
+      "year": "2024",
+      "location": "Deutschland",
+      "event": "Cannabis-Legalisierung",
+      "description": "Teilweise Legalisierung markiert einen Paradigmenwechsel von Prohibition zu Regulation."
+    }
+  ]
+}

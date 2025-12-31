@@ -1,0 +1,157 @@
+{
+  "id": "bildungsungleichheit",
+  "slug": "bildungsungleichheit",
+  "title": {
+    "de": "Bildungsungleichheit",
+    "en": "Educational inequality"
+  },
+  "summary": {
+    "de": "Bildung verteilt Chancen ungleich: Herkunft, Sprache und Digitalzugang bestimmen Übergänge.",
+    "en": "Education distributes opportunity unevenly: origin, language, and digital access shape transitions."
+  },
+  "categories": [
+    "Macht",
+    "Existenz"
+  ],
+  "tags": [
+    "pisa-gap",
+    "digital-divide",
+    "segregation",
+    "language",
+    "tracking"
+  ],
+  "severity": 72,
+  "volatility": 40,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "PISA-Gap sozioökonomisch",
+        "en": "Socioeconomic PISA gap"
+      },
+      "value": "80+ Punkte",
+      "source": "OECD"
+    },
+    {
+      "label": {
+        "de": "Abbrecherquote",
+        "en": "Dropout rate"
+      },
+      "value": "↑ 10-15%",
+      "source": "National stats"
+    },
+    {
+      "label": {
+        "de": "Digitale Kluft",
+        "en": "Digital divide"
+      },
+      "value": "2-3x Gerätezugang",
+      "source": "ICILS"
+    }
+  ],
+  "diagnosis": {
+    "de": "Bildungsungleichheit reproduziert Klassenlagen. Bourdieu: Habitus und Kapital übersetzen sich in Schulerfolg. Frühselektion verfestigt Trajektorien; Migration und Sprache verstärken Hürden. Digitale Ausstattung folgt Einkommensclustern und schafft neue Kluften. Vertrauen in Meritokratie erodiert, soziale Mobilität stagniert.",
+    "en": "Educational inequality reproduces class positions. Bourdieu: habitus and capital translate into school success. Early tracking cements trajectories; migration and language magnify hurdles. Digital equipment follows income clusters and opens new divides. Trust in meritocracy erodes as mobility stalls."
+  },
+  "mechanisms": {
+    "de": "Sortierung nach Grundschule fixiert Laufbahnen. Schattenbildung (Nachhilfe) kompensiert Defizite für Wohlhabende. Schulfinanzierung folgt Standortsteuern und verstärkt Segregation. Algorithmische Platzvergabe kann Bias verfestigen. Lehrkräftemangel trifft benachteiligte Regionen zuerst.",
+    "en": "Tracking after primary school fixes pathways. Shadow education compensates deficits for affluent groups. School funding follows local tax bases and deepens segregation. Algorithmic placement can harden bias. Teacher shortages hit disadvantaged regions first."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Leistungsschere",
+        "en": "Achievement Gap"
+      },
+      "description": {
+        "de": "Früh geöffnete Schere bleibt über den Lebenslauf stabil.",
+        "en": "A gap opened early stays stable across the life course."
+      }
+    },
+    {
+      "name": {
+        "de": "Digitale Kluft",
+        "en": "Digital Divide"
+      },
+      "description": {
+        "de": "Endgeräte, Netz und Kompetenzen fehlen dort, wo sie am meisten bräuchten.",
+        "en": "Devices, connectivity, and skills lack where they are most needed."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Tracking",
+      "definition": {
+        "de": "Frühe Zuweisung zu Schulzweigen mit langfristigen Effekten.",
+        "en": "Early assignment to school tracks with lasting effects."
+      }
+    },
+    {
+      "term": "Shadow Education",
+      "definition": {
+        "de": "Privat finanzierte Nachhilfe außerhalb des Systems.",
+        "en": "Privately funded tutoring outside the system."
+      }
+    },
+    {
+      "term": "Digital Divide",
+      "definition": {
+        "de": "Ungleicher Zugang zu Geräten, Netz und Kompetenzen.",
+        "en": "Unequal access to devices, connectivity, and skills."
+      }
+    }
+  ],
+  "related": [
+    "surveillance",
+    "atomare-abschreckung",
+    "generationenkonflikt",
+    "illegale-arbeit",
+    "migration",
+    "rechtlosigkeit"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-bildung-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "PISA/ICILS",
+      "note": "Score gaps, device access"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/bildungsungleichheit/crisis-placeholder.jpg",
+      "/media/bildungsungleichheit/impact-placeholder.png",
+      "/media/bildungsungleichheit/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Ridgeline: score distributions by SES; map: school segregation; beeswarm: device-per-student by district."
+  ],
+  "timeline": [
+    {
+      "year": "2001",
+      "location": "DE",
+      "event": "PISA-Schock",
+      "description": "Ungleichheiten werden sichtbar, frühe Reformwelle."
+    },
+    {
+      "year": "2010er",
+      "location": "EU",
+      "event": "Digitale Ausstattung",
+      "description": "Tablets und WLAN ungleich verteilt; private Nachhilfe wächst."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Lernlücken",
+      "description": "Pandemiebedingte Lernverluste treffen benachteiligte Gruppen stärker."
+    }
+  ]
+}

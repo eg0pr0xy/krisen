@@ -1,0 +1,157 @@
+{
+  "id": "militarisierung",
+  "slug": "militarisierung",
+  "title": {
+    "de": "Militarisierung",
+    "en": "Militarisation"
+  },
+  "summary": {
+    "de": "Sicherheit wird primär militärisch gedacht: Budgets, Doktrinen und Infrastrukturen wachsen in Alltag und Politik.",
+    "en": "Security is framed militarily: budgets, doctrines, and infrastructures expand into daily life and politics."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "defense-spending",
+    "dual-use",
+    "arms-race",
+    "logistics",
+    "civil-military"
+  ],
+  "severity": 74,
+  "volatility": 65,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Verteidigungsausgaben BIP",
+        "en": "Defense % GDP"
+      },
+      "value": "↑ >2%",
+      "source": "SIPRI/NATO"
+    },
+    {
+      "label": {
+        "de": "Dual-Use-Invest",
+        "en": "Dual-use investment"
+      },
+      "value": "steigend",
+      "source": "Industry reports"
+    },
+    {
+      "label": {
+        "de": "Truppenstationierung",
+        "en": "Troop deployments"
+      },
+      "value": "Ausweitung",
+      "source": "Gov releases"
+    }
+  ],
+  "diagnosis": {
+    "de": "Militarisierung verschiebt Prioritäten: Haushalte orientieren sich an Abschreckung, zivile Mittel werden sekundär. Dual-Use-Technologie kolonisiert Logistik, KI, Weltraum. Zivile Infrastruktur wird für Kriegsführung umgerüstet (Energie, Häfen, Datenkabel). Diskurse normalisieren Ausnahmerechte. Risiken: Eskalationsspiralen, Demokratierückbau, Ressourcenbindung.",
+    "en": "Militarisation reorders priorities: budgets follow deterrence; civilian tools become secondary. Dual-use tech colonises logistics, AI, space. Civil infrastructure is prepped for conflict (energy, ports, cables). Narratives normalise exceptional powers. Risks: escalation spirals, democratic backsliding, resource lock-in."
+  },
+  "mechanisms": {
+    "de": "Bedrohungsnarrative legitimieren Budgetsteigerungen. Industriekomplex profitiert von Dauernachfrage. Geheimhaltung reduziert Öffentlichkeit. Reserve- und Zivilschutzpflichten werden ausgeweitet. Lieferketten werden auf Kriegsfall umgebaut, was Effizienz senkt und Abhängigkeiten verschiebt.",
+    "en": "Threat narratives justify budget hikes. The military-industrial complex benefits from permanent demand. Secrecy reduces scrutiny. Reserve and civil-defence duties expand. Supply chains are rebuilt for wartime, lowering efficiency and shifting dependencies."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Haushaltsverschiebung",
+        "en": "Budget Tilt"
+      },
+      "description": {
+        "de": "Steigende Verteidigungsausgaben verdrängen soziale Investitionen.",
+        "en": "Rising defense spend crowds out social investment."
+      }
+    },
+    {
+      "name": {
+        "de": "Dual-Use-Drift",
+        "en": "Dual-Use Drift"
+      },
+      "description": {
+        "de": "Zivile Innovationen werden militärisch eingebunden, Offenheit sinkt.",
+        "en": "Civil innovation is absorbed by military aims; openness declines."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Dual Use",
+      "definition": {
+        "de": "Technologie mit ziviler und militärischer Nutzung.",
+        "en": "Technology with civilian and military application."
+      }
+    },
+    {
+      "term": "Abschreckung",
+      "definition": {
+        "de": "Bedrohung mit Gegengewalt, um Angriff zu verhindern.",
+        "en": "Threat of force to prevent attack."
+      }
+    },
+    {
+      "term": "Zivile Kontrolle",
+      "definition": {
+        "de": "Demokratische Aufsicht über Streitkräfte.",
+        "en": "Democratic oversight over armed forces."
+      }
+    }
+  ],
+  "related": [
+    "aufruestung",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "autoritarismus",
+    "corruption",
+    "datenmissbrauch"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-militarisierung-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "SIPRI/NATO",
+      "note": "Defense spend, deployments"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/militarisierung/crisis-placeholder.jpg",
+      "/media/militarisierung/impact-placeholder.png",
+      "/media/militarisierung/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Stacked area: defense spend vs social spend; map: base expansions; chord: dual-use supply chains."
+  ],
+  "timeline": [
+    {
+      "year": "2014",
+      "location": "NATO",
+      "event": "2%-Ziel",
+      "description": "Militärausgaben steigen als Bündnisnorm."
+    },
+    {
+      "year": "2022",
+      "location": "EU",
+      "event": "Sondervermögen",
+      "description": "Milliardenpakete für Aufrüstung, Schuldenaufnahme legitimiert."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Dual-Use-Rush",
+      "description": "KI/Space/Chips werden sicherheitspolitisch eingerahmt."
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "aufruestung",
+  "slug": "aufruestung",
+  "title": {
+    "de": "Aufrüstung",
+    "en": "Arms Race"
+  },
+  "summary": {
+    "de": "Ein Wachstum der Gewaltkapazitäten, das Ressourcen von Governance und Reproduktion abzieht und das Regelsystem an die Logik der Eskalation bindet.",
+    "en": "A build-up of force capacities that siphons resources from governance and reproduction while binding the rule system to escalation logic."
+  },
+  "categories": ["Macht", "Kontrolle"],
+  "systemicLoad": 78,
+  "criticalThreshold": "2026-03-01T00:00:00.000Z",
+  "triggers": ["finanzialisierung", "technologische-intransparenz", "territoriale-verschiebung"],
+  "tags": ["defence", "escalation", "supply-chain"],
+  "keywords": ["Deterrence", "Budget stress", "Capital lock"],
+  "severity": 88,
+  "volatility": 64,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Verteidigungsausgaben % BIP",
+        "en": "Defence spend % GDP"
+      },
+      "value": "2.8–6.1",
+      "source": "NATO/IMF"
+    },
+    {
+      "label": {
+        "de": "Beschaffungszyklen",
+        "en": "Procurement cycles"
+      },
+      "value": "Supply chain lock-in",
+      "source": "Defense ministries"
+    },
+    {
+      "label": {
+        "de": "Reserveaktivierungen",
+        "en": "Reserve activations"
+      },
+      "value": "strategically increased",
+      "source": "MoDs"
+    },
+    {
+      "label": {
+        "de": "Auslandsbasen + Verträge",
+        "en": "Overseas bases + pacts"
+      },
+      "value": "boom",
+      "source": "Defense network"
+    }
+  ],
+  "diagnosis": {
+    "de": "Aufrüstung bildet eine parallele Infrastruktur zur Gesellschaft: eigene Logik, eigene Wertschöpfung, eigene Zeit. Entscheidungen folgen Abschreckungsmaximen, nicht demokratischer Problemlösung. Die Logistik der Gewalt bindet technologische Kapazitäten, sodass zivile Systeme unterversorgt bleiben.",
+    "en": "Arms build-up forms a parallel infrastructure to society: its own logic, economy, and tempo. Decisions follow deterrence maxims rather than democratic problem-solving. The logistics of force tie up technological capacity, leaving civilian systems under-resourced."
+  },
+  "mechanisms": {
+    "de": "Budgetdruck schafft Abhängigkeit von Militärausgaben. Technologische Schulden entstehen, weil Rüstungsprojekte ihre eigene Supply Chain schaffen. Politische Narrative legitimieren permanente Ausnahmezustände.",
+    "en": "Budget pressure creates dependency on military spending. Technical debt accumulates because defense projects build their own supply chains. Political narratives legitimise permanent states of exception."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Heeresplan",
+        "en": "Army Plan"
+      },
+      "description": {
+        "de": "Staatsinstitutionen ordnen sich dem Kriegsplan unter, Wirtschaft wird auf Schusskraft optimiert.",
+        "en": "State institutions subordinate themselves to war plans; economy optimised for firepower."
+      }
+    },
+    {
+      "name": {
+        "de": "High-Tech-Loop",
+        "en": "High-Tech Loop"
+      },
+      "description": {
+        "de": "Projekte koppeln Forschung an kurzfristige Eskalationsfelder; zivile Innovationen werden abgesaugt.",
+        "en": "Projects tether research to short-term escalation arenas; civilian innovations get siphoned off."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Abschreckung",
+      "definition": {
+        "de": "Strategie, potenzielle Aggressoren durch geschätzte Kosten fernzuhalten.",
+        "en": "Strategy to keep potential aggressors away by estimating costs."
+      },
+      "archetypeLink": "Heeresplan"
+    },
+    {
+      "term": "Technische Schulden",
+      "definition": {
+        "de": "Code, Systeme oder Logistik, die in Krisen nicht schnell genug refaktoriert werden können.",
+        "en": "Code, systems, or logistics that cannot be refactored quickly in crises."
+      }
+    }
+  ],
+  "related": ["krieg", "militarisierung", "autoritarismus", "technologische-intransparenz", "kontrollverlust"],
+  "timeline": [
+    {
+      "year": "2014",
+      "location": "Eastern Europe",
+      "event": "Sanctions spiral",
+      "description": "New deterrence reconfigures through sanctions, tech domains militarize."
+    },
+    {
+      "year": "2021",
+      "location": "Global",
+      "event": "Standard exchange",
+      "description": "Interoperability and shared defense data reinforce escalation."
+    },
+    {
+      "year": "2024",
+      "location": "Europe",
+      "event": "Regional buildup",
+      "description": "National programs pull critical networks onto military lines."
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Wer bestimmt die Schwelle?",
+        "en": "Who sets the threshold?"
+      },
+      "answer": {
+        "de": "Krisenkabinette, Interoperabilitätsgruppen, Industrien mit Interesse an Exportkontrolle.",
+        "en": "Crisis cabinets, interoperability groups, industries interested in export control."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Daten definieren den Load?",
+        "en": "Which data defines the load?"
+      },
+      "answer": {
+        "de": "Fertigungsdurchlaufzeit, Lager an kritischen Komponenten, Bandbreite der Kommunikationsknoten.",
+        "en": "Production lead time, stockpiles of critical components, bandwidth of communications nodes."
+      }
+    },
+    {
+      "question": {
+        "de": "Was droht bei Abbruch?",
+        "en": "What happens if it breaks?"
+      },
+      "answer": {
+        "de": "Plötzliche Versorgungslücken, Kapitulation ziviler Produktionslinien, Rückfall in Autoritarismus als Legitimitätsstrategie.",
+        "en": "Sudden supply gaps, collapse of civilian production lines, resurgence of authoritarianism for legitimacy."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie beruhigt man das Narrativ?",
+        "en": "How to calm the narrative?"
+      },
+      "answer": {
+        "de": "Transparenz über Mittelverwendung, ziviles Monitoring, gemeinsame zivile Rüstungsdiskurse.",
+        "en": "Transparency about resource use, civilian monitoring, shared civilian arms discourse."
+      }
+    },
+    {
+      "question": {
+        "de": "Ist Aufrüstung Ausdruck eines Weltbilds, in dem Konflikte nur noch technisch lösbar erscheinen?",
+        "en": "Is armament an expression of a worldview in which conflicts appear solvable only technically?"
+      },
+      "answer": {
+        "de": "Ja, Aufrüstung markiert den Übergang von politischer Kommunikation zu technischer Kapazitätssteuerung – Sicherheit als quantifizierbare Größe ersetzt Sicherheit als soziale Beziehung.",
+        "en": "Yes, armament marks the transition from political communication to technical capacity control – security as a quantifiable magnitude replaces security as a social relationship."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer treibt Aufrüstung: Staaten, Industrien, Allianzen oder abstrakte Bedrohungsszenarien?",
+        "en": "Who drives armament: states, industries, alliances, or abstract threat scenarios?"
+      },
+      "answer": {
+        "de": "Alle genannten Akteure bilden ein kybernetisches System: Staaten sichern Legitimität durch Industrien, Industrien profitieren von staatlichen Aufträgen, Allianzen koordinieren Bedrohungswahrnehmungen, Szenarien rechtfertigen kontinuierliche Eskalation.",
+        "en": "All mentioned actors form a cybernetic system: states secure legitimacy through industries, industries profit from state orders, alliances coordinate threat perceptions, scenarios justify continuous escalation."
+      }
+    },
+    {
+      "question": {
+        "de": "Verläuft die eigentliche Aufrüstung im Militär – oder in Daten, Infrastrukturen und Wahrnehmungen?",
+        "en": "Does the actual armament take place in the military – or in data, infrastructures, and perceptions?"
+      },
+      "answer": {
+        "de": "Aufrüstung ist entgrenzt: Militärische Kapazitäten sind nur die Spitze eines Eisbergs aus Datenüberwachung, kritischen Infrastrukturen, Informationsräumen und psychologischem Resilienzaufbau.",
+        "en": "Armament is unbounded: military capacities are only the tip of an iceberg of data surveillance, critical infrastructures, information spaces, and psychological resilience building."
+      }
+    },
+    {
+      "question": {
+        "de": "Ab welchem Punkt erzeugt Aufrüstung mehr Instabilität als Schutz?",
+        "en": "At what point does armament generate more instability than protection?"
+      },
+      "answer": {
+        "de": "Wenn Pfadabhängigkeit eintritt: Investitionen in Kapazitäten erzwingen Nutzung, Nutzung rechtfertigt weitere Aufrüstung, was wiederum Gegenreaktionen provoziert – ein kybernetisches Versagen.",
+        "en": "When path dependency occurs: investments in capacities force use, use justifies further armament, which in turn provokes counter-reactions – a cybernetic failure."
+      }
+    },
+    {
+      "question": {
+        "de": "Verstärken sich geopolitische, ökonomische und technologische Aufrüstung gegenseitig?",
+        "en": "Do geopolitical, economic, and technological armament reinforce each other?"
+      },
+      "answer": {
+        "de": "Ja, Aufrüstung ist ein Querschnittsregime: Geopolitische Spannungen treiben Rüstungsexporte, wirtschaftliche Abhängigkeiten erzwingen technologische Eigenständigkeit, technologische Innovationen ermöglichen neue Bedrohungen.",
+        "en": "Yes, armament is a cross-cutting regime: geopolitical tensions drive arms exports, economic dependencies force technological independence, technological innovations enable new threats."
+      }
+    },
+    {
+      "question": {
+        "de": "Kann Sicherheit ohne Abrüstung überhaupt noch gedacht werden?",
+        "en": "Can security even be thought of without disarmament?"
+      },
+      "answer": {
+        "de": "In spätmodernen Gesellschaften ist Sicherheit primär Abschreckungsgleichgewicht, nicht Beziehung – Abrüstung würde das gesamte Legitimationsregime infrage stellen, das auf kontinuierlicher Aufrüstung beruht.",
+        "en": "In late modern societies, security is primarily deterrence balance, not relationship – disarmament would call into question the entire legitimation regime based on continuous armament."
+      }
+    }
+  ],
+  "status": "draft",
+  "version": "0.1.0",
+  "lastUpdatedISO": "2025-04-30T00:00:00.000Z",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-aufruestung-20250430",
+    "generatedAtISO": "2025-04-30T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "SIPRI / NATO",
+      "url": "https://www.sipri.org/",
+      "note": "Global defence expenditure trends"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/aufruestung/video-wall-placeholder.jpg",
+      "/media/aufruestung/pad-54-placeholder.jpg"
+    ],
+    "audio": [],
+    "video": []
+  },
+  "editNotes": [
+    "D3: stacked bars for expenditure vs. social investment.",
+    "Timeline should animate command-and-control shifts."
+  ],
+  "lockReason": ""
+}

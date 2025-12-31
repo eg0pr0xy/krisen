@@ -1,0 +1,158 @@
+{
+  "id": "ressourcenerschoepfung",
+  "slug": "ressourcenerschoepfung",
+  "title": {
+    "de": "Ressourcenerschöpfung",
+    "en": "Resource Depletion"
+  },
+  "summary": {
+    "de": "Endliche Rohstoffe, Peak-Szenarien und steigende Extraktionskosten destabilisieren Versorgung und Preise.",
+    "en": "Finite resources, peak scenarios, and rising extraction costs destabilize supply and prices."
+  },
+  "categories": [
+    "Materie"
+  ],
+  "tags": [
+    "peak-oil",
+    "metalle",
+    "seltene-erden",
+    "preise",
+    "recycling"
+  ],
+  "severity": 76,
+  "volatility": 57,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Förderenergie/Barrel",
+        "en": "Energy per barrel"
+      },
+      "value": "+35 %",
+      "source": "IEA"
+    },
+    {
+      "label": {
+        "de": "Kupfererz-Gehalt",
+        "en": "Copper ore grade"
+      },
+      "value": "0.6 %",
+      "source": "USGS"
+    },
+    {
+      "label": {
+        "de": "Recyclingquote (Li)",
+        "en": "Recycling rate (Li)"
+      },
+      "value": "1 %",
+      "source": "UNEP"
+    }
+  ],
+  "diagnosis": {
+    "de": "Ökonomische Modelle ignorieren physische Grenzen. Sinkende Erzgehalte erhöhen Energieeinsatz; EROI schrumpft. Baudrillard: Fortschrittsnarrativ verdeckt Entropie. Luhmann: Versorgungssysteme rechnen mit stetigem Zufluss; sobald Kosten steigen, kollabieren nachgelagerte Industrien. Ressourcenkonkurrenz wird geopolitisch und technologisch (Patente, Exportkontrollen).",
+    "en": "Economic models ignore physical limits. Falling ore grades raise energy input; EROI shrinks. Baudrillard: the progress narrative masks entropy. Luhmann: supply systems presume constant inflow; when costs rise, downstream industries buckle. Resource competition becomes geopolitical and technological (patents, export controls)."
+  },
+  "mechanisms": {
+    "de": "High-grade Vorräte erschöpfen, Low-grade erfordert mehr Energie/Wasser/Chemie. Förderpfade werden spekulativ (Tiefsee, Arktis). Recycling bleibt gering, da Design nicht zirkulär ist. Substitution verschiebt nur Druck (z.B. Öl → Batteriemetalle). Preise reagieren sprunghaft, was Investitionszyklen verzerrt.",
+    "en": "High-grade reserves deplete; low-grade needs more energy/water/chemicals. Extraction turns speculative (deep sea, Arctic). Recycling stays low due to non-circular design. Substitution merely shifts pressure (oil → battery metals). Prices swing sharply, distorting investment cycles."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Erschöpfte Grube",
+        "en": "Exhausted Pit"
+      },
+      "description": {
+        "de": "Tiefe Mine mit immer geringeren Gehalten; Kosten steigen, Output stagniert.",
+        "en": "Deep mine with ever-lower grades; costs rise, output stagnates."
+      }
+    },
+    {
+      "name": {
+        "de": "Schiffswrack der Tiefe",
+        "en": "Deep-Sea Scraper"
+      },
+      "description": {
+        "de": "Bergbaugerät am Meeresboden, das unbekannte Ökosysteme stört.",
+        "en": "Seafloor mining rig disturbing unknown ecosystems."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "EROI",
+      "definition": {
+        "de": "Energy Return on Investment: Energieertrag im Verhältnis zum Einsatz.",
+        "en": "Energy return on energy invested."
+      }
+    },
+    {
+      "term": "Peak Oil/Metals",
+      "definition": {
+        "de": "Produktionsmaximum, nach dem Fördermengen sinken.",
+        "en": "Production maximum after which output declines."
+      }
+    },
+    {
+      "term": "Substitutionseffekt",
+      "definition": {
+        "de": "Verlagerung der Nachfrage auf andere Materialien, oft mit neuen Engpässen.",
+        "en": "Shifting demand to other materials, often creating new bottlenecks."
+      }
+    }
+  ],
+  "related": [
+    "lebensmittelknappheit",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "automatisierung",
+    "biodiversitaetsverlust"
+  ],
+  "lastUpdatedISO": "2025-02-02T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-ressourcen",
+    "generatedAtISO": "2025-02-02T00:00:00.000Z"
+  },
+  "editNotes": [
+    "D3: EROI-Verlauf, Erzgehalt-Zeitreihe, Preis-Spikes; Recycling-Lücke visualisieren."
+  ],
+  "citations": [
+    {
+      "label": "IEA World Energy Outlook 2024"
+    },
+    {
+      "label": "USGS Mineral Data"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/ressourcenerschoepfung/crisis-placeholder.jpg",
+      "/media/ressourcenerschoepfung/impact-placeholder.png",
+      "/media/ressourcenerschoepfung/solution-placeholder.jpg"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "2008",
+      "location": "Global",
+      "event": "Metall-Preissprung",
+      "description": "Rohstoff-Superzyklus verdeutlicht Engpässe."
+    },
+    {
+      "year": "2022",
+      "location": "EU",
+      "event": "Gaspreis-Schock",
+      "description": "Energie-Input verteuert Metallproduktion, Output sinkt."
+    },
+    {
+      "year": "2023",
+      "location": "Pazifik",
+      "event": "Moratorium Tiefseebergbau",
+      "description": "Öffentlicher Widerstand gegen spekulative Erschließung."
+    }
+  ]
+}

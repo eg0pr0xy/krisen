@@ -1,0 +1,157 @@
+{
+  "id": "legitimationsverlust",
+  "slug": "legitimationsverlust",
+  "title": {
+    "de": "Legitimationsverlust",
+    "en": "Loss of legitimacy"
+  },
+  "summary": {
+    "de": "Institutionen verlieren Glaubwürdigkeit; Entscheidungen wirken fern, Interessen ungeachtet, Transparenz gering.",
+    "en": "Institutions lose credibility; decisions feel distant, interests ignored, transparency thin."
+  },
+  "categories": [
+    "Macht",
+    "Gefühl"
+  ],
+  "tags": [
+    "trust",
+    "accountability",
+    "representation",
+    "scandals",
+    "participation"
+  ],
+  "severity": 74,
+  "volatility": 58,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Vertrauensindex Regierung",
+        "en": "Trust in government"
+      },
+      "value": "↓",
+      "source": "Surveys"
+    },
+    {
+      "label": {
+        "de": "Wahlbeteiligung",
+        "en": "Voter turnout"
+      },
+      "value": "stagnierend/sinkend",
+      "source": "Electoral data"
+    },
+    {
+      "label": {
+        "de": "Skandale/Jahr",
+        "en": "Scandals/year"
+      },
+      "value": "hoch",
+      "source": "Media counts"
+    }
+  ],
+  "diagnosis": {
+    "de": "Legitimationsverlust entsteht, wenn Entscheidungen als fremd, intransparent oder unfair erlebt werden. Repräsentationslücken, Lobbyeinfluss und gebrochene Versprechen stärken Zynismus. Skandalisierung ersetzt Debatte. Technokratie und Ausnahmezustände umgehen Parlamente. Folge: Rückzug, Protest, populistische Attraktivität.",
+    "en": "Loss of legitimacy grows when decisions feel alien, opaque, or unfair. Representation gaps, lobbying, and broken promises fuel cynicism. Scandalisation replaces deliberation. Technocracy and states of exception bypass parliaments. Outcomes: withdrawal, protest, populist appeal."
+  },
+  "mechanisms": {
+    "de": "Komplexe Verfahren schliessen Laien aus. Medienlogik belohnt Empörung statt Aufklärung. Korruptionsvorwürfe bleiben oft folgenlos. Digitale Plattformen fragmentieren Öffentlichkeit, Common Knowledge sinkt. Institutionen kommunizieren defizitär, Erwartungen werden nicht gemanagt.",
+    "en": "Complex procedures exclude laypeople. Media logic rewards outrage over explanation. Corruption allegations rarely see consequences. Digital platforms fragment publics; common knowledge erodes. Institutions communicate poorly and fail to manage expectations."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Lücke der Vertretung",
+        "en": "Representation Gap"
+      },
+      "description": {
+        "de": "Gruppen fühlen sich nicht abgebildet, wenden sich ab.",
+        "en": "Groups feel unseen and disengage."
+      }
+    },
+    {
+      "name": {
+        "de": "Skandal-Spirale",
+        "en": "Scandal Spiral"
+      },
+      "description": {
+        "de": "Serien von Skandalen erzeugen Zynismus, Reformen bleiben aus.",
+        "en": "Serial scandals breed cynicism; reforms stall."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Legitimität",
+      "definition": {
+        "de": "Anerkennung von Herrschaft als gerechtfertigt.",
+        "en": "Recognition of authority as justified."
+      }
+    },
+    {
+      "term": "Accountability",
+      "definition": {
+        "de": "Rechenschaft und Folgen bei Fehlverhalten.",
+        "en": "Answerability and consequences for misconduct."
+      }
+    },
+    {
+      "term": "Common Knowledge",
+      "definition": {
+        "de": "Geteilte Faktenbasis als Grundlage für Debatte.",
+        "en": "Shared fact base underpinning debate."
+      }
+    }
+  ],
+  "related": [
+    "post-demokratie",
+    "entmenschlichung-buerokratie",
+    "ethnonationalismus",
+    "faschisierung",
+    "fragmentierung-der-oeffentlichkeit",
+    "generationenkonflikt"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-legit-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "OECD trust, turnout stats",
+      "note": "Trust indices, electoral participation"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/legitimationsverlust/crisis-placeholder.jpg",
+      "/media/legitimationsverlust/impact-placeholder.png",
+      "/media/legitimationsverlust/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Lines: trust over time; chord: lobby links; shader: static over parliament imagery."
+  ],
+  "timeline": [
+    {
+      "year": "2008",
+      "location": "Global",
+      "event": "Finanzkrise",
+      "description": "Rettungen erzeugen Eindruck asymmetrischer Politik."
+    },
+    {
+      "year": "2016",
+      "location": "US/UK",
+      "event": "Polarisierung",
+      "description": "Wahlen vertiefen Zweifel an Fairness."
+    },
+    {
+      "year": "2023",
+      "location": "EU",
+      "event": "Korruptionsskandale",
+      "description": "Kauforgien/Einflussaffären untergraben Vertrauen."
+    }
+  ]
+}

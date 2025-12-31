@@ -1,0 +1,141 @@
+{
+  "id": "stellvertreterkriege",
+  "slug": "stellvertreterkriege",
+  "title": {
+    "de": "Stellvertreterkriege",
+    "en": "Proxy wars"
+  },
+  "summary": {
+    "de": "Regionale Konflikte werden durch externe Mächte aufgeladen; lokale Akteure tragen Kosten eines globalen Spiels.",
+    "en": "Regional conflicts are amplified by external powers; local actors bear the costs of a global game."
+  },
+  "categories": [
+    "Macht",
+    "Existenz"
+  ],
+  "tags": [
+    "intervention",
+    "rüstung",
+    "miliz",
+    "geopolitik"
+  ],
+  "severity": 88,
+  "volatility": 72,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Waffenlieferungen",
+        "en": "Arms deliveries"
+      },
+      "value": "steigend",
+      "source": "Zoll- und Sanktionsdaten"
+    },
+    {
+      "label": {
+        "de": "Milizen-Finanzierung",
+        "en": "Militia financing"
+      },
+      "value": "inoffiziell",
+      "source": "Leaks, Investigativberichte"
+    },
+    {
+      "label": {
+        "de": "Verhandlungsstillstand",
+        "en": "Negotiation deadlock"
+      },
+      "value": "anhaltend",
+      "source": "Diplomatische Protokolle"
+    }
+  ],
+  "diagnosis": {
+    "de": "Stellvertreterkriege externalisieren geopolitische Konkurrenz in lokale Arenen. Finanz-, Waffen- und Informationsflüsse verlängern Konflikte, weil Sieg wichtiger ist als Stabilität. Zivilgesellschaft und Infrastruktur werden zur Manövriermasse. Mediatisierung schafft ein ikonisches Bildrepertoire, das weitere Mobilisierung speist.",
+    "en": "Proxy wars externalise geopolitical rivalry into local arenas. Financial, arms, and information flows prolong conflicts because winning matters more than stability. Civil society and infrastructure become manoeuvring material. Mediation produces iconic imagery that fuels further mobilisation."
+  },
+  "mechanisms": {
+    "de": "Externe Sponsoren liefern Waffen und Training, verknüpfen dies mit Ressourcenrechten oder Stützpunkten. Informationskriege rahmen den Konflikt als moralische Pflicht. Sanktionsregime erschweren Wiederaufbau und frieren Konflikte ein. Flüchtlingsbewegungen destabilisieren Nachbarregionen und verknüpfen humanitäre mit sicherheitspolitischen Agenden.",
+    "en": "External sponsors provide arms and training, tying them to resource rights or basing access. Information wars frame the conflict as moral duty. Sanctions hamper reconstruction and freeze conflicts. Refugee flows destabilise neighbours and link humanitarian with security agendas."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Plausible Deniability",
+        "en": "Plausible deniability"
+      },
+      "description": {
+        "de": "Akteure agieren verdeckt über Milizen und Söldner.",
+        "en": "Actors operate covertly via militias and mercenaries."
+      }
+    },
+    {
+      "name": {
+        "de": "Gefrorener Konflikt",
+        "en": "Frozen conflict"
+      },
+      "description": {
+        "de": "Keine Lösung, aber dauerhafte Militarisierung und Abhängigkeit.",
+        "en": "No resolution, but ongoing militarisation and dependency."
+      }
+    },
+    {
+      "name": {
+        "de": "Humanitärer Korridor",
+        "en": "Humanitarian corridor"
+      },
+      "description": {
+        "de": "Begrenzte Entlastung, zugleich Schauplatz symbolischer Machtspiele.",
+        "en": "Limited relief, simultaneously a stage for symbolic power plays."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Proxy",
+      "definition": {
+        "de": "Stellvertretender Akteur, der Interessen Dritter ausführt.",
+        "en": "Actor executing third-party interests."
+      }
+    },
+    {
+      "term": "Spoiler",
+      "definition": {
+        "de": "Akteur, der Friedensprozesse gezielt sabotiert.",
+        "en": "Actor deliberately sabotaging peace processes."
+      }
+    },
+    {
+      "term": "Dual-Use",
+      "definition": {
+        "de": "Technologien mit zivilem und militärischem Einsatzpotenzial.",
+        "en": "Technologies with civilian and military use potential."
+      }
+    }
+  ],
+  "related": [
+    "atomare-abschreckung",
+    "bildungsungleichheit",
+    "generationenkonflikt",
+    "illegale-arbeit",
+    "migration",
+    "rechtlosigkeit"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/stellvertreterkriege/crisis-placeholder.jpg",
+      "/media/stellvertreterkriege/impact-placeholder.png",
+      "/media/stellvertreterkriege/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "stellvertreterkriege",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Stellvertreterkriege mit Fokus auf Sponsorendynamik ausgearbeitet.",
+    "Draft für weitere Falllinien."
+  ]
+}

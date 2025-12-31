@@ -1,0 +1,57 @@
+{
+  "id": "systemic-fragility",
+  "title_de": "Systemische Fragilität",
+  "short_definition_de": "Langsame Erosion von Infrastruktur und sozialer Kohäsion, die ganze Operationen destabilisiert.",
+  "long_analysis_de": "Systemische Fragilität beschreibt das gleichzeitige Schwinden von redundanten Kapazitäten, legitimer Governance und materiellen Puffern. Die Prozesse, die früher Puffer bildeten, sind selbst Prozesse der Beschleunigung geworden, weshalb Selbstorganisation in Stressmomenten kollabiert. Die Fragilität bleibt unsichtbar, bis ein langsamer Schock einen Dominoeffekt auslöst; dann zeigt sich, wie eng gekoppelt gerade die kritischen Netze und das Recht sind.",
+  "layer": "structural",
+  "facets": {
+    "time_scale": "slow",
+    "reversibility": "partially_reversible",
+    "visibility": "latent",
+    "distribution": "selective",
+    "system_function": "destabilizing"
+  },
+  "tags": ["infrastructure", "governance", "resilience"],
+  "relations": {
+    "causes": ["digital-debt"],
+    "amplifies": ["crisis-of-trust"],
+    "is_symptom_of": ["entangled-systems"],
+    "linked_mechanisms": ["technical-debt", "externalisierung"]
+  },
+  "signals": {
+    "bullets": [
+      "Wiederholte Betriebsunterbrechungen bei kritischen Netzwerken trotz redundanter Systeme",
+      "Eskalierende Kaskaden in der Lieferkette, die schon kleine Störungen multiplizieren",
+      "Steigende Anzahl simultaner regulatorischer Ausnahmeregelungen"
+    ],
+    "indicators": [
+      {
+        "label": "Redundanzquote",
+        "value": "< 0.6",
+        "note": "Anteil mehrfach abgesicherter Systeme an kritischen Pfaden"
+      }
+    ]
+  },
+  "q_and_a": [
+    {
+      "q": "Was läuft schief?",
+      "a": "Redundante Systeme sind so stark gekoppelt, dass lokale Abweichungen automatisch gesamtsystemischen Stress erzeugen."
+    },
+    {
+      "q": "Woran erkenne ich die Fragilität?",
+      "a": "Wenn zunehmend mehr Prozesse gleichzeitig gestört werden und die Reaktionszeiten in Governance und technischer Steuerung wachsen."
+    },
+    {
+      "q": "Welche Gegenmaßnahmen?",
+      "a": "Entkopplung kritischer Pfade, Pflege von Puffern und eine breite diagnostische Sicht auf Interdependenzen."
+    },
+    {
+      "q": "Was wird normalisiert?",
+      "a": "Eine permanente Bereitschaft zu Ausnahmeregeln, die als Governance-Mittel missbraucht wird, statt als Stabilitätsreserve."
+    }
+  ],
+  "glossary_refs": ["Externalisierung", "Technische Schulden"],
+  "created_at": "2025-02-18T00:00:00.000Z",
+  "updated_at": "2025-02-18T00:00:00.000Z",
+  "status": "draft"
+}

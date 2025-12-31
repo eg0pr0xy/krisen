@@ -1,0 +1,131 @@
+{
+  "id": "surveillance",
+  "slug": "surveillance",
+  "title": {
+    "de": "Überwachung",
+    "en": "Surveillance"
+  },
+  "summary": {
+    "de": "Flächendeckende Sensorik erzeugt permanente Beobachtung und Selbstanpassung.",
+    "en": "Pervasive sensing produces continuous observation and self-adjustment."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "biometrics",
+    "tracking",
+    "data-brokers",
+    "governance",
+    "platforms"
+  ],
+  "severity": 77,
+  "volatility": 55,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Kamera-Dichte",
+        "en": "Camera density"
+      },
+      "value": "480 / km²"
+    },
+    {
+      "label": {
+        "de": "Datenbroker-Volumen",
+        "en": "Data broker volume"
+      },
+      "value": "12 TB / day"
+    },
+    {
+      "label": {
+        "de": "False Positives",
+        "en": "False positives"
+      },
+      "value": "2.8%"
+    }
+  ],
+  "diagnosis": {
+    "de": "Überwachung wird als Service vermarktet und als Sicherheit verkauft. Datafication verschiebt Macht zu Knoten, die Zugriff kontrollieren. Minderheiten tragen die Hauptlast fehlerhafter Klassifikation.",
+    "en": "Surveillance is marketed as service and sold as security. Datafication shifts power to nodes that control access. Minorities bear the main load of misclassification."
+  },
+  "mechanisms": {
+    "de": "Sensoren werden billiger, also werden neue Flächen erfasst. Algorithmen koppeln Feedback an Verhalten, was Konformität verstärkt. Datenlecks werden eingepreist und nicht beseitigt.",
+    "en": "Sensors get cheaper, so more surfaces are captured. Algorithms couple feedback to behaviour, reinforcing conformity. Data leaks are priced in rather than fixed."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Panoptikum",
+        "en": "Panopticon"
+      },
+      "description": {
+        "de": "Zentraler Blickpunkt, der Verhalten normiert, auch ohne aktive Beobachtung.",
+        "en": "Central vantage normalising behaviour even without active gaze."
+      }
+    },
+    {
+      "name": {
+        "de": "Daten-Schlitz",
+        "en": "Data Slot"
+      },
+      "description": {
+        "de": "Schmale Eingabepunkte, die Menschen in verwertbare Kategorien pressen.",
+        "en": "Narrow input slots that compress people into exploitable categories."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Datenabfluss",
+      "definition": {
+        "de": "Unkontrollierter Transfer sensibler Informationen aus einem System.",
+        "en": "Uncontrolled transfer of sensitive information out of a system."
+      }
+    },
+    {
+      "term": "Chilling Effect",
+      "definition": {
+        "de": "Selbstzensur aus Angst vor Beobachtung.",
+        "en": "Self-censorship triggered by perceived observation."
+      }
+    },
+    {
+      "term": "Algorithmische Diskriminierung",
+      "definition": {
+        "de": "Systematische Benachteiligung durch automatisierte Klassifikation.",
+        "en": "Systematic disadvantage created by automated classification."
+      }
+    }
+  ],
+  "related": [
+    "grenzregime",
+    "kuenstliche-intelligenz",
+    "bildungsungleichheit",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung"
+  ],
+  "lastUpdatedISO": "2025-01-04T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "citations": [
+    {
+      "label": "Data protection audits"
+    },
+    {
+      "label": "NGO tracking reports"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/surveillance/crisis-placeholder.jpg",
+      "/media/surveillance/impact-placeholder.png",
+      "/media/surveillance/solution-placeholder.jpg"
+    ]
+  }
+}

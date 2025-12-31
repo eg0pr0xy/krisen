@@ -1,0 +1,160 @@
+{
+  "id": "lebensmittelknappheit",
+  "slug": "lebensmittelknappheit",
+  "title": {
+    "de": "Lebensmittelknappheit",
+    "en": "Food Scarcity"
+  },
+  "summary": {
+    "de": "Störungen in Produktion, Handel und Klima verknappen Kalorienströme und machen Ernährung politisch.",
+    "en": "Disruptions in production, trade, and climate constrict calorie flows and turn nutrition into politics."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "preise",
+    "getreide",
+    "duenger",
+    "duerre",
+    "lieferkette",
+    "handel"
+  ],
+  "severity": 83,
+  "volatility": 64,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "FAO Food Price Index",
+        "en": "FAO Food Price Index"
+      },
+      "value": "135",
+      "source": "FAO 2024"
+    },
+    {
+      "label": {
+        "de": "Getreide Vorrats/Verbrauchs-Verh.",
+        "en": "Cereal stocks-to-use"
+      },
+      "value": "~30%",
+      "source": "USDA"
+    },
+    {
+      "label": {
+        "de": "Düngerkosten Spike",
+        "en": "Fertiliser price spike"
+      },
+      "value": "x3 (2022)",
+      "source": "World Bank"
+    }
+  ],
+  "diagnosis": {
+    "de": "Knappheit entsteht weniger durch absolutes Defizit als durch Verteilung und Preisbildung. Luhmann: Wirtschaftssystem codiert Knappheit in Zahlung/Nichtzahlung; Hungern bleibt Umwelt. Krieg und Klima wirken als Störungen der Logistik, nicht der Physik von Kalorien. Baudrillard: Bilder von leeren Regalen dienen als Simulation von Knappheit, während Überschüsse vernichtet werden. Historisch verschieben Getreidepreise Regime und Revolten.",
+    "en": "Scarcity arises less from absolute deficit than from distribution and price formation. Luhmann: the economic system codes scarcity as payment/non-payment; hunger stays environment. War and climate act as disturbances of logistics, not of calorie physics. Baudrillard: empty-shelf imagery simulates scarcity while surplus is destroyed. Historically, grain prices moved regimes and revolts."
+  },
+  "mechanisms": {
+    "de": "Dürre und Hitze reduzieren Ernten; Exportstopps verstärken globale Preisspitzen. Energie- und Düngerkosten treiben Produktionskosten. Häfen und Korridore werden militärisch blockiert. Finanzialisierte Terminmärkte verstärken Volatilität. Haushalte reagieren mit Substitution und Rationierung, was Nachfragekurven verschiebt und ärmere Haushalte zuerst trifft.",
+    "en": "Drought and heat reduce harvests; export bans amplify global price spikes. Energy and fertiliser costs lift production costs. Ports and corridors become military chokepoints. Financialised futures markets magnify volatility. Households substitute and ration, shifting demand curves and hitting poorer groups first."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Leerer Markt",
+        "en": "Empty Market"
+      },
+      "description": {
+        "de": "Regale und Stände bleiben leer, obwohl global noch Waren existieren.",
+        "en": "Shelves and stalls stay empty although goods exist globally."
+      }
+    },
+    {
+      "name": {
+        "de": "Substitutionskette",
+        "en": "Substitution Chain"
+      },
+      "description": {
+        "de": "Teurer Weizen verschiebt Nachfrage zu Mais, Reis, Hirse – alle verteuern sich.",
+        "en": "Expensive wheat shifts demand to maize, rice, millet—each becomes dearer."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ernährungssouveränität",
+      "definition": {
+        "de": "Politisches Recht, Ernährungssysteme lokal zu bestimmen.",
+        "en": "Political right to shape food systems locally."
+      }
+    },
+    {
+      "term": "Stocks-to-use",
+      "definition": {
+        "de": "Verhältnis von Lagerbeständen zu erwarteter Nutzung; Indikator für Puffer.",
+        "en": "Ratio of stocks to expected use; indicator for buffer capacity."
+      }
+    },
+    {
+      "term": "Preiselastizität",
+      "definition": {
+        "de": "Maß, wie stark Nachfrage auf Preisänderungen reagiert.",
+        "en": "Measure of how strongly demand reacts to price changes."
+      }
+    }
+  ],
+  "related": [
+    "geopolitische-verschiebungen",
+    "ressourcenerschoepfung",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "biodiversitaetsverlust"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-lebensmittelknappheit",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "FAO Price Index"
+    },
+    {
+      "label": "World Bank Commodities"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/lebensmittelknappheit/crisis-placeholder.jpg",
+      "/media/lebensmittelknappheit/impact-placeholder.png",
+      "/media/lebensmittelknappheit/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Preisindex + Stocks-to-use als duale Achse; Sankey von Substitutionen."
+  ],
+  "timeline": [
+    {
+      "year": "1943",
+      "location": "Bengalen",
+      "event": "Hungersnot",
+      "description": "Logistische Fehlsteuerung und Krieg treiben Preise, Millionen sterben."
+    },
+    {
+      "year": "2008",
+      "location": "Global",
+      "event": "Food Price Crisis",
+      "description": "Preisschocks lösen Proteste aus; Exportstopps verbreiten Knappheit."
+    },
+    {
+      "year": "2022",
+      "location": "Schwarzmeer",
+      "event": "Blockierte Korridore",
+      "description": "Krieg behindert Getreideexporte; Düngerpreise explodieren."
+    }
+  ]
+}

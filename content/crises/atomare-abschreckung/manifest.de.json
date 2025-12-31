@@ -1,0 +1,141 @@
+{
+  "id": "atomare-abschreckung",
+  "slug": "atomare-abschreckung",
+  "title": {
+    "de": "Atomare Abschreckung",
+    "en": "Nuclear deterrence"
+  },
+  "summary": {
+    "de": "Gleichgewicht durch potenziell totale Zerstörung; Stabilität hängt an Berechenbarkeit der Akteure.",
+    "en": "Balance maintained by potential total destruction; stability depends on actor predictability."
+  },
+  "categories": [
+    "Macht",
+    "Existenz"
+  ],
+  "tags": [
+    "nuklear",
+    "ruestung",
+    "abschreckung",
+    "abschaltung"
+  ],
+  "severity": 92,
+  "volatility": 44,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Alarmstufen",
+        "en": "Alert levels"
+      },
+      "value": "erhöht",
+      "source": "Militärische Lageberichte"
+    },
+    {
+      "label": {
+        "de": "Modernisierungsprogramme",
+        "en": "Modernisation programs"
+      },
+      "value": "laufend",
+      "source": "Haushaltspläne"
+    },
+    {
+      "label": {
+        "de": "Rüstungskontrolle",
+        "en": "Arms control"
+      },
+      "value": "Vertragsabriss",
+      "source": "Vertragskündigungen"
+    }
+  ],
+  "diagnosis": {
+    "de": "Deterrenz bleibt ein paradoxes Arrangement: Frieden hängt an der glaubwürdigen Drohung des Gegenteils. Erosion von Rüstungskontrollverträgen, neue Hyperschall- und Cyberkomponenten sowie Mehrfachakteure destabilisieren das Signal. Fehlalarme, Delegation an automatisierte Frühwarnketten und Geheimhaltung erhöhen das systemische Risiko jenseits rationaler Kalkulation.",
+    "en": "Deterrence is a paradoxical arrangement: peace rests on credible threat of the opposite. Eroded arms-control treaties, new hypersonic and cyber components, and more actors destabilise the signal. False alarms, delegation to automated early-warning chains, and secrecy raise systemic risk beyond rational calculation."
+  },
+  "mechanisms": {
+    "de": "Zweite-Schlag-Fähigkeit erzwingt ständige Bereitschaft und verteilt Entscheidungsmacht auf technische Systeme. Kommando- und Kontrollketten sind anfällig für Informationsasymmetrien und Missverständnisse. Regional nukleare Ambitionen durchbrechen bilaterale Gleichgewichte. Rüstungslobby und nationale Prestige-Logiken blockieren Abrüstung auch bei ökonomischem Druck.",
+    "en": "Second-strike capability demands permanent readiness and distributes decision power to technical systems. Command-and-control chains are vulnerable to information asymmetries and misreadings. Regional nuclear ambitions pierce bilateral balances. Defence lobbies and prestige logics block disarmament even under fiscal strain."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Rotes Telefon",
+        "en": "Red phone"
+      },
+      "description": {
+        "de": "Direkte Kommunikationslinie als fragile Sicherheitsgarantie.",
+        "en": "Direct communication line as fragile safety guarantee."
+      }
+    },
+    {
+      "name": {
+        "de": "Schattenspiel",
+        "en": "Shadow play"
+      },
+      "description": {
+        "de": "Demonstrative Tests und Manöver als Teil der Signalökonomie.",
+        "en": "Demonstrative tests and manoeuvres as part of signal economy."
+      }
+    },
+    {
+      "name": {
+        "de": "Launch-on-Warning",
+        "en": "Launch-on-warning"
+      },
+      "description": {
+        "de": "Algorithmische Entscheidungsvorbereitung mit extrem niedriger Fehlertoleranz.",
+        "en": "Algorithmic decision preparation with extremely low error tolerance."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Mutually Assured Destruction",
+      "definition": {
+        "de": "Konzept, dass beiderseitige Vernichtung einen Erstschlag irrational macht.",
+        "en": "Concept that mutual destruction renders a first strike irrational."
+      }
+    },
+    {
+      "term": "No-First-Use",
+      "definition": {
+        "de": "Politische Zusage, nicht zuerst nuklear einzusetzen; selten verbindlich.",
+        "en": "Policy pledge not to use nuclear weapons first; rarely binding."
+      }
+    },
+    {
+      "term": "Strategische Stabilität",
+      "definition": {
+        "de": "Zustand, in dem keine Seite Anreiz zum Präventivschlag hat.",
+        "en": "State in which no side has incentive for a pre-emptive strike."
+      }
+    }
+  ],
+  "related": [
+    "bildungsungleichheit",
+    "generationenkonflikt",
+    "illegale-arbeit",
+    "migration",
+    "rechtlosigkeit",
+    "soziale-ungleichheit"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/atomare-abschreckung/crisis-placeholder.jpg",
+      "/media/atomare-abschreckung/impact-placeholder.png",
+      "/media/atomare-abschreckung/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "atomare-abschreckung",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Nukleare Abschreckung ausgearbeitet, Fokus auf Steuerungsrisiken.",
+    "Draft für spätere Datenquellen."
+  ]
+}

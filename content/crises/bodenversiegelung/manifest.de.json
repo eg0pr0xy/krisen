@@ -1,0 +1,156 @@
+{
+  "id": "bodenversiegelung",
+  "slug": "bodenversiegelung",
+  "title": {
+    "de": "Bodenversiegelung",
+    "en": "Soil Sealing"
+  },
+  "summary": {
+    "de": "Asphalt und Beton blockieren Infiltration, erhöhen Hitze und zerstören Bodenökologie.",
+    "en": "Asphalt and concrete block infiltration, amplify heat, and destroy soil ecologies."
+  },
+  "categories": [
+    "Materie"
+  ],
+  "tags": [
+    "urban",
+    "hitzeinsel",
+    "wasser",
+    "erosion",
+    "planung"
+  ],
+  "severity": 72,
+  "volatility": 46,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Versiegelte Fläche",
+        "en": "Sealed area"
+      },
+      "value": "4.4 %",
+      "source": "EEA 2024"
+    },
+    {
+      "label": {
+        "de": "Runoff-Spitzen",
+        "en": "Runoff peaks"
+      },
+      "value": "+120 %",
+      "source": "Stadtmessungen"
+    },
+    {
+      "label": {
+        "de": "Bodentemperatur",
+        "en": "Soil surface temp"
+      },
+      "value": "+6 °C",
+      "source": "Urban canopy studies"
+    }
+  ],
+  "diagnosis": {
+    "de": "Die Stadt breitet sich als thermische Maschine aus. Boden wird von einem lebenden Speicher (Wasser, Mikroben, Kohlenstoff) zu einer toten Trägerschicht. Mit Foucault: Raum wird diszipliniert, Wasserflüsse werden kanalisiert, Hitze wird eingeschlossen. Systemisch koppeln sich Hitzeinseln mit Energiebedarf (Kühlung) und regen wiederum Emissionen an.",
+    "en": "The city expands as a thermal machine. Soil shifts from living storage (water, microbes, carbon) to dead substrate. With Foucault: space is disciplined, water flows channelled, heat enclosed. Systemically, heat islands couple to energy demand (cooling), which in turn feeds emissions."
+  },
+  "mechanisms": {
+    "de": "Versiegelung verhindert Versickerung, erhöht Oberflächenabfluss und Überschwemmungen. Wurzelräume sterben ab, Böden verlieren Porosität. Mikroklima kippt; Temperaturen bleiben nachts hoch. Regenwasserinfrastruktur wird überlastet; Schadstoffe werden in Gewässer gespült. Grünflächen werden fragmentiert und können Kühlung nicht skalieren.",
+    "en": "Sealing blocks infiltration, increases runoff and floods. Root space dies, soils lose porosity. Microclimate shifts; night-time temps stay high. Stormwater systems overload; pollutants wash into rivers. Green patches fragment, unable to scale cooling."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Hitzeschacht",
+        "en": "Heat Shaft"
+      },
+      "description": {
+        "de": "Straßenschluchten ohne Baumkronen, die Wärme speichern und nicht abgeben.",
+        "en": "Street canyons without canopy that store heat and won’t release it."
+      }
+    },
+    {
+      "name": {
+        "de": "Betonplatte",
+        "en": "Concrete Slab"
+      },
+      "description": {
+        "de": "Monolithische Fläche, unter der Bodenbiologie abstirbt und Wasser nur fließt, nie sickert.",
+        "en": "Monolithic surface under which soil biology dies; water only flows, never seeps."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Urban Heat Island",
+      "definition": {
+        "de": "Wärmeinseleffekt durch versiegelte Flächen, geringe Verdunstung, fehlende Vegetation.",
+        "en": "Heat island effect from sealed surfaces, low evapotranspiration, missing vegetation."
+      }
+    },
+    {
+      "term": "Versickerung",
+      "definition": {
+        "de": "Eindringen von Wasser in den Boden; bei Versiegelung blockiert.",
+        "en": "Percolation of water into soil; blocked by sealing."
+      }
+    },
+    {
+      "term": "Retention",
+      "definition": {
+        "de": "Zwischenspeicherung von Wasser in Boden/Becken zur Entlastung von Abfluss-Spitzen.",
+        "en": "Temporary water storage in soil/basins to buffer runoff peaks."
+      }
+    }
+  ],
+  "related": [
+    "infrastrukturverfall",
+    "vereinsamung",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "automatisierung"
+  ],
+  "lastUpdatedISO": "2025-02-02T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-boden",
+    "generatedAtISO": "2025-02-02T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Optionale Medien: Oberflächen-Temp-Karte, Runoff-Grafik.",
+    "Zahlen nach Lokalität differenzieren, falls verfügbar."
+  ],
+  "citations": [
+    {
+      "label": "EEA Soil Sealing 2024"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/bodenversiegelung/crisis-placeholder.jpg",
+      "/media/bodenversiegelung/impact-placeholder.png",
+      "/media/bodenversiegelung/solution-placeholder.jpg"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "2011",
+      "location": "Bangkok",
+      "event": "Flut + Versiegelung",
+      "description": "Stadtflächen verstärken Runoff, Industrieparks überflutet."
+    },
+    {
+      "year": "2022",
+      "location": "Frankfurt",
+      "event": "Hitzetage",
+      "description": "Versiegelte Innenstadt hält Nacht-Temperaturen >25°C."
+    },
+    {
+      "year": "2023",
+      "location": "Berlin",
+      "event": "Starkregen",
+      "description": "Abwasserkanäle überlastet, Oberflächenwasser flutet Keller."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "staatsbuergerschaft",
+  "slug": "staatsbuergerschaft",
+  "title": {
+    "de": "Staatsbürgerschaft",
+    "en": "Citizenship"
+  },
+  "summary": {
+    "de": "Zugehörigkeit wird neu vermessen: Pass, Punkte, Investitionen oder Geburt entscheiden über Rechte.",
+    "en": "Belonging is recalculated: passport, points, investment, or birth decide rights."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "citizenship-market",
+    "points-system",
+    "dual-passport",
+    "naturalisation",
+    "denaturalisation"
+  ],
+  "severity": 67,
+  "volatility": 61,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Goldene Pässe",
+        "en": "Golden passports"
+      },
+      "value": "Programme 20+",
+      "source": "Policy trackers"
+    },
+    {
+      "label": {
+        "de": "Einbürgerungszahlen",
+        "en": "Naturalisations"
+      },
+      "value": "↑ nach Reformen",
+      "source": "Gov stats"
+    },
+    {
+      "label": {
+        "de": "Aberkennungen",
+        "en": "Revocations"
+      },
+      "value": "steigernd",
+      "source": "Legal reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Staatsbürgerschaft verschiebt sich von Geburtsrecht zu verhandelter Ressource. Märkte bieten Investorenpässe, Punkte-Systeme sortieren nach Humankapital. Gleichzeitig wachsen Entzugspraktiken: Aberkennung bei Terrorverdacht oder doppeltem Recht. Migration erzeugt Mehrfachzugehörigkeiten, Bürokratien reagieren mit Kontrolle. Zugehörigkeit wird quantifiziert.",
+    "en": "Citizenship shifts from birthright to negotiated asset. Markets sell investment passports; points systems sort by human capital. Simultaneously, revocations rise under security claims. Migration creates multiple allegiances; bureaucracies respond with control. Belonging is quantified."
+  },
+  "mechanisms": {
+    "de": "Kapitalmobilität kauft Pässe, erzeugt Zwei-Klassen-Zugehörigkeit. Punkte-Systeme privilegieren Qualifikation und Alter. Sicherheitsdiskurse legitimieren Entzug. Verwaltung automatisiert Scoring auf Datenbanken; Fehler treffen Rechtlose. Diaspora-Politik vernetzt Loyalitäten transnational.",
+    "en": "Capital mobility buys passports, creating two-tier belonging. Points systems privilege skills and age. Security discourse legitimises revocation. Bureaucracy automates scoring on databases; errors hit the paperless. Diaspora policy ties loyalties across borders."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Pass-gegen-Kapital",
+        "en": "Passport for Capital"
+      },
+      "description": {
+        "de": "Investitionsprogramme gewähren schnelle Einbürgerung.",
+        "en": "Investment programmes grant fast-track citizenship."
+      }
+    },
+    {
+      "name": {
+        "de": "Punkte-Souveränität",
+        "en": "Points Sovereignty"
+      },
+      "description": {
+        "de": "Algorithmische Auswahl nach Ausbildung, Einkommen, Alter.",
+        "en": "Algorithmic selection by education, income, age."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Jus Soli / Jus Sanguinis",
+      "definition": {
+        "de": "Geburts- vs Abstammungsrecht in der Staatsbürgerschaft.",
+        "en": "Birthright vs descent principles in citizenship."
+      }
+    },
+    {
+      "term": "Citizenship by Investment",
+      "definition": {
+        "de": "Erwerb von Staatsbürgerschaft durch Kapitalanlagen.",
+        "en": "Acquisition of citizenship via capital investment."
+      }
+    },
+    {
+      "term": "Aberkennung",
+      "definition": {
+        "de": "Entzug der Staatsbürgerschaft durch staatlichen Akt.",
+        "en": "Revocation of citizenship by state act."
+      }
+    }
+  ],
+  "related": [
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus",
+    "corruption",
+    "datenmissbrauch"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-staatsbuerger-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Policy trackers",
+      "note": "CBI programmes, revocation laws"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/staatsbuergerschaft/crisis-placeholder.jpg",
+      "/media/staatsbuergerschaft/impact-placeholder.png",
+      "/media/staatsbuergerschaft/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Choropleth: citizenship regimes; chord: dual-passport flows; sunburst: points criteria."
+  ],
+  "timeline": [
+    {
+      "year": "2010s",
+      "location": "Caribbean/EU",
+      "event": "CBI-Programme",
+      "description": "Goldene Pässe etablieren Marktlogik."
+    },
+    {
+      "year": "2020",
+      "location": "OECD",
+      "event": "Punkte-Systeme",
+      "description": "Skilled-migration Punkte werden Standard."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "Revocation-Welle",
+      "description": "Sicherheitsargumente begründen Aberkennungen, Rechtsmittel begrenzt."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "id": "krieg",
+  "slug": "krieg",
+  "title": {
+    "de": "Krieg",
+    "en": "War"
+  },
+  "summary": {
+    "de": "Organisierte Gewalt zwischen Staaten oder großen Akteuren; industrielle Logistik, Information und Recht werden mobilisiert. Hybridkrieg nutzt Lawfare, Desinformation und A2/AD-Buffer; die Eskalationsleiter bleibt fragil.",
+    "en": "Organised violence between states or major actors; industrial logistics, information, and law are mobilised."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "conventional",
+    "hybrid",
+    "lawfare",
+    "propaganda",
+    "escalation"
+  ],
+  "severity": 90,
+  "volatility": 82,
+  "timeHorizon": "immediate",
+  "signals": [
+    {
+      "label": {
+        "de": "Truppenaufmarsch",
+        "en": "Troop build-up"
+      },
+      "value": "sichtbar",
+      "source": "OSINT"
+    },
+    {
+      "label": {
+        "de": "Displacement / Woche",
+        "en": "Displacement per week"
+      },
+      "value": "40k–120k",
+      "source": "UNHCR/OCHA"
+    },
+    {
+      "label": {
+        "de": "Artillerieeinsatz",
+        "en": "Artillery use"
+      },
+      "value": "hoch",
+      "source": "Battle damage"
+    },
+    {
+      "label": {
+        "de": "Getötete (zivil/militär) pro Woche",
+        "en": "Killed (civ/mil) per week"
+      },
+      "value": "800–2.000",
+      "source": "ICRC/monitoring"
+    },
+    {
+      "label": {
+        "de": "Eskalationsleiter",
+        "en": "Escalation ladder"
+      },
+      "value": "steigend",
+      "source": "Policy statements"
+    },
+    {
+      "label": {
+        "de": "Verteidigungsausgaben % BIP",
+        "en": "Defence spend % GDP"
+      },
+      "value": "2–7 %",
+      "source": "IMF/NATO"
+    },
+    {
+      "label": {
+        "de": "Zivile Opfer",
+        "en": "Civilian casualties"
+      },
+      "value": "steigend",
+      "source": "UNO/OCHA"
+    },
+    {
+      "label": {
+        "de": "Infrastruktur-Schäden",
+        "en": "Infrastructure damage"
+      },
+      "value": "Strom/Wasser <60%",
+      "source": "Utility reports"
+    },
+    {
+      "label": {
+        "de": "Ceasefire-Verletzungen / Monat",
+        "en": "Ceasefire violations / month"
+      },
+      "value": "3k–9k",
+      "source": "OSCE/UN"
+    }
+  ],
+  "diagnosis": {
+    "de": "Krieg ist totale Mobilisierung: Produktion, Information, Recht werden auf Gewalt ausgerichtet. Hybridkrieg verbindet Cyber, Desinformation und kinetische Mittel. Zivilgesellschaft wird Ziel (Infrastruktur, Energie). A2/AD-Zonen verschieben Frontverläufe, Lawfare legitimiert Schlagräume. Eskalationsleiter folgt Ketten aus Fehleinschätzung, Abschreckungsscheitern und Bündnisdynamik. Humanitäre und ökologische Folgeschäden dauern Jahrzehnte.",
+    "en": "War is total mobilisation: production, information, and law are bent toward force. Hybrid warfare combines cyber, disinformation, and kinetic means. Civil society is targeted (infrastructure, energy). A2/AD bubbles shift frontlines; lawfare legitimises strike windows. Escalation follows misread signals, deterrence failure, and alliance dynamics. Humanitarian and ecological damage persists for decades."
+  },
+  "mechanisms": {
+    "de": "Logistik entscheidet über Operationsfähigkeit. A2/AD-Zonen limitieren Bewegung. Informationskrieg formt Wahrnehmung und Legitimation. Sanktionen verknappen Ressourcen, treffen Zivilisten. Recht (Lawfare) wird genutzt, um Handlungsspielräume zu schaffen oder zu blockieren. Displacement verändert Demografie und Ressourcenlast.",
+    "en": "Logistics determine operational capacity. A2/AD zones constrain movement. Information war shapes perception and legitimacy. Sanctions restrict resources and hit civilians. Lawfare opens or blocks options. Displacement shifts demography and resource strain."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Stellvertreterfront",
+        "en": "Proxy Front"
+      },
+      "description": {
+        "de": "Externe Mächte liefern Waffen und Doktrin, lokale Akteure kämpfen.",
+        "en": "External powers supply weapons/doctrine; local actors fight."
+      }
+    },
+    {
+      "name": {
+        "de": "High-Intensity",
+        "en": "High Intensity"
+      },
+      "description": {
+        "de": "Artillerie, Panzer, Luftmacht dominieren, Verluste hoch.",
+        "en": "Artillery, armor, airpower dominate; losses high."
+      }
+    },
+    {
+      "name": {
+        "de": "A2/AD-Puffer",
+        "en": "A2/AD Buffer"
+      },
+      "description": {
+        "de": "Anti-Access/Area-Denial schiebt Frontlinien, zwingt Umwege.",
+        "en": "Anti-access/area-denial shifts frontlines and forces detours."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Eskalationsleiter",
+      "definition": {
+        "de": "Stufen zunehmender Gewalt mit Schwellen zu Massenvernichtung.",
+        "en": "Steps of increasing force with thresholds to mass destruction."
+      }
+    },
+    {
+      "term": "Lawfare",
+      "definition": {
+        "de": "Einsatz rechtlicher Mittel als Waffe zur Einschränkung oder Legitimation.",
+        "en": "Use of legal tools as weapons to constrain or legitimise."
+      }
+    },
+    {
+      "term": "Hybridkrieg",
+      "definition": {
+        "de": "Kombination konventioneller, irregulärer und digitaler Mittel.",
+        "en": "Combination of conventional, irregular, and digital means."
+      }
+    },
+    {
+      "term": "A2/AD",
+      "definition": {
+        "de": "Anti-Access/Area-Denial: Systeme, die Zugang und Bewegungsfreiheit verwehren.",
+        "en": "Anti-access/area-denial systems that deny entry and manoeuvre."
+      }
+    }
+  ],
+  "related": [
+    "desinformation",
+    "grenzkonflikte",
+    "faschisierung",
+    "war",
+    "abschiebungsapparat",
+    "algorithmische-steuerung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-krieg-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "OSINT/ICRC",
+      "note": "Force movements, humanitarian impact"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/krieg/frontlinien-placeholder.jpg",
+      "/media/krieg/infrastruktur-schaden-placeholder.jpg",
+      "/media/krieg/evac-route-placeholder.png"
+    ],
+    "audio": [],
+    "video": []
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Wer trägt die Hauptlast?",
+        "en": "Who bears the main burden?"
+      },
+      "answer": {
+        "de": "Zivilisten in urbanen Räumen, kritische Infrastruktur, reservistische Mobilisierungsschichten.",
+        "en": "Civilians in urban areas, critical infrastructure, and layers of reservist mobilisation."
+      }
+    },
+    {
+      "question": {
+        "de": "Was entscheidet über Eskalation?",
+        "en": "What drives escalation?"
+      },
+      "answer": {
+        "de": "Fehlinterpretation von Signalen, Bündniszwänge, A2/AD-Brüche, Kollaps diplomatischer Kanäle.",
+        "en": "Misread signals, alliance pressure, breaches of A2/AD, collapse of diplomatic channels."
+      }
+    },
+    {
+      "question": {
+        "de": "Welche Daten brauchen wir?",
+        "en": "What data do we need?"
+      },
+      "answer": {
+        "de": "Lage von Energie- und Wasserknoten, Munitionsverbrauch, zivile Opfer pro Woche, Satellitenbänder für Infrastruktur.",
+        "en": "Positions of energy/water nodes, munitions burn rate, weekly civilian casualties, satellite bands for infrastructure."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie bleibt humanitäre Korridorfunktion erhalten?",
+        "en": "How to maintain humanitarian corridors?"
+      },
+      "answer": {
+        "de": "Identifikation sicherer Fenster, A2/AD-Karten, Redundanz in Logistik, Monitoring über Satellit und lokale Partner.",
+        "en": "Identify safe windows, map A2/AD envelopes, build logistics redundancy, monitor via satellite and local partners."
+      }
+    }
+  ],
+  "editNotes": [
+    "Timeline ribbon: escalation steps; map: contested corridors; particle shader: artillery intensity.",
+    "D3: stacked area für Opfer nach Zivil/Militär; chord für Waffenflüsse; line für Strom/Wasser-Verfügbarkeit.",
+    "Platzhalter-Bilder gesetzt; später Satellitenkacheln/Heatmaps möglich."
+  ],
+  "timeline": [
+    {
+      "year": "2014",
+      "location": "Eastern Europe",
+      "event": "Hybrid-Phase",
+      "description": "Kleine grüne Männer, Cyber, Desinfo."
+    },
+    {
+      "year": "2022",
+      "location": "Europe",
+      "event": "Großangriff",
+      "description": "Konventionelle Invasion, Artilleriekrieg."
+    },
+    {
+      "year": "2023",
+      "location": "Global",
+      "event": "A2/AD-Ausbau",
+      "description": "Anti-Access-Doktrinen begrenzen Bewegungsfreiheit."
+    },
+    {
+      "year": "2024",
+      "location": "Various",
+      "event": "Humanitäre Korridore umkämpft",
+      "description": "Ceasefire-Verletzungen destabilisieren Versorgungslinien."
+    }
+  ]
+}

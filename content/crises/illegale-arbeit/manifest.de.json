@@ -1,0 +1,158 @@
+{
+  "id": "illegale-arbeit",
+  "slug": "illegale-arbeit",
+  "title": {
+    "de": "Illegale Arbeit",
+    "en": "Illicit labor"
+  },
+  "summary": {
+    "de": "Schwarz- und Scheinarbeit verschieben Risiken auf Arbeiter:innen und unterlaufen Schutzstandards.",
+    "en": "Shadow and bogus work shift risk onto workers and bypass protections."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle",
+    "Existenz"
+  ],
+  "tags": [
+    "informality",
+    "undocumented",
+    "wage-theft",
+    "remittances",
+    "platform-labor"
+  ],
+  "severity": 64,
+  "volatility": 52,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Informeller Anteil BIP",
+        "en": "Informal share of GDP"
+      },
+      "value": "10-20%",
+      "source": "ILO"
+    },
+    {
+      "label": {
+        "de": "Arbeitsinspektionen",
+        "en": "Labor inspections"
+      },
+      "value": "↓ Frequenz",
+      "source": "Labor ministries"
+    },
+    {
+      "label": {
+        "de": "Remittances",
+        "en": "Remittances"
+      },
+      "value": "rekordhoch",
+      "source": "World Bank"
+    }
+  ],
+  "diagnosis": {
+    "de": "Illegale Arbeit ist Governance-Lücke und Geschäftsmodell. Nachfrage: Kosten- und Zeitdruck in Bau, Pflege, Landwirtschaft, Logistik. Angebot: Migration ohne Papiere, fehlende Aufenthaltsrechte. Plattformen verschleiern Arbeitsverhältnisse als Selbstständigkeit. Kontrolle wird dünn besetzt, Sanktionen sind kalkulierbare Kosten. Folge: Löhne sinken, Sozialkassen erodieren, Unfall- und Ausbeutungsrisiken steigen.",
+    "en": "Illicit labor is both governance gap and business model. Demand: cost and time pressure in construction, care, agriculture, logistics. Supply: migrants without papers, lacking permits. Platforms mask employment as self-employment. Enforcement is understaffed; sanctions become a priced-in cost. Outcomes: wages fall, social funds erode, injury and exploitation risks rise."
+  },
+  "mechanisms": {
+    "de": "Rechtsstatus entscheidet Verhandlungsmacht. Auftraggeber externalisieren Haftung über Subunternehmerketten. Zahlungsflüsse bleiben bar oder kryptisch und entziehen sich Steuern. Dokumentationspflichten werden fragmentiert; Datenzugang der Behörden ist gering. Remittances stabilisieren Herkunftsländer und machen Rückkehr unwahrscheinlicher.",
+    "en": "Legal status determines bargaining power. Principals externalise liability through subcontract chains. Payments stay cash or crypto, avoiding taxes. Documentation duties fragment; authorities have low data access. Remittances stabilise origin households, making return unlikely."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Grauzonen-Logistik",
+        "en": "Grey Logistics"
+      },
+      "description": {
+        "de": "Letzte Meile mit unterregulierten Subunternehmern, hohe Unfall- und Zeitrisiken.",
+        "en": "Last-mile run by underregulated subcontractors with high accident and time risk."
+      }
+    },
+    {
+      "name": {
+        "de": "Schattenpflege",
+        "en": "Shadow Care"
+      },
+      "description": {
+        "de": "24h-Betreuung ohne Verträge, Cashflows informell, Abhängigkeit total.",
+        "en": "24/7 care without contracts; cash flows informal; dependency total."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Informalität",
+      "definition": {
+        "de": "Arbeit ohne Registrierung, Sozialbeiträge oder Vertrag.",
+        "en": "Work without registration, social contributions, or contract."
+      }
+    },
+    {
+      "term": "Scheinselbstständigkeit",
+      "definition": {
+        "de": "Formal selbstständig, faktisch abhängig beschäftigt.",
+        "en": "Formally self-employed, factually dependent employment."
+      }
+    },
+    {
+      "term": "Wage Theft",
+      "definition": {
+        "de": "Vorenthalten von Lohn, Überstunden oder Mindestlohn.",
+        "en": "Withholding wages, overtime, or minimum pay."
+      }
+    }
+  ],
+  "related": [
+    "migration",
+    "rechtlosigkeit",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "asylpolitik",
+    "atomare-abschreckung"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-illegale-arbeit-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "ILO informal economy",
+      "note": "Share of GDP, employment"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/illegale-arbeit/crisis-placeholder.jpg",
+      "/media/illegale-arbeit/impact-placeholder.png",
+      "/media/illegale-arbeit/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Sankey: contractor → subcontractor → worker pay; chord: origin countries; strip plot: inspections vs detected violations."
+  ],
+  "timeline": [
+    {
+      "year": "1990er",
+      "location": "EU",
+      "event": "Liberalisierung",
+      "description": "Outsourcing und Subcontracting werden Standard."
+    },
+    {
+      "year": "2010er",
+      "location": "Global",
+      "event": "Plattformisierung",
+      "description": "Gig-Modelle verschieben Arbeitgeberpflichten auf Fahrer:innen und Boten."
+    },
+    {
+      "year": "2022-2024",
+      "location": "EU",
+      "event": "Inflation + Arbeitskräftelücke",
+      "description": "Zweitjobs im Schattenmarkt nehmen zu, Kontrolle bleibt gering."
+    }
+  ]
+}

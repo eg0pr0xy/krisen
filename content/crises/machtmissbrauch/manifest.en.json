@@ -1,0 +1,157 @@
+{
+  "id": "machtmissbrauch",
+  "slug": "machtmissbrauch",
+  "title": {
+    "de": "Machtmissbrauch",
+    "en": "Abuse of power"
+  },
+  "summary": {
+    "de": "Positionelle Macht wird privat genutzt: Korruption, Vetternwirtschaft und Einschüchterung untergraben Vertrauen.",
+    "en": "Positional power is used privately: corruption, patronage, and intimidation erode trust."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "corruption",
+    "patronage",
+    "impunity",
+    "whistleblowing",
+    "capture"
+  ],
+  "severity": 73,
+  "volatility": 59,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Korruptionsindex",
+        "en": "Corruption index"
+      },
+      "value": "Verschlechterung",
+      "source": "TI"
+    },
+    {
+      "label": {
+        "de": "Whistleblower-Fälle",
+        "en": "Whistleblower cases"
+      },
+      "value": "↑",
+      "source": "Court records"
+    },
+    {
+      "label": {
+        "de": "Amtliche Nebenverdienste",
+        "en": "Official side incomes"
+      },
+      "value": "steigend",
+      "source": "Disclosure reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Machtmissbrauch verschiebt Institutionen von Gemeinwohl zu Eigenwohl. Capture: Regulierer werden zu Branchenvertretern. Vetternwirtschaft schwächt Meritokratie. Whistleblower werden bedroht, Medien konzentrieren sich, Checks and Balances erodieren. Resultat: Legitimitätsverlust, Ressourcenumlenkung, Zynismus.",
+    "en": "Abuse of power tilts institutions from public to private interest. Regulatory capture turns overseers into industry advocates. Patronage undermines merit. Whistleblowers face retaliation; media concentration mutes scrutiny; checks and balances erode. Outcome: legitimacy loss, resource diversion, cynicism."
+  },
+  "mechanisms": {
+    "de": "Intransparente Vergaben, schwache Compliance und politische Immunitäten schaffen Gelegenheitsstrukturen. Informationsasymmetrien erschweren Kontrolle. Ökonomische Konzentration verstärkt Lobbying. Sanktionen sind selten oder zu niedrig, sodass Missbrauch einkalkuliert wird.",
+    "en": "Opaque procurement, weak compliance, and political immunities create opportunity structures. Information asymmetry hinders oversight. Economic concentration amplifies lobbying. Sanctions are rare or low, so abuse is priced in."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Regulatory Capture",
+        "en": "Regulatory Capture"
+      },
+      "description": {
+        "de": "Aufsicht wird zum Sprachrohr der beaufsichtigten Branche.",
+        "en": "Oversight turns into an advocate for the supervised industry."
+      }
+    },
+    {
+      "name": {
+        "de": "Patronage-Kaskade",
+        "en": "Patronage Cascade"
+      },
+      "description": {
+        "de": "Ämter und Ressourcen werden entlang Loyalitäten verteilt.",
+        "en": "Offices and resources are allocated along loyalty chains."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Capture",
+      "definition": {
+        "de": "Übernahme von Regulierung durch regulierte Akteure.",
+        "en": "Regulation co-opted by those regulated."
+      }
+    },
+    {
+      "term": "Patronage",
+      "definition": {
+        "de": "Verteilung von Ämtern/Geldern nach Loyalität statt Leistung.",
+        "en": "Allocation of offices/funds by loyalty instead of merit."
+      }
+    },
+    {
+      "term": "Immunität",
+      "definition": {
+        "de": "Schutz vor Strafverfolgung, der Missbrauch erleichtern kann.",
+        "en": "Protection from prosecution that can enable abuse."
+      }
+    }
+  ],
+  "related": [
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus",
+    "corruption",
+    "datenmissbrauch"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-machtmissbrauch-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "TI, court records",
+      "note": "Perception indices, cases"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/machtmissbrauch/crisis-placeholder.jpg",
+      "/media/machtmissbrauch/impact-placeholder.png",
+      "/media/machtmissbrauch/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Sankey: money flows; chord: lobby links; glitch overlay for opacity metric."
+  ],
+  "timeline": [
+    {
+      "year": "2010er",
+      "location": "Global",
+      "event": "Compliance-Rollbacks",
+      "description": "Schwächere Aufsicht, Deregulierung."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Notfallvergabe",
+      "description": "Pandemie-Beschaffung erhöht Gelegenheitsstrukturen."
+    },
+    {
+      "year": "2023",
+      "location": "EU/US",
+      "event": "Whistleblower-Leaks",
+      "description": "Enthüllungen zu Lobbyverflechtungen, Druck auf Reformen."
+    }
+  ]
+}

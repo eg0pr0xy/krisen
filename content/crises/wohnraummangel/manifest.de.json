@@ -1,0 +1,156 @@
+{
+  "id": "wohnraummangel",
+  "slug": "wohnraummangel",
+  "title": {
+    "de": "Wohnraummangel",
+    "en": "Housing Shortage"
+  },
+  "summary": {
+    "de": "Zu wenige bezahlbare Wohnungen; Mieten steigen schneller als Einkommen, Verdrängung greift.",
+    "en": "Too little affordable housing; rents rise faster than incomes, displacement grows."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "miete",
+    "bau",
+    "boden",
+    "verdrängung",
+    "stadt"
+  ],
+  "severity": 82,
+  "volatility": 73,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Mietbelastung (>30% Einkommen)",
+        "en": "Rent burden >30% income"
+      },
+      "value": "~35% Haushalte",
+      "source": "Housing surveys"
+    },
+    {
+      "label": {
+        "de": "Wohnungsfertigstellungen vs Bedarf",
+        "en": "Housing completions vs need"
+      },
+      "value": "Defizit",
+      "source": "Stat offices"
+    },
+    {
+      "label": {
+        "de": "Verdrängungsfälle/ Jahr",
+        "en": "Displacement cases/year"
+      },
+      "value": "↑",
+      "source": "NGO reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Wohnraummangel ist Material plus Macht. Boden wird Finanzanlage, nicht Gebrauchsgut. Mietmärkte reagieren träge; Bauzyklen hinken. Geringes Angebot trifft auf Urbanisierung, Zinsen verteuern Neubau. Mietbelastung erreicht kritische Höhen, sozialer Wohnungsbau schrumpft. Folge: Verdrängung, Überbelegung, räumliche Segregation.",
+    "en": "Housing shortage mixes material and power. Land becomes finance, not use. Rental markets react slowly; build cycles lag. Low supply meets urbanisation; rates make new builds costly. Rent burden reaches critical levels, social housing stock declines. Result: displacement, overcrowding, spatial segregation."
+  },
+  "mechanisms": {
+    "de": "Bauhemmnisse, hohe Zinsen, fehlende Gemeinnützigkeit drosseln Angebot. Spekulation hält Flächen leer. Soziale Wohnungsbestände schrumpfen. Kurzzeitvermietung entzieht Einheiten. Mietregulierungen wirken verzögert, Investitionen weichen aus. Bodenwertsteuer könnte Spekulation dämpfen, aber wird selten implementiert.",
+    "en": "Permitting, high rates, and weak public housing shrink supply. Speculation keeps units empty. Social stock declines. Short-term rentals remove units. Rent controls act slowly; investment deflects elsewhere. Land value tax could damp speculation, but is rarely implemented."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Mietschere",
+        "en": "Rent Shears"
+      },
+      "description": {
+        "de": "Miete steigt, Einkommen stagniert.",
+        "en": "Rents climb, incomes stall."
+      }
+    },
+    {
+      "name": {
+        "de": "Verdrängungswelle",
+        "en": "Displacement Wave"
+      },
+      "description": {
+        "de": "Alte Bewohner weichen Investorenprojekten.",
+        "en": "Long-time residents give way to investor projects."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Mietbelastung",
+      "definition": {
+        "de": "Anteil des Einkommens für Miete.",
+        "en": "Share of income spent on rent."
+      }
+    },
+    {
+      "term": "Bodenwertsteuer",
+      "definition": {
+        "de": "Steuer auf Grundwert zur Dämpfung von Spekulation.",
+        "en": "Land value tax to damp speculation."
+      }
+    },
+    {
+      "term": "Sozialer Wohnungsbau",
+      "definition": {
+        "de": "Öffentlich geförderte, gebundene Mieten.",
+        "en": "Publicly backed, regulated rents."
+      }
+    }
+  ],
+  "related": [
+    "gentrifizierung",
+    "umweltzerstoerung",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "biodiversitaetsverlust"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-wohnen",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Housing stats / NGO displacement data"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/wohnraummangel/crisis-placeholder.jpg",
+      "/media/wohnraummangel/impact-placeholder.png",
+      "/media/wohnraummangel/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "D3: Rent vs income lines; completions vs need bars; displacement map."
+  ],
+  "timeline": [
+    {
+      "year": "2010s",
+      "location": "Städte",
+      "event": "Spekulationswelle",
+      "description": "Kapital fließt in Immobilien, Mieten steigen."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie",
+      "description": "Baustopps + Flucht ins Eigentum verknappen Angebot."
+    },
+    {
+      "year": "2023-2024",
+      "location": "OECD",
+      "event": "Zinswende",
+      "description": "Finanzierung verteuert, Neubau stockt."
+    }
+  ]
+}

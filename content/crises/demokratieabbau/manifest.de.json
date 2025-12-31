@@ -1,0 +1,293 @@
+{
+  "id": "demokratieabbau",
+  "slug": "demokratieabbau",
+  "title": {
+    "de": "Demokratieabbau",
+    "en": "Democratic erosion"
+  },
+  "summary": {
+    "de": "Gewaltenteilung, Medienvielfalt und Minderheitenschutz werden schrittweise geschwächt; Wahlen bleiben formell, verlieren Substanz.",
+    "en": "Checks, media pluralism, and minority protection erode; elections stay formal while substance drains away."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "rule-of-law",
+    "media-capture",
+    "executive-drift",
+    "judiciary",
+    "civic-space"
+  ],
+  "severity": 79,
+  "volatility": 60,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Rule-of-Law Index",
+        "en": "Rule of Law Index"
+      },
+      "value": "Rückgang",
+      "source": "WJP"
+    },
+    {
+      "label": {
+        "de": "Checks & Balances Score",
+        "en": "Checks & balances score"
+      },
+      "value": "-5 bis -15%",
+      "source": "V-Dem"
+    },
+    {
+      "label": {
+        "de": "Medienbesitzkonzentration",
+        "en": "Media concentration"
+      },
+      "value": "↑ Top-3 >70%",
+      "source": "Market studies"
+    },
+    {
+      "label": {
+        "de": "NGO-Schranken",
+        "en": "NGO barriers"
+      },
+      "value": "steigend",
+      "source": "Civic space monitors"
+    },
+    {
+      "label": {
+        "de": "Notstandsverlängerungen",
+        "en": "Emergency extensions"
+      },
+      "value": "jährlich",
+      "source": "Gov gazettes"
+    }
+  ],
+  "diagnosis": {
+    "de": "Demokratieabbau bezeichnet einen schleichenden, strukturellen Prozess der Aushöhlung demokratischer Ordnungen, bei dem die formalen Institutionen demokratischer Herrschaft – insbesondere Wahlen, Parlamente, Gerichte und Medien – fortbestehen, während ihre substanzielle Funktion zur Machtbegrenzung, Repräsentation, Deliberation und Minderheitenabsicherung systematisch geschwächt wird. Im Zentrum des Demokratieabbaus steht nicht der offene Bruch mit demokratischen Prinzipien, sondern deren funktionale Entleerung. Gewaltenteilung wird formal aufrechterhalten, faktisch jedoch durch Exekutivdominanz, parteipolitische Durchdringung oder administrative Übersteuerung neutralisiert. Medienvielfalt bleibt nominell bestehen, wird jedoch durch ökonomische Konzentration, algorithmische Aufmerksamkeitslogiken, politische Einflussnahme oder Vertrauensverlust in ihrer kritischen Rolle unterminiert. Minderheitenrechte werden nicht abrupt abgeschafft, sondern schrittweise relativiert, delegitimiert oder in Sicherheits-, Effizienz- oder Mehrheitsdiskurse eingebettet. Wahlen bleiben das sichtbarste demokratische Ritual, verlieren jedoch ihre substanzielle Entscheidungsrelevanz: Wahloptionen verengen sich, politische Programme konvergieren, zentrale Entscheidungen verlagern sich in exekutive, technokratische oder außerparlamentarische Arenen. Demokratieabbau ist damit kein Ereignis, sondern ein Zustandsübergang – von demokratischer Selbstregierung zu postdemokratischer Verwaltung.",
+    "en": "Democratic erosion denotes a creeping, structural process of hollowing out democratic orders, where the formal institutions of democratic rule – especially elections, parliaments, courts and media – persist, while their substantive function for power limitation, representation, deliberation and minority protection is systematically weakened. At the center of democratic erosion is not the open break with democratic principles, but their functional emptying."
+  },
+  "mechanisms": {
+    "de": "Notstandslogiken verlängern Ausnahmebefugnisse. Desinformation zersetzt gemeinsame Faktenbasis. Patronage besetzt Behörden. Wahlkreiszuschnitte und Hürden verzerren Repräsentation. Internationale Checks schwächen, wenn Bündnispartner Erosion tolerieren. Media Capture reduziert Pluralität, Civic Space schrumpft, Rule of Law verliert Sanktionskraft.",
+    "en": "States of emergency extend exceptional powers. Disinformation erodes shared facts. Patronage fills agencies. Gerrymanders and thresholds skew representation. External checks weaken when allies tolerate erosion. Media capture reduces pluralism; shrinking civic space and rule of law lose sanction power."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Form ohne Inhalt",
+        "en": "Form Without Substance"
+      },
+      "description": {
+        "de": "Wahlen finden statt, doch Auswahl und Information sind manipuliert.",
+        "en": "Elections occur but choice and information are manipulated."
+      }
+    },
+    {
+      "name": {
+        "de": "Captured Fourth Estate",
+        "en": "Captured Fourth Estate"
+      },
+      "description": {
+        "de": "Medienlandschaft konzentriert, kritische Stimmen werden marginalisiert.",
+        "en": "Media landscape concentrates; critical voices are sidelined."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Rule of Law",
+      "definition": {
+        "de": "Bindung staatlicher Macht an Recht und unabhängige Kontrolle.",
+        "en": "Binding of state power to law and independent oversight."
+      }
+    },
+    {
+      "term": "Media Capture",
+      "definition": {
+        "de": "Übernahme von Medien durch politisch-ökonomische Interessen.",
+        "en": "Takeover of media by political-economic interests."
+      }
+    },
+    {
+      "term": "Civic Space",
+      "definition": {
+        "de": "Freiheitsraum für Organisation, Protest und Ausdruck.",
+        "en": "Freedom space for organisation, protest, and expression."
+      }
+    },
+    {
+      "term": "Illiberale Demokratie",
+      "definition": {
+        "de": "Wahlen ohne funktionsfähige Gewaltenteilung und Minderheitenschutz.",
+        "en": "Elections without functioning separation of powers and minority protection."
+      }
+    },
+    {
+      "term": "Postdemokratie",
+      "definition": {
+        "de": "Zustand, in dem demokratische Institutionen formal existieren, reale Macht jedoch entkoppelt ist.",
+        "en": "State in which democratic institutions exist formally, but real power is decoupled."
+      }
+    },
+    {
+      "term": "Exekutivdominanz",
+      "definition": {
+        "de": "Übergewicht der Regierung gegenüber Parlament und Judikative.",
+        "en": "Predominance of government over parliament and judiciary."
+      }
+    },
+    {
+      "term": "Demokratische Simulation",
+      "definition": {
+        "de": "Aufrechterhaltung demokratischer Rituale ohne substanzielle Entscheidungsfreiheit.",
+        "en": "Maintenance of democratic rituals without substantial decision-making freedom."
+      }
+    }
+  ],
+  "related": [
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus",
+    "corruption",
+    "datenmissbrauch"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-demokratie-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "WJP/Freedom House",
+      "note": "Rule of law, civic space"
+    },
+    {
+      "label": "Alexis de Tocqueville - Democracy in America",
+      "note": "Danger of soft tyranny"
+    },
+    {
+      "label": "Hannah Arendt - The Human Condition",
+      "note": "Erosion of public spaces"
+    },
+    {
+      "label": "Jürgen Habermas - The Structural Transformation of the Public Sphere",
+      "note": "Colonization of the lifeworld"
+    },
+    {
+      "label": "Niklas Luhmann - Legitimation durch Verfahren",
+      "note": "Legitimation through procedure"
+    },
+    {
+      "label": "Colin Crouch - Post-Democracy",
+      "note": "Post-democratic order"
+    },
+    {
+      "label": "Chantal Mouffe - The Democratic Paradox",
+      "note": "Loss of political conflict capacity"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/demokratieabbau/courtroom-placeholder.jpg",
+      "/media/demokratieabbau/protest-placeholder.jpg"
+    ]
+  },
+  "qa": [
+    {
+      "question": {
+        "de": "Ist Demokratieabbau Ausdruck des Endes politischer Selbststeuerung unter Bedingungen hoher Komplexität?",
+        "en": "Is democratic erosion an expression of the end of political self-control under conditions of high complexity?"
+      },
+      "answer": {
+        "de": "Ja, Demokratieabbau markiert den Bruch zwischen Aufklärung (Volkssouveränität), Nachkriegsdemokratie (Institutionalisierte Machtbegrenzung) und Anthropozän (Überforderung durch Komplexität/Geschwindigkeit).",
+        "en": "Yes, democratic erosion marks the fracture between Enlightenment (popular sovereignty), postwar democracy (institutionalized power limitation), and Anthropocene (overload through complexity/speed)."
+      }
+    },
+    {
+      "question": {
+        "de": "Verliert der Nationalstaat seine demokratische Souveränität an Märkte, Plattformen und supranationale Strukturen?",
+        "en": "Does the nation-state lose its democratic sovereignty to markets, platforms, and supranational structures?"
+      },
+      "answer": {
+        "de": "Institutionen altern schneller als Individuen reformierbar sind; politische Halbwertszeiten übersteigen biologische. Demokratie wird umgangen, nicht abgeschafft.",
+        "en": "Institutions age faster than individuals can be reformed; political half-lives exceed biological ones. Democracy is bypassed, not abolished."
+      }
+    },
+    {
+      "question": {
+        "de": "Liegt das Epizentrum an der Schnittstelle von digitaler Öffentlichkeit, Exekutive und Sicherheitsdiskursen?",
+        "en": "Is the epicenter at the interface of digital public sphere, executive power, and security discourses?"
+      },
+      "answer": {
+        "de": "Ja, dort manifestiert sich die Entkopplung von Legitimation und Steuerung: Demokratische Verfahren erzeugen weiterhin Legitimität, reale Macht fließt außerhalb demokratischer Rückkopplung.",
+        "en": "Yes, that's where the decoupling of legitimation and control manifests: Democratic procedures continue to generate legitimacy, real power flows outside democratic feedback loops."
+      }
+    },
+    {
+      "question": {
+        "de": "Ab welchem Punkt wird Demokratie zur reinen Symbolform ohne reale Machtbindung?",
+        "en": "At what point does democracy become pure symbolic form without real power binding?"
+      },
+      "answer": {
+        "de": "Wenn Gewaltenteilung formal besteht, faktisch jedoch durch Exekutivdominanz neutralisiert ist. Medienvielfalt nominell vorhanden, kritische Rolle unterminiert. Minderheitenrechte schrittweise delegitimiert.",
+        "en": "When separation of powers exists formally, but is factually neutralized by executive dominance. Media diversity nominally present, critical role undermined. Minority rights gradually delegitimized."
+      }
+    },
+    {
+      "question": {
+        "de": "Verstärken Krisen (Pandemie, Krieg, Klima, Migration) autoritäre Steuerungslogiken synchron?",
+        "en": "Do crises (pandemic, war, climate, migration) synchronously reinforce authoritarian control logics?"
+      },
+      "answer": {
+        "de": "Ja, Polykrisen-Konvergenz überlastet demokratische Deliberation; Entscheidungsdruck lässt Demokratie als zu langsam erscheinen. Technokratisierung und Affektpolitik ersetzen rationale Diskurse.",
+        "en": "Yes, polycrisis convergence overloads democratic deliberation; decision pressure makes democracy appear too slow. Technocratization and affective politics replace rational discourses."
+      }
+    },
+    {
+      "question": {
+        "de": "Kann Demokratie unter heutigen Bedingungen reformiert werden – oder nur noch simuliert?",
+        "en": "Can democracy be reformed under today's conditions – or only simulated?"
+      },
+      "answer": {
+        "de": "Inkrementelle Reformen reichen nicht; Demokratieabbau ist kompatibel mit Stabilität. Systeme funktionieren weiter, während demokratische Tiefenstruktur erodiert. Simulation ist der neue Normalmodus.",
+        "en": "Incremental reforms are not enough; democratic erosion is compatible with stability. Systems continue to function while the democratic deep structure erodes. Simulation is the new normal mode."
+      }
+    }
+  ],
+  "editNotes": [
+    "Sankey: power shift exec→leg→judiciary; bar: media ownership; ribbon: civic-space constraints over time.",
+    "LIVE-EVIDENCE: Demokratieabbau evident wo politische Entscheidungen als alternativlos präsentiert werden, Opposition delegitimiert statt integriert wird, und Bürger*innen formal beteiligt, faktisch jedoch machtlos sind. Demokratieabbau kein Ausnahmezustand, sondern neuer Normalmodus politischer Ordnung."
+  ],
+  "timeline": [
+    {
+      "year": "2010er",
+      "location": "CEE/Global South",
+      "event": "Court packing",
+      "description": "Regierungen besetzen Höchstgerichte parteinah."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Notstand verlängert",
+      "description": "Pandemie-Ausnahmen werden verstetigt."
+    },
+    {
+      "year": "2023",
+      "location": "EU/US",
+      "event": "Medienkäufe",
+      "description": "Oligarchische Käufe reduzieren Pluralität, kritische Redaktionen schließen."
+    },
+    {
+      "year": "2024",
+      "location": "Europa",
+      "event": "Verfassungsreformen",
+      "description": "Checks & Balances werden per Gesetzespaket geschwächt."
+    }
+  ]
+}

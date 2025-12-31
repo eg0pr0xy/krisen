@@ -1,0 +1,141 @@
+{
+  "id": "automatisierung",
+  "slug": "automatisierung",
+  "title": {
+    "de": "Automatisierung",
+    "en": "Automation"
+  },
+  "summary": {
+    "de": "Arbeits- und Entscheidungsprozesse werden maschinell überführt, Kontroll- und Abhängigkeitsstrukturen verschieben sich.",
+    "en": "Work and decision processes are transferred to machines, shifting control and dependency structures."
+  },
+  "categories": [
+    "Materie",
+    "Macht"
+  ],
+  "tags": [
+    "arbeit",
+    "roboter",
+    "prozess",
+    "wertschöpfung"
+  ],
+  "severity": 69,
+  "volatility": 63,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Roboterdichte",
+        "en": "Robot density"
+      },
+      "value": "+8% p.a.",
+      "source": "Industrieverband"
+    },
+    {
+      "label": {
+        "de": "Software-Automation",
+        "en": "Software automation"
+      },
+      "value": "RPA verbreitet",
+      "source": "Unternehmensumfragen"
+    },
+    {
+      "label": {
+        "de": "Job-Substitution",
+        "en": "Job substitution"
+      },
+      "value": "mittlere Qualifikationen",
+      "source": "Arbeitsmarktforschung"
+    }
+  ],
+  "diagnosis": {
+    "de": "Automatisierung reduziert variable Kosten, erzeugt aber neue Abhängigkeiten von Plattformen, Sensorik und Wartung. Sie verschiebt Macht zu Eigentümer:innen der Systeme und entwertet Erfahrungswissen. Qualifikationsprofile polarisieren, mittlere Tätigkeiten verschwinden. Fehler im Modell propagieren schnell über ganze Ketten.",
+    "en": "Automation cuts variable costs but creates dependencies on platforms, sensors, and maintenance. It shifts power to system owners and devalues tacit knowledge. Skill profiles polarise as middle tasks vanish. Model errors propagate rapidly across chains."
+  },
+  "mechanisms": {
+    "de": "Standardisierung bereitet Prozesse auf Automatisierung vor und schließt Abweichungen aus. Datenmonopole ermöglichen Lock-in. Kapitalkosten steigen, Lohnkosten sinken, wodurch Verhandlungsmacht der Arbeit sinkt. Sicherheits- und Haftungsfragen bleiben unklar, weshalb Risiken auf Beschäftigte oder Nutzer:innen abgewälzt werden.",
+    "en": "Standardisation prepares processes for automation and excludes deviation. Data monopolies enable lock-in. Capital costs rise and wage costs fall, reducing labour’s bargaining power. Safety and liability remain unclear, shifting risk to workers or users."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Dunkelfabrik",
+        "en": "Dark factory"
+      },
+      "description": {
+        "de": "Weitgehend menschenleere Fertigung mit hoher Störanfälligkeit.",
+        "en": "Largely humanless production with high fragility."
+      }
+    },
+    {
+      "name": {
+        "de": "Human-in-the-Loop",
+        "en": "Human in the loop"
+      },
+      "description": {
+        "de": "Menschliche Kontrolle reduziert, aber haftet im Fehlerfall.",
+        "en": "Human oversight reduced but liable when failure occurs."
+      }
+    },
+    {
+      "name": {
+        "de": "Shadow Work",
+        "en": "Shadow work"
+      },
+      "description": {
+        "de": "Nutzer erledigen unbezahlt Restaufgaben der Automatisierung.",
+        "en": "Users perform residual tasks of automation without pay."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "RPA",
+      "definition": {
+        "de": "Robotic Process Automation: Skripte für repetitive Bürotätigkeiten.",
+        "en": "Robotic process automation: scripts for repetitive office tasks."
+      }
+    },
+    {
+      "term": "Lock-in",
+      "definition": {
+        "de": "Wechselkosten machen Anbieterbindung rational, aber riskant.",
+        "en": "Switching costs make vendor lock rational yet risky."
+      }
+    },
+    {
+      "term": "Technologische Arbeitslosigkeit",
+      "definition": {
+        "de": "Jobverluste durch Substitution menschlicher Arbeit.",
+        "en": "Job losses due to substitution of human labour."
+      }
+    }
+  ],
+  "related": [
+    "arbeitslosigkeit",
+    "entfremdung",
+    "extraktivismus",
+    "finanzialisierung",
+    "gentrifizierung",
+    "geopolitische-verschiebungen"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/automatisierung/robot-placeholder.jpg",
+      "/media/automatisierung/factory-placeholder.png",
+      "/media/automatisierung/unemployment-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "automatisierung",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Automatisierung mit Arbeits- und Haftungsdimension gefüllt.",
+    "Draft für quantitative Branchenbeispiele."
+  ]
+}

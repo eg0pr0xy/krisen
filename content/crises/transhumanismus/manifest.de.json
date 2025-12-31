@@ -1,0 +1,158 @@
+{
+  "id": "transhumanismus",
+  "slug": "transhumanismus",
+  "title": {
+    "de": "Transhumanismus",
+    "en": "Transhumanism"
+  },
+  "summary": {
+    "de": "Der Körper wird zur Plattform: Implantate, Gendaten, Neurointerfaces versprechen Optimierung, verschieben aber Grenzen des Menschlichen.",
+    "en": "The body becomes a platform: implants, gene data, neuro interfaces promise optimization while shifting the human boundary."
+  },
+  "categories": [
+    "Gefühl",
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "biohacking",
+    "implants",
+    "neurotech",
+    "longevity",
+    "ethics"
+  ],
+  "severity": 65,
+  "volatility": 70,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "Neurointerface Trials",
+        "en": "Neurointerface trials"
+      },
+      "value": "↑",
+      "source": "FDA/EMA filings"
+    },
+    {
+      "label": {
+        "de": "Genomsequenzierung Kosten",
+        "en": "Genome sequencing cost"
+      },
+      "value": "<100 USD",
+      "source": "Industry"
+    },
+    {
+      "label": {
+        "de": "Longevity Funding",
+        "en": "Longevity funding"
+      },
+      "value": "steigend",
+      "source": "VC reports"
+    }
+  ],
+  "diagnosis": {
+    "de": "Transhumanismus verschiebt Körpergrenzen in Richtung Plattform-Logik. Optimierung ersetzt Fürsorge. Zugänge sind ungleich, Ethik folgt Kapital. Daten aus Körpern werden monetarisiert, Identität wird updatefähig. Philosophisch: Wer definiert den Menschen, wenn Technik tief integriert ist? Risiko: neue Klassenspaltung, Körper als Testfeld, normative Verschiebungen ohne Debatte.",
+    "en": "Transhumanism pushes bodily limits into platform logic. Optimization replaces care. Access is unequal; ethics follow capital. Bodily data are monetized; identity becomes updatable. Philosophically: who defines the human as tech fuses within? Risks: new class splits, bodies as testbeds, normative shifts without deliberation."
+  },
+  "mechanisms": {
+    "de": "Bio- und Neurotech werden über Privatkapital vorangetrieben, Regulierung hinkt. Daten aus Implantaten fließen in Versicherungen und Werbung. Enhancement wird zum Statussymbol. Körperliche Integrität kollidiert mit IP-Rechten der Hersteller. Reversibilität ist begrenzt.",
+    "en": "Bio and neuro tech advance via private capital; regulation lags. Implant data feed insurance and ads. Enhancement becomes status marker. Bodily integrity collides with vendor IP rights. Reversibility remains limited."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Cyborg-Klasse",
+        "en": "Cyborg Class"
+      },
+      "description": {
+        "de": "Zugang zu Enhancement nur für Vermögende; neue Ungleichheit.",
+        "en": "Enhancement access for the wealthy creates new inequality."
+      }
+    },
+    {
+      "name": {
+        "de": "Datengerät Körper",
+        "en": "Body as Device"
+      },
+      "description": {
+        "de": "Implantate generieren Telemetrie, die Unternehmen kontrollieren.",
+        "en": "Implants generate telemetry controlled by firms."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Selbst-Überwindung",
+      "definition": {
+        "de": "Technische Überschreitung biologischer Grenzen.",
+        "en": "Technical surpassing of biological limits."
+      }
+    },
+    {
+      "term": "Enhancement",
+      "definition": {
+        "de": "Verbesserung jenseits medizinischer Notwendigkeit.",
+        "en": "Improvement beyond medical necessity."
+      }
+    },
+    {
+      "term": "Neuroethik",
+      "definition": {
+        "de": "Ethik der Eingriffe in Gehirn und Kognition.",
+        "en": "Ethics of interventions in brain and cognition."
+      }
+    }
+  ],
+  "related": [
+    "entmenschlichung-buerokratie",
+    "koerperpolitik",
+    "terrorismus",
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufmerksamkeitsoekonomie"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-transhumanismus-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "FDA/EMA, VC data",
+      "note": "Trials, costs, funding"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/transhumanismus/crisis-placeholder.jpg",
+      "/media/transhumanismus/impact-placeholder.png",
+      "/media/transhumanismus/solution-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Wireframe body with data streams; line: sequencing cost decline; shader: red glitch on implant silhouettes."
+  ],
+  "timeline": [
+    {
+      "year": "2013",
+      "location": "US",
+      "event": "CRISPR Boom",
+      "description": "Genome editing wird einfach, Ethikdebatten beginnen."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Wearable Norm",
+      "description": "Biometrie immer-on, Daten werden Asset."
+    },
+    {
+      "year": "2023",
+      "location": "US/EU",
+      "event": "Neurointerface Trials",
+      "description": "Implantate gehen in Human-Tests, IP-Rechte dominieren."
+    }
+  ]
+}

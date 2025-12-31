@@ -1,0 +1,141 @@
+{
+  "id": "infrastrukturverfall",
+  "slug": "infrastrukturverfall",
+  "title": {
+    "de": "Infrastrukturverfall",
+    "en": "Infrastructure decay"
+  },
+  "summary": {
+    "de": "Gebäude, Netze und Dienste altern schneller als Wartung und Erneuerung finanziert werden.",
+    "en": "Buildings, networks, and services age faster than maintenance and renewal are financed."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "bruecken",
+    "wasser",
+    "verkehr",
+    "kommunalfinanzen"
+  ],
+  "severity": 74,
+  "volatility": 47,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Sanierungsstau",
+        "en": "Maintenance backlog"
+      },
+      "value": "+ Milliarden",
+      "source": "Kommunalberichte"
+    },
+    {
+      "label": {
+        "de": "Brückensperrungen",
+        "en": "Bridge closures"
+      },
+      "value": "häufiger",
+      "source": "Verkehrsdaten"
+    },
+    {
+      "label": {
+        "de": "Leckage im Netz",
+        "en": "Network leakage"
+      },
+      "value": ">20% Wasserverlust",
+      "source": "Versorgerstatistiken"
+    }
+  ],
+  "diagnosis": {
+    "de": "Infrastrukturverfall ist das Ergebnis verschobener Prioritäten: Investitionen in Neubau, Vernachlässigung von Wartung. Kommunale Budgets sind eng, Planer:innen und Fachkräfte knapp. Alternde Netze erhöhen Risiko von Ausfällen, Gesundheitsgefahren und wirtschaftlichen Verlusten. Sichtbarer Verfall senkt Vertrauen in Staatlichkeit.",
+    "en": "Infrastructure decay results from shifted priorities: new builds over maintenance. Municipal budgets are tight; planners and skilled labour are scarce. Ageing networks raise risks of outages, health hazards, and economic loss. Visible decay lowers trust in public institutions."
+  },
+  "mechanisms": {
+    "de": "Investitionszyklen werden politisch verkürzt, Wartung wird verschoben. Ausschreibungen bevorzugen niedrigste Kosten statt Lebenszyklus. Klimafolgen (Hitze, Starkregen) beschleunigen Materialermüdung. Privatisierung entkoppelt Einnahmen von Reinvestition. Datenlage ist fragmentiert, wodurch Priorisierung versagt.",
+    "en": "Investment cycles are politically shortened; maintenance is deferred. Procurement favours lowest bid over lifecycle. Climate impacts (heat, heavy rain) accelerate fatigue. Privatisation decouples revenue from reinvestment. Fragmented asset data undermines prioritisation."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Bröckelbrücke",
+        "en": "Crumbing bridge"
+      },
+      "description": {
+        "de": "Sichtbarer Verfall als Symbol für staatliche Schwäche.",
+        "en": "Visible decay as symbol of state weakness."
+      }
+    },
+    {
+      "name": {
+        "de": "Rohrverlust",
+        "en": "Pipe loss"
+      },
+      "description": {
+        "de": "Unsichtbarer Verfall, der Ressourcen verschwendet und Gesundheit gefährdet.",
+        "en": "Invisible decay wasting resources and risking health."
+      }
+    },
+    {
+      "name": {
+        "de": "Baustellen-Dauer",
+        "en": "Perpetual works"
+      },
+      "description": {
+        "de": "Chronische Baustellen blockieren Mobilität und erzeugen Müdigkeit.",
+        "en": "Chronic worksites block mobility and create fatigue."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sanierungsstau",
+      "definition": {
+        "de": "Aufgeschobene Instandhaltung, die künftige Kosten erhöht.",
+        "en": "Deferred maintenance that raises future costs."
+      }
+    },
+    {
+      "term": "Asset Management",
+      "definition": {
+        "de": "Systematische Erfassung und Steuerung von Anlagen über Lebenszyklen.",
+        "en": "Systematic tracking and steering of assets over lifecycles."
+      }
+    },
+    {
+      "term": "Resilienz",
+      "definition": {
+        "de": "Fähigkeit eines Systems, Störungen zu absorbieren und sich anzupassen.",
+        "en": "Ability of a system to absorb disturbance and adapt."
+      }
+    }
+  ],
+  "related": [
+    "bodenversiegelung",
+    "alterung",
+    "arbeitslosigkeit",
+    "artensterben",
+    "biodiversitaetsverlust",
+    "care"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "media": {
+    "images": [
+      "/media/infrastrukturverfall/crisis-placeholder.jpg",
+      "/media/infrastrukturverfall/impact-placeholder.png",
+      "/media/infrastrukturverfall/solution-placeholder.jpg"
+    ]
+  },
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "infrastrukturverfall",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Infrastrukturverfall als Folge von Wartungsverschiebung beschrieben.",
+    "Draft für konkrete Zahlen pro Sektor."
+  ]
+}

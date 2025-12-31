@@ -1,0 +1,157 @@
+{
+  "id": "ueberwachung",
+  "slug": "ueberwachung",
+  "title": {
+    "de": "Überwachung",
+    "en": "Surveillance"
+  },
+  "summary": {
+    "de": "Staatliche und private Akteure erfassen Verhalten massenhaft; Kontrolle verschiebt sich in Datenströme.",
+    "en": "State and private actors record behaviour at scale; control shifts into data flows."
+  },
+  "categories": [
+    "Kontrolle",
+    "Macht"
+  ],
+  "tags": [
+    "cctv",
+    "sensors",
+    "data-retention",
+    "chilling-effect",
+    "smart-city"
+  ],
+  "severity": 76,
+  "volatility": 63,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Kameras / 1k Einwohner",
+        "en": "Cameras per 1k"
+      },
+      "value": "↑",
+      "source": "City stats"
+    },
+    {
+      "label": {
+        "de": "Datenabfragen Behörden",
+        "en": "Gov data requests"
+      },
+      "value": "steigend",
+      "source": "Transparency reports"
+    },
+    {
+      "label": {
+        "de": "Retention Fristen",
+        "en": "Retention periods"
+      },
+      "value": "verlängert",
+      "source": "Legislation"
+    }
+  ],
+  "diagnosis": {
+    "de": "Überwachung verschiebt Kontrolle von sichtbarer Präsenz zu unsichtbarer Datenerfassung. Sensorik, Gesichtserkennung und Plattformdaten verschmelzen. Zweckbindungen verschwimmen, Daten wandern zwischen Polizei, Werbung, Migration. Chilling Effects reduzieren Meinungsfreiheit. Bias in Trainingsdaten erzeugt ungleiche Risiken.",
+    "en": "Surveillance shifts control from visible presence to invisible data capture. Sensors, face recognition, and platform data fuse. Purpose limits blur as data move across police, advertising, migration. Chilling effects reduce speech. Bias in training data creates unequal risk."
+  },
+  "mechanisms": {
+    "de": "Rechtsgrundlagen werden mit Ausnahmezuständen erweitert. Private Betreiber liefern Infrastruktur, Staaten greifen ab. Datensilos werden verknüpft, Fehler werden multipliziert. Bürger:innen kennen Datenwege nicht, Widerspruch ist schwer. Smart-City-Projekte sammeln kontinuierlich Bewegungs- und Verhaltensdaten.",
+    "en": "Legal bases expand via emergencies. Private operators run infrastructure; states tap it. Data silos link up; errors compound. People cannot track data trails; appeal is hard. Smart-city projects continuously collect movement and behaviour data."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Allsehendes Netz",
+        "en": "All-Seeing Grid"
+      },
+      "description": {
+        "de": "Flächendeckende Sensorik, unklar wer zugreift.",
+        "en": "Ubiquitous sensors, unclear who accesses."
+      }
+    },
+    {
+      "name": {
+        "de": "Kombinierte Dateien",
+        "en": "Merged Files"
+      },
+      "description": {
+        "de": "Datensätze aus verschiedenen Bereichen werden ohne Wissen verknüpft.",
+        "en": "Datasets from different realms get linked without consent."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Chilling Effect",
+      "definition": {
+        "de": "Selbstzensur aus Angst vor Beobachtung.",
+        "en": "Self-censorship induced by perceived surveillance."
+      }
+    },
+    {
+      "term": "Purpose Limitation",
+      "definition": {
+        "de": "Datennutzung nur für den erhobenen Zweck.",
+        "en": "Using data only for the purpose collected."
+      }
+    },
+    {
+      "term": "Data Retention",
+      "definition": {
+        "de": "Pflicht, Kommunikations- und Bewegungsdaten vorzuhalten.",
+        "en": "Mandated storage of communication and movement data."
+      }
+    }
+  ],
+  "related": [
+    "abschiebungsapparat",
+    "algorithmische-steuerung",
+    "aufruestung",
+    "autoritarismus",
+    "corruption",
+    "datenmissbrauch"
+  ],
+  "lastUpdatedISO": "2025-02-03T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-ueberwachung-20250203",
+    "generatedAtISO": "2025-02-03T00:00:00.000Z"
+  },
+  "citations": [
+    {
+      "label": "Transparency reports, city CCTV",
+      "note": "Requests, device counts"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/ueberwachung/surveillance-placeholder.jpg",
+      "/media/ueberwachung/camera-placeholder.png",
+      "/media/ueberwachung/privacy-placeholder.jpg"
+    ]
+  },
+  "editNotes": [
+    "Map: camera density; flow: data sharing across agencies; shader: scanlines over faces."
+  ],
+  "timeline": [
+    {
+      "year": "2013",
+      "location": "Global",
+      "event": "Mass Surveillance Exposed",
+      "description": "Leaks zeigen Umfang staatlicher Datenerfassung."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie-Tracking",
+      "description": "Tracing-Apps erweitern Datenerhebung, Zweckbindung umstritten."
+    },
+    {
+      "year": "2023",
+      "location": "Cities",
+      "event": "Smart-City Rollouts",
+      "description": "Sensorik/Video in urbanen Räumen wird Standard."
+    }
+  ]
+}

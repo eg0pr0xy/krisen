@@ -1,0 +1,227 @@
+{
+  "id": "just-in-time-fragilitaet",
+  "slug": "just-in-time-fragilitaet",
+  "title": {
+    "de": "Just-in-Time Fragilität",
+    "en": "Just-in-Time Fragility"
+  },
+  "summary": {
+    "de": "Hyper-optimierte Logistik ohne Redundanzen führt zur extremen Anfälligkeit gegenüber minimalen Störungen.",
+    "en": "Hyper-optimized logistics without redundancies leads to extreme vulnerability to minimal disruptions."
+  },
+  "categories": [
+    "Macht",
+    "Kontrolle"
+  ],
+  "tags": [
+    "logistik",
+    "effizienz",
+    "redundanz",
+    "supply-chain",
+    "pandemie"
+  ],
+  "severity": 80,
+  "volatility": 75,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "US-Wirtschaftsverlust (Chips)",
+        "en": "US Economic Loss (Chips)"
+      },
+      "value": "240 Mrd. USD",
+      "source": "US Government Reports"
+    },
+    {
+      "label": {
+        "de": "Betroffene Organisationen 2024",
+        "en": "Affected Organizations 2024"
+      },
+      "value": "80%",
+      "source": "Supply Chain Surveys"
+    },
+    {
+      "label": {
+        "de": "Umsatzverlust Autoindustrie 2021",
+        "en": "Revenue Loss Automotive Industry 2021"
+      },
+      "value": "210 Mrd. USD",
+      "source": "Industry Reports"
+    },
+    {
+      "label": {
+        "de": "Restrukturierungs-Priorität",
+        "en": "Restructuring Priority"
+      },
+      "value": "97%",
+      "source": "Corporate Surveys"
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was ist das ontologische Kernproblem?",
+        "en": "What is the ontological core problem?"
+      },
+      "answer": {
+        "de": "Die Eliminierung von zeitlicher und materieller Redundanz führt zum Verlust der Systemelastizität.",
+        "en": "The elimination of temporal and material redundancy leads to the loss of system elasticity."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer ist das Subjekt der Krise?",
+        "en": "Who is the subject of the crisis?"
+      },
+      "answer": {
+        "de": "Global vernetzte Akteure; vom Halbleiterproduzenten in Taiwan bis zum Endkonsumenten in der Peripherie.",
+        "en": "Globally networked actors; from semiconductor producer in Taiwan to end consumer in the periphery."
+      }
+    },
+    {
+      "question": {
+        "de": "Wo liegt das Epizentrum?",
+        "en": "Where is the epicenter?"
+      },
+      "answer": {
+        "de": "In den 'Chokepoints' der globalen Zirkulation (Suez, Malakka, Panama) und den hochspezialisierten Fabrikationsclustern.",
+        "en": "In the 'chokepoints' of global circulation (Suez, Malacca, Panama) and highly specialized manufacturing clusters."
+      }
+    },
+    {
+      "question": {
+        "de": "Wann kippt das System?",
+        "en": "When does the system tip?"
+      },
+      "answer": {
+        "de": "Sobald die Varianz der Störung (Schock) die Pufferkapazität (Lagerbestand/Zeit) überschreitet – aktuell: sofort.",
+        "en": "As soon as the variance of the disturbance (shock) exceeds the buffer capacity (inventory/time) – currently: immediately."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum geschieht dies jetzt?",
+        "en": "Why is this happening now?"
+      },
+      "answer": {
+        "de": "Konvergenz von algorithmischer Überoptimierung, geopolitischer Entkopplung und ökologischer Volatilität.",
+        "en": "Convergence of algorithmic over-optimization, geopolitical decoupling, and ecological volatility."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie erfolgt die Stabilisierung?",
+        "en": "How does stabilization occur?"
+      },
+      "answer": {
+        "de": "Re-Integration von Ineffizienz (Redundanz), Dezentralisierung der Knotenpunkte und Übergang von 'Just-in-Time' zu 'Just-in-Case'.",
+        "en": "Re-integration of inefficiency (redundancy), decentralization of nodes, and transition from 'Just-in-Time' to 'Just-in-Case'."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Just-in-Time Fragilität bezeichnet den systemkritischen Zustand einer hyper-optimierten Logistik- und Produktionsarchitektur, in der die Eliminierung von Redundanzen (Puffer, Lagerbestände, zeitliche Spielräume) zugunsten maximaler Effizienz zur extremen Anfälligkeit gegenüber minimalen externen Perturbationen führt. Es ist die Paradoxie der Perfektion: Je effizienter das System im Normalbetrieb arbeitet, desto katastrophaler ist sein Kollaps bei linearer Abweichung. Entstanden aus dem Toyotismus (Taiichi Ohno) der Nachkriegszeit als Antwort auf Ressourcenknappheit, wurde JIT in den 1990ern durch digitale Vernetzung zum globalen Standard. Die Pandemie 2020-2023 markierte den historischen Bruchpunkt, an dem die Effizienzgewinne der letzten 30 Jahre durch die Kosten der Fragilität negiert wurden.",
+    "en": "Just-in-Time Fragility denotes the system-critical state of a hyper-optimized logistics and production architecture where the elimination of redundancies (buffers, inventories, temporal margins) in favor of maximum efficiency leads to extreme vulnerability to minimal external perturbations. It is the paradox of perfection: the more efficiently the system works in normal operation, the more catastrophic its collapse with linear deviation."
+  },
+  "mechanisms": {
+    "de": "Algorithmische Optimierung eliminiert menschliche Entscheidungsspielräume. Globale Lieferketten ohne Alternativen. Black-Swan-Events (Pandemien, Naturkatastrophen) exponieren die Systemgrenzen. Geopolitische Konflikte unterbrechen kritische Knotenpunkte.",
+    "en": "Algorithmic optimization eliminates human decision-making margins. Global supply chains without alternatives. Black Swan events (pandemics, natural disasters) expose system limits. Geopolitical conflicts interrupt critical nodes."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Domino-Produktionsstopp",
+        "en": "Domino Production Stop"
+      },
+      "description": {
+        "de": "Ein fehlendes Teil in Taiwan stoppt die Produktion in Detroit und Seoul.",
+        "en": "One missing part in Taiwan stops production in Detroit and Seoul."
+      }
+    },
+    {
+      "name": {
+        "de": "Pandemie-Logistik-Kollaps",
+        "en": "Pandemic Logistics Collapse"
+      },
+      "description": {
+        "de": "JIT-Systeme ohne Lagerkapazitäten brechen bei Lockdowns zusammen.",
+        "en": "JIT systems without storage capacity collapse during lockdowns."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Toyotismus",
+      "definition": {
+        "de": "Toyota-Produktionssystem mit JIT-Prinzipien zur Ressourceneffizienz.",
+        "en": "Toyota production system with JIT principles for resource efficiency."
+      }
+    },
+    {
+      "term": "Chokepoints",
+      "definition": {
+        "de": "Engpässe in globalen Transportwegen, die bei Blockaden ganze Lieferketten stoppen.",
+        "en": "Bottlenecks in global transport routes that stop entire supply chains when blocked."
+      }
+    },
+    {
+      "term": "Black-Swan-Events",
+      "definition": {
+        "de": "Unvorhersehbare, hoch wirkungsvolle Ereignisse, die Systeme ohne Redundanz zerstören.",
+        "en": "Unpredictable, highly impactful events that destroy systems without redundancy."
+      }
+    },
+    {
+      "term": "Just-in-Case",
+      "definition": {
+        "de": "Gegensatz zu JIT: Strategie mit bewussten Puffern und Alternativen.",
+        "en": "Opposite of JIT: strategy with conscious buffers and alternatives."
+      }
+    },
+    {
+      "term": "Perturbation",
+      "definition": {
+        "de": "Kleine externe Störung, die in fragilen Systemen katastrophale Effekte auslöst.",
+        "en": "Small external disturbance that triggers catastrophic effects in fragile systems."
+      }
+    }
+  ],
+  "related": [
+    "antibiotika-resistenzen",
+    "artensterben",
+    "pandemic",
+    "technologische-intransparenz",
+    "war",
+    "weltraumschrott"
+  ],
+  "citations": [
+    {
+      "label": "Taiichi Ohno - Toyota Production System",
+      "note": "Origin of JIT principles in post-war Japan"
+    },
+    {
+      "label": "Nassim Nicholas Taleb - The Black Swan",
+      "note": "Analysis of unpredictable high-impact events"
+    },
+    {
+      "label": "COVID-19 Supply Chain Reports",
+      "note": "2020-2023 pandemic as historical breakpoint for JIT systems"
+    }
+  ],
+  "lastUpdatedISO": "2025-12-23T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual"
+  },
+  "editNotes": [
+    "Neue Krise: Umfassende Analyse der JIT-Fragilität als Paradoxie der Perfektion mit real-time Supply-Chain-Monitoring."
+  ],
+  "media": {
+    "images": [
+      "/media/just-in-time-fragilitaet/crisis-placeholder.jpg",
+      "/media/just-in-time-fragilitaet/impact-placeholder.png",
+      "/media/just-in-time-fragilitaet/solution-placeholder.jpg"
+    ]
+  }
+}

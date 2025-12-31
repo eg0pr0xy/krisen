@@ -1,0 +1,123 @@
+{
+  "id": "systemische-fragilitaet",
+  "slug": "systemische-fragilitaet",
+  "title": {
+    "de": "Systemische Fragilität",
+    "en": "Systemic Fragility"
+  },
+  "summary": {
+    "de": "Langsame Erosion von Redundanz, Governance und Pufferkapazitäten, die Systeme unsichtbar auf Kante fahren lässt.",
+    "en": "Slow erosion of redundancy, governance and buffers that pushes systems silently to the brink."
+  },
+  "categories": [
+    "Systemic Fragility",
+    "Kontrolle"
+  ],
+  "tags": [
+    "resilience",
+    "redundanz",
+    "coupling",
+    "governance",
+    "infrastruktur"
+  ],
+  "severity": 82,
+  "volatility": 68,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Redundanzquote",
+        "en": "Redundancy ratio"
+      },
+      "value": "< 0.6",
+      "source": "Infrastructure monitoring"
+    },
+    {
+      "label": {
+        "de": "Kaskadenfrequenz",
+        "en": "Cascade frequency"
+      },
+      "value": "↑ in supply chains & grids",
+      "source": "Incident reports"
+    },
+    {
+      "label": {
+        "de": "Ausnahmeregelungen",
+        "en": "Emergency exemptions"
+      },
+      "value": "permanent",
+      "source": "Regulatory filings"
+    }
+  ],
+  "diagnosis": {
+    "de": "Systemische Fragilität beschreibt den Zustand, in dem komplexe Netze ihre Puffer verlieren, eng gekoppelt sind und Governance-Ausnahmen zur Regel werden. Redundanzen schrumpfen, Wartung wird verschoben, und Entscheidungen wandern in Blackboxes. Störungen bleiben lange unsichtbar, akkumulieren jedoch als latente Spannung und brechen in Kaskaden auf, wenn mehrere Teilsysteme gleichzeitig überlasten.",
+    "en": "Systemic fragility marks the state where complex networks lose buffers, stay tightly coupled and rely on permanent governance exceptions. Redundancies thin out, maintenance is deferred and decision logic moves into black boxes. Disturbances stay invisible yet accumulate as latent tension, surfacing as cascades once several subsystems overload at the same time."
+  },
+  "mechanisms": {
+    "de": "Dichte Kopplung verkürzt Fehlerräume; technische Schulden und Externalisierung verschieben Kosten in die Zukunft; Regellockerungen erzeugen Pfadabhängigkeiten; Informationsverluste in Kontrollketten verlängern Reaktionszeiten und senken Resilienz.",
+    "en": "Tight coupling shortens error margins; technical debt and externalisation push costs into the future; temporary rule relaxations become path dependent; signal loss along control chains slows response and erodes resilience."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Redundanz-Erosion",
+        "en": "Redundancy Erosion"
+      },
+      "description": {
+        "de": "Backup-Systeme werden eingespart oder veralten, bis ein Single Point of Failure das Ganze kippt.",
+        "en": "Backups are trimmed or age out until a single point of failure tips the whole system."
+      }
+    },
+    {
+      "name": {
+        "de": "Fail-Safe Drift",
+        "en": "Fail-Safe Drift"
+      },
+      "description": {
+        "de": "Notfallregeln werden Dauerzustand, wodurch Steuerung ohne echte Rückkehr zur Normalität läuft.",
+        "en": "Emergency rules become permanent, keeping operations running without real return to normal."
+      }
+    },
+    {
+      "name": {
+        "de": "Kaskaden-Korridor",
+        "en": "Cascade Corridor"
+      },
+      "description": {
+        "de": "Eng gekoppeltes Netz, in dem kleine Störungen auf benachbarte Systeme überspringen und sich verstärken.",
+        "en": "Tightly coupled network where small disturbances leap to adjacent systems and amplify."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Technische Schulden",
+      "definition": {
+        "de": "Aufgeschobene Wartung und Architekturentscheidungen, die künftige Anpassung erschweren.",
+        "en": "Deferred maintenance and architectural shortcuts that make future adaptation harder."
+      }
+    },
+    {
+      "term": "Externalisierung",
+      "definition": {
+        "de": "Verlagerung von Kosten und Risiken auf Dritte oder in die Zukunft.",
+        "en": "Shifting costs and risks to third parties or into the future."
+      }
+    }
+  ],
+  "related": [
+    "kontrollverlust",
+    "infrastrukturverfall",
+    "lieferkettenabhaengigkeit",
+    "blackout",
+    "rezession",
+    "prekarisierung"
+  ],
+  "lastUpdatedISO": "2025-02-24T00:00:00.000Z",
+  "version": "1.0.0",
+  "status": "locked",
+  "generatedBy": {
+    "provider": "manual",
+    "generatedAtISO": "2025-02-24T00:00:00.000Z"
+  }
+}

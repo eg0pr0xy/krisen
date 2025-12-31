@@ -1,0 +1,163 @@
+{
+  "id": "klimawandel",
+  "slug": "klimawandel",
+  "title": {
+    "de": "Klimawandel",
+    "en": "Climate Change"
+  },
+  "summary": {
+    "de": "Anthropogene Erwärmung verschiebt Stoffkreisläufe, kippt Ökosysteme und zwingt Infrastrukturen in falsche Parameter.",
+    "en": "Anthropogenic warming displaces material cycles, tips ecosystems, and forces infrastructures to operate outside their design band."
+  },
+  "categories": [
+    "Materie",
+    "Existenz"
+  ],
+  "tags": [
+    "emissions",
+    "extremwetter",
+    "anpassung",
+    "versorgung",
+    "verlust"
+  ],
+  "severity": 91,
+  "volatility": 52,
+  "timeHorizon": "long",
+  "signals": [
+    {
+      "label": {
+        "de": "Temperaturanomalie",
+        "en": "Temperature anomaly"
+      },
+      "value": "+1.4 °C",
+      "source": "Copernicus 2024"
+    },
+    {
+      "label": {
+        "de": "Verlust Gletschermasse",
+        "en": "Glacier mass loss"
+      },
+      "value": "-58 %",
+      "source": "WGMS"
+    },
+    {
+      "label": {
+        "de": "Versicherte Wetterschäden",
+        "en": "Insured weather losses"
+      },
+      "value": "280 Mrd USD/J",
+      "source": "Swiss Re"
+    }
+  ],
+  "diagnosis": {
+    "de": "Die Atmosphäre kippt in einen neuen thermodynamischen Grundzustand. Kollektive Imagination hält an linearen Trendlinien fest, obwohl die Wirklichkeit nicht-linear beschleunigt. Nach Luhmann kollabieren Erwartungen an Stabilität; bei Baudrillard wird der Klimabegriff zum Simulacrum, das Katastrophe narrativ verschiebt. Infrastruktur verweigert Rückzug, weil Kapital in Beton steckt. Die ökologische Grenze wird zur politischen Sollbruchstelle.",
+    "en": "The atmosphere moves into a new thermodynamic baseline. Collective imagination clings to linear trendlines while the system accelerates nonlinearly. Following Luhmann, expectations of stability collapse; in Baudrillard's sense the climate signifier becomes a simulacrum that defers catastrophe narratively. Infrastructure refuses retreat because capital is sunk into concrete. Ecological thresholds become political fault lines."
+  },
+  "mechanisms": {
+    "de": "Feedback-Schleifen (Albedo, Methan, Ozeanwärme) verschieben den Referenzpunkt. Logistische Netze geraten unter Doppelstress: Kühlung, Wasser, Küsten. Energie- und Baupfade bleiben kohlenstofffixiert, was Transition verzögert. Nach Bateson erzeugt jede technische Anpassung neue Störungen (Wärmepumpen + Netzlast), wodurch der Regelkreis auf höheren Energiebedarf schwingt. Mortons Hyperobjekt bleibt stets zu groß, um lokal verhandelt zu werden – Governance hinkt hinterher.",
+    "en": "Feedback loops (albedo, methane, ocean heat) shift the reference point. Logistics face dual stress: cooling, water, coasts. Energy and construction paths stay carbon-locked, delaying transition. With Bateson, each technical adaptation spawns new disturbances (heat pumps + grid load), driving the control loop toward higher energy demand. Morton's hyperobject remains too large for local negotiation—governance trails behind."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Kippkante",
+        "en": "Tipping Edge"
+      },
+      "description": {
+        "de": "Unsichtbare Schwelle, nach der Flüsse, Wälder oder Eisschilde irreversibel ihr Verhalten ändern.",
+        "en": "Invisible threshold beyond which rivers, forests, or ice sheets irreversibly change behavior."
+      }
+    },
+    {
+      "name": {
+        "de": "Kühlinsel",
+        "en": "Cooling Enclave"
+      },
+      "description": {
+        "de": "Lokale Enklave, die mit Energie und Kapital ein Mikroklima stabil hält, während die Umgebung kippt.",
+        "en": "Local enclave that uses energy and capital to stabilize a microclimate while surroundings tip."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Albedo-Rückkopplung",
+      "definition": {
+        "de": "Schnee und Eis reflektieren Strahlung; ihr Verlust beschleunigt Erwärmung.",
+        "en": "Snow and ice reflect radiation; their loss accelerates warming."
+      }
+    },
+    {
+      "term": "Carbon Budget",
+      "definition": {
+        "de": "Restmenge an CO₂-Emissionen, bevor ein Temperaturziel überschritten wird.",
+        "en": "Remaining CO₂ emissions before a temperature target is overshot."
+      }
+    },
+    {
+      "term": "Kippelement",
+      "definition": {
+        "de": "Subsystem, das nach einer Schwelle irreversibel den Zustand wechselt (Eisschild, Monsun, Permafrost).",
+        "en": "Subsystem that irreversibly switches state after a threshold (ice sheet, monsoon, permafrost)."
+      }
+    }
+  ],
+  "related": [
+    "alterung",
+    "wasserknappheit",
+    "climate-change",
+    "arbeitslosigkeit",
+    "artensterben",
+    "biodiversitaetsverlust"
+  ],
+  "lastUpdatedISO": "2025-02-01T00:00:00.000Z",
+  "version": "0.2.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "curation-1",
+    "generatedAtISO": "2025-02-01T00:00:00.000Z"
+  },
+  "editNotes": [
+    "Ton: Luhmann + Baudrillard + Bateson; Hyperobjekt (Morton) benennen.",
+    "Medien-Assets später ergänzen (Satellit, Gletscher-Graph, Hitzekarte)."
+  ],
+  "citations": [
+    {
+      "label": "IPCC AR6 Synthesis"
+    },
+    {
+      "label": "Copernicus Climate Service"
+    },
+    {
+      "label": "Swiss Re NatCat 2024"
+    }
+  ],
+  "media": {
+    "images": [
+      "/media/klimawandel/crisis-placeholder.jpg",
+      "/media/klimawandel/impact-placeholder.png",
+      "/media/klimawandel/solution-placeholder.jpg"
+    ]
+  },
+  "timeline": [
+    {
+      "year": "2022",
+      "location": "Pakistan",
+      "event": "Megaflut",
+      "description": "33 Mio. Menschen betroffen; Infrastrukturversagen durch kombinierte Hitze- und Regenanomalie."
+    },
+    {
+      "year": "2023",
+      "location": "Kanada",
+      "event": "Rekord-Wildfire",
+      "description": "Über 18 Mio. ha Wald verbrannt; Rauchbelastung über Nordamerika."
+    },
+    {
+      "year": "2024",
+      "location": "Europa",
+      "event": "Hitzewelle + Dürre",
+      "description": "Dauerhafte Abweichung > +2°C; Kühlketten und Binnenschifffahrt gestört."
+    }
+  ]
+}

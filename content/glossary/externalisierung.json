@@ -1,0 +1,7 @@
+{
+  "term": "Externalisierung",
+  "definition_de": "Verlagerung von Kosten, Verantwortung oder Risiken auf andere Akteure oder Räume, oft ohne Rückkopplung.",
+  "definition_en": "Externalization is the shifting of costs, responsibilities or risks onto other actors or spaces, often without feedback.",
+  "notes_de": "Beispiel: Umweltverschmutzung, die in schwächere Regionen ausgelagert wird.",
+  "related_mechanisms": ["technical-debt"]
+}

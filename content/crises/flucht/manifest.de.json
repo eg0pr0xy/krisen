@@ -1,0 +1,196 @@
+{
+  "id": "flucht",
+  "slug": "flucht",
+  "title": {
+    "de": "Flucht",
+    "en": "Flight"
+  },
+  "summary": {
+    "de": "Ein systemisch erzwungener Modus organisierter Mobilität, ausgelöst durch Gewalt, ökologische Destabilisierung, ökonomische Verwerfung und Governance-Versagen. Flucht ist keine freie Entscheidung, sondern eine Reaktion auf den Entzug von Schutz, Zukunft und Teilhabe – und macht die global ungleiche Verteilung von Sicherheit sichtbar.",
+    "en": "A systemically coerced mode of organized mobility triggered by violence, ecological destabilization, economic rupture, and governance failure. Flight is not a free choice but a response to the withdrawal of protection, future, and participation, and it exposes the globally unequal distribution of security."
+  },
+  "categories": [
+    "Existenz",
+    "Kontrolle"
+  ],
+  "tags": [
+    "migration",
+    "asyl",
+    "gewalt",
+    "integration",
+    "governance"
+  ],
+  "severity": 88,
+  "volatility": 72,
+  "timeHorizon": "mid",
+  "signals": [
+    {
+      "label": {
+        "de": "Asylanträge EU",
+        "en": "EU Asylum Applications"
+      },
+      "value": "↑ 18% vs. Vorjahr",
+      "source": "Eurostat"
+    },
+    {
+      "label": {
+        "de": "Fluchtkosten pro Familie",
+        "en": "Flight costs per family"
+      },
+      "value": "> 12.000 €",
+      "source": "NGO Finanzanalysen"
+    },
+    {
+      "label": {
+        "de": "Push-Faktoren",
+        "en": "Push factors"
+      },
+      "value": "Klima + Krieg + Staatliche Gewalt",
+      "source": "UNHCR Reports"
+    },
+    {
+      "label": {
+        "de": "Governance-Fallen",
+        "en": "Governance traps"
+      },
+      "value": "40 Staaten mit eingeschränkter Macht",
+      "source": "Transparency Intl."
+    }
+  ],
+  "qa": [
+    {
+      "question": {
+        "de": "Was unterscheidet Flucht von Migration?",
+        "en": "What distinguishes flight from migration?"
+      },
+      "answer": {
+        "de": "Flucht bedeutet systemischen Druck auf Leib und Leben; Migration kann freiwillige Bewegung sein.",
+        "en": "Flight implies systemic pressure on life and limb; migration can be voluntary movement."
+      }
+    },
+    {
+      "question": {
+        "de": "Wer trägt Verantwortung in den Transitketten?",
+        "en": "Who carries responsibility in the transit chains?"
+      },
+      "answer": {
+        "de": "Staaten, Frontex, private Transporteure und smarte Grenztechnologien teilen Verantwortung, aber releasieren Kosten.",
+        "en": "States, Frontex, private carriers, and smart border tech share responsibility while externalizing costs."
+      }
+    },
+    {
+      "question": {
+        "de": "Warum ist Flucht so eng mit Klima, Krieg und Ungleichheit?",
+        "en": "Why is flight tightly linked to climate, war, and inequality?"
+      },
+      "answer": {
+        "de": "Weil Klimaschocks Ressourcen zerstören, Kriege Räume destabilisieren und Ungleichheiten Zugang zu Fluchtweg-Routen diktieren.",
+        "en": "Because climate shocks destroy resources, wars destabilize areas, and inequalities dictate access to escape routes."
+      }
+    },
+    {
+      "question": {
+        "de": "Wie stabilisiert man Fluchtbewegungen?",
+        "en": "How can flight movements be stabilized?"
+      },
+      "answer": {
+        "de": "Durch regionale Schutzräume, faire Asylverfahren, klimafeste Infrastruktur und Entkopplung von Sicherheit und Abschiebung.",
+        "en": "Through regional protection zones, fair asylum procedures, climate-resilient infrastructure, and decoupling security from deportation."
+      }
+    }
+  ],
+  "diagnosis": {
+    "de": "Flucht bezeichnet einen strukturell erzwungenen Modus organisierter Mobilität, der entsteht, wenn individuelle oder kollektive Existenzbedingungen durch Gewalt, ökologische Destabilisierung, ökonomische Verwerfung oder institutionelles Versagen dauerhaft unhaltbar werden. In spätmoderner Krisengesellschaft ist Flucht kein Ausnahmeereignis, sondern das Signal eines globalen Ordnungsversagens, wo Ordnungen Stabilität lokal konzentrieren, Risiken aber global verteilen. Die Phänomenologie von Angst, Kontrollverlust, Entwurzelung und permanenter Erwartung von Unsicherheit ergibt eine soziale Psychologie der Flucht: Sie ist weniger eine beabsichtigte Entscheidung als der Ausbruch aus einem Zustand, in dem Nicht-Bewegung bereits tödlich wäre. Autoritäre Politiken und Abschiebungsapparate sehen Bewegungen als Problem der Mobilität, nicht als Symptom struktureller Gewalt, und instrumentalisieren sie für Kontrolle, während sie gleichzeitig Schutzfunktionen abdanken. Flucht liegt im Spannungsfeld von Recht, Territorialität und Anerkennung: Staaten bestimmen, wer Schutzrechte erhält, wodurch Menschenrechte territorial gebunden, widerrufbar und selektiv werden. In dieser Perspektive fragt Flucht radikal nach dem Menschen, wenn Zugehörigkeit suspendiert ist. Sie bleibt relational verschränkt mit Klimakrise, Aufrüstung, Demokratieabbau, Abschiebungsapparat und Faschisierung – sowohl Symptom als auch Spiegel einer Polykrise.",
+    "en": "Flight denotes a structurally coerced mode of organized mobility emerging when individual or collective conditions of existence become intolerable due to violence, ecological destabilization, economic rupture, or institutional failure. In late modern crisis societies, flight is not an exception but the signal of global order failure, where stability is concentrated locally while risks are distributed globally. The phenomenology of fear, loss of control, uprooting, and perpetual uncertainty produces a social psychology of flight: less a chosen decision than an escape from a state where staying put becomes lethal. Authoritarian politics and deportation apparatuses treat movement as a mobility problem rather than a symptom of structural violence, turning it into control while abandoning protection. Flight sits at the tension between law, territoriality, and recognition: states decide who receives protective rights, rendering human rights territorial, revocable, and selective. From this vantage, flight questions who the human is when belonging is suspended. It remains relationally entangled with climate crisis, rearmament, democratic erosion, deportation apparatuses, and fascist hardening – both symptom and mirror of polycrises."
+  },
+  "mechanisms": {
+    "de": "Push-pulls: Krieg und Klimakippunkte erzeugen Druck, während Abschiebesysteme und Lagerlogiken die Wege blockieren. Menschen werden in temporäre Systeme der Kontrolle eingebettet.",
+    "en": "Push-pull dynamics: war and climate tipping create pressure while deportation systems and camp logics block routes. People are embedded into temporary systems of control."
+  },
+  "archetypes": [
+    {
+      "name": {
+        "de": "Transit-Graph",
+        "en": "Transit Graph"
+      },
+      "description": {
+        "de": "Routen, Knoten und digitale Walls strukturieren Bewegung.",
+        "en": "Routes, nodes, and digital walls choreograph movement."
+      }
+    },
+    {
+      "name": {
+        "de": "Klagende Stadt",
+        "en": "Testimonial City"
+      },
+      "description": {
+        "de": "Städte, die Flucht aufnehmen und ihre Infrastruktur der Solidarität widmen.",
+        "en": "Cities absorbing flight and dedicating infrastructure to solidarity."
+      }
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Asylpolitik",
+      "definition": {
+        "de": "Politische Regeln, die Zugang, Schutz und Integration regulieren.",
+        "en": "Policies regulating access, protection, and integration."
+      }
+    }
+  ],
+  "triggers": [
+    "krieg",
+    "klimaflucht",
+    "migration",
+    "inflation"
+  ],
+  "related": [
+    "kontrollverlust",
+    "vertrauensverlust",
+    "care",
+    "polarisierung",
+    "exklusion"
+  ],
+  "citations": [
+    {
+      "label": "UNHCR Global Trends 2024",
+      "note": "Forced displacement reaches 120 million globally."
+    },
+    {
+      "label": "IPCC AR6",
+      "note": "Climate hazards act as displacement multipliers."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2011",
+      "location": "Arabischer Frühling",
+      "event": "Syrische Flüchtlingswelle",
+      "description": "Krieg treibt Millionen aus ihrer Region."
+    },
+    {
+      "year": "2020",
+      "location": "Global",
+      "event": "Pandemie",
+      "description": "Grenzen schließen, Versorgungsketten brechen, Migration stagniert."
+    },
+    {
+      "year": "2023",
+      "location": "Mittelmeer",
+      "event": "Extremwasserstände, push factors",
+      "description": "Klimaschocks, Krieg, Schuldenlast verstärken Fluchtströme."
+    }
+  ],
+  "lastUpdatedISO": "2025-01-15T00:00:00.000Z",
+  "version": "0.1.0",
+  "status": "draft",
+  "generatedBy": {
+    "provider": "manual",
+    "seed": "flucht-202501"
+  },
+  "media": {
+    "images": [
+      "/media/flucht/crisis-placeholder.jpg"
+    ]
+  }
+}

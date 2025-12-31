@@ -1,0 +1,97 @@
+[
+  {
+    "id": "OECD:UNEMPLOYMENT:DE",
+    "label": {
+      "de": "Arbeitslosenquote",
+      "en": "Unemployment Rate"
+    },
+    "description": {
+      "de": "Prozentualer Anteil arbeitsfähiger Menschen ohne Beschäftigung.",
+      "en": "Share of the labor force without employment."
+    },
+    "value": "6.5%",
+    "unit": "%",
+    "timestamp": "2024",
+    "dimensions": {
+      "country": "Germany",
+      "age": "15-64"
+    },
+    "source": "OECD ELS"
+  },
+  {
+    "id": "OECD:MIGRATION:ASYL",
+    "label": {
+      "de": "Fluchtmigrationsdruck",
+      "en": "Migration Pressure"
+    },
+    "description": {
+      "de": "Registrierte Asylanträge und Bewegungen in die OECD-Zone.",
+      "en": "Registered asylum applications and flows."
+    },
+    "value": "140k",
+    "unit": "applications",
+    "timestamp": "2023",
+    "dimensions": {
+      "subgroup": "asylum",
+      "region": "OECD"
+    },
+    "source": "OECD Migration"
+  },
+  {
+    "id": "OECD:AI_INVEST",
+    "label": {
+      "de": "KI-Investitionen",
+      "en": "AI Investments"
+    },
+    "description": {
+      "de": "Staatliche und private Ausgaben für KI-Forschung und Rechenkapazität.",
+      "en": "Public and private spending on AI research and compute."
+    },
+    "value": "72 bln",
+    "unit": "USD",
+    "timestamp": "2024-Q1",
+    "dimensions": {
+      "sector": "tech",
+      "focus": "research"
+    },
+    "source": "OECD Science"
+  },
+  {
+    "id": "OECD:PRECARITY:TD",
+    "label": {
+      "de": "Prekäre Beschäftigung",
+      "en": "Precarious Employment"
+    },
+    "description": {
+      "de": "Anteil aller Beschäftigten in befristeten oder unsicheren Jobs.",
+      "en": "Share of workers in temporary or insecure jobs."
+    },
+    "value": "21%",
+    "unit": "%",
+    "timestamp": "2023",
+    "dimensions": {
+      "group": "working poor",
+      "contract": "temporary"
+    },
+    "source": "OECD Labour"
+  },
+  {
+    "id": "OECD:INEQUALITY:WA",
+    "label": {
+      "de": "Vermögensungleichheit",
+      "en": "Wealth Inequality"
+    },
+    "description": {
+      "de": "Vermögenskonzentration im obersten 10%",
+      "en": "Wealth concentration in the top 10%."
+    },
+    "value": "71%",
+    "unit": "share",
+    "timestamp": "2023",
+    "dimensions": {
+      "region": "OECD",
+      "measure": "top10"
+    },
+    "source": "OECD Income"
+  }
+]
